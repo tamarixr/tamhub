@@ -1,20 +1,11 @@
-local message = Instance.new("Message")
-message.Parent = game.Workspace
-message.Text = "Cursed technique : Blue"
-wait(3)
-message:Remove()
-local message = Instance.new("Message")
-message.Parent = game.Workspace
-message.Text = "Reversal Cursed technique : Red"
-wait(3)
-message:Remove()
-local message = Instance.new("Message")
-message.Parent = game.Workspace
-message.Text = "IMAGINARY TECHNIQUE :"
+message = "Hanten Jujutsu shiki Aka 🔴"
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
+wait(1)
+message = "Hanten Jujutsu shiki Ao 🔵"
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
 wait(2)
-message:Remove()
-local message = Instance.new("Message")
-message.Parent = game.Workspace
-message.Text = "HOLLOW PURPLE!"
-wait(3)
-message:Remove()
+message = "Kyoshiki... 🔵 🔴"
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
+wait(1)
+message = "Murasaki! 🔮"
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
