@@ -1,6 +1,6 @@
 local DiscordLib = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/discord%20lib.txt")()
 
-local win = DiscordLib:Window("TAMHUB 2.0")
+local win = DiscordLib:Window("TAMHUB 2.2.2")
 
 local serv = win:Server("Preview", "")
 
@@ -58,6 +58,13 @@ btns:Seperator()
 btns:Button("Tsb anims but idk", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Mautiku/ehh/main/strong%20guest.lua.txt",true))()
 DiscordLib:Notification("Notification", "BE CAREFUL DO NOT USE SECRET CHARACTER ITS VERY BANNABLE!", "Okay!")
+end)
+
+btns:Seperator()
+
+btns:Button("hollow serious punch test(HEAVY WIP)", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/hollowpunchtest.lua",true))()
+DiscordLib:Notification("Notification", "wip", "Okay!")
 end)
 
 local btns = serv:Channel("Other")
