@@ -61,11 +61,6 @@ end)
 
 btns:Seperator()
 
-btns:Button("hollow serious punch test(HEAVY WIP)", function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/hollowpunchtesbt.lua",true))()
-DiscordLib:Notification("Notification", "wip", "Okay!")
-end)
-
 local btns = serv:Channel("Other")
 
 btns:Button("Wave premium key generator", function()
@@ -85,6 +80,12 @@ btns:Seperator()
 btns:Button("kadehub skidded :rofl:", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/adsadsa.lua",true))()
 DiscordLib:Notification("Notification", "KadeHub Initialized", "Okay!")
+end)
+
+local tgls = serv:Channel("Toggles")
+
+tgls:Toggle("Auto Hollow Serious punch(heavy wip)",false, function(bool)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/hollowpunchtesbt.lua",true))()
 end)
 
 serv:Channel("by dfptt")
