@@ -57,7 +57,7 @@ btns:Seperator()
 
 btns:Button("Tsb anims but idk", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Mautiku/ehh/main/strong%20guest.lua.txt",true))()
-DiscordLib:Notification("Notification", "Loaded GUI!", "Okay!")
+DiscordLib:Notification("Notification", "BE CAREFUL DO NOT USE SECRET CHARACTER ITS VERY BANNABLE!", "Okay!")
 end)
 
 local btns = serv:Channel("Other")
