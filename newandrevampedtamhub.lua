@@ -67,6 +67,13 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/
 DiscordLib:Notification("Notification", "Loaded GUI!", "Okay!")
 end)
 
+btns:Seperator()
+
+btns:Button("azure modded loader lmao", function()
+loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/Actyrn/Scripts/main/AzureModded"))()",true))()
+DiscordLib:Notification("Notification", "Azure modded loaded (ha rhymes)", "Okay!")
+end)
+
 serv:Channel("by dfptt")
 
 
