@@ -63,7 +63,7 @@ end)
 btns:Seperator()
 
 btns:Button("hollow serious punch test(HEAVY WIP)", function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/hollowpunchtest.lua",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/hollowpunchtesbt.lua",true))()
 DiscordLib:Notification("Notification", "wip", "Okay!")
 end)
 
