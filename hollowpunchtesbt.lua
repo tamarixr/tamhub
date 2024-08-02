@@ -1,3 +1,7 @@
+humanoid.AnimationPlayed:Connect(onAnimationPlayed)
+
+local animationId = 12983333733
+
 message = "Jujutsi Hanten Shiki : Aka 🔴"
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
 wait(1)
