@@ -1,6 +1,6 @@
 local DiscordLib = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/discord%20lib.txt")()
 
-local win = DiscordLib:Window("TAMHUB 2.2.2")
+local win = DiscordLib:Window("TAMHUB 2.6.9")
 
 local serv = win:Server("Preview", "")
 
@@ -79,6 +79,13 @@ btns:Seperator()
 btns:Button("azure modded loader lmao", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Actyrn/Scripts/main/AzureModded",true))()
 DiscordLib:Notification("Notification", "Azure modded loaded (ha rhymes)", "Okay!")
+end)
+
+btns:Seperator()
+
+btns:Button("kadehub skidded :rofl:", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/adsadsa.lua",true))()
+DiscordLib:Notification("Notification", "KadeHub Initialized", "Okay!")
 end)
 
 serv:Channel("by dfptt")
