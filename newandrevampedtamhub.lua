@@ -85,7 +85,7 @@ end)
 local tgls = serv:Channel("Toggles")
 
 tgls:Toggle("Auto Hollow Serious punch(heavy wip)",false, function(bool)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/hollowpunchtesbt.lua",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/gojojs.lua",true))()
 end)
 
 serv:Channel("by dfptt")
