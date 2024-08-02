@@ -82,9 +82,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/
 DiscordLib:Notification("Notification", "KadeHub Initialized", "Okay!")
 end)
 
-local tgls = serv:Channel("Toggles")
+local btns = serv:Channel("Gojo n shit")
 
-tgls:Toggle("Auto Hollow Serious punch(heavy wip)",false, function(bool)
+btns:Button("Hollow Serious punch(heavy wip(gotta time it)", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/gojojs.lua",true))()
 end)
 
