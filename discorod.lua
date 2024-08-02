@@ -1,5 +1,5 @@
-	setclipboard("https://discord.gg/bntsEjwnA5")
-    toclipboard("https://discord.gg/bntsEjwnA5")
+setclipboard("https://discord.gg/bntsEjwnA5")
+toclipboard("https://discord.gg/bntsEjwnA5")
 function Notify(titletxt, text, time)
     local GUI = Instance.new("ScreenGui")
     local Main = Instance.new("Frame", GUI)
