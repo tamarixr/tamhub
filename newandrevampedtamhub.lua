@@ -33,7 +33,18 @@ end)
 btns:Seperator()
 
 btns:Button("Spoof id to game owner id", function()
-Callback = function()game.Players.LocalPlayer.Character.Head:Destroy()if game.CreatorType == Enum.CreatorType.User thengame.Players.LocalPlayer.UserId = game.CreatorIdendif game.CreatorType == Enum.CreatorType.Group thengame.Players.LocalPlayer.UserId = game:GetService("GroupService"):GetGroupInfoAsync(game.CreatorId).Owner.Idendend}
+	Callback = function() 
+        game.Players.LocalPlayer.Character.Head:Destroy()
+        if game.CreatorType == Enum.CreatorType.User then
+            game.Players.LocalPlayer.UserId = game.CreatorId
+            end
+            
+            if game.CreatorType == Enum.CreatorType.Group then
+            game.Players.LocalPlayer.UserId = game:GetService("GroupService"):GetGroupInfoAsync(game.CreatorId).Owner.Id
+            end
+    
+    end
+}
 DiscordLib:Notification("Notification", "Spoofed!", "Okay!")
 end)
 
