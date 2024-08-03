@@ -1,6 +1,6 @@
 local DiscordLib = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/discord%20lib.txt")()
 
-local win = DiscordLib:Window("TAMHUB 3.0.5")
+local win = DiscordLib:Window("TAMHUB 3.1.0")
 local serv = win:Server("TAMHUB", "")
 
 local btns = serv:Channel("Universal")
@@ -114,6 +114,18 @@ DiscordLib:Notification("Notification", "Loaded!", "Okay!")
 end)
 
 btns:Seperator()
+
+btns:Button("Anime teleportation", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/animtelp.lua"))()
+DiscordLib:Notification("Notification", "Key is T", "Okay!")
+end)
+
+btns:Seperator()
+
+btns:Button("TP to shit", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/main/scripts/TSBUtils.lua"))()
+DiscordLib:Notification("Notification", "Loaded!", "Okay!")
+end)
 
 local btns = serv:Channel("Other")
 
