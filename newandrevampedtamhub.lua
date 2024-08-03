@@ -125,7 +125,7 @@ end)
 btns:Seperator()
 
 btns:Button("azure modded loader lmao", function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Actyrn/Scripts/main/AzureModded",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Actyrn/Scripts/main/AzureModded"))()",true))()
 DiscordLib:Notification("Notification", "Azure modded loaded (ha rhymes)", "Okay!")
 end)
 
