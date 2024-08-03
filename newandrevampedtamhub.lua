@@ -31,6 +31,13 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/
 DiscordLib:Notification("Notification", "Spoofed!", "Okay!")
 end)
 
+btns:Seperator()
+
+btns:Button("Feyhuu hub (beta cuz im a leaker)", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sytcal/BetaOnly/main/BetasLikeNiggas"))()
+DiscordLib:Notification("Notification", "Universal so uh yeahhh", "Okay!")
+end)
+
 local btns = serv:Channel("TSB")
 
 btns:Button("Mixed Powers", function()
@@ -87,6 +94,26 @@ init(lp.Character)
 lp.CharacterAdded:Connect(init)
 DiscordLib:Notification("Notification", "Loaded! (prints on console)", "Okay!")
 end)
+
+btns:Seperator()
+
+btns:Button("KADEHUB (actually this time)", function()
+getgenv().AutoReport = true
+loadstring(game:HttpGet("https://raw.githubusercontent.com/skibiditoiletfan2007/KadeHubRepository/main/Latest.lua"))() 
+DiscordLib:Notification("Notification", "Bannable as of 8/3/24 !", "Okay!")
+end)
+
+btns:Seperator()
+
+btns:Button("Phantasm (W)", function()
+getgenv().scriptWl = "KidsOnlyJoinDiscordIfScriptsDown"
+getgenv().ToggleKeybind = Enum.KeyCode.RightControl
+getgenv().ForceFluentMobileUI = false
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ATrain-Roblox/main/main/Phantasm.lua"))()
+DiscordLib:Notification("Notification", "Loaded!", "Okay!")
+end)
+
+btns:Seperator()
 
 local btns = serv:Channel("Other")
 
