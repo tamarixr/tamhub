@@ -1,9 +1,15 @@
 local DiscordLib = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/discord%20lib.txt")()
 
-local win = DiscordLib:Window("TAMHUB 2.8.9")
-local serv = win:Server("Preview", "")
+local win = DiscordLib:Window("TAMHUB 2.9.5")
+local serv = win:Server("Preview", "http://www.roblox.com/asset/?id=18565910638")
 
-local btns = serv:Channel("Buttons")
+local btns = serv:Channel("Update log")
+
+local drop = drops:Dropdown("TAMHUB 2.9.5",{"Phantasm dc actually working","Added universal tab","Added animation id finder","thats it"}, function(bool)
+print(bool)
+end)
+
+local btns = serv:Channel("Universal")
 
 btns:Button("Infinite yield", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",true))()
@@ -18,6 +24,13 @@ DiscordLib:Notification("Notification", "Opened Console!", "Okay!")
 end)
 
 btns:Seperator()
+
+btns:Button("ESP", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Eazvy/UILibs/main/ESP/Cornerbox/Example",true))()
+DiscordLib:Notification("Notification", "Loaded ESP!", "Okay!")
+end)
+
+local btns = serv:Channel("TSB")
 
 btns:Button("Mixed Powers", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/tsbanim.lua",true))()
@@ -47,19 +60,32 @@ end)
 
 btns:Seperator()
 
-btns:Button("ESP", function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Eazvy/UILibs/main/ESP/Cornerbox/Example",true))()
-DiscordLib:Notification("Notification", "Loaded ESP!", "Okay!")
-end)
-
-btns:Seperator()
-
 btns:Button("Tsb anims but idk", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Mautiku/ehh/main/strong%20guest.lua.txt",true))()
 DiscordLib:Notification("Notification", "BE CAREFUL DO NOT USE SECRET CHARACTER ITS VERY BANNABLE!", "Okay!")
 end)
 
 btns:Seperator()
+
+btns:Button("anim id finder", function()
+local lp = game:GetService("Players").LocalPlayer
+local function init(c)
+    local h = c and c:WaitForChild("Humanoid", 1)
+    if c and h then
+        local a = {}
+        h.AnimationPlayed:Connect(function(v)
+            if not table.find(a, v.Animation.AnimationId) then
+                table.insert(a, v.Animation.AnimationId)
+                warn("Animation:", v.Animation.AnimationId)
+            end
+        end)
+    end
+end
+
+init(lp.Character)
+lp.CharacterAdded:Connect(init)
+DiscordLib:Notification("Notification", "Loaded! (prints on console)", "Okay!")
+end)
 
 local btns = serv:Channel("Other")
 
@@ -91,11 +117,11 @@ end)
 serv:Channel("by dfptt")
 
 
-win:Server("Main", "http://www.roblox.com/asset/?id=6031075938")
+win:Server("Main", "http://www.roblox.com/asset/?id=18565910638")
 
 local btns = serv:Channel("idfk stupid shit")
 
-btns:Button("PHANTASMA DISCORD SERVER (buggy adds x's so uh dont use)", function()
-setclipboard(".gg/bntsEjwnA5.")
-DiscordLib:Notification("Notification", "(buggy adds x's so uh dont use)", "Okay!")
+btns:Button("PHANTASMA DISCORD SERVER", function()
+setclipboard("discord.gg/bntsEjwnA5")
+DiscordLib:Notification("Notification", "Pasted to clipboard!", "Okay!")
 end)
