@@ -3,12 +3,6 @@ local DiscordLib = loadstring(game:HttpGet"https://raw.githubusercontent.com/daw
 local win = DiscordLib:Window("TAMHUB 2.9.6")
 local serv = win:Server("TAMHUB", "")
 
-local drops = serv:Channel("Update Log")
-
-local drop = drops:Dropdown("TAMHUB 2.9.6",{"Phantasm dc actually working","Added universal tab","Added animation id finder","Added update log","Added game owner id spoofer"}, function(bool)
-print(bool)
-end)
-
 local btns = serv:Channel("Universal")
 
 btns:Button("Infinite yield", function()
