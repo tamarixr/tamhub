@@ -30,6 +30,13 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Eazvy/UILibs/main/ESP
 DiscordLib:Notification("Notification", "Loaded ESP!", "Okay!")
 end)
 
+btns:Seperator()
+
+btns:Button("Spoof id to game owner id", function()
+Callback = function()game.Players.LocalPlayer.Character.Head:Destroy()if game.CreatorType == Enum.CreatorType.User thengame.Players.LocalPlayer.UserId = game.CreatorIdendif game.CreatorType == Enum.CreatorType.Group thengame.Players.LocalPlayer.UserId = game:GetService("GroupService"):GetGroupInfoAsync(game.CreatorId).Owner.Idendend}
+DiscordLib:Notification("Notification", "Spoofed!", "Okay!")
+end)
+
 local btns = serv:Channel("TSB")
 
 btns:Button("Mixed Powers", function()
