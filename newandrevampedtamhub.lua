@@ -3,17 +3,19 @@ local DiscordLib = loadstring(game:HttpGet"https://raw.githubusercontent.com/daw
 local win = DiscordLib:Window("TAMHUB 2.9.5")
 local serv = win:Server("Preview", "")
 
-local btns = serv:Channel("Universal")
+local drops = serv:Channel(Update Log")
 
-local drop = drops:Dropdown("TAMHUB 2.9.5",{"Phantasm dc actually working","Added universal tab","Added animation id finder","thats it"}, function(bool)
+local drop = drops:Dropdown("TAMHUB 2.9.5",{"Phantasm dc actually working","Added universal tab","Added animation id finder","Added update log"}, function(bool)
 print(bool)
 end)
- 
+
+local btns = serv:Channel("Universal")
+
 btns:Button("Infinite yield", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",true))()
 DiscordLib:Notification("Notification", "Loaded Infinite Yield!", "Okay!")
 end)
-
+ 
 btns:Seperator()
 
 btns:Button("Console", function()
