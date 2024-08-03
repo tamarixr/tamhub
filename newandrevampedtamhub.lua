@@ -1,13 +1,7 @@
 local DiscordLib = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/discord%20lib.txt")()
 
 local win = DiscordLib:Window("TAMHUB 2.9.5")
-local serv = win:Server("Preview", "http://www.roblox.com/asset/?id=18565910638")
-
-local btns = serv:Channel("Update log")
-
-local drop = drops:Dropdown("TAMHUB 2.9.5",{"Phantasm dc actually working","Added universal tab","Added animation id finder","thats it"}, function(bool)
-print(bool)
-end)
+local serv = win:Server("Preview", "")
 
 local btns = serv:Channel("Universal")
 
