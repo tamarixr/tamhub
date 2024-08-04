@@ -27,6 +27,6 @@ end
 
 
 onAnimation("13071982935", function(animation)
-    https://raw.githubusercontent.com/tamarixr/tamhub/main/hollowpunchtesbt.lua
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/hollowpunchtesbt.lua")()
     warn("animation id:", animation.Animation.AnimationId)
 end)
