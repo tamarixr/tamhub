@@ -150,8 +150,24 @@ end)
 
 local btns = serv:Channel("Gojo n shit")
 
-btns:Button("Hollow Serious punch(heavy wip(gotta time it)", function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/gojojs.lua",true))()
+btns:Button("Hollow Serious punch like gojotsb", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/hollowpunchforserious.lua",true))()
+DiscordLib:Notification("Notification", "Loaded!", "Okay!")
+end)
+
+btns:Button("Hollow table flip MAX", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/hollowmax.lua",true))()
+DiscordLib:Notification("Notification", "Loaded!", "Okay!")
+end)
+
+btns:Button("Red quotes when normal punch", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/redwhenpnu.lua",true))()
+DiscordLib:Notification("Notification", "Loaded!", "Okay!")
+end)
+
+btns:Button("Blue quotes when Consecutive punches", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/bluewhencon.lua",true))()
+DiscordLib:Notification("Notification", "Loaded!", "Okay!")
 end)
 
 serv:Channel("by dfptt")
