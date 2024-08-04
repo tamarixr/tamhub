@@ -148,6 +148,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/
 DiscordLib:Notification("Notification", "KadeHub Initialized", "Okay!")
 end)
 
+btns:Seperator()
+
 local btns = serv:Channel("Gojo n shit")
 
 btns:Button("Hollow Serious punch (USE GOJO ANIMS)", function()
@@ -155,15 +157,21 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/
 DiscordLib:Notification("Notification", "Loaded!", "Okay!")
 end)
 
+btns:Seperator()
+
 btns:Button("Hollow table flip MAX (USE GOJO ANIMS)", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/hollowmax.lua",true))()
 DiscordLib:Notification("Notification", "Loaded!", "Okay!")
 end)
 
+btns:Seperator()
+
 btns:Button("Red quotes when normal punch (USE GOJO ANIMS)", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/redwhenpnu.lua",true))()
 DiscordLib:Notification("Notification", "Loaded!", "Okay!")
 end)
+
+btns:Seperator()
 
 btns:Button("Blue quotes when Consecutive punches (USE GOJO ANIMS)", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/bluewhencon.lua",true))()
