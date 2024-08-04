@@ -26,7 +26,7 @@ end
 
 
 
-onAnimation("10468665991", function(animation)
+onAnimation("10466974800", function(animation)
     loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/redwhenpunch.lua")()
     warn("animation id:", animation.Animation.AnimationId)
 end)
