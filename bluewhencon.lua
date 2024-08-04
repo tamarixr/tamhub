@@ -26,7 +26,7 @@ end
 
 
 
-onAnimation("13560306510", function(animation)
+onAnimation("10466974800", function(animation)
     loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/bluewhenconsec.lua")()
     warn("animation id:", animation.Animation.AnimationId)
 end)
