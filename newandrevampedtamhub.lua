@@ -1,6 +1,6 @@
 local DiscordLib = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/discord%20lib.txt")()
 
-local win = DiscordLib:Window("TAMHUB 4.0.0")
+local win = DiscordLib:Window("TAMHUB 4.0.5")
 local serv = win:Server("TAMHUB", "")
 
 local btns = serv:Channel("Universal")
@@ -150,22 +150,22 @@ end)
 
 local btns = serv:Channel("Gojo n shit")
 
-btns:Button("Hollow Serious punch like gojotsb", function()
+btns:Button("Hollow Serious punch (USE GOJO ANIMS)", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/hollowpunchforserious.lua",true))()
 DiscordLib:Notification("Notification", "Loaded!", "Okay!")
 end)
 
-btns:Button("Hollow table flip MAX", function()
+btns:Button("Hollow table flip MAX (USE GOJO ANIMS)", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/hollowmax.lua",true))()
 DiscordLib:Notification("Notification", "Loaded!", "Okay!")
 end)
 
-btns:Button("Red quotes when normal punch", function()
+btns:Button("Red quotes when normal punch (USE GOJO ANIMS)", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/redwhenpnu.lua",true))()
 DiscordLib:Notification("Notification", "Loaded!", "Okay!")
 end)
 
-btns:Button("Blue quotes when Consecutive punches", function()
+btns:Button("Blue quotes when Consecutive punches (USE GOJO ANIMS)", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/bluewhencon.lua",true))()
 DiscordLib:Notification("Notification", "Loaded!", "Okay!")
 end)
