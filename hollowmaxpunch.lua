@@ -6,6 +6,6 @@ game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageReque
 wait(1.5)
 message = "Nine ropes, Polarised light, Crow and Shomyo, The gap Between Within and Without,"
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
-wait(2.75)
+wait(2.55)
 message = "Hollow, Purple."
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
