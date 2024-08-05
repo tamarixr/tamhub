@@ -1,7 +1,7 @@
 local DiscordLib = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/discord%20lib.txt")()
 
 local win = DiscordLib:Window("GO/JOHUB")
-local serv = win:Server("GO/JO HUB", "")
+local serv = win:Server("GO/JO HUB 1.5", "")
 
 local btns = serv:Channel("Universal")
 
