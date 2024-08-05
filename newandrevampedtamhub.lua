@@ -1,6 +1,6 @@
 local DiscordLib = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/discord%20lib.txt")()
 
-local win = DiscordLib:Window("TAMHUB 4.0.5")
+local win = DiscordLib:Window("TAMHUB 4.1.5")
 local serv = win:Server("TAMHUB", "")
 
 local btns = serv:Channel("Universal")
