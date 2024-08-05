@@ -1,11 +1,11 @@
-message = "Phase, Twilight, Eyes of Wisdom,"
+message = "NINE ROPES POLARISED LIGHT"
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
 wait(1.5)
-message = "Phase, Paramita, Pillars of Light,"
+message = "CROW AND SHOMYO"
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
 wait(1.5)
-message = "Nine ropes, Polarised light, Crow and Shomyo, The gap Between Within and Without,"
+message = "THE GAP BETWEEN WITHIN AND WITHOUT,"
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
 wait(2.55)
-message = "Hollow, Purple."
+message = "HOLLOW PURPLE"
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
