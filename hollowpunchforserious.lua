@@ -30,8 +30,3 @@ onAnimation("13071982935", function(animation)
     loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/hollowpunchtesbt.lua")()
     warn("animation id:", animation.Animation.AnimationId)
 end)
-
-onAnimation("13071982935", function(animation)
-    loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/fixcam.lua")()
-    warn("animation id:", animation.Animation.AnimationId)
-end)
