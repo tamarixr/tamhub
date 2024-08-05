@@ -98,6 +98,13 @@ end)
 
 serv:Channel("by dfptt")
 
+local btns = serv:Channel("gojo but by boowomp")
+
+btns:Button("gojo anims", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/gojobyboowomp.lua"))()
+DiscordLib:Notification("Notification", "Anims loaded!", "Okay!")
+end)
+
 local btns = serv:Channel("idfk stupid shit")
 
 btns:Button("PHANTASMA DISCORD SERVER", function()
