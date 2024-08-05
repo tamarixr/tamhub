@@ -1,7 +1,7 @@
 local DiscordLib = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/discord%20lib.txt")()
 
 local win = DiscordLib:Window("GO/JOHUB")
-local serv = win:Server("GO/JO HUB 2.0", "")
+local serv = win:Server("GO/JO HUB 2.1", "")
 
 local btns = serv:Channel("Universal")
 
@@ -74,6 +74,18 @@ btns:Button("Blue quotes when Consecutive punches", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/bluewhencon.lua",true))()
 DiscordLib:Notification("Notification", "Loaded!", "Okay!")
 end)
+
+btns:Seperator()
+
+btns:Button("Blue quotes but english", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/bblue.lua",true))()
+DiscordLib:Notification("Notification", "Loaded!", "Okay!"
+
+btns:Seperator()
+
+btns:Button("Red quotes but english", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/redd.lua",true))()
+DiscordLib:Notification("Notification", "Loaded!", "Okay!"
 
 btns:Seperator()
 
