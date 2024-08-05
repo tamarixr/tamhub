@@ -1,7 +1,7 @@
 local DiscordLib = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/discord%20lib.txt")()
 
 local win = DiscordLib:Window("GO/JOHUB")
-local serv = win:Server("GO/JO HUB 1.5", "")
+local serv = win:Server("GO/JO HUB 2.0", "")
 
 local btns = serv:Channel("Universal")
 
@@ -43,34 +43,34 @@ btns:Seperator()
 local btns = serv:Channel("Gojo n shit")
 
 btns:Button("Gojo anims", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/custommoves.lua",true))()
+DiscordLib:Notification("Notification", "Loaded!", "Okay!")
+end)
+
+btns:Seperator()
+
+btns:Button("Hollow Serious punch", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/hollowpunchforserious.lua",true))()
 DiscordLib:Notification("Notification", "Loaded!", "Okay!")
 end)
 
 btns:Seperator()
 
-btns:Button("Hollow Serious punch (USE GOJO ANIMS)", function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/hollowpunchforserious.lua",true))()
-DiscordLib:Notification("Notification", "Loaded!", "Okay!")
-end)
-
-btns:Seperator()
-
-btns:Button("Hollow table flip", function()
+btns:Button("Hollow Table flip", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/hollowwhentableflip.lua",true))()
 DiscordLib:Notification("Notification", "Loaded!", "Okay!")
 end)
 
 btns:Seperator()
 
-btns:Button("Red quotes when normal punch (USE GOJO ANIMS)", function()
+btns:Button("Red quotes when normal punch", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/redwhenpnu.lua",true))()
 DiscordLib:Notification("Notification", "Loaded!", "Okay!")
 end)
 
 btns:Seperator()
 
-btns:Button("Blue quotes when Consecutive punches (USE GOJO ANIMS)", function()
+btns:Button("Blue quotes when Consecutive punches", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/bluewhencon.lua",true))()
 DiscordLib:Notification("Notification", "Loaded!", "Okay!")
 end)
