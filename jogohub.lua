@@ -56,8 +56,8 @@ end)
 
 btns:Seperator()
 
-btns:Button("Hollow table flip MAX (USE GOJO ANIMS)", function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/hollowmax.lua",true))()
+btns:Button("Hollow table flip", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/hollowwhentableflip.lua",true))()
 DiscordLib:Notification("Notification", "Loaded!", "Okay!")
 end)
 
