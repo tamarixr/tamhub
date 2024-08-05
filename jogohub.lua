@@ -75,6 +75,13 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/
 DiscordLib:Notification("Notification", "Loaded!", "Okay!")
 end)
 
+btns:Seperator()
+
+btns:Button("Anime teleportation", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/animtelp.lua"))()
+DiscordLib:Notification("Notification", "Key is T", "Okay!")
+end)
+
 serv:Channel("by dfptt")
 
 local btns = serv:Channel("idfk stupid shit")
