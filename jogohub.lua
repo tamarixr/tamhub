@@ -42,6 +42,13 @@ btns:Seperator()
 
 local btns = serv:Channel("Gojo n shit")
 
+btns:Button("Gojo anims", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/hollowpunchforserious.lua",true))()
+DiscordLib:Notification("Notification", "Loaded!", "Okay!")
+end)
+
+btns:Seperator()
+
 btns:Button("Hollow Serious punch (USE GOJO ANIMS)", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/hollowpunchforserious.lua",true))()
 DiscordLib:Notification("Notification", "Loaded!", "Okay!")
