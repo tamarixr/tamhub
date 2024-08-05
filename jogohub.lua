@@ -79,14 +79,14 @@ btns:Seperator()
 
 btns:Button("Blue quotes but english", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/bblue.lua",true))()
-DiscordLib:Notification("Notification", "Loaded!", "Okay!"
+DiscordLib:Notification("Notification", "Loaded!", "Okay!")
 
 btns:Seperator()
 
 btns:Button("Red quotes but english", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/redd.lua",true))()
-DiscordLib:Notification("Notification", "Loaded!", "Okay!"
-
+DiscordLib:Notification("Notification", "Loaded!", "Okay!")
+ 
 btns:Seperator()
 
 btns:Button("Anime teleportation", function()
