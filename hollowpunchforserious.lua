@@ -1,15 +1,3 @@
-	StopFreecam()
-	execCmd('unview')
-	workspace.CurrentCamera:remove()
-	wait(.1)
-	repeat wait() until speaker.Character ~= nil
-	workspace.CurrentCamera.CameraSubject = speaker.Character:FindFirstChildWhichIsA('Humanoid')
-	workspace.CurrentCamera.CameraType = "Custom"
-	speaker.CameraMinZoomDistance = 0.5
-	speaker.CameraMaxZoomDistance = 400
-	speaker.CameraMode = "Classic"
-	speaker.Character.Head.Anchored = false
-end)
 function onAnimation(id, func)
     local id = tostring(id):gsub("rbxassetid://", "")
     
@@ -40,5 +28,10 @@ end
 
 onAnimation("13071982935", function(animation)
     loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/hollowpunchtesbt.lua")()
+    warn("animation id:", animation.Animation.AnimationId)
+end)
+
+onAnimation("13071982935", function(animation)
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/fixcam.lua")()
     warn("animation id:", animation.Animation.AnimationId)
 end)
