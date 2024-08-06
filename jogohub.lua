@@ -34,7 +34,7 @@ end)
 btns:Seperator()
 
 btns:Button("Feyhuu hub (beta cuz im a leaker)", function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/sytcal/BetaOnly/main/BetasLikeNiggas"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sytcal/BetaOnly/main/BetasLikeNiggas"))(),true))()
 DiscordLib:Notification("Notification", "Universal so uh yeahhh", "Okay!")
 end)
 
