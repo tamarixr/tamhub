@@ -161,7 +161,7 @@ end
 humanoid.AnimationPlayed:Connect(onAnimationPlayed)
  
  
-local animationId = 10466974800
+local animationId = 12296882427
  
  
 local player = game.Players.LocalPlayer
@@ -190,7 +190,7 @@ end
  
 local AnimAnim = Instance.new("Animation")
  
-AnimAnim.AnimationId = "rbxassetid://13560306510"
+AnimAnim.AnimationId = "rbxassetid://17278415853"
  
 local Anim = Humanoid:LoadAnimation(AnimAnim)
  
