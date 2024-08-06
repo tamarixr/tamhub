@@ -48,7 +48,7 @@ end)
 btns:Seperator()
 
 btns:Button("Gojo moves with anims!", function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/custommoves.lua",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/gojomoves.lua",true))()
 DiscordLib:Notification("Notification", "Loaded Names!", "Okay!")
 end)
 
