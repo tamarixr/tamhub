@@ -43,7 +43,7 @@ btns:Seperator()
 local btns = serv:Channel("Gojo n shit")
 
 btns:Button("Gojo anims", function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/custommoves.lua",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/gojomoves.lua",true))()
 DiscordLib:Notification("Notification", "Loaded!", "Okay!")
 end)
 
@@ -94,6 +94,13 @@ btns:Seperator()
 btns:Button("Anime teleportation", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/animtelp.lua"))()
 DiscordLib:Notification("Notification", "Key is T", "Okay!")
+end)
+
+btns:Seperator()
+
+btns:Button("Gojo awakening", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/ggojoawk.lua"))()
+DiscordLib:Notification("Notification", "Loaded!", "Okay!")
 end)
 
 serv:Channel("by dfptt")
