@@ -1,7 +1,7 @@
 local player = game.Players.LocalPlayer
 local mouse = player:GetMouse()
 local teleportKey = Enum.KeyCode.T -- The key to press for teleporting
-local cooldown = 0.9 -- Cooldown time in seconds
+local cooldown = 0 -- Cooldown time in seconds
 local canTeleport = true -- Variable to check if the player can teleport
 
 local animationId = "rbxassetid://15957361339"
