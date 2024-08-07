@@ -205,6 +205,33 @@ do
     })
  
 
+		        Tabs.gojo:AddButton({
+        Title = "Gojo tsb anims",
+        Description = "Loads gojo tsb anims",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idkkkfkqkjglqkdjgklqjdngijlokqhbjklqnkgqnijkgqdhkjglqihbgqkljghiq",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/gojotsb.lua",true))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+
 
 		        Tabs.Tsb:AddButton({
         Title = "KJ moveset (only names)",
