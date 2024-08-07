@@ -465,6 +465,33 @@ end
  
 
 
+		        Tabs.gojo:AddButton({
+        Title = "Hollow purple serious punch fixcam,
+        Description = "disables cutscene basically",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idk are you",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/mainfixcamm.lua",true))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+
 
 		        Tabs.gojo:AddButton({
         Title = "Hollow purple tableflip punch quotes",
@@ -618,6 +645,33 @@ end
                         Title = "Confirm",
                         Callback = function()
                             loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/ggojoawk.lua"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+
+		        Tabs.gojo:AddButton({
+        Title = "Gojo awakening quotes",
+        Description = "triggers on saitama awakening",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idk are you",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/gojoquotes.lua"))()
                         end
                     },
                     {
