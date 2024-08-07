@@ -1,5 +1,3 @@
-
-  if Options.invisToggle.Value then
         game.Workspace.Camera.CameraSubject = game.Players.LocalPlayer.Character.HumanoidRootPart
     else
         game.Workspace.Camera.CameraSubject = game.Players.LocalPlayer.Character.Humanoid
