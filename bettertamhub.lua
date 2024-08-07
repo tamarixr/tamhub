@@ -151,17 +151,6 @@ do
 
 
 
-
-	    local Toggle = Tabs.Tsb:AddToggle("Invis toggle", {Title = "Toggle", Default = false })
-
-    Toggle:OnChanged(function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/invishaha.lua",true))(), Options.MyToggle.Value)
-    end)
-
-    Options.MyToggle:SetValue(false)
-
-
-
 	
   	        Tabs.Tsb:AddButton({
         Title = "TSB anim player",
