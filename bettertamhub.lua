@@ -148,6 +148,32 @@ do
     })
 
 
+  	        Tabs.Tsb:AddButton({
+        Title = "TSB anim player",
+        Description = "dont use the secret character highly bannable",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "perhaps",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/Mautiku/ehh/main/strong%20guest.lua.txt",true))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
 
 		        Tabs.gojo:AddButton({
         Title = "Gojo moves with anims",
