@@ -18,7 +18,7 @@ local Tabs = {
 	Tsb = Window:AddTab({Title = "TSB", Icon = "swords" }),
     other = Window:AddTab({Title = "Other", Icon = "award" }),
     gojo = Window:AddTab({Title = "Gojo", Icon = "aperture" }),
-    super = Window:AddTab({Title = "Super Senior Gojo", Icon = "school" }),
+    super = Window:AddTab({Title = "Super Senior Gojo", Icon = "smile" }),
     discord = Window:AddTab({Title = "Discord servers", Icon = "mail" }),
     Settings = Window:AddTab({ Title = "Settings", Icon = "settings" }),
 }
