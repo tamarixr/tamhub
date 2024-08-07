@@ -466,7 +466,7 @@ end
 
 
 		        Tabs.gojo:AddButton({
-        Title = "Hollow purple serious punch fixcam,
+        Title = "Hollow purple serious punch fixcam",
         Description = "disables cutscene basically",
         Callback = function()
             Window:Dialog({
