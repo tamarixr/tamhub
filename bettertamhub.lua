@@ -3,7 +3,7 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 
 local Window = Fluent:CreateWindow({
-    Title = "TamHub v.4.3.0 ",
+    Title = "TamHub v.4.3.1 ",
     SubTitle = "by dfptt",
     TabWidth = 160,
     Size = UDim2.fromOffset(580, 460),
@@ -19,6 +19,7 @@ local Tabs = {
     other = Window:AddTab({Title = "Other", Icon = "award" }),
     gojo = Window:AddTab({Title = "Gojo", Icon = "aperture" }),
     super = Window:AddTab({Title = "Super Senior Gojo", Icon = "smile" }),
+    sukuna = Window:AddTab({Title = "Sukuna(high wip)", Icon = "slice" }),
     discord = Window:AddTab({Title = "Discord servers", Icon = "mail" }),
     Settings = Window:AddTab({ Title = "Settings", Icon = "settings" }),
 }
@@ -908,7 +909,35 @@ end
 
 
 	
+		        Tabs.sukuna:AddButton({
+        Title = "World cutting table flip",
+        Description = "no need to explain",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "pfffftttt are you sure or nah nga idrc if you arent just tell me",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/world.lua"))()
+                        end
+                    },
+                    {
+                        Title = "erm what the sukuna",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+
 	
+		
 		        Tabs.discord:AddButton({
         Title = "Phantasm's discord invite",
         Description = "haha funny",
