@@ -467,7 +467,7 @@ end
 
 
 		        Tabs.gojo:AddButton({
-        Title = "Hollow purple serious punch quotes",
+        Title = "Hollow purple tableflip punch quotes",
         Description = "no need to explain",
         Callback = function()
             Window:Dialog({
