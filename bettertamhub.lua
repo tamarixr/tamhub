@@ -269,7 +269,36 @@ end
             })
         end
     })
+
+
+
+  
+	        Tabs.Tsb:AddButton({
+        Title = "Invis Tableflip",
+        Description = "self explenatory",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idk am i?",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/invistableflip.lua",true))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
  
+
 
 
 		        Tabs.Tsb:AddButton({
