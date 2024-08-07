@@ -1,11 +1,11 @@
-message = "Scale of the dragon."
+message = "SCALE OF THE DRAGON"
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
 wait(1.5)
-message = "Twin meteors."
+message = "TWIN METEORS"
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
 wait(1.5)
-message = "Recoil."
+message = "RECOIL"
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
 wait(2.55)
-message = "World cutting slash."
+message = "WORLD CUTTING SLASH"
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
