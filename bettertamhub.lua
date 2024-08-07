@@ -3,7 +3,7 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 
 local Window = Fluent:CreateWindow({
-    Title = "TamHub v.4.2.5 ",
+    Title = "TamHub v.4.3.0 ",
     SubTitle = "by dfptt",
     TabWidth = 160,
     Size = UDim2.fromOffset(580, 460),
@@ -18,6 +18,7 @@ local Tabs = {
 	Tsb = Window:AddTab({Title = "TSB", Icon = "swords" }),
     other = Window:AddTab({Title = "Other", Icon = "award" }),
     gojo = Window:AddTab({Title = "Gojo", Icon = "aperture" }),
+    super = Window:AddTab({Title = "Super Senior Gojo", Icon = "university" }),
     discord = Window:AddTab({Title = "Discord servers", Icon = "mail" }),
     Settings = Window:AddTab({ Title = "Settings", Icon = "settings" }),
 }
@@ -531,7 +532,7 @@ end
                     {
                         Title = "Confirm",
                         Callback = function()
-                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/mainfixcamm.lua",true))()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/fixcamm.lua",true))()
                         end
                     },
                     {
@@ -560,6 +561,60 @@ end
                         Title = "Confirm",
                         Callback = function()
                             loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/hollowwhentableflip.lua",true))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+
+		        Tabs.gojo:AddButton({
+        Title = "Imaginary hollow purple serious punch",
+        Description = "no need to explain",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idk are you",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/englishhesthollow.lua",true))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+
+		        Tabs.gojo:AddButton({
+        Title = "english hollowpurple idk",
+        Description = "no need to explain",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idk are you",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/eneeglishlua",true))()
                         end
                     },
                     {
@@ -770,7 +825,90 @@ end
  
 
 
+		        Tabs.super:AddButton({
+        Title = "Super senior gojo red",
+        Description = "no need to explain",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idk are you",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/supperred.lua"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
 
+
+		        Tabs.super:AddButton({
+        Title = "Super senior gojo blue",
+        Description = "there is no need to elaborate good sir/ma'am",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "tell me please are you sure for the love of god are you sure i juist want to know if you're sure PLEASE TELL ME YES OR NO ARE YOU SURE PLEAESEEEJIKQSJGLOKQHDGLHDLSGHIOJSHGLJHGLMJKGLMQDSHJGJKLMQDSHGMQDS",
+                Buttons = {
+                    {
+                        Title = "uhh that guy was weird confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/ssuperblue.lua"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+
+	
+		        Tabs.super:AddButton({
+        Title = "Super senior gojo awak quotes (must have the gojo awakening first)",
+        Description = "triggers on saitama awakening",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "pfffftttt are you sure or nah nga idrc if you arent just tell me",
+                Buttons = {
+                    {
+                        Title = "gyat! yes i am sure",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/supersenior.lua"))()
+                        end
+                    },
+                    {
+                        Title = "kys",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+
+	
+	
 		        Tabs.discord:AddButton({
         Title = "Phantasm's discord invite",
         Description = "haha funny",
