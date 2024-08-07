@@ -27,5 +27,5 @@ end
 
 
 onAnimation("17275798442", function(animation)
-        loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/gojoquotes.lua.lua")()
+        loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/gojoquotes.lua")()
 end)
