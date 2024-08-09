@@ -3,8 +3,8 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 
 local Window = Fluent:CreateWindow({
-    Title = "TamHub v.4.3.1 ",
-    SubTitle = "by dfptt",
+    Title = "TamHub v.4.6.9 ",
+    SubTitle = "by dfptt (SEX UPDATE!!!)",
     TabWidth = 160,
     Size = UDim2.fromOffset(580, 460),
     Acrylic = true, -- The blur may be detectable, setting this to false disables blur entirely
@@ -20,6 +20,7 @@ local Tabs = {
     gojo = Window:AddTab({Title = "Gojo", Icon = "aperture" }),
     super = Window:AddTab({Title = "Super Senior Gojo", Icon = "smile" }),
     sukuna = Window:AddTab({Title = "Other movesets!!", Icon = "slice" }),
+    sex = Window:AddTab({Title = "sex gyahahaha", Icon = "heart" }),
     discord = Window:AddTab({Title = "Discord servers", Icon = "mail" }),
     Settings = Window:AddTab({ Title = "Settings", Icon = "settings" }),
 }
@@ -1022,7 +1023,63 @@ end
 
 
 	
-				
+		        Tabs.sex:AddButton({
+        Title = "sex funny hahahaha",
+        Description = "for y'aall uhhhhhhhh",
+        Callback = function()
+            Window:Dialog({
+                Title = "funi sex",
+                Content = "oh my gyatness",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            loadstring(game:HttpGet('https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Pendulum%20Hub%20V5.lua'))()
+                        end
+                    },
+                    {
+                        Title = "erm what the sex",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+
+	
+		        Tabs.sex:AddButton({
+        Title = "sex funny 2",
+        Description = "for y'aall uhhhhhhhh",
+        Callback = function()
+            Window:Dialog({
+                Title = "funi sex",
+                Content = "oh my gyatness",
+                Buttons = {
+                    {
+                        Title = "hey man im sex",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://gist.githubusercontent.com/Nilrogram/8b0c8bd710be142f383c71f79279752c/raw/e4fb01a7de7cd498bb53270d2ad191dfab268a88/FE%2520SussyHub"))()
+                        end
+                    },
+                    {
+                        Title = "erm what the sex",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+
+	
+					
 		        Tabs.discord:AddButton({
         Title = "Phantasm's discord invite",
         Description = "haha funny",
