@@ -1,3 +1,34 @@
+--player.UserId method
+local blacklisted = {
+	7182710293
+}
+ 
+local blacklistReason = "nigga send me celery in dms rn."
+ 
+game.Players.PlayerAdded:Connect(function(player)
+	for i,v in pairs(blacklisted) do
+		if v == player.UserId then
+			player:Kick(blacklistReason)
+		end
+	end
+end)
+ 
+--player.Name method
+local blacklisted = {
+	"GojoTSBReborn1"
+}
+ 
+local blacklistReason = "nigga send me celery in dms rn."
+ 
+game.Players.PlayerAdded:Connect(function(player)
+	for i,v in pairs(blacklisted) do
+		if v == player.Name then
+			player:Kick(blacklistReason)
+		end
+	end
+end)
+
+
 local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
 local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/SaveManager.lua"))()
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
