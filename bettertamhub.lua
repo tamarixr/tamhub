@@ -995,8 +995,8 @@ end
 
 	
 		        Tabs.sukuna:AddButton({
-        Title = "Goku special effects (fe)",
-        Description = "for garou",
+        Title = "KJ's anims and ult (fe)",
+        Description = "self explenatory",
         Callback = function()
             Window:Dialog({
                 Title = "Are you sure?",
@@ -1005,11 +1005,11 @@ end
                     {
                         Title = "hey man im",
                         Callback = function()
-                            game.Players.LocalPlayer:Kick("give me celery zip file nigger")
+                            game.Players.LocalPlayer:Kick("▒█░▄▀ ▒█░░▒█ ▒█▀▀▀█ ▒█▀▄░ ▒█▄▄▄█ ░▀▀▀▄▄ ▒█░▒█ ░░▒█░░ ▒█▄▄▄█ ")
                         end
                     },
                     {
-                        Title = "erm what the goku",
+                        Title = "erm what the kj",
                         Callback = function()
                             print("Cancelled the dialog.")
                         end
