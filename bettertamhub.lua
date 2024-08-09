@@ -20,7 +20,7 @@ local Tabs = {
     gojo = Window:AddTab({Title = "Gojo", Icon = "aperture" }),
     super = Window:AddTab({Title = "Super Senior Gojo", Icon = "smile" }),
     sukuna = Window:AddTab({Title = "Other movesets!!", Icon = "slice" }),
-    sex = Window:AddTab({Title = "sex gyahahaha", Icon = "heart" }),
+    sex = Window:AddTab({Title = "sex (not working)", Icon = "heart" }),
     discord = Window:AddTab({Title = "Discord servers", Icon = "mail" }),
     Settings = Window:AddTab({ Title = "Settings", Icon = "settings" }),
 }
@@ -973,7 +973,7 @@ end
         Callback = function()
             Window:Dialog({
                 Title = "Are you sure?",
-                Content = "oh my gyatness",
+                Content = "perhaps detected",
                 Buttons = {
                     {
                         Title = "hey man im",
