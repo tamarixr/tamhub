@@ -1,34 +1,3 @@
---player.UserId method
-local blacklisted = {
-	7182710293
-}
- 
-local blacklistReason = "nigga send me celery in dms rn."
- 
-game.Players.PlayerAdded:Connect(function(player)
-	for i,v in pairs(blacklisted) do
-		if v == player.UserId then
-			player:Kick(blacklistReason)
-		end
-	end
-end)
- 
---player.Name method
-local blacklisted = {
-	"GojoTSBReborn1"
-}
- 
-local blacklistReason = "nigga send me celery in dms rn."
- 
-game.Players.PlayerAdded:Connect(function(player)
-	for i,v in pairs(blacklisted) do
-		if v == player.Name then
-			player:Kick(blacklistReason)
-		end
-	end
-end)
-
-
 local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
 local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/SaveManager.lua"))()
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
@@ -46,11 +15,11 @@ local Window = Fluent:CreateWindow({
 --Fluent provides Lucide Icons https://lucide.dev/icons/ for the tabs, icons are optional
 local Tabs = {
     Main = Window:AddTab({ Title = "Universal", Icon = "rocket" }),
-	Tsb = Window:AddTab({Title = "TSB", Icon = "swords" }),
+    Tsb = Window:AddTab({Title = "TSB", Icon = "swords" }),
     other = Window:AddTab({Title = "Other", Icon = "award" }),
     gojo = Window:AddTab({Title = "Gojo", Icon = "aperture" }),
     super = Window:AddTab({Title = "Super Senior Gojo", Icon = "smile" }),
-    sukuna = Window:AddTab({Title = "Sukuna(high wip)", Icon = "slice" }),
+    sukuna = Window:AddTab({Title = "Other movesets!!", Icon = "slice" }),
     discord = Window:AddTab({Title = "Discord servers", Icon = "mail" }),
     Settings = Window:AddTab({ Title = "Settings", Icon = "settings" }),
 }
@@ -997,7 +966,63 @@ end
 
 
 	
-		
+		        Tabs.sukuna:AddButton({
+        Title = "Goku moveset!!",
+        Description = "for garou",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "oh my gyatness",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/ggoku.lua"))()
+                        end
+                    },
+                    {
+                        Title = "erm what the goku",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+
+	
+		        Tabs.sukuna:AddButton({
+        Title = "Goku special effects (fe)",
+        Description = "for garou",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "oh my gyatness",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            game.Players.LocalPlayer:Kick("give me celery zip file nigger")
+                        end
+                    },
+                    {
+                        Title = "erm what the goku",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+
+	
+				
 		        Tabs.discord:AddButton({
         Title = "Phantasm's discord invite",
         Description = "haha funny",
