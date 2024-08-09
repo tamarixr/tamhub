@@ -1,8 +1,5 @@
 loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/goku.lua")()
 
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/goakgda.lua"))()
-
 -- Create the Tool
 local tool = Instance.new("Tool")
 tool.Name = "Instant transmission"
