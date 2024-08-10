@@ -26,6 +26,6 @@ end
 
 
 
-onAnimation("17889458563", function(animation)
+onAnimation("17889290569", function(animation)
         loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/quesa.lua")()
 end)
