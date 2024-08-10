@@ -3,8 +3,8 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 
 local Window = Fluent:CreateWindow({
-    Title = "TamHub v.4.6.9 ",
-    SubTitle = "by dfptt (SEX UPDATE!!!)",
+    Title = "TamHub v.4.7.0 ",
+    SubTitle = "KOKUSEN! (by dfptt)",
     TabWidth = 160,
     Size = UDim2.fromOffset(580, 460),
     Acrylic = true, -- The blur may be detectable, setting this to false disables blur entirely
@@ -841,6 +841,32 @@ end
                         Title = "Confirm",
                         Callback = function()
                             loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/gojobyboowomp.lua"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+		        Tabs.gojo:AddButton({
+        Title = "BLACK FLASH!",
+        Description = "KOKUSEN!!",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "on 4th m1",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/caacacacacacacacacaca.lua"))()
                         end
                     },
                     {
