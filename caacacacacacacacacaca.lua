@@ -27,5 +27,5 @@ end
 
 
 onAnimation("17889290569", function(animation)
-        loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/qquesa.lua")()
+        loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/qqueso.lua")()
 end)
