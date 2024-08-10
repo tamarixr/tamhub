@@ -973,7 +973,7 @@ end
         Callback = function()
             Window:Dialog({
                 Title = "Are you sure?",
-                Content = "perhaps detected",
+                Content = "very detected",
                 Buttons = {
                     {
                         Title = "hey man im",
@@ -1025,7 +1025,7 @@ end
 	
 		        Tabs.sex:AddButton({
         Title = "sex funny hahahaha",
-        Description = "for y'aall uhhhhhhhh",
+        Description = "for y'aall (working?)",
         Callback = function()
             Window:Dialog({
                 Title = "funi sex",
@@ -1034,7 +1034,7 @@ end
                     {
                         Title = "hey man im",
                         Callback = function()
-                            loadstring(game:HttpGet('https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Pendulum%20Hub%20V5.lua'))()
+                            loadstring(game:HttpGet('https://raw.githubusercontent.com/UnknowingNSFW/Roblox-Exploit/main/RoClothes.lua'))()
                         end
                     },
                     {
@@ -1051,35 +1051,7 @@ end
 
 
 	
-		        Tabs.sex:AddButton({
-        Title = "sex funny 2",
-        Description = "for y'aall uhhhhhhhh",
-        Callback = function()
-            Window:Dialog({
-                Title = "funi sex",
-                Content = "oh my gyatness",
-                Buttons = {
-                    {
-                        Title = "hey man im sex",
-                        Callback = function()
-                            loadstring(game:HttpGet("https://gist.githubusercontent.com/Nilrogram/8b0c8bd710be142f383c71f79279752c/raw/e4fb01a7de7cd498bb53270d2ad191dfab268a88/FE%2520SussyHub"))()
-                        end
-                    },
-                    {
-                        Title = "erm what the sex",
-                        Callback = function()
-                            print("Cancelled the dialog.")
-                        end
-                    }
-                }
-            })
-        end
-    })
- 
-
-
-	
-					
+				
 		        Tabs.discord:AddButton({
         Title = "Phantasm's discord invite",
         Description = "haha funny",
