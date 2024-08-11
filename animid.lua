@@ -11,3 +11,6 @@ local function init(c)
         end)
     end
 end
+
+init(lp.Character)
+lp.CharacterAdded:Connect(init)
