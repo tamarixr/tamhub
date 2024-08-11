@@ -26,6 +26,6 @@ end
 
 
 
-onAnimation("174819463645", function(animation)
+onAnimation("17481946345", function(animation)
        loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/dio.lua")()
 end)
