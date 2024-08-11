@@ -3,8 +3,8 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 
 local Window = Fluent:CreateWindow({
-    Title = "TamHub v.4.7.0 ",
-    SubTitle = "KOKUSEN! (by dfptt)",
+    Title = "TamHub v.4.7.1 ",
+    SubTitle = "MUDAMUDAMUDAMUDA WRRYYYYYYYYY! (by dfptt)",
     TabWidth = 160,
     Size = UDim2.fromOffset(580, 460),
     Acrylic = true, -- The blur may be detectable, setting this to false disables blur entirely
@@ -16,6 +16,7 @@ local Window = Fluent:CreateWindow({
 local Tabs = {
     Main = Window:AddTab({ Title = "Universal", Icon = "rocket" }),
     Tsb = Window:AddTab({Title = "TSB", Icon = "swords" }),
+    realm = Window:AddTab({Title = "Realm rampage", Icon = "telescope" }),
     other = Window:AddTab({Title = "Other", Icon = "award" }),
     gojo = Window:AddTab({Title = "Gojo", Icon = "aperture" }),
     super = Window:AddTab({Title = "Super Senior Gojo", Icon = "smile" }),
@@ -1066,7 +1067,35 @@ do
 
 
 	
-				
+		        Tabs.realm:AddButton({
+        Title = "Dio's barrage quotes",
+        Description = "woah",
+        Callback = function()
+            Window:Dialog({
+                Title = "funi dio",
+                Content = "oh my wryy",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            loadstring(game:HttpGet'https://raw.githubusercontent.com/tamarixr/tamhub/main/ddio.lua')()
+                        end
+                    },
+                    {
+                        Title = "erm what the barrage",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+
+	
+					
 		        Tabs.discord:AddButton({
         Title = "Phantasm's discord invite",
         Description = "haha funny",
