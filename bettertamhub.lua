@@ -1012,7 +1012,7 @@ do
 	
 		        Tabs.sukuna:AddButton({
         Title = "Goku moveset!!",
-        Description = "for garou",
+        Description = "BANNABLE!!!",
         Callback = function()
             Window:Dialog({
                 Title = "Are you sure?",
@@ -1065,7 +1065,35 @@ do
  
 
 
+		        Tabs.sukuna:AddButton({
+        Title = "Jotaro moveset",
+        Description = "for garou",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "oh my gyatness",
+                Buttons = {
+                    {
+                        Title = "oaroaroaroraoraoaroraoarora",
+                        Callback = function()
+                            loadstring(game:HttpGet"https://raw.githubusercontent.com/h8h88/dfgfdvdf/main/eeeee")()
+                        end
+                    },
+                    {
+                        Title = "erm what the kj",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+
 	
+		
 		        Tabs.sex:AddButton({
         Title = "sex funny hahahaha",
         Description = "for y'aall (working?)",
