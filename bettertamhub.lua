@@ -1123,7 +1123,7 @@ do
 
 	
 		        Tabs.realm:AddButton({
-        Title = "Dio's barrage quotes",
+        Title = "Auto win clash",
         Description = "woah",
         Callback = function()
             Window:Dialog({
@@ -1133,11 +1133,11 @@ do
                     {
                         Title = "hey man im",
                         Callback = function()
-                            loadstring(game:HttpGet'https://raw.githubusercontent.com/tamarixr/tamhub/main/ddio.lua')()
+                            loadstring(game:HttpGet'https://raw.githubusercontent.com/tamarixr/tamhub/main/autowin.lua')()
                         end
                     },
                     {
-                        Title = "erm what the barrage",
+                        Title = "erm what the clash",
                         Callback = function()
                             print("Cancelled the dialog.")
                         end
