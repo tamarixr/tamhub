@@ -6,6 +6,6 @@ game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageReque
 wait(1.5)
 message = "To create and push out imaginary mass."
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
-wait(2.35)
+wait(2.10)
 message = "Imaginary technique : Hollow, Purple."
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
