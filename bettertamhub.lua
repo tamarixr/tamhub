@@ -1124,7 +1124,7 @@ do
 	
 		        Tabs.realm:AddButton({
         Title = "Auto win clash",
-        Description = "woah",
+        Description = "toggle is P",
         Callback = function()
             Window:Dialog({
                 Title = "funi dio",
