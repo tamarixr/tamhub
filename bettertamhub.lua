@@ -358,7 +358,10 @@ do
                     {
                         Title = "Confirm",
                         Callback = function()
-                            loadstring(game:HttpGet("https://raw.githubusercontent.com/Mautiku/ehh/main/strong%20guest.lua.txt",true))()
+                            getgenv().scriptWl = "SolaraV3HookMetaMethodWhen"
+                            getgenv().ToggleKeybind = Enum.KeyCode.RightControl
+                            getgenv().FreeEmotesTab = false
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/ATrainz/main/main/Phantasm.lua"))()
                         end
                     },
                     {
