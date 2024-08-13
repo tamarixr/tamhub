@@ -984,7 +984,34 @@ do
  
 
 
-	
+		        Tabs.super:AddButton({
+        Title = "Super senior serious punch hollow purple",
+        Description = "triggers on saitama awakening",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "gyat gyat gyat gyattttt",
+                Buttons = {
+                    {
+                        Title = "gyat! yes i am sure",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/senior.lua"))()
+                        end
+                    },
+                    {
+                        Title = "kys",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+
+		
 		        Tabs.sukuna:AddButton({
         Title = "World cutting table flip",
         Description = "no need to explain",
