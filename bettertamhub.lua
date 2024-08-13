@@ -1010,34 +1010,7 @@ do
 
 
 	
-		        Tabs.sukuna:AddButton({
-        Title = "Goku moveset!!",
-        Description = "BANNABLE!!!",
-        Callback = function()
-            Window:Dialog({
-                Title = "Are you sure?",
-                Content = "very detected",
-                Buttons = {
-                    {
-                        Title = "hey man im",
-                        Callback = function()
-                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/ggoku.lua"))()
-                        end
-                    },
-                    {
-                        Title = "erm what the goku",
-                        Callback = function()
-                            print("Cancelled the dialog.")
-                        end
-                    }
-                }
-            })
-        end
-    })
- 
 
-
-	
 		        Tabs.sukuna:AddButton({
         Title = "KJ's anims and ult (fe)",
         Description = "self explenatory",
@@ -1065,30 +1038,7 @@ do
  
 
 
-		        Tabs.sukuna:AddButton({
-        Title = "Jotaro moveset",
-        Description = "for garou",
-        Callback = function()
-            Window:Dialog({
-                Title = "Are you sure?",
-                Content = "oh my gyatness",
-                Buttons = {
-                    {
-                        Title = "oaroaroaroraoraoaroraoarora",
-                        Callback = function()
-                            loadstring(game:HttpGet"https://raw.githubusercontent.com/h8h88/dfgfdvdf/main/eeeee")()
-                        end
-                    },
-                    {
-                        Title = "erm what the kj",
-                        Callback = function()
-                            print("Cancelled the dialog.")
-                        end
-                    }
-                }
-            })
-        end
-    })
+
  
 
 
