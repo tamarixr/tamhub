@@ -16,7 +16,7 @@ local Window = Fluent:CreateWindow({
 local Tabs = {
     Main = Window:AddTab({ Title = "Universal", Icon = "rocket" }),
     Tsb = Window:AddTab({Title = "TSB", Icon = "swords" }),
-    realm = Window:AddTab({Title = "Realm rampage", Icon = "telescope" }),
+    realm = Window:AddTab({Title = "Realm rampage", Icon = "key" }),
     other = Window:AddTab({Title = "Other", Icon = "award" }),
     gojo = Window:AddTab({Title = "Gojo", Icon = "aperture" }),
     super = Window:AddTab({Title = "Super Senior Gojo", Icon = "smile" }),
