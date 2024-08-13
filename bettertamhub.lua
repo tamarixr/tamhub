@@ -3,7 +3,7 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 
 local Window = Fluent:CreateWindow({
-    Title = "TamHub v.4.7.5 ",
+    Title = "TamHub v.4.7.6 ",
     SubTitle = "haha im better",
     TabWidth = 160,
     Size = UDim2.fromOffset(580, 460),
@@ -1100,7 +1100,35 @@ do
 
 
 	
-					
+		        Tabs.realm:AddButton({
+        Title = "Free emotes",
+        Description = "uhuhzjlhdsjklgs",
+        Callback = function()
+            Window:Dialog({
+                Title = "funi dio",
+                Content = "oh my wryy",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            loadstring(game:HttpGet'https://raw.githubusercontent.com/tamarixr/tamhub/main/emoterealm.lua')()
+                        end
+                    },
+                    {
+                        Title = "erm what the clash",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+
+	
+						
 		        Tabs.discord:AddButton({
         Title = "Phantasm's discord invite",
         Description = "haha funny",
