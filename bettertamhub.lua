@@ -17,6 +17,7 @@ local Tabs = {
     Main = Window:AddTab({ Title = "Universal", Icon = "rocket" }),
     Tsb = Window:AddTab({Title = "TSB", Icon = "swords" }),
     realm = Window:AddTab({Title = "Realm rampage", Icon = "key" }),
+    juju = Window:AddTab({Title = "Jujutsu shenanigans", Icon = "book" }),
     other = Window:AddTab({Title = "Other", Icon = "award" }),
     gojo = Window:AddTab({Title = "Gojo", Icon = "aperture" }),
     super = Window:AddTab({Title = "Super Senior Gojo", Icon = "smile" }),
@@ -1114,6 +1115,33 @@ do
                         Title = "hey man im",
                         Callback = function()
                             loadstring(game:HttpGet'https://raw.githubusercontent.com/tamarixr/tamhub/main/autowin.lua')()
+                        end
+                    },
+                    {
+                        Title = "erm what the clash",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+
+			        Tabs.juju:AddButton({
+        Title = "auto block gui and more",
+        Description = "toggle is P",
+        Callback = function()
+            Window:Dialog({
+                Title = "funi dio",
+                Content = "oh my wryy",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            loadstring(game:HttpGet'https://raw.githubusercontent.com/tamarixr/tamhub/main/autoblock.lua')()
                         end
                     },
                     {
