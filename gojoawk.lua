@@ -1,7 +1,7 @@
 game.Players.LocalPlayer.Character.Humanoid.HipHeight = 30
 wait(6)
 Player = "LocalPlayer"
-AnimationId = "18897534746"
+AnimationId = "18897538537"
 local Anim = Instance.new("Animation")
 Anim.AnimationId = "rbxassetid://"..AnimationId
 local k = game.Players[Player].Character.Humanoid:LoadAnimation(Anim)
