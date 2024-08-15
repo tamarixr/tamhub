@@ -434,6 +434,58 @@ do
     })
  
 
+		        Tabs.Tsb:AddButton({
+        Title = "auto combo gui",
+        Description = "obfuscate your scripts before tamari comes and skids it...",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idk are you",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/skidlol.lua"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+		        Tabs.Tsb:AddButton({
+        Title = "Auto block gui",
+        Description = "obfuscate your scripts before tamari comes and skids it...",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idk are you",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/skidd.lua"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
 
 		        Tabs.other:AddButton({
         Title = "WAVE PREMIUM KEY GENERATOR",
