@@ -107,7 +107,7 @@ playerGui.DescendantAdded:Connect(findGuiAndSetText)
 findGuiAndSetText()
  
  
-local animationId = 10468665991
+local animationId = 10468665991 ---- Get normal punch anim id
  
  
 local player = game.Players.LocalPlayer
@@ -136,7 +136,7 @@ end
  
 local AnimAnim = Instance.new("Animation")
  
-AnimAnim.AnimationId = "rbxassetid://13073745835"
+AnimAnim.AnimationId = "rbxassetid://13073745835" ---- Change to repulse anim id
  
 local Anim = Humanoid:LoadAnimation(AnimAnim)
  
@@ -161,7 +161,7 @@ end
 humanoid.AnimationPlayed:Connect(onAnimationPlayed)
  
  
-local animationId = 10466974800
+local animationId = 10466974800 ---- Same thing consecutive punches
  
  
 local player = game.Players.LocalPlayer
@@ -190,7 +190,7 @@ end
  
 local AnimAnim = Instance.new("Animation")
  
-AnimAnim.AnimationId = "rbxassetid://13560306510"
+AnimAnim.AnimationId = "rbxassetid://13560306510" ---- Changes to gojo beatdown
  
 local Anim = Humanoid:LoadAnimation(AnimAnim)
  
@@ -215,7 +215,7 @@ end
 humanoid.AnimationPlayed:Connect(onAnimationPlayed)
  
  
-local animationId = 10471336737
+local animationId = 10471336737 ---- too lazy just do it in order
  
  
 local player = game.Players.LocalPlayer
@@ -244,7 +244,7 @@ end
  
 local AnimAnim = Instance.new("Animation")
  
-AnimAnim.AnimationId = "rbxassetid://13294790250"
+AnimAnim.AnimationId = "rbxassetid://13294790250" ---- uhhhh the whirlwind kick
  
 local Anim = Humanoid:LoadAnimation(AnimAnim)
  
@@ -276,7 +276,7 @@ end
 humanoid.AnimationPlayed:Connect(onAnimationPlayed)
  
  
-local animationId = 12510170988
+local animationId = 12510170988 ---- wallcombo anim
  
  
 local player = game.Players.LocalPlayer
@@ -304,7 +304,7 @@ end
  
 local AnimAnim = Instance.new("Animation")
  
-AnimAnim.AnimationId = "rbxassetid://18464372850"
+AnimAnim.AnimationId = "rbxassetid://18464372850" ---- woahhhh gojo wallcumbo
  
 local Anim = Humanoid:LoadAnimation(AnimAnim)
  
@@ -327,7 +327,7 @@ end
  
 humanoid.AnimationPlayed:Connect(onAnimationPlayed)
  
-local animationId = 11343318134
+local animationId = 11343318134 ---- umpeprcut
  
  
 local player = game.Players.LocalPlayer
@@ -355,7 +355,7 @@ end
  
 local AnimAnim = Instance.new("Animation")
  
-AnimAnim.AnimationId = "rbxassetid://12983333733"
+AnimAnim.AnimationId = "rbxassetid://12983333733" ---- whirlldwinf drop
  
 local Anim = Humanoid:LoadAnimation(AnimAnim)
  
@@ -377,7 +377,7 @@ end
  
 humanoid.AnimationPlayed:Connect(onAnimationPlayed)
  
-local animationId = 15955393872
+local animationId = 15955393872 ---- idfk i forgot honestly
  
  
 local player = game.Players.LocalPlayer
@@ -405,7 +405,7 @@ end
  
 local AnimAnim = Instance.new("Animation")
  
-AnimAnim.AnimationId = "rbxassetid://18903642853"
+AnimAnim.AnimationId = "rbxassetid://18903642853" ---- ohh yeah gojo awk
  
 local Anim = Humanoid:LoadAnimation(AnimAnim)
  
@@ -428,7 +428,7 @@ end
  
 humanoid.AnimationPlayed:Connect(onAnimationPlayed)
  
-local animationId = 12983333733
+local animationId = 12983333733 ---- in order for the ult
  
  
 local player = game.Players.LocalPlayer
