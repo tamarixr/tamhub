@@ -3,7 +3,7 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 
 local Window = Fluent:CreateWindow({
-    Title = "TamHub v.4.8.0 ",
+    Title = "TamHub v.4.8.3 ",
     SubTitle = "skidding god",
     TabWidth = 160,
     Size = UDim2.fromOffset(580, 460),
@@ -472,6 +472,32 @@ do
                         Title = "Confirm",
                         Callback = function()
                             loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/skidd.lua"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+		        Tabs.Tsb:AddButton({
+        Title = "invis toggle lol",
+        Description = "obfuscate your scripts before tamari comes and skids it...",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idk are you",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/invislol.lua"))()
                         end
                     },
                     {
