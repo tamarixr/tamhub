@@ -1,5 +1,5 @@
 game.Players.LocalPlayer.Character.Humanoid.HipHeight = 30
-wait(9.5)
+wait(9)
 Player = "LocalPlayer"
 AnimationId = "18897538537"
 local Anim = Instance.new("Animation")
