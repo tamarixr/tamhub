@@ -436,7 +436,7 @@ do
 
 		        Tabs.Tsb:AddButton({
         Title = "auto combo gui",
-        Description = "obfuscate your scripts before tamari comes and skids it...",
+        Description = "obfuscate your scripts before tamari comes and skids it... by 91x",
         Callback = function()
             Window:Dialog({
                 Title = "Are you sure?",
@@ -462,7 +462,7 @@ do
 
 		        Tabs.Tsb:AddButton({
         Title = "Auto block gui",
-        Description = "obfuscate your scripts before tamari comes and skids it...",
+        Description = "obfuscate your scripts before tamari comes and skids it... by 91x",
         Callback = function()
             Window:Dialog({
                 Title = "Are you sure?",
