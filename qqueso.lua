@@ -4,7 +4,7 @@ local character = player.Character or player.CharacterAdded:Wait()
 character:WaitForChild("HumanoidRootPart")
 
 local final1 = game.ReplicatedStorage.Resources.KJEffects["KJWallCombo"].FinalImpact.Attachment:Clone()
-final1.Parent = game.Players.LocalPlayer.Character["Right Arm"]
+final1.Parent = game.Players.LocalPlayer.Character["Head"]
 for _, child in ipairs(final1:GetChildren()) do
     if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
         child:Emit(50) -- Emit 20 particles
@@ -18,8 +18,8 @@ final4.Parent = game.Players.LocalPlayer.Character["Torso"]
         end
     end
 local music = Instance.new("Sound")
-local id = 17563953696
-music.Volume = 1
+local id = 17887316905
+music.Volume = 2
 music.PlaybackSpeed = 1
 music.Looped = false
 music.SoundId = "rbxassetid://"..id
