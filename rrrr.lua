@@ -1,4 +1,4 @@
-wait(9)
+wait(6)
 message = "You dare try touch me with such pathetic move?"
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
 wait(1.5)
