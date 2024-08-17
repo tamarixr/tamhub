@@ -5,7 +5,7 @@ message = "WITHIN THIS REALM OF ENDLESS GLORY"
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
 wait(0.45)
 local music = Instance.new("Sound")
-local id = 7817341182
+local id = 18269037904
 music.Volume = 2
 music.PlaybackSpeed = 1
 music.Looped = false
