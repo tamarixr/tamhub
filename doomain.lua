@@ -9,5 +9,5 @@ music.Looped = false
 music.SoundId = "rbxassetid://"..id
 music:Play()
 music.Parent = game:GetService("ReplicatedStorage")
-message = "THE PUNCH THAT WILL END IT ALL"
+message = "THE PUNCH THAT ENDS IT ALL"
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
