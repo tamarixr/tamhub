@@ -355,7 +355,7 @@ end
  
 local AnimAnim = Instance.new("Animation")
  
-AnimAnim.AnimationId = "rbxassetid://12983333733" ---- whirlldwinf drop
+AnimAnim.AnimationId = "rbxassetid://18459215845" ---- whirlldwinf drop
  
 local Anim = Humanoid:LoadAnimation(AnimAnim)
  
