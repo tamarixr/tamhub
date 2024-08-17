@@ -3,8 +3,8 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 
 local Window = Fluent:CreateWindow({
-    Title = "TamHub v.4.8.3 ",
-    SubTitle = "skidding god",
+    Title = "TamHub v.4.8.6 ",
+    SubTitle = "woah sounds!",
     TabWidth = 160,
     Size = UDim2.fromOffset(580, 460),
     Acrylic = true, -- The blur may be detectable, setting this to false disables blur entirely
@@ -512,7 +512,61 @@ do
     })
  
 
+		        Tabs.Tsb:AddButton({
+        Title = "mahoraga sound effect when u do the funny crab",
+        Description = "MAHORAGGAAA HELP HELP ME MAHORAGA",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idk are you",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/raga.lua"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
 
+
+		        Tabs.Tsb:AddButton({
+        Title = "idk tp script",
+        Description = "im hre im not here anymore woah",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "only for solara and wave idk : (",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/main/scripts/TSBUtils.lua"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+
+		
 		        Tabs.other:AddButton({
         Title = "WAVE PREMIUM KEY GENERATOR",
         Description = "PUT ROBLOX NAME INTO GUI",
