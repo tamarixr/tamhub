@@ -1,9 +1,9 @@
 message = "THE GROUND WILL BURN THE SKY WILL TEAR"
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
-wait(0.25)
+wait(0.45)
 message = "WITHIN THIS REALM OF ENDLESS GLORY"
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
-wait(0.25)
+wait(0.45)
 local music = Instance.new("Sound")
 local id = 7817341182
 music.Volume = 1
