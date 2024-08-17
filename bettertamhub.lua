@@ -3,7 +3,7 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 
 local Window = Fluent:CreateWindow({
-    Title = "TamHub v.4.8.6 ",
+    Title = "TamHub v.4.9.0 ",
     SubTitle = "woah anti dc!",
     TabWidth = 160,
     Size = UDim2.fromOffset(580, 460),
@@ -1019,6 +1019,32 @@ do
                         Title = "Confirm",
                         Callback = function()
                             loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/caca.lua"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+	
+		        Tabs.gojo:AddButton({
+        Title = "death counter domain expansion",
+        Description = "erm ryoki tenkai?",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "on 4th m1",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/dcmain.lua"))()
                         end
                     },
                     {
