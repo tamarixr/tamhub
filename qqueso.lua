@@ -7,7 +7,7 @@ local final1 = game.ReplicatedStorage.Resources.KJEffects["KJWallCombo"].FinalIm
 final1.Parent = game.Players.LocalPlayer.Character["Right Arm"]
 for _, child in ipairs(final1:GetChildren()) do
     if child:IsA("ParticleEmitter") then -- Check if the child is a ParticleEmitter
-        child:Emit(1) -- Emit 20 particles
+        child:Emit(3) -- Emit 20 particles
     end
 end
 local final4 = game.ReplicatedStorage.Resources.KJEffects["KJWallCombo"].FinalImpact.Attachment:Clone()
