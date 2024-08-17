@@ -355,12 +355,12 @@ end
  
 local AnimAnim = Instance.new("Animation")
  
-AnimAnim.AnimationId = "rbxassetid://18459215845" ---- whirlldwinf drop
+AnimAnim.AnimationId = "rbxassetid://18459220516" ---- whirlldwinf drop
  
 local Anim = Humanoid:LoadAnimation(AnimAnim)
  
  
-local startTime = 2
+local startTime = 0
  
 Anim:Play()
  
@@ -368,7 +368,7 @@ Anim:AdjustSpeed(0)
  
 Anim.TimePosition = startTime
  
-Anim:AdjustSpeed(0.5)
+Anim:AdjustSpeed(0.3)
  
  
     end
