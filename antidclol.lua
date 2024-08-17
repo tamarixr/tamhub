@@ -5,8 +5,7 @@ if getgenv().loop then
     getgenv().loop = nil
 end
 local animations = {
-    ["rbxassetid://12273188754"]=1.31,
-    ["rbxassetid://12296113986"]=1.2,
+    ["rbxassetid://11343250001"]=1.31,
 }
 function ifind(t,a)
     for i,v in pairs(t) do
