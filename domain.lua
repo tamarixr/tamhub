@@ -6,7 +6,7 @@ game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageReque
 wait(0.45)
 local music = Instance.new("Sound")
 local id = 7817341182
-music.Volume = 1
+music.Volume = 2
 music.PlaybackSpeed = 1
 music.Looped = false
 music.SoundId = "rbxassetid://"..id
