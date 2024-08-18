@@ -48,15 +48,3 @@ getgenv().loop = coroutine.create(function()
 end)
 coroutine.resume(getgenv().loop)
 print("caca")
-
-local Player = game:GetService("Players").LocalPlayer
-local part = workspace.Part
-
-while true do
-	local char = Player.Character or Player.CharacterAdded:Wait()
-	local humrp = char:WaitForChild("HumanoidRootPart")
-	local hum = char:WaitForChild("Humanoid")
-
-	humrp.CFrame = CFrame.lookAt(humrp.Position, Vector3.new(part.Position.X, humrp.Position.Y, part.Position.Z))
-	task.wait()
-end
