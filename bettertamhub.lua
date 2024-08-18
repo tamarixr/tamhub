@@ -3,7 +3,7 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 
 local Window = Fluent:CreateWindow({
-    Title = "TamHub v.4.9.2 ",
+    Title = "TamHub v.4.9.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1 ",
     SubTitle = "woah anti dc (quotes now!",
     TabWidth = 160,
     Size = UDim2.fromOffset(580, 460),
@@ -577,7 +577,7 @@ do
                     {
                         Title = "Confirm",
                         Callback = function()
-                            loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/antidclol.lua")()
+                            loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/noreset.lua")()
 			    print("activated")						
                         end
                     },
@@ -599,7 +599,7 @@ do
         Callback = function()
             Window:Dialog({
                 Title = "Are you sure?",
-                Content = "on 4th m1",
+                Content = "idsgjsqkglsqgjsqklqzgjlkzq",
                 Buttons = {
                     {
                         Title = "Confirm",
@@ -621,7 +621,7 @@ do
  
 
 
-			 Tabs.Tsb:AddButton({
+			 Tabs.sukuna:AddButton({
         Title = "anti dc quotes for sukuna",
         Description = "haha get ez'd",
         Callback = function()
