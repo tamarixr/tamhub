@@ -1,11 +1,11 @@
-loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/hmmmm.lua")()
+loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/hmmm.lua")()
 local player = game.Players.LocalPlayer
 local character = player.Character or player.CharacterAdded:Wait()  -- Get the player's character
 local humanoid = character:WaitForChild("Humanoid")                 -- Get the humanoid of the character
 
 -- Function that will run when the player dies
 local function onPlayerDeath()
-    loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/hmmmm.lua")()  -- Replace this with your desired action
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/hmmm.lua")()  -- Replace this with your desired action
     -- You can execute any code here, such as respawn logic, UI updates, etc.
 end
 
