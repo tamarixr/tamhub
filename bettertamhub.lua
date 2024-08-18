@@ -598,7 +598,7 @@ do
         Callback = function()
             Window:Dialog({
                 Title = "Are you sure?",
-                Content = "finlaly gang",
+                Content = "CREDITS TO TIREDBECEN KQDJGLQJGKLQD",
                 Buttons = {
                     {
                         Title = "Confirm",
