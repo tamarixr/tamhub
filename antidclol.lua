@@ -48,3 +48,29 @@ getgenv().loop = coroutine.create(function()
 end)
 coroutine.resume(getgenv().loop)
 print("caca")
+-- Reference to the PlayerAdded event
+local Players = game:GetService("Players")
+
+-- Function to handle player death
+local function onPlayerDeath(player)
+    -- Get the player's character
+    local character = player.Character
+
+    -- Check if the character exists
+    if character then
+        -- Kick the player
+        loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/anticdlol.lua")()
+        -- Alternatively, you can customize the kick message:
+        -- player:Kick("Sorry, you died and got kicked from the game.")
+    end
+end
+
+-- Connect the function to the PlayerAdded event
+Players.PlayerAdded:Connect(function(player)
+    -- Connect the onPlayerDeath function to the player's character's death event
+    player.CharacterAdded:Connect(function(character)
+        character:WaitForChild("Humanoid").Died:Connect(function()
+            onPlayerDeath(player)
+        end)
+    end)
+end)
