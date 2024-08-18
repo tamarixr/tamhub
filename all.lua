@@ -16,8 +16,9 @@ for _, otherPlayer in pairs(game.Players:GetPlayers()) do
                 humanoidRootPart.CFrame = otherHumanoidRootPart.CFrame
 
                 -- Wait a bit before teleporting to the next player
-                wait(0) -- Adjust the time delay as needed
+                wait(0.17) -- Adjust the time delay as needed
             end
         end
     end
 end
+print("caca")
