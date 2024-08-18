@@ -1,3 +1,4 @@
+loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/antidclol.lua")()
 local player = game.Players.LocalPlayer
 local character = player.Character or player.CharacterAdded:Wait()
 
@@ -8,7 +9,8 @@ local hasDied = false
 local function onPlayerDeath()
     if not hasDied then
         hasDied = true  -- Set the flag to true to prevent multiple executions
-        loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/antidclol.lua")() -- Replace this with your script or function call
+        loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/antidclol.lua")()
+        print("caca")-- Replace this with your script or function call
         -- Add your script or function execution here
     end
 end
