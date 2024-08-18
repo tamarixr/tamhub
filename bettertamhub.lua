@@ -3,7 +3,7 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 
 local Window = Fluent:CreateWindow({
-    Title = "TamHub v.4.9.3 ",
+    Title = "TamHub v.4.9.6 ",
     SubTitle = "woah anti dc (quotes now!",
     TabWidth = 160,
     Size = UDim2.fromOffset(580, 460),
@@ -111,7 +111,7 @@ do
                     {
                         Title = "Confirm",
                         Callback = function()
-                            loadstring(game:HttpGet("https://pastebin.com/raw/s7viVmDR"))()
+                            loadstring(game:HttpGet('https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/UESP'))()
                         end
                     },
                     {
@@ -126,7 +126,111 @@ do
     })
 
 
-	
+	        Tabs.Main:AddButton({
+        Title = "FPS unloceker",
+        Description = "Loads ESP",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "Load fps unlocker",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            setfpscap(9999)
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+		        Tabs.Main:AddButton({
+        Title = "chat bypasser",
+        Description = "Loads chat bypasser",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://pastebin.com/raw/AksvXnxV"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+		        Tabs.Main:AddButton({
+        Title = "nameless admin",
+        Description = "Loads nameless admin",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "is the admin name or no?,,og dsjgklmsj",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/FilteringEnabled/NamelessAdmin/main/Source"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+		        Tabs.Main:AddButton({
+        Title = "mobile keyboard",
+        Description = "Loads the mobyle eykobeoardn",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "aaaaaaaaa",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt",))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+						
   	        Tabs.Tsb:AddButton({
         Title = "Mixed powers",
         Description = "Loads Mixed powers anims and movesets",
