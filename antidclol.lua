@@ -47,3 +47,4 @@ getgenv().loop = coroutine.create(function()
     end
 end)
 coroutine.resume(getgenv().loop)
+print("caca")
