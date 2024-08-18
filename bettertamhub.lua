@@ -578,6 +578,7 @@ do
                         Title = "Confirm",
                         Callback = function()
                             loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/antidclol.lua")()
+			    print("activated")						
                         end
                     },
                     {
