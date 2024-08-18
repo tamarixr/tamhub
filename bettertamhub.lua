@@ -57,7 +57,7 @@ do
                     {
                         Title = "Confirm",
                         Callback = function()
-                            loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",true))()
+                            loadstring(game:HttpGet"https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source")()
                         end
                     },
                     {
@@ -111,7 +111,7 @@ do
                     {
                         Title = "Confirm",
                         Callback = function()
-                            loadstring(game:HttpGet('https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/UESP'))()
+                            loadstring(game:HttpGet"https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/UESP")()
                         end
                     },
                     {
@@ -163,7 +163,7 @@ do
                     {
                         Title = "Confirm",
                         Callback = function()
-                            loadstring(game:HttpGet("https://pastebin.com/raw/AksvXnxV"))()
+                            loadstring(game:HttpGet"https://pastebin.com/raw/AksvXnxV")()
                         end
                     },
                     {
@@ -189,7 +189,7 @@ do
                     {
                         Title = "Confirm",
                         Callback = function()
-                            loadstring(game:HttpGet("https://raw.githubusercontent.com/FilteringEnabled/NamelessAdmin/main/Source"))()
+                            loadstring(game:HttpGet"https://raw.githubusercontent.com/FilteringEnabled/NamelessAdmin/main/Source")()
                         end
                     },
                     {
@@ -215,7 +215,7 @@ do
                     {
                         Title = "Confirm",
                         Callback = function()
-                            loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt",))()
+                            loadstring(game:HttpGet"https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt")()
                         end
                     },
                     {
