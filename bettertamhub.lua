@@ -3,8 +3,8 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 
 local Window = Fluent:CreateWindow({
-    Title = "TamHub v.4.9.6 ",
-    SubTitle = "woah anti dc (quotes now!",
+    Title = "TamHub v.4.9.8 ",
+    SubTitle = "woah no dash cooldown",
     TabWidth = 160,
     Size = UDim2.fromOffset(580, 460),
     Acrylic = true, -- The blur may be detectable, setting this to false disables blur entirely
@@ -684,6 +684,32 @@ do
                         Title = "Confirm",
                         Callback = function()
                             loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/run.lua")()
+			    print("activated")						
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+		        Tabs.Tsb:AddButton({
+        Title = "no dash cooldown",
+        Description = "fqshfhdfssfhsdfhs",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "ahaha ur uhhh",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/nnocd.lua")()
 			    print("activated")						
                         end
                     },
