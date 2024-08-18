@@ -592,6 +592,32 @@ do
         end
     })
  
+		        Tabs.Tsb:AddButton({
+        Title = "run tool",
+        Description = "haha get runned",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "finlaly gang",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/run.lua")()
+			    print("activated")						
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
 
 		        Tabs.gojo:AddButton({
         Title = "gojo anti death counter quotes",
