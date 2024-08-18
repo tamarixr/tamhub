@@ -152,30 +152,6 @@ do
     })
 
 
-		        Tabs.Main:AddButton({
-        Title = "chat bypasser",
-        Description = "Loads chat bypasser",
-        Callback = function()
-            Window:Dialog({
-                Title = "Are you sure?",
-                Content = "",
-                Buttons = {
-                    {
-                        Title = "Confirm",
-                        Callback = function()
-                            loadstring(game:HttpGet"https://pastebin.com/raw/AksvXnxV")()
-                        end
-                    },
-                    {
-                        Title = "Cancel",
-                        Callback = function()
-                            print("Cancelled the dialog.")
-                        end
-                    }
-                }
-            })
-        end
-    })
 
 
 		        Tabs.Main:AddButton({
