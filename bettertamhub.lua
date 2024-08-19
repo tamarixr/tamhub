@@ -780,7 +780,7 @@ do
  
 
 
-			 Tabs.sukuna:AddButton({
+			 Tabs.Tsb:AddButton({
         Title = "ult detecter",
         Description = "haha get detected",
         Callback = function()
