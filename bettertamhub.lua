@@ -3,8 +3,8 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 
 local Window = Fluent:CreateWindow({
-    Title = "TamHub v.4.9.8 ",
-    SubTitle = "woah no dash cooldown",
+    Title = "TamHub v.4.9.9 ",
+    SubTitle = "mb for no updates today was a bit lazy",
     TabWidth = 160,
     Size = UDim2.fromOffset(580, 460),
     Acrylic = true, -- The blur may be detectable, setting this to false disables blur entirely
@@ -780,7 +780,34 @@ do
  
 
 
-					
+			 Tabs.sukuna:AddButton({
+        Title = "ult detecter",
+        Description = "haha get detected",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "fqsfqfqsqgqgqd",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/ultdetec.lua")()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+
+						
 		        Tabs.other:AddButton({
         Title = "WAVE PREMIUM KEY GENERATOR",
         Description = "PUT ROBLOX NAME INTO GUI",
