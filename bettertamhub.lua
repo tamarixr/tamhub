@@ -3,7 +3,7 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 
 local Window = Fluent:CreateWindow({
-    Title = "TamHub v.4.9.9.9 ",
+    Title = "TamHub v.4.9.9.2 ",
     SubTitle = "mb for no updates today was a bit lazy",
     TabWidth = 160,
     Size = UDim2.fromOffset(580, 460),
@@ -58,6 +58,31 @@ do
                         Title = "Confirm",
                         Callback = function()
                             loadstring(game:HttpGet"https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source")()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+    Tabs.Main:AddButton({
+        Title = "insta ban from tsb",
+        Description = "get banned",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "gert banned",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/instaban.lua")()
                         end
                     },
                     {
