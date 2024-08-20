@@ -25,7 +25,7 @@ local function scaleHitbox(character)
         if humanoidRootPart then
             humanoidRootPart.Size = _G.HumanoidRootPartSize
             humanoidRootPart.Transparency = 0.7
-            humanoidRootPart.BrickColor = BrickColor.new("Really blue")
+            humanoidRootPart.BrickColor = BrickColor.new("Bright violet")
             humanoidRootPart.Material = "Neon"
             humanoidRootPart.CanCollide = false
         end
