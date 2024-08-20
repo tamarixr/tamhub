@@ -195,6 +195,7 @@ local Anim = Humanoid:LoadAnimation(AnimAnim)
  
 local startTime = 0
  
+local stopTime = 2
  
 Anim:Play()
  
@@ -203,8 +204,6 @@ Anim:AdjustSpeed(0)
 Anim.TimePosition = startTime
  
 Anim:AdjustSpeed(1.75)
-
-Anim:Loop = false
  
  
     end
