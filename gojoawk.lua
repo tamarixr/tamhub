@@ -1,4 +1,4 @@
-wait(3)
+wait(1)
 local targetHipHeight = 35  -- Target HipHeight in studs
 local transitionTime = 1.5  -- Time in seconds over which to transition
 
