@@ -968,7 +968,7 @@ do
  
 
 
-		        Tabs.:AddButton({
+		        Tabs.gojo:AddButton({
         Title = "Hollow purple serious punch fixcam",
         Description = "disables cutscene basically",
         Callback = function()
@@ -996,7 +996,7 @@ do
 
 
 
-		        Tabs.:AddButton({
+		        Tabs.gojo:AddButton({
         Title = "Hollow purple tableflip punch quotes",
         Description = "no need to explain",
         Callback = function()
@@ -1023,7 +1023,7 @@ do
  
 
 
-		        Tabs.:AddButton({
+		        Tabs.gojo:AddButton({
         Title = "Imaginary hollow purple serious punch",
         Description = "no need to explain",
         Callback = function()
@@ -1050,7 +1050,7 @@ do
  
 
 
-		        Tabs.:AddButton({
+		        Tabs.gojo:AddButton({
         Title = "english hollowpurple idk",
         Description = "no need to explain",
         Callback = function()
@@ -1078,7 +1078,7 @@ do
 
 
 
-		        Tabs.:AddButton({
+		        Tabs.gojo:AddButton({
         Title = "Japanese red quotes",
         Description = "triggers on normal punch",
         Callback = function()
@@ -1106,7 +1106,7 @@ do
 
 
 
-		        Tabs.:AddButton({
+		        Tabs.gojo:AddButton({
         Title = "Japanese blue quotes",
         Description = "triggers on consecutive punches",
         Callback = function()
@@ -1134,7 +1134,7 @@ do
 
 
 
-		        Tabs.:AddButton({
+		        Tabs.gojo:AddButton({
         Title = "english blue quotes",
         Description = "triggers on consecutive punches",
         Callback = function()
@@ -1162,7 +1162,7 @@ do
 
 
 
-		        Tabs.:AddButton({
+		        Tabs.gojo:AddButton({
         Title = "english red quotes",
         Description = "triggers on normal punch",
         Callback = function()
@@ -1694,8 +1694,8 @@ SaveManager:BuildConfigSection(Tabs.Settings)
 Window:SelectTab(1)
 
 Fluent:Notify({
-    Title = "GIVE ME CREDITS IF YOU'RE GONNA MAKE A YOUTUBE VIDEO ON THIS SCRIPT",
-    Content = "i watch them so dont copy the source and make a repo.",
+    Title = "give me my credits",
+    Content = "if ur gonna make a vid on this give the credits.",
     Duration = 8
 })
 
