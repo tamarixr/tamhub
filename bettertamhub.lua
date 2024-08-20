@@ -1694,8 +1694,8 @@ SaveManager:BuildConfigSection(Tabs.Settings)
 Window:SelectTab(1)
 
 Fluent:Notify({
-    Title = "Fluent",
-    Content = "The script has been loaded.",
+    Title = "GIVE ME CREDITS IF YOU'RE GONNA MAKE A YOUTUBE VIDEO ON THIS SCRIPT",
+    Content = "i watch them so dont copy the source and make a repo.",
     Duration = 8
 })
 
