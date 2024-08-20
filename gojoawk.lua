@@ -18,7 +18,7 @@ if character then
 
         -- Ensure the final HipHeight is set correctly
         humanoid.HipHeight = targetHipHeight
-wait(1.75)
+wait(2)
 Player = "LocalPlayer"
 AnimationId = "18897538537"
 local Anim = Instance.new("Animation")
