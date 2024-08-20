@@ -1,53 +1,54 @@
-local TweenService = game:GetService("TweenService")
-local player = game.Players.LocalPlayer
-local character = player.Character or player.CharacterAdded:Wait()
-local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+wait(3)
+local targetHipHeight = 35  -- Target HipHeight in studs
+local transitionTime = 1.5  -- Time in seconds over which to transition
 
--- Define the end position (35 studs up)
-local upPosition = humanoidRootPart.Position + Vector3.new(0, 35, 0)
-local downPosition = humanoidRootPart.Position -- original position
+local character = game.Players.LocalPlayer.Character
+if character then
+    local humanoid = character:FindFirstChildOfClass("Humanoid")
+    if humanoid then
+        local initialHipHeight = humanoid.HipHeight
+        local timeElapsed = 0
 
--- Define the tweening information for going up
-local upTweenInfo = TweenInfo.new(
-    2, -- Time in seconds to go up
-    Enum.EasingStyle.Linear, -- Easing style
-    Enum.EasingDirection.Out, -- Easing direction
-    0, -- Number of times to repeat
-    false, -- Should the tween reverse after completing
-    0 -- Delay before tween starts
-)
+        -- Run the transition smoothly over time
+        while timeElapsed < transitionTime do
+            timeElapsed = timeElapsed + game:GetService("RunService").Heartbeat:Wait()
+            local alpha = timeElapsed / transitionTime
+            humanoid.HipHeight = initialHipHeight + (targetHipHeight - initialHipHeight) * alpha
+        end
 
--- Create the tween for going up
-local upTween = TweenService:Create(humanoidRootPart, upTweenInfo, {Position = upPosition})
+        -- Ensure the final HipHeight is set correctly
+        humanoid.HipHeight = targetHipHeight
 
--- Define the tweening information for going down
-local downTweenInfo = TweenInfo.new(
-    1, -- Time in seconds to go down
-    Enum.EasingStyle.Linear, -- Easing style
-    Enum.EasingDirection.Out, -- Easing direction
-    0, -- Number of times to repeat
-    false, -- Should the tween reverse after completing
-    0 -- Delay before tween starts
-)
+Player = "LocalPlayer"
+AnimationId = "18897538537"
+local Anim = Instance.new("Animation")
+Anim.AnimationId = "rbxassetid://"..AnimationId
+local k = game.Players[Player].Character.Humanoid:LoadAnimation(Anim)
+k:Play() --Play the animation
+k:AdjustSpeed(1.5) --Set '1' to any value you want to adjust the animation speed.
+wait(5.25)
+k:Stop()
 
--- Create the tween for going down
-local downTween = TweenService:Create(humanoidRootPart, downTweenInfo, {Position = downPosition})
+local targetHipHeight = 0  -- Target HipHeight in studs
+local transitionTime = 0.25  -- Time in seconds over which to transition
 
--- Play the tween to go up
-upTween:Play()
+local character = game.Players.LocalPlayer.Character
+if character then
+    local humanoid = character:FindFirstChildOfClass("Humanoid")
+    if humanoid then
+        local initialHipHeight = humanoid.HipHeight
+        local timeElapsed = 0
 
--- After 8.75 seconds, play the animation
-delay(8.75, function()
-    local Player = player -- LocalPlayer reference
-    local AnimationId = "18897538537" -- Replace this with your desired animation ID
-    local Anim = Instance.new("Animation")
-    Anim.AnimationId = "rbxassetid://"..AnimationId
-    local k = Player.Character.Humanoid:LoadAnimation(Anim)
-    k:Play() -- Play the animation
-    k:AdjustSpeed(1.5) -- Adjust the animation speed, change the value to your preference
-end)
+        -- Run the transition smoothly over time
+        while timeElapsed < transitionTime do
+            timeElapsed = timeElapsed + game:GetService("RunService").Heartbeat:Wait()
+            local alpha = timeElapsed / transitionTime
+            humanoid.HipHeight = initialHipHeight + (targetHipHeight - initialHipHeight) * alpha
+        end
 
--- After 5.5 seconds, play the tween to go down
-delay(5.5, function()
-    downTween:Play()
-end)
+        -- Ensure the final HipHeight is set correctly
+        humanoid.HipHeight = targetHipHeight
+          end
+       end
+    end
+end
