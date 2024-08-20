@@ -72,13 +72,13 @@ do
     })
 
 
-   Tabs.other:AddButton({
-        Title = "Infinite Yield",
-        Description = "Loads Infinite Yield",
+   Tabs.Main:AddButton({
+        Title = "Hitbox expander",
+        Description = "Loads Hitbox expander",
         Callback = function()
             Window:Dialog({
                 Title = "Are you sure?",
-                Content = "Load infinite yield",
+                Content = "xapnd the ehitbox",
                 Buttons = {
                     {
                         Title = "Confirm",
