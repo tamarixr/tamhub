@@ -1,5 +1,5 @@
 _G.HeadSize = Vector3.new(1, 1, 1) -- Adjust this value as needed
-_G.HumanoidRootPartSize = Vector3.new(24, 24, 2424) -- Adjust this value as needed
+_G.HumanoidRootPartSize = Vector3.new(24, 24, 24) -- Adjust this value as needed
 _G.Disabled = false
  
 local localPlayer = game:GetService('Players').LocalPlayer
