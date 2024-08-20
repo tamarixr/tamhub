@@ -156,61 +156,7 @@ Anim:AdjustSpeed(1)
     end
  
 end
- 
-humanoid.AnimationPlayed:Connect(onAnimationPlayed) 
- 
-local animationId = 10470389827 ---- Get normal punch anim id
- 
- 
-local player = game.Players.LocalPlayer
- 
-local character = player.Character or player.CharacterAdded:Wait()
- 
-local humanoid = character:WaitForChild("Humanoid")
- 
- 
-local function onAnimationPlayed(animationTrack)
- 
-    if animationTrack.Animation.AnimationId == "rbxassetid://" .. animationId then
- 
- 
-local p = game.Players.LocalPlayer
- 
-local Humanoid = p.Character:WaitForChild("Humanoid")
- 
- 
-for _, animTrack in pairs(Humanoid:GetPlayingAnimationTracks()) do
- 
-    animTrack:Stop()
- 
-end
- 
- 
-local AnimAnim = Instance.new("Animation")
- 
-AnimAnim.AnimationId = "rbxassetid://15020965094" ---- Change to repulse anim id
- 
-local Anim = Humanoid:LoadAnimation(AnimAnim)
- 
- 
-local startTime = 0
- 
-local stopTime = 2
- 
-Anim:Play()
- 
-Anim:AdjustSpeed(0)
- 
-Anim.TimePosition = startTime
- 
-Anim:AdjustSpeed(1.75)
- 
- 
-    end
- 
-end
- 
- 
+  
 humanoid.AnimationPlayed:Connect(onAnimationPlayed)
  
  
