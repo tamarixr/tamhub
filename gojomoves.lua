@@ -202,7 +202,9 @@ Anim:AdjustSpeed(0)
  
 Anim.TimePosition = startTime
  
-Anim:AdjustSpeed(1)
+Anim:AdjustSpeed(1.75)
+
+Anim:Loop = false
  
  
     end
