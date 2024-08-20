@@ -9,7 +9,7 @@ local downPosition = humanoidRootPart.Position -- original position
 
 -- Define the tweening information for going up
 local upTweenInfo = TweenInfo.new(
-    1, -- Time in seconds to go up
+    2, -- Time in seconds to go up
     Enum.EasingStyle.Linear, -- Easing style
     Enum.EasingDirection.Out, -- Easing direction
     0, -- Number of times to repeat
