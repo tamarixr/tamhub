@@ -324,7 +324,7 @@ do
                     {
                         Title = "Confirm",
                         Callback = function()
-                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/gojomoves.lua",true))()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/ggojomoves.lua",true))()
                         end
                     },
                     {
@@ -968,7 +968,7 @@ do
  
 
 
-		        Tabs.gojo:AddButton({
+		        Tabs.:AddButton({
         Title = "Hollow purple serious punch fixcam",
         Description = "disables cutscene basically",
         Callback = function()
@@ -996,7 +996,7 @@ do
 
 
 
-		        Tabs.gojo:AddButton({
+		        Tabs.:AddButton({
         Title = "Hollow purple tableflip punch quotes",
         Description = "no need to explain",
         Callback = function()
@@ -1023,7 +1023,7 @@ do
  
 
 
-		        Tabs.gojo:AddButton({
+		        Tabs.:AddButton({
         Title = "Imaginary hollow purple serious punch",
         Description = "no need to explain",
         Callback = function()
@@ -1050,7 +1050,7 @@ do
  
 
 
-		        Tabs.gojo:AddButton({
+		        Tabs.:AddButton({
         Title = "english hollowpurple idk",
         Description = "no need to explain",
         Callback = function()
@@ -1078,7 +1078,7 @@ do
 
 
 
-		        Tabs.gojo:AddButton({
+		        Tabs.:AddButton({
         Title = "Japanese red quotes",
         Description = "triggers on normal punch",
         Callback = function()
@@ -1106,7 +1106,7 @@ do
 
 
 
-		        Tabs.gojo:AddButton({
+		        Tabs.:AddButton({
         Title = "Japanese blue quotes",
         Description = "triggers on consecutive punches",
         Callback = function()
@@ -1134,7 +1134,7 @@ do
 
 
 
-		        Tabs.gojo:AddButton({
+		        Tabs.:AddButton({
         Title = "english blue quotes",
         Description = "triggers on consecutive punches",
         Callback = function()
@@ -1162,7 +1162,7 @@ do
 
 
 
-		        Tabs.gojo:AddButton({
+		        Tabs.:AddButton({
         Title = "english red quotes",
         Description = "triggers on normal punch",
         Callback = function()
