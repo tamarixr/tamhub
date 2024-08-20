@@ -26,11 +26,12 @@ Anim.AnimationId = "rbxassetid://"..AnimationId
 local k = game.Players[Player].Character.Humanoid:LoadAnimation(Anim)
 k:Play() --Play the animation
 k:AdjustSpeed(1.5) --Set '1' to any value you want to adjust the animation speed.
-wait(5.25)
-k:Stop()
+wait(8.25)
 
 local targetHipHeight = 0  -- Target HipHeight in studs
-local transitionTime = 0.25  -- Time in seconds over which to transition
+local transitionTime = 1.5  -- Time in seconds over which to transition
+
+k:Stop()
 
 local character = game.Players.LocalPlayer.Character
 if character then
