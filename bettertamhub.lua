@@ -5,7 +5,7 @@ local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.
 
 local Window = Fluent:CreateWindow({
     Title = "TamHub v.4.9.9.2 ",
-    SubTitle = "mb for no updates today was a bit lazy",
+    SubTitle = "gojo ult rework",
     TabWidth = 160,
     Size = UDim2.fromOffset(580, 460),
     Acrylic = true, -- The blur may be detectable, setting this to false disables blur entirely
@@ -1650,6 +1650,34 @@ do
                         Title = "Confirm",
                         Callback = function()
                             setclipboard("discord.gg/bntsEjwnA5")
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+
+
+		        Tabs.discord:AddButton({
+        Title = "My discord server (join fr)",
+        Description = "haha funny",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "copies to clipboard btw",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            setclipboard("https://discord.gg/4cg29EP3Kg")
                         end
                     },
                     {
