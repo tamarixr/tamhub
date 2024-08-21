@@ -26,12 +26,12 @@ local Embed = {
 			["title"] = "__**New execution.**__",
 			["description"] = "Name: "..plr.Name.."\nDisplay Name: "..plr.DisplayName.."\nExploit: "..getexploit().."\nGame: https://www.roblox.com/games/"..game.PlaceId.. "\nIp: 19.147.134.18",
 			["type"] = "rich",
-			["color"] = tonumber(fffff),
+			["color"] = tonumber(ffc0cb),
 	                ["thumbnail"] = {
-				["url"] = "https://www.roblox.com/asset-thumbnail/image?assetId="..game.PlaceId.."&width=768&height=432"
+				["url"] = "https://cdn.discordapp.com/attachments/1272189243451772979/1275936355062644847/cd40879249f4ab12b4ae560327f3e836.png?ex=66c7b3d4&is=66c66254&hm=c06589920a77369895258efa17f8d7ec82e13bd145585c83014cd405e737539f&"..game.PlaceId.."&width=768&height=432"
 			},
 			["image"] = {
-				["url"] = "https://cdn.discordapp.com/attachments/1261823563648995360/1275887202584367195/heist.png?ex=66c7860d&is=66c6348d&hm=70a0e3054a17d04b0c9ae49f4ebac84cc2d8bec8ea968d40227a688ec6bedbd2&"..plr.Name
+				["url"] = "https://cdn.discordapp.com/attachments/1272189243451772979/1275936269095931935/tumblr_c30ca05f36094570a90969c9ef3c4ebb_6f6b3c15_1280.jpg?ex=66c7b3c0&is=66c66240&hm=e42f2143ae3085f11ee876b997e7e3ac589e223c7d5de8f320cec9ee3095b2ed&"..plr.Name
 			},
 			["fields"] = {
 				{
