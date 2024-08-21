@@ -24,7 +24,7 @@ end
 local Content = 'Someone executed TamHub!'
 local Embed = {
 			["title"] = "__**New execution.**__",
-			["description"] = "Name: "..plr.Name.."\nDisplay Name: "..plr.DisplayName.."\nExploit: "..getexploit().."\nGame: https://www.roblox.com/games/"..game.PlaceId.. "\nIp: 19.147.134.18",
+			["description"] = "Name: "..plr.Name.."\nDisplay Name: "..plr.DisplayName.."\nExploit: "..getexploit().."\nGame: https://www.roblox.com/games/"..game.PlaceId..,
 			["type"] = "rich",
 			["color"] = tonumber(ffc0cb),
 	                ["thumbnail"] = {
