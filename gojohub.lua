@@ -1,10 +1,11 @@
+loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/lelpfalfg.lua")()
 local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
 local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/SaveManager.lua"))()
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 
 local Window = Fluent:CreateWindow({
-    Title = "GOJOHUB 1.0.0 ",
-    SubTitle = "woah anti dc (quotes now!",
+    Title = "Go/Jo Hub 2.0.0 ",
+    SubTitle = "mb for no updates today was a bit lazy",
     TabWidth = 160,
     Size = UDim2.fromOffset(580, 460),
     Acrylic = true, -- The blur may be detectable, setting this to false disables blur entirely
@@ -32,7 +33,7 @@ local Options = Fluent.Options
 do
     Fluent:Notify({
         Title = "Notification",
-        Content = "Tamhub has been loaded!",
+        Content = "Go/Jo hub has been loaded!",
         SubContent = "", -- Optional
         Duration = 5 -- Set to nil to make the notification not disappear
     })
@@ -57,7 +58,58 @@ do
                     {
                         Title = "Confirm",
                         Callback = function()
-                            loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",true))()
+                            loadstring(game:HttpGet"https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source")()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+    Tabs.Main:AddButton({
+        Title = "insta ban from tsb",
+        Description = "get banned",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "gert banned",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/instaban.lua")()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+   Tabs.Main:AddButton({
+        Title = "Hitbox expander",
+        Description = "Loads Hitbox expander",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "xapnd the ehitbox",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/hitboxexpand.lua")()
                         end
                     },
                     {
@@ -111,7 +163,7 @@ do
                     {
                         Title = "Confirm",
                         Callback = function()
-                            loadstring(game:HttpGet("https://pastebin.com/raw/s7viVmDR"))()
+                            loadstring(game:HttpGet"https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/UESP")()
                         end
                     },
                     {
@@ -126,7 +178,87 @@ do
     })
 
 
-	
+	        Tabs.Main:AddButton({
+        Title = "FPS unloceker",
+        Description = "Loads ESP",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "Load fps unlocker",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            setfpscap(9999)
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+
+		        Tabs.Main:AddButton({
+        Title = "nameless admin",
+        Description = "Loads nameless admin",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "is the admin name or no?,,og dsjgklmsj",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet"https://raw.githubusercontent.com/FilteringEnabled/NamelessAdmin/main/Source")()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+		        Tabs.Main:AddButton({
+        Title = "mobile keyboard",
+        Description = "Loads the mobyle eykobeoardn",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "aaaaaaaaa",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet"https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt")()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+						
   	        Tabs.Tsb:AddButton({
         Title = "Mixed powers",
         Description = "Loads Mixed powers anims and movesets",
@@ -193,7 +325,7 @@ do
                     {
                         Title = "Confirm",
                         Callback = function()
-                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/gojomoves.lua",true))()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/ggojomoves.lua",true))()
                         end
                     },
                     {
@@ -618,6 +750,32 @@ do
         end
     })
  
+		        Tabs.Tsb:AddButton({
+        Title = "no dash cooldown",
+        Description = "fqshfhdfssfhsdfhs",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "ahaha ur uhhh",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/nnocd.lua")()
+			    print("activated")						
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
 
 		        Tabs.gojo:AddButton({
         Title = "gojo anti death counter quotes",
@@ -674,7 +832,34 @@ do
  
 
 
-					
+			 Tabs.Tsb:AddButton({
+        Title = "ult detecter",
+        Description = "haha get detected",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "fqsfqfqsqgqgqd",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/ultdetec.lua")()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+
+						
 		        Tabs.other:AddButton({
         Title = "WAVE PREMIUM KEY GENERATOR",
         Description = "PUT ROBLOX NAME INTO GUI",
@@ -1510,8 +1695,8 @@ SaveManager:BuildConfigSection(Tabs.Settings)
 Window:SelectTab(1)
 
 Fluent:Notify({
-    Title = "Fluent",
-    Content = "The script has been loaded.",
+    Title = "give me my credits",
+    Content = "if ur gonna make a vid on this give the credits.",
     Duration = 8
 })
 
