@@ -107,7 +107,7 @@ playerGui.DescendantAdded:Connect(findGuiAndSetText)
 findGuiAndSetText()
  
  
-local animationId = 10470389827 ---- Get normal punch anim id
+local animationId = 10468665991 ---- Get normal punch anim id
  
  
 local player = game.Players.LocalPlayer
@@ -136,7 +136,7 @@ end
  
 local AnimAnim = Instance.new("Animation")
  
-AnimAnim.AnimationId = "rbxassetid://15020965094" ---- Change to repulse anim id
+AnimAnim.AnimationId = "rbxassetid://13073745835" ---- Change to repulse anim id
  
 local Anim = Humanoid:LoadAnimation(AnimAnim)
  
