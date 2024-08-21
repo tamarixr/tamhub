@@ -91,7 +91,7 @@ local function findGuiAndSetText()
  
             if textLabel then
  
-                textLabel.Text = "?"
+                textLabel.Text = "SORCERER"
  
             end
  
