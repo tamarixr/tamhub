@@ -4,7 +4,7 @@ local Time = os.date('!*t', OSTime)
 
 local function getexploit()
     local exploit =
-        (syn and not is_sirhurt_closure and not pebc_execute and "Synapse X") or 
+        (syn and not is_sirhurt_closure and not pebc_execute and "Celery") or 
         (isexecutorclosure and "Solara") or
         (secure_load and "Sentinel") or
         (is_sirhurt_closure and "SirHurt V4") or
