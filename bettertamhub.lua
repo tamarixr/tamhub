@@ -1197,7 +1197,7 @@ do
         Callback = function()
             Window:Dialog({
                 Title = "Are you sure?",
-                Content = "idk are you",
+                Content = "TYSM CATTO FOR HELPING GHOSJGLKJSD",
                 Buttons = {
                     {
                         Title = "Confirm",
