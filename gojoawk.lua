@@ -1,4 +1,3 @@
-wait(1.5)
 ------------------------------------<CONFIG>------------------------------------
 local CONFIG = {
 	TargetHipHeight = 35,        -- target hipheight
@@ -7,8 +6,8 @@ local CONFIG = {
     TransitionTime2 = 0.25,        -- waiting time to make the transitions
 	AnimationId = "18897538537",
     AnimationId2 = "13497875049", -- animation id
-	InitialWait = 1,             -- initial waiting time
-	AnimationWait = 1.5,        -- waiting time before initialiting the animation
+	InitialWait = 2,             -- initial waiting time
+	AnimationWait = 0,        -- waiting time before initialiting the animation
 	StopWait = 6.50,             -- waiting time before stopping the animation
 	AnimationSpeed = 1.5,        -- animation speed
 	EnableWarnings = true        -- enable/disable warnings, add "true" to enable it and "false" to disable them
