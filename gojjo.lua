@@ -6,7 +6,7 @@ local function applyHighlight(character)
     local highlight = Instance.new("Highlight")
     highlight.Parent = character
     highlight.FillColor = Color3.fromRGB(255, 255, 150) -- White fill color
-    highlight.OutlineColor = Color3.fromRGB(255, 255, 255) -- White outline color
+    highlight.OutlineColor = Color3.fromRGB(255, 255, 235) -- White outline color
     highlight.FillTransparency = 0.8 -- Slight transparency for a subtle effect
     highlight.OutlineTransparency = 0.5 -- Slight transparency for outline
 end
@@ -38,7 +38,7 @@ player.CharacterAdded:Connect(function(character)
     local uiStroke = Instance.new("UIStroke")
     uiStroke.Parent = textLabel
     uiStroke.Thickness = 2 -- Thickness of the stroke around the text
-    uiStroke.Color = Color3.fromRGB(0, 170, 255) -- Light blue color for glow effect
+    uiStroke.Color = Color3.fromRGB(255, 255,50) -- Light blue color for glow effect
     uiStroke.Transparency = 0.5 -- Slight transparency to make it look like a glow
     
     -- Adding a shadow effect for more glow-like appearance
