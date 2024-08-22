@@ -6,7 +6,7 @@ local localPlayer = game:GetService('Players').LocalPlayer
  
 local function scaleHitbox(character)
     if character then
-        local head = character:FindFirstChild("Head")
+        local head = character:FindFirstChild("Torso")
         local humanoidRootPart = character:FindFirstChild("HumanoidRootPart")
  
         if head then
