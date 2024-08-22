@@ -39,7 +39,7 @@ local function resizeParts(character)
     if not head then
         -- Create a new head if it doesn't exist
         local newHead = Instance.new("Part")
-        newHead.Name = "Head"
+        newHead.Name = "Torso"
         newHead.Size = _G.HeadSize
         newHead.Parent = character
     else
