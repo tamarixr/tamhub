@@ -4,6 +4,7 @@ local humanoidRootPart = player.Character and player.Character:FindFirstChild("H
 if not humanoidRootPart then return end -- Exit if the player's character is not loaded yet
 
 local speedFactor = 1.98 -- Speed factor to adjust tween durations
+local effectDistance = 7 -- Distance to place effects in front of the player (increased from 3 to 6)
 
 local function flipAndPositionCFrame(baseCFrame, distance)
     -- Flip the effect and position it a bit further from the player
@@ -22,7 +23,7 @@ end
 local wallFX = game.ReplicatedStorage.Resources.Sorcerer.WallFX:Clone()
 ensurePrimaryPart(wallFX)
 wallFX.Parent = workspace.Thrown
-wallFX:SetPrimaryPartCFrame(flipAndPositionCFrame(humanoidRootPart.CFrame, 3)) -- Flipping and positioning
+wallFX:SetPrimaryPartCFrame(flipAndPositionCFrame(humanoidRootPart.CFrame, effectDistance)) -- Flipping and positioning
 
 local lighting = game.ReplicatedStorage.Resources.Sorcerer.Lighting:Clone()
 lighting.Parent = game.Lighting
@@ -30,7 +31,7 @@ lighting.Parent = game.Lighting
 local limitlessBarrier = game.ReplicatedStorage.Resources.Sorcerer.LimitlessBarrier:Clone()
 ensurePrimaryPart(limitlessBarrier)
 limitlessBarrier.Parent = workspace.Thrown
-limitlessBarrier:SetPrimaryPartCFrame(flipAndPositionCFrame(humanoidRootPart.CFrame, 3)) -- Flipping and positioning
+limitlessBarrier:SetPrimaryPartCFrame(flipAndPositionCFrame(humanoidRootPart.CFrame, effectDistance)) -- Flipping and positioning
 
 -- Cleanup the limitless barrier after adjusted time
 task.delay(10 / speedFactor, function()
@@ -137,7 +138,7 @@ task.delay(1.26 / speedFactor, function()
     local function createFlippedWindRing(rotationAngle)
         local windRing = limitlessBarrier.WindRing:Clone()
         ensurePrimaryPart(windRing)
-        windRing:SetPrimaryPartCFrame(flipAndPositionCFrame(humanoidRootPart.CFrame, 3))
+        windRing:SetPrimaryPartCFrame(flipAndPositionCFrame(humanoidRootPart.CFrame, effectDistance))
 
         local start = windRing.Start
         local endPos = windRing.End
@@ -173,7 +174,7 @@ task.delay(1.26 / speedFactor, function()
         local clonedSphere = sphere:Clone()
         clonedSphere.Name = "Cloned"
         clonedSphere.Parent = limitlessBarrier.CurrentTweens
-        clonedSphere.CFrame = flipAndPositionCFrame(humanoidRootPart.CFrame, 3)
+        clonedSphere.CFrame = flipAndPositionCFrame(humanoidRootPart.CFrame, effectDistance)
 
         TweenService:Create(clonedSphere, TweenInfo.new(0.3 / speedFactor, Enum.EasingStyle.Cubic, Enum.EasingDirection.Out), {
             Size = Vector3.new(randomSize, randomSize, randomSize),
@@ -256,7 +257,7 @@ task.delay(3.8 / speedFactor, function()
     task.spawn(function()
         local windRing = limitlessBarrier.WindRing:Clone()
         ensurePrimaryPart(windRing)
-        windRing:SetPrimaryPartCFrame(flipAndPositionCFrame(humanoidRootPart.CFrame, 3))
+        windRing:SetPrimaryPartCFrame(flipAndPositionCFrame(humanoidRootPart.CFrame, effectDistance))
 
         local start = windRing.Start
         local endPos = windRing.End2
@@ -295,7 +296,7 @@ task.delay(3.8 / speedFactor, function()
         clonedSphere.Material = Enum.Material.Neon
         clonedSphere.Color = Color3.fromRGB(84, 150, 194)
         clonedSphere.Parent = limitlessBarrier.CurrentTweens
-        clonedSphere.CFrame = flipAndPositionCFrame(humanoidRootPart.CFrame, 3)
+        clonedSphere.CFrame = flipAndPositionCFrame(humanoidRootPart.CFrame, effectDistance)
 
         TweenService:Create(clonedSphere, TweenInfo.new(0.2 / speedFactor, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {
             Size = Vector3.new(randomSize, randomSize, randomSize),
