@@ -3,7 +3,7 @@ local player = game.Players.LocalPlayer
 local humanoidRootPart = player.Character and player.Character:FindFirstChild("HumanoidRootPart")
 if not humanoidRootPart then return end -- Exit if the player's character is not loaded yet
 
-local speedFactor = 1.99 -- Speed factor to adjust tween durations
+local speedFactor = 2 -- Speed factor to adjust tween durations
 local effectDistance = 7 -- Distance to place effects in front of the player (increased from 3 to 6)
 
 local function flipAndPositionCFrame(baseCFrame, distance)
