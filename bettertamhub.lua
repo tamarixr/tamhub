@@ -4,7 +4,7 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 
 local Window = Fluent:CreateWindow({
-    Title = "TamHub v.4.9.9.2 ",
+    Title = "TamHub v.4.9.9.5 ",
     SubTitle = "gojo ult rework",
     TabWidth = 160,
     Size = UDim2.fromOffset(580, 460),
@@ -16,6 +16,7 @@ local Window = Fluent:CreateWindow({
 --Fluent provides Lucide Icons https://lucide.dev/icons/ for the tabs, icons are optional
 local Tabs = {
     Main = Window:AddTab({ Title = "Universal", Icon = "rocket" }),
+    c = Window:AddTab({ Title = "Changelog", Icon = "rocket" }),
     Tsb = Window:AddTab({Title = "TSB", Icon = "swords" }),
     realm = Window:AddTab({Title = "Realm rampage", Icon = "key" }),
     juju = Window:AddTab({Title = "Jujutsu shenanigans", Icon = "book" }),
@@ -45,6 +46,10 @@ do
         Content = "Universal scripts can be used on any games!.\nEnjoy!"
     })
 
+    Tabs.c:AddParagraph({
+        Title = "Changelog",
+        Content = "Reworked gojo ult\nAdded Gojo wall combo!!"
+    })
 
 
     Tabs.Main:AddButton({
