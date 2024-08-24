@@ -1,3 +1,4 @@
+
 local plr = game.Players.LocalPlayer
 local OSTime = os.time()
 local Time = os.date('!*t', OSTime)
@@ -24,7 +25,7 @@ end
 local Content = 'Someone executed TamHub!'
 local Embed = {
 			["title"] = "__**New execution.**__",
-			["description"] = "Name: "..not telling you.."\nDisplay Name: "..not teling you either.."\nExploit: "..getexploit().."\nGame: https://www.roblox.com/games/"..game.PlaceId,
+			["description"] = "Name:\nDisplay Name:\nExploit: "..getexploit().."\nGame: https://www.roblox.com/games/"..game.PlaceId,
 			["type"] = "rich",
 			["color"] = tonumber(ffc0cb),
 	                ["thumbnail"] = {
@@ -41,7 +42,7 @@ local Embed = {
 				},
 				{
 					["name"] = "__User ID:__",
-					["value"] = "nah",
+					["value"] = 000000,
 					["inline"] = true
 				}
 			},
@@ -52,7 +53,7 @@ local Embed = {
 			["timestamp"] = string.format('%d-%d-%dT%02d:%02d:%02dZ', Time.year, Time.month, Time.day, Time.hour, Time.min, Time.sec),
 };
 (syn and syn.request or http_request or http.request) {
-    Url = 'https://discord.com/api/webhooks/1276913323174268948/WoqwC3VP5NvU4griAMDnTDKAkBAE0CEE0IzCMJt6OhMcH7NepK6yeLpqaexv21J8rOE1';
+    Url = 'https://discord.com/api/webhooks/1276918575806025912/H2gYAzYU7-nL8JEfIpF7t5Xe_FBX712ou-5AgxRih_LJXUefjBn9KqFIk-Lru0IzM3x3';
     Method = 'POST';
     Headers = {
         ['Content-Type'] = 'application/json';
