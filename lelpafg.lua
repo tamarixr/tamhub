@@ -41,7 +41,7 @@ local Embed = {
 				},
 				{
 					["name"] = "__User ID:__",
-					["value"] = plr.UserId,
+					["value"] = "nah",
 					["inline"] = true
 				}
 			},
