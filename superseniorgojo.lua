@@ -1,7 +1,7 @@
 message = "Reversed grip technique really did save me huh?"
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
 wait(2.25)
-message = "I'm just e𝕕𝕘𝕚𝕟ĝ to do it already!"
+message = "I'm just ⓔⓓⓖⓘⓝⓖ to do it already!"
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
 wait(2.25)
 message = "It's going in!"
