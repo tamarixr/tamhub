@@ -807,39 +807,6 @@ do
     })
 
  
-
-		        Tabs.gojo:AddButton({
-        Title = "gojo but uhm idk better!",
-        Description = "erm ryoki tenkai?",
-        Callback = function()
-            Window:Dialog({
-                Title = "Are you sure?",
-                Content = "idsgjsqkglsqgjsqklqzgjlkzq",
-                Buttons = {
-                    {
-                        Title = "Confirm",
-                        Callback = function()
-                            loadstring(game:HttpGet("_G.settings = {
-    ["RedStartupId"] = "rbxassetid://1177475221",
-    ["RedHitId"] = "rbxassetid://8625377966",
-}
-loadstring(game:HttpGet("https://raw.githubusercontent.com/skibiditoiletfan2007/BaldyToSorcerer/main/Latest.lua"))()"))()
-                        end
-                    },
-                    {
-                        Title = "Cancel",
-                        Callback = function()
-                            print("Cancelled the dialog.")
-                        end
-                    }
-                }
-            })
-        end
-    })
-
- 
-
-
 			 Tabs.sukuna:AddButton({
         Title = "anti dc quotes for sukuna",
         Description = "haha get ez'd",
