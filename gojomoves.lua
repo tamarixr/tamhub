@@ -1,111 +1,113 @@
+--Move & Ultimate Names
+
 local player = game.Players.LocalPlayer
- 
+
 local playerGui = player.PlayerGui
- 
+
 local hotbar = playerGui:FindFirstChild("Hotbar")
- 
+
 local backpack = hotbar:FindFirstChild("Backpack")
- 
+
 local hotbarFrame = backpack:FindFirstChild("Hotbar")
- 
+
 local baseButton = hotbarFrame:FindFirstChild("1").Base
- 
+
 local ToolName = baseButton.ToolName
- 
- 
-ToolName.Text = "Repulse"
- 
- 
+
+
+ToolName.Text = "Reversal techinque : Red"
+
+
 local player = game.Players.LocalPlayer
- 
+
 local playerGui = player.PlayerGui
- 
+
 local hotbar = playerGui:FindFirstChild("Hotbar")
- 
+
 local backpack = hotbar:FindFirstChild("Backpack")
- 
+
 local hotbarFrame = backpack:FindFirstChild("Hotbar")
- 
+
 local baseButton = hotbarFrame:FindFirstChild("2").Base
- 
+
 local ToolName = baseButton.ToolName
- 
- 
-ToolName.Text = "Attract"
- 
- 
+
+
+ToolName.Text = "Cursed Technique Lapse: Blue"
+
+
 local player = game.Players.LocalPlayer
- 
+
 local playerGui = player.PlayerGui
- 
+
 local hotbar = playerGui:FindFirstChild("Hotbar")
- 
+
 local backpack = hotbar:FindFirstChild("Backpack")
- 
+
 local hotbarFrame = backpack:FindFirstChild("Hotbar")
- 
+
 local baseButton = hotbarFrame:FindFirstChild("3").Base
- 
+
 local ToolName = baseButton.ToolName
- 
- 
-ToolName.Text = "Erase"
- 
- 
+
+
+ToolName.Text = "Limitless Slam"
+
+
 local player = game.Players.LocalPlayer
- 
+
 local playerGui = player.PlayerGui
- 
+
 local hotbar = playerGui:FindFirstChild("Hotbar")
- 
+
 local backpack = hotbar:FindFirstChild("Backpack")
- 
+
 local hotbarFrame = backpack:FindFirstChild("Hotbar")
- 
+
 local baseButton = hotbarFrame:FindFirstChild("4").Base
- 
+
 local ToolName = baseButton.ToolName
- 
- 
+
+
 ToolName.Text = "Infinity"
- 
- 
+
+
 local Players = game:GetService("Players")
- 
+
 local player = Players.LocalPlayer
- 
+
 local playerGui = player:WaitForChild("PlayerGui")
- 
- 
+
+
 local function findGuiAndSetText()
- 
+
     local screenGui = playerGui:FindFirstChild("ScreenGui")
- 
+
     if screenGui then
- 
+
         local magicHealthFrame = screenGui:FindFirstChild("MagicHealth")
- 
+
         if magicHealthFrame then
- 
+
             local textLabel = magicHealthFrame:FindFirstChild("TextLabel")
- 
+
             if textLabel then
- 
-                textLabel.Text = "SORCERER"
- 
+
+                textLabel.Text = "Six Eyes"
+
             end
- 
+
         end
- 
+
     end
- 
+
 end
- 
- 
+
+
 playerGui.DescendantAdded:Connect(findGuiAndSetText)
- 
+
 findGuiAndSetText()
- 
+
  
 local animationId = 10468665991 ---- Get normal punch anim id
  
