@@ -4,7 +4,7 @@ local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.
 
 local Window = Fluent:CreateWindow({
     Title = "TamHub v.4.9.9.5 ",
-    SubTitle = "gojo ult rework",
+    SubTitle = "small updates added some movesets",
     TabWidth = 160,
     Size = UDim2.fromOffset(580, 460),
     Acrylic = true, -- The blur may be detectable, setting this to false disables blur entirely
@@ -47,7 +47,7 @@ do
 
     Tabs.c:AddParagraph({
         Title = "Changelog",
-        Content = "Reworked gojo ult\nAdded Gojo wall combo!!"
+        Content = "Added sans movesetn/ Added gojo moveset i foundn/ added a train movesetn/ added gojo moveset from agent!!!"
     })
 
 
@@ -808,6 +808,37 @@ do
 
  
 
+		        Tabs.gojo:AddButton({
+        Title = "gojo but uhm idk better!",
+        Description = "erm ryoki tenkai?",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idsgjsqkglsqgjsqklqzgjlkzq",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("_G.settings = {
+    ["RedStartupId"] = "rbxassetid://1177475221",
+    ["RedHitId"] = "rbxassetid://8625377966",
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/skibiditoiletfan2007/BaldyToSorcerer/main/Latest.lua"))()"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+ 
+
 
 			 Tabs.sukuna:AddButton({
         Title = "anti dc quotes for sukuna",
@@ -1496,6 +1527,93 @@ do
 
 
 	
+	        Tabs.sukuna:AddButton({
+        Title = "sans moveset",
+        Description = "no need to explain",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "pfffftttt are you sure or nah nga idrc if you arent just tell me",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/sans.lua"))()
+                        end
+                    },
+                    {
+                        Title = "erm what the sukuna",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+
+	
+
+	        Tabs.sukuna:AddButton({
+        Title = "a train moveset",
+        Description = "no need to explain",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "pfffftttt are you sure or nah nga idrc if you arent just tell me",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/atrain.lua"))()
+                        end
+                    },
+                    {
+                        Title = "erm what the sukuna",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+
+	
+
+	        Tabs.gojo:AddButton({
+        Title = "gojo movesset i found",
+        Description = "no need to explain",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "pfffftttt are you sure or nah nga idrc if you arent just tell me",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/skidgojo.lua"))()
+                        end
+                    },
+                    {
+                        Title = "erm what the sukuna",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+
+	
+
 
 		        Tabs.sukuna:AddButton({
         Title = "KJ's anims and ult (fe)",
