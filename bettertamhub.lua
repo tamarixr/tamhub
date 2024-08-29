@@ -1534,7 +1534,7 @@ do
                     {
                         Title = "hey man im",
                         Callback = function()
-                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/atrain.lua"))()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/l0ckerV5/Roblox-Scripts/main/The%20Strongest%20Battlegrounds/Custom%20Character/A-Train"))()
                         end
                     },
                     {
