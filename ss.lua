@@ -1,9 +1,9 @@
 local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/shlexware/Orion/main/source"))()
 
-local Window = OrionLib:MakeWindow({Name = "skidhub 5.0 xxxhamster.com", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
+local Window = OrionLib:MakeWindow({Name = "skidhub 6.0 xxxhamster.com", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
 
 local Tab = Window:MakeTab({
-	Name = "skjidded shit",
+	Name = "ermmm",
 	Icon = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
@@ -55,6 +55,13 @@ Tab:AddButton({
 })
 
 Tab:AddButton({
+    Name = "Saitama to Sukuna",
+	Callback = function()
+	        loadstring(game:HttpGet(('https://raw.githubusercontent.com/Jackroquino/Jjs/main/Jjs'), true))()
+	end
+})
+
+Tab:AddButton({
     Name = "Saitama to Goku",
 	Callback = function()
 	        loadstring(game:HttpGet("https://pastebin.com/raw/dB2TgS33"))()
@@ -96,6 +103,20 @@ Tab:AddButton({
 	end
 })
 
+Tab:AddButton({
+    Name = "Saitama to Stealth",
+	Callback = function()
+	        loadstring(game:HttpGet("https://pastebin.com/raw/yLy4Rd7p"))()
+	end
+})
+
+Tab:AddButton({
+    Name = "Saitama to King",
+	Callback = function()
+	        loadstring(game:HttpGet("https://pastebin.com/raw/zqaKnxep"))()
+	end
+})
+
 local Section = Tab:AddSection({
     Name = "Garou"
 })
@@ -104,6 +125,13 @@ Tab:AddButton({
     Name = "Garou To Suiryu",
 	Callback = function()
 	        loadstring(game:HttpGet('https://raw.githubusercontent.com/xVicity/BURNED/main/LATEST.lua'))()
+	end
+})
+
+Tab:AddButton({
+    Name = "Garou To Suiryu 2",
+	Callback = function()
+	        loadstring(game:HttpGet("https://gist.githubusercontent.com/kjremaker/b092496fc11a57e2c50477154176fa3e/raw/2148f00a036a1799118541765675f3f6a0f8adae/GAROU%20TO%20SURIYU%20BETTER%20THAN%20THE%20OTHERS%20FR"))()
 	end
 })
 
@@ -118,6 +146,13 @@ Tab:AddButton({
     Name = "Garou to KJ",
 	Callback = function()
 	        loadstring(game:HttpGet("https://raw.githubusercontent.com/h8h88/garouxkj/main/kjxgarou"))()
+	end
+})
+
+Tab:AddButton({
+    Name = "Garou to Goku",
+	Callback = function()
+	        loadstring(game:HttpGet("https://pastebin.com/raw/sB9fiEFu"))()
 	end
 })
 
@@ -196,9 +231,59 @@ Tab:AddButton({
 })
 
 Tab:AddButton({
+    Name = "batman hub",
+	Callback = function()
+	        loadstring(game:HttpGet("https://github.com/l0ckerV5/BatmanHub/raw/main/Sources/Lite"))()
+	end
+})
+
+Tab:AddButton({
     Name = "TamHub",
 	Callback = function()
 	        loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/bettertamhub.lua"))()
+	end
+})
+
+Tab:AddButton({
+    Name = "Kade Hub",
+	Callback = function()
+	        getgenv().AutoReport = true
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/skibiditoiletfan2007/KadeHubRepository/main/Latest.lua"))()
+	end
+})
+
+Tab:AddButton({
+    Name = "Keith Hub",
+	Callback = function()
+	        loadstring(game:HttpGet("https://pastebin.com/raw/WY4T5wph"))()
+	end
+})
+
+Tab:AddButton({
+    Name = "JJK Characters Menu V1",
+	Callback = function()
+            loadstring(game:HttpGet("https://gist.githubusercontent.com/kjremaker/632bd99d5278c665e07ca08f61f07f78/raw/4b9b007ae0c68195f2487ab21678f1b03a50fb05/SUMMONEDKJ%2520JJK%2520CHARS%2520V1"))()
+	end
+})
+
+Tab:AddButton({
+    Name = "TSB The Hunt Hub",
+	Callback = function()
+	        loadstring(game:HttpGet("https://gist.githubusercontent.com/kjremaker/b7e7cbf10d60d004aaf7e900640af3c9/raw/c5ddb6b29f0ecd3f4c1ca91afe2b9ecff5daced4/summonedkj%2520tsb%2520the%2520hunt%2520ffeatures"))()
+	end
+})
+
+Tab:AddButton({
+    Name = "Lightux",
+	Callback = function()
+	        loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/Lightux/main/README.md'), true))()
+	end
+})
+
+Tab:AddButton({
+    Name = "Lightux Solara Support",
+	Callback = function()
+	        loadstring(game:HttpGet('https://raw.githubusercontent.com/cool83birdcarfly02six/LightuxSolaraSup/main/README.md'))()
 	end
 })
 
@@ -251,6 +336,20 @@ Tab:AddButton({
 	end
 })
 
+Tab:AddButton({
+    Name = "ScripterMrbacon New",
+	Callback = function()
+	        loadstring(game:HttpGet("https://raw.githubusercontent.com/Scripterbacon/TSBobfuscator/main/Script.Lua"))()
+	end
+})
+
+Tab:AddButton({
+    Name = "Nebula Hub",
+	Callback = function()
+	        loadstring(game:HttpGet("https://pastebin.com/raw/EJHKH05n"))()
+	end
+})
+
 local Section = Tab:AddSection({
      Name = "KJ Hubs"
 })
@@ -259,6 +358,13 @@ Tab:AddButton({
     Name = "Fake KJ Hub",
 	Callback = function()
 	        loadstring(game:HttpGet("https://raw.githubusercontent.com/Tariviste/Gojo/main/Source"))()
+	end
+})
+
+Tab:AddButton({
+    Name = "ree2ou hub",
+	Callback = function()
+	        loadstring(game:HttpGet('https://raw.githubusercontent.com/Showcaser1/Ree2ouhub/main/The%20strongest%20Battlegrounds'))()
 	end
 })
 
@@ -294,6 +400,13 @@ Tab:AddButton({
 })
 
 Tab:AddButton({
+    Name = "OP Fling",
+	Callback = function()
+            loadstring(game:HttpGet(('https://raw.githubusercontent.com/0Ben1/fe/main/obf_K2n31uc6t2wY5A8786eR4K15sgbUF0vdQ80a0LzgvLRkSNYd89H1AS3124gMR6SM.lua.txt'), true))()
+    end
+})
+
+Tab:AddButton({
     Name = "Infinite Yield",
 	Callback = function()
 	        loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
@@ -321,9 +434,20 @@ Tab:AddButton({
 })
 
 local Tab = Window:MakeTab({
-	Name = "KJ Stuff",
+	Name = "stuff",
 	Icon = "rbxassetid://4483345998",
 	PremiumOnly = false
+})
+
+local Section = Tab:AddSection({
+	Name = "KJ Stuff"
+})
+
+Tab:AddButton({
+    Name = "KJ Spawn Animation",
+	Callback = function()
+	        loadstring(game:HttpGet("https://pastebin.com/raw/nLpWKmyV"))()
+	end
 })
 
 Tab:AddButton({
@@ -341,9 +465,30 @@ Tab:AddButton({
 })
 
 Tab:AddButton({
+    Name = "KJ Ult",
+	Callback = function()
+	        loadstring(game:HttpGet("https://pastebin.com/raw/1BeBG2Ch"))()
+	end
+})
+
+Tab:AddButton({
+    Name = "KJ Ult 2",
+	Callback = function()
+	        loadstring(game:HttpGet("https://pastebin.com/raw/QSQysq1J"))()
+	end
+})
+
+Tab:AddButton({
     Name = "KJ Ult Only Anim",
 	Callback = function()
 	        loadstring(game:HttpGet("https://pastefy.app/Yk7clVVA/raw"))()
+	end
+})
+
+Tab:AddButton({
+    Name = "KJ Ult 2 Only Anim",
+	Callback = function()
+	        loadstring(game:HttpGet("https://pastebin.com/raw/isLeJRyS"))()
 	end
 })
 
@@ -369,23 +514,23 @@ Tab:AddButton({
 })
 
 Tab:AddButton({
-    Name = "20-20-20 Dropkick hitter",
+    Name = "20-20-20 Dropkick Hitter",
 	Callback = function()
 	        loadstring(game:HttpGet("https://pastefy.app/y1JjYVVm/raw"))()
 	end
 })
 
 Tab:AddButton({
-    Name = "Five Seasons Tp",
+    Name = "Five Seasons",
 	Callback = function()
-	        loadstring(game:HttpGet("https://pastefy.app/XuHUQwIy/raw"))()
+	        loadstring(game:HttpGet("https://pastebin.com/raw/G7CegUS2"))()
 	end
 })
 
 Tab:AddButton({
-    Name = "Five Seasons",
+    Name = "KJ Wall Combo",
 	Callback = function()
-	        loadstring(game:HttpGet("https://pastefy.app/hzerkicS/raw"))()
+	        loadstring(game:HttpGet("https://pastebin.com/raw/5C2fP0ss"))()
 	end
 })
 
@@ -400,6 +545,20 @@ Tab:AddButton({
     Name = "Ravage (Be near Dummy)",
 	Callback = function()
 	        loadstring(game:HttpGet("https://pastebin.com/raw/pQBSdrBG"))()
+	end
+})
+
+Tab:AddButton({
+    Name = "Swift Sweep",
+	Callback = function()
+	        loadstring(game:HttpGet("https://pastebin.com/raw/2RRmpQKJ"))()
+	end
+})
+
+Tab:AddButton({
+    Name = "Collateral Ruin",
+	Callback = function()
+	        loadstring(game:HttpGet("https://pastebin.com/raw/A6d0ydWy"))()
 	end
 })
 
@@ -524,5 +683,18 @@ Tab:AddButton({
     Name = "Legends Battlegrounds",
 	Callback = function()
 	        loadstring(game:HttpGet("https://pastefy.app/gbwEzNX4/raw"))()
+	end
+})
+
+local Tab = Window:MakeTab({
+	Name = "Only Ranked/Duels Scripts",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+Tab:AddButton({
+    Name = "KJ",
+	Callback = function()
+	        loadstring(game:HttpGet("https://raw.githubusercontent.com/Bobcompot/Omg/main/Loadstring"))()
 	end
 })
