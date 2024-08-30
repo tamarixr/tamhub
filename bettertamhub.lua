@@ -19,6 +19,7 @@ local Tabs = {
     Tsb = Window:AddTab({Title = "TSB", Icon = "swords" }),
     realm = Window:AddTab({Title = "Realm rampage", Icon = "key" }),
     juju = Window:AddTab({Title = "Jujutsu shenanigans", Icon = "book" }),
+    ss = Window:AddTab({Title = "Skidded hubs", Icon = "award" }),
     other = Window:AddTab({Title = "Other", Icon = "award" }),
     gojo = Window:AddTab({Title = "Gojo", Icon = "aperture" }),
     super = Window:AddTab({Title = "Super Senior Gojo", Icon = "smile" }),
@@ -440,6 +441,33 @@ do
                         Title = "Confirm",
                         Callback = function()
                            loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/animid.lua")()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+  		        Tabs.ss:AddButton({
+        Title = "SkidHub 5.0 xxxhamster.com",
+        Description = "thanks sonic",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "Load skid hub",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                           loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/ss.lua")()
                         end
                     },
                     {
