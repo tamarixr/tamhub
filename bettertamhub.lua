@@ -3,8 +3,8 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 
 local Window = Fluent:CreateWindow({
-    Title = "TamHub v.4.9.9.5 ",
-    SubTitle = "small updates added some movesets",
+    Title = "TamHub v.4.9.9.8 ",
+    SubTitle = "aaaaaaaaaaaa",
     TabWidth = 160,
     Size = UDim2.fromOffset(580, 460),
     Acrylic = true, -- The blur may be detectable, setting this to false disables blur entirely
@@ -19,11 +19,12 @@ local Tabs = {
     Tsb = Window:AddTab({Title = "TSB", Icon = "swords" }),
     realm = Window:AddTab({Title = "Realm rampage", Icon = "key" }),
     juju = Window:AddTab({Title = "Jujutsu shenanigans", Icon = "book" }),
-    ss = Window:AddTab({Title = "Skidded hubs", Icon = "award" }),
+    ss = Window:AddTab({Title = "Skidded hubs", Icon = "armchair" }),
     other = Window:AddTab({Title = "Other", Icon = "award" }),
     gojo = Window:AddTab({Title = "Gojo", Icon = "aperture" }),
     super = Window:AddTab({Title = "Super Senior Gojo", Icon = "smile" }),
     sukuna = Window:AddTab({Title = "Other movesets!!", Icon = "slice" }),
+    kj = Window:AddTab({Title = "Client sided KJ", Icon = "apple" }),
     sex = Window:AddTab({Title = "sex (not working)", Icon = "heart" }),
     discord = Window:AddTab({Title = "Discord servers", Icon = "mail" }),
     Settings = Window:AddTab({ Title = "Settings", Icon = "settings" }),
@@ -48,7 +49,7 @@ do
 
     Tabs.c:AddParagraph({
         Title = "Changelog",
-        Content = "Added sans movesetn/ Added gojo moveset i foundn/ added a train movesetn/ added gojo moveset from agent!!!"
+        Content = "Added client sided kj anims and uh thats it"
     })
 
 
@@ -1683,6 +1684,136 @@ do
                         Title = "hey man im",
                         Callback = function()
                             loadstring(game:HttpGet'https://raw.githubusercontent.com/tamarixr/tamhub/main/autowin.lua')()
+                        end
+                    },
+                    {
+                        Title = "erm what the clash",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+		        Tabs.kj:AddButton({
+        Title = "Stoic bomb",
+        Description = "ghdskjgsdhgjk",
+        Callback = function()
+            Window:Dialog({
+                Title = "qsfqsfqsf",
+                Content = "fqsqsffqs",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            loadstring(game:HttpGet'https://raw.githubusercontent.com/tamarixr/tamhub/main/stoic.lua')()
+                        end
+                    },
+                    {
+                        Title = "erm what the clash",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+		        Tabs.kj:AddButton({
+        Title = "Five seasons",
+        Description = "ghdskjgsdhgjk",
+        Callback = function()
+            Window:Dialog({
+                Title = "fqsfqsqfs",
+                Content = "qfsfqsqfs",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            loadstring(game:HttpGet'https://raw.githubusercontent.com/tamarixr/tamhub/main/five.lua')()
+                        end
+                    },
+                    {
+                        Title = "erm what the clash",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+		        Tabs.kj:AddButton({
+        Title = "KJ wall combo",
+        Description = "ghdskjgsdhgjk",
+        Callback = function()
+            Window:Dialog({
+                Title = "fqsfqsqfs",
+                Content = "qfsfqsqfs",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            loadstring(game:HttpGet'https://raw.githubusercontent.com/tamarixr/tamhub/main/slap.lua')()
+                        end
+                    },
+                    {
+                        Title = "erm what the clash",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+		        Tabs.kj:AddButton({
+        Title = "ravage on dummy",
+        Description = "ghdskjgsdhgjk",
+        Callback = function()
+            Window:Dialog({
+                Title = "fqsfqsqfs",
+                Content = "qfsfqsqfs",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            loadstring(game:HttpGet'https://raw.githubusercontent.com/tamarixr/tamhub/main/ravage.lua')()
+                        end
+                    },
+                    {
+                        Title = "erm what the clash",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+		        Tabs.kj:AddButton({
+        Title = "Dropkick hit",
+        Description = "ghdskjgsdhgjk",
+        Callback = function()
+            Window:Dialog({
+                Title = "fqsfqsqfs",
+                Content = "qfsfqsqfs",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            loadstring(game:HttpGet'https://raw.githubusercontent.com/tamarixr/tamhub/main/dropkick.lua')()
                         end
                     },
                     {
