@@ -24,7 +24,7 @@ local function getexploit()
 end
 
 --Please don't spam the webhook. I don't even log IP's :/
-local Content = 'Someone used Animation Grabber!'
+local Content = 'Someone executed TamHub!!'
 local Embed = {
 			["title"] = "__**New execution.**__",
 			["description"] = "Name: "..plr.Name.."\nDisplay Name: "..plr.DisplayName.."\nExploit: "..getexploit().."\nGame: https://www.roblox.com/games/"..game.PlaceId,
@@ -49,7 +49,7 @@ local Embed = {
 				}
 			},
 			["footer"] = {
-			    ["text"] = "Simple Animation Grabber",
+			    ["text"] = "TamHub",
 			    ["icon_url"] = "https://i.imgur.com/Vz2XUGj.jpg"
 			},
 			["timestamp"] = string.format('%d-%d-%dT%02d:%02d:%02dZ', Time.year, Time.month, Time.day, Time.hour, Time.min, Time.sec),
