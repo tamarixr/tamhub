@@ -2,13 +2,13 @@
 local CONFIG = {
 	TargetHipHeight = 35,        -- target hipheight
 	ResetHipHeight = 0,          -- objetive hipheight when the animation finishes
-	TransitionTime = 1.5,
+	TransitionTime = 2.5,
     TransitionTime2 = 0.15,        -- waiting time to make the transitions
 	AnimationId = "18897538537",
     AnimationId2 = "13497875049", -- animation id
-	InitialWait = 6.5,             -- initial waiting time
-	AnimationWait = 8,        -- waiting time before initialiting the animation
-	StopWait = 8,             -- waiting time before stopping the animation
+	InitialWait = 0,             -- initial waiting time
+	AnimationWait = 0,        -- waiting time before initialiting the animation
+	StopWait = 2,             -- waiting time before stopping the animation
 	AnimationSpeed = 1.5,        -- animation speed
 	EnableWarnings = true        -- enable/disable warnings, add "true" to enable it and "false" to disable them
 }
