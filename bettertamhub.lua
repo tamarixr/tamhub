@@ -730,6 +730,8 @@ do
     })
  
 
+loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/uh.lua")()
+
 
 		        Tabs.Tsb:AddButton({
         Title = "anti dc woohoo",
