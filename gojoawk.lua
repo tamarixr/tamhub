@@ -6,9 +6,9 @@ local CONFIG = {
     TransitionTime2 = 0.15,        -- waiting time to make the transitions
 	AnimationId = "18897538537",
     AnimationId2 = "13497875049", -- animation id
-	InitialWait = 2,             -- initial waiting time
-	AnimationWait = 0.45,        -- waiting time before initialiting the animation
-	StopWait = 6.50,             -- waiting time before stopping the animation
+	InitialWait = 6.5,             -- initial waiting time
+	AnimationWait = 8,        -- waiting time before initialiting the animation
+	StopWait = 8,             -- waiting time before stopping the animation
 	AnimationSpeed = 1.5,        -- animation speed
 	EnableWarnings = true        -- enable/disable warnings, add "true" to enable it and "false" to disable them
 }
