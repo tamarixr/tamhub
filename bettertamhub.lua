@@ -6,7 +6,7 @@ local Window = Fluent:CreateWindow({
     Title = "TamHub v.4.9.9.9 ",
     SubTitle = "aaaaaaaaaaaa",
     TabWidth = 160,
-    Size = UDim2.fromOffset(580, 460),
+    Size = UDim2.fromOffset(750, 600),
     Acrylic = true, -- The blur may be detectable, setting this to false disables blur entirely
     Theme = "Dark",
     MinimizeKey = Enum.KeyCode.LeftControl -- Used when theres no MinimizeKeybind
@@ -21,7 +21,6 @@ local Tabs = {
     juju = Window:AddTab({Title = "Jujutsu shenanigans", Icon = "book" }),
     ss = Window:AddTab({Title = "Skidded hubs", Icon = "armchair" }),
     other = Window:AddTab({Title = "Other", Icon = "award" }),
-    key = Window:AddTab({Title = "Key emotes", Icon = "award" }),
     gojo = Window:AddTab({Title = "Gojo", Icon = "aperture" }),
     super = Window:AddTab({Title = "Super Senior Gojo", Icon = "smile" }),
     sukuna = Window:AddTab({Title = "Other movesets!!", Icon = "slice" }),
