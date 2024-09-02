@@ -49,7 +49,7 @@ do
 
     Tabs.c:AddParagraph({
         Title = "Changelog",
-        Content = "Added client sided kj anims and uh thats it"
+        Content = "added more client sided kj and uhhhh"
     })
 
 
@@ -784,7 +784,32 @@ loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/u
             })
         end
     })
- 
+		        Tabs.Tsb:AddButton({
+        Title = "auto void kill for garou 1 and 2",
+        Description = "haha get void killed",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "uhhhh
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet"https://raw.githubusercontent.com/loadlua/TSB/main/Insta-kill.lua")()
+			    print("activated")						
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+  
 		        Tabs.Tsb:AddButton({
         Title = "no dash cooldown",
         Description = "fqshfhdfssfhsdfhs",
@@ -1699,6 +1724,31 @@ loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/u
         end
     })
  
+		        Tabs.realm:AddButton({
+        Title = "Dio TP ahahahah",
+        Description = "button is T",
+        Callback = function()
+            Window:Dialog({
+                Title = "funi dio",
+                Content = "oh my wryy",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            loadstring(game:HttpGet'https://raw.githubusercontent.com/tamarixr/tamhub/main/aanim.lua')()
+                        end
+                    },
+                    {
+                        Title = "erm what the clash",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
 
 		        Tabs.kj:AddButton({
         Title = "Stoic bomb",
@@ -1815,7 +1865,7 @@ loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/u
                     {
                         Title = "hey man im",
                         Callback = function()
-                            loadstring(game:HttpGet'https://raw.githubusercontent.com/tamarixr/tamhub/main/dropkick.lua')()
+                            loadstring(game:HttpGet'https://raw.githubusercontent.com/tamarixr/tamhub/main/https://pastebin.com/raw/7JdC3wL1')()
                         end
                     },
                     {
@@ -1829,6 +1879,61 @@ loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/u
         end
     })
  
+
+		        Tabs.kj:AddButton({
+        Title = "KJ ult",
+        Description = "ghdskjgsdhgjk",
+        Callback = function()
+            Window:Dialog({
+                Title = "fqsfqsqfs",
+                Content = "qfsfqsqfs",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            loadstring(game:HttpGet'https://raw.githubusercontent.com/tamarixr/tamhub/main/https://pastebin.com/raw/1BeBG2Ch')()
+                        end
+                    },
+                    {
+                        Title = "erm what the clash",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+
+		        Tabs.kj:AddButton({
+        Title = "KJ victim tools",
+        Description = "ghdskjgsdhgjk",
+        Callback = function()
+            Window:Dialog({
+                Title = "fqsfqsqfs",
+                Content = "qfsfqsqfs",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            loadstring(game:HttpGet'https://pastebin.com/raw/75zWy13P')()
+                        end
+                    },
+                    {
+                        Title = "erm what the clash",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+
 
 
 			        Tabs.juju:AddButton({
