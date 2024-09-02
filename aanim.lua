@@ -5,7 +5,7 @@ local cooldown = 0 -- Cooldown time in seconds
 local canTeleport = true -- Variable to check if the player can teleport
 
 local animationId = "rbxassetid://184559639319"
-local soundId = "rbxassetid://6995341122"
+local soundId = "rbxassetid://6920047468"
 
 -- Function to play teleportation animation
 local function playTeleportAnimation()
@@ -32,7 +32,7 @@ local function playTeleportSound()
     if character then
         local sound = Instance.new("Sound")
         sound.SoundId = soundId
-        sound.Volume = 1.25
+        sound.Volume = 2
         sound.Parent = character:FindFirstChild("HumanoidRootPart")
         sound:Play()
     end
@@ -50,7 +50,7 @@ local function applyBlackAndWhiteEffect()
     colorCorrection.Parent = game.Lighting
     
     -- Use Debris service to remove the effect after 0.25 seconds without delaying the script
-    game:GetService("Debris"):AddItem(colorCorrection, 0.08)
+    game:GetService("Debris"):AddItem(colorCorrection, 0.10)
 end
 
 -- Function to teleport the player
