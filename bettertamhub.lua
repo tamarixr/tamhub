@@ -21,6 +21,7 @@ local Tabs = {
     juju = Window:AddTab({Title = "Jujutsu shenanigans", Icon = "book" }),
     ss = Window:AddTab({Title = "Skidded hubs", Icon = "armchair" }),
     other = Window:AddTab({Title = "Other", Icon = "award" }),
+    key = Window:AddTab({Title = "Key emotes", Icon = "award" }),
     gojo = Window:AddTab({Title = "Gojo", Icon = "aperture" }),
     super = Window:AddTab({Title = "Super Senior Gojo", Icon = "smile" }),
     sukuna = Window:AddTab({Title = "Other movesets!!", Icon = "slice" }),
@@ -358,6 +359,39 @@ do
                         Title = "Confirm",
                         Callback = function()
                             loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/gojotsb.lua",true))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+
+		        Tabs.other:AddButton({
+        Title = "Key anim idk",
+        Description = "key",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idkkkfkqkjglqkdjgklqjdngijlokqhbjklqnkgqnijkgqdhkjglqihbgqkljghiq",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                Player = "LocalPlayer"
+                AnimationId = "16719053698"
+                local Anim = Instance.new("Animation")
+                Anim.AnimationId = "rbxassetid://"..AnimationId
+                local k = game.Players[Player].Character.Humanoid:LoadAnimation(Anim)
+                k:Play() --Play the animation
+                k:AdjustSpeed(1) --Set '1' to any value you want to adjust the animation speed.
                         end
                     },
                     {
