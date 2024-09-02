@@ -3,7 +3,7 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 
 local Window = Fluent:CreateWindow({
-    Title = "TamHub v.4.9.9.8 ",
+    Title = "TamHub v.4.9.9.9 ",
     SubTitle = "aaaaaaaaaaaa",
     TabWidth = 160,
     Size = UDim2.fromOffset(580, 460),
@@ -824,7 +824,7 @@ loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/u
         Callback = function()
             Window:Dialog({
                 Title = "Are you sure?",
-                Content = "uhhhh
+                Content = "uhhhh",
                 Buttons = {
                     {
                         Title = "Confirm",
