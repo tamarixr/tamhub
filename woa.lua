@@ -1,6 +1,6 @@
 ------------------------------------<CONFIG>------------------------------------
 local CONFIG = {
-	TargetHipHeight = 150,        -- target hipheight
+	TargetHipHeight = 300,        -- target hipheight
 	ResetHipHeight = 0,          -- objetive hipheight when the animation finishes
 	TransitionTime = 0,
     TransitionTime2 = 0,        -- waiting time to make the transitions -- animation id
