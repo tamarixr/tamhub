@@ -1860,7 +1860,33 @@ loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/u
         end
     })
  
+		        Tabs.kj:AddButton({
+        Title = "KJ ult2",
+        Description = "ghdskjgsdhgjk",
+        Callback = function()
+            Window:Dialog({
+                Title = "fqsfqsqfs",
+                Content = "qfsfqsqfs",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            loadstring(game:HttpGet'https://raw.githubusercontent.com/tamarixr/tamhub/main/kj.lua')()
+                        end
+                    },
+                    {
+                        Title = "erm what the clash",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
 
+	
 		        Tabs.kj:AddButton({
         Title = "ravage on dummy",
         Description = "ghdskjgsdhgjk",
@@ -1924,7 +1950,7 @@ loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/u
                     {
                         Title = "hey man im",
                         Callback = function()
-                            loadstring(game:HttpGet'https://raw.githubusercontent.com/tamarixr/tamhub/main/https://pastebin.com/raw/1BeBG2Ch')()
+                            loadstring(game:HttpGet'https://raw.githubusercontent.com/tamarixr/tamhub/main/kjj')()
                         end
                     },
                     {
