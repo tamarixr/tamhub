@@ -49,7 +49,7 @@ do
 
     Tabs.c:AddParagraph({
         Title = "Changelog",
-        Content = "added more client sided kj and uhhhh"
+        Content = "added domain expansion tool and omni"
     })
 
 
@@ -855,6 +855,32 @@ loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/u
                         Title = "Confirm",
                         Callback = function()
                             loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/nnocd.lua")()
+			    print("activated")						
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+		        Tabs.Tsb:AddButton({
+        Title = "domain tool",
+        Description = "fqshfhdfssfhsdfhs",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "ahaha ur uhhh",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/tdo.lua")()
 			    print("activated")						
                         end
                     },
