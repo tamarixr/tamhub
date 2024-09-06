@@ -576,7 +576,7 @@ Anim:AdjustSpeed(0)
 Anim.TimePosition = startTime
  
 Anim:AdjustSpeed(0.35)
-loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/do.lua")()  
+loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/ddo.lua")()  
  
     end
  
