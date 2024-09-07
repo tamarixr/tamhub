@@ -3,7 +3,7 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 
 local Window = Fluent:CreateWindow({
-    Title = "TamHub v.4.9.9.9 ",
+    Title = "TamHub v.4.9.9.9.9 ",
     SubTitle = "aaaaaaaaaaaa",
     TabWidth = 160,
     Size = UDim2.fromOffset(750, 600),
@@ -49,7 +49,7 @@ do
 
     Tabs.c:AddParagraph({
         Title = "Changelog",
-        Content = "added domain expansion tool and omni"
+        Content = "added double rianwbow sword and dunk with second garou move teehee"
     })
 
 
@@ -603,6 +603,33 @@ do
  
 
 
+		        Tabs.Tsb:AddButton({
+        Title = "dunked on! (with second garou move)",
+        Description = "By me (ez)",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "fqsqsfqfs",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/wwoa.lua"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+
 
 		        Tabs.Tsb:AddButton({
         Title = "Kadehub",
@@ -645,6 +672,31 @@ do
                         Title = "Confirm",
                         Callback = function()
                             loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/animtelp.lua"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+		        Tabs.other:AddButton({
+        Title = "double rainbow sword ahfahjdhgjahgagadgaga",
+        Description = "yay",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idk are you",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/ultima.lua"))()
                         end
                     },
                     {
