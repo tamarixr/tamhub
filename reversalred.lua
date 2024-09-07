@@ -30,7 +30,7 @@ if effect and sound then
         sound:Play()
 
         -- Wait for 10 seconds
-        wait(1.5)
+        wait(0.75)
 
         -- Cleanup
         effect:Destroy()
