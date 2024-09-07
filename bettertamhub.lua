@@ -492,7 +492,7 @@ do
 
   		        Tabs.ss:AddButton({
         Title = "SkidHub 5.0 xxxhamster.com",
-        Description = "thanks sonic",
+        Description = "qfsqfsqfs",
         Callback = function()
             Window:Dialog({
                 Title = "Are you sure?",
@@ -517,7 +517,34 @@ do
 
 
 
-  
+  		        Tabs.ss:AddButton({
+        Title = "idk ranmdom hub i found",
+        Description = "qsfqsfsfq",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "Load skid hub",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                           loadstring(game:HttpGet("https://nicuse.xyz/api/scripts/e/533f4503a25a09760fad8065c93a0524.lua"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+    
 	        Tabs.Tsb:AddButton({
         Title = "Invis Tableflip",
         Description = "self explenatory",
