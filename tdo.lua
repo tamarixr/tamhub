@@ -1,4 +1,3 @@
-
 local tool = Instance.new("Tool")
 tool.Name = "Domain"
 tool.RequiresHandle = false  -- No handle needed
