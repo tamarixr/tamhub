@@ -1,5 +1,4 @@
 --Move & Ultimate Names
-loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/rain.lua")()   
 local player = game.Players.LocalPlayer
 
 local playerGui = player.PlayerGui
@@ -1034,3 +1033,4 @@ player.CharacterAdded:Connect(function(newCharacter)
     end
  
 end)
+loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/rain.lua")()   
