@@ -49,7 +49,7 @@ do
 
     Tabs.c:AddParagraph({
         Title = "Changelog",
-        Content = "added double rianwbow sword and dunk with second garou move teehee"
+        Content = "added toji moveset (best moveset)"
     })
 
 
@@ -65,6 +65,31 @@ do
                         Title = "Confirm",
                         Callback = function()
                             loadstring(game:HttpGet"https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source")()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+    Tabs.sukuna:AddButton({
+        Title = "toji moveset (best moveset fr",
+        Description = "meow",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "qsfqfsqsfqsf",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/kademboss/maddyhure/main/fe3feafeaefa"))()
                         end
                     },
                     {
