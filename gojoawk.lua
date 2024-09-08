@@ -1,13 +1,14 @@
 ------------------------------------<CONFIG>------------------------------------
 local CONFIG = {
 	TargetHipHeight = 35,        -- target hipheight
-	ResetHipHeight = 0,          -- objetive hipheight when the animation finishes
+	ResetHipHeight = 0,
+        AnimationWait2 = 0,          -- objetive hipheight when the animation finishes
 	TransitionTime = 2.5,
     TransitionTime2 = 0.15,        -- waiting time to make the transitions
 	AnimationId = "18897538537",
     AnimationId2 = "13497875049", -- animation id
 	InitialWait = 0,             -- initial waiting time
-	AnimationWait = 3,        -- waiting time before initialiting the animation
+	AnimationWait = 2.75,        -- waiting time before initialiting the animation
 	StopWait = 2,             -- waiting time before stopping the animation
 	AnimationSpeed = 1.5,        -- animation speed
 	EnableWarnings = true        -- enable/disable warnings, add "true" to enable it and "false" to disable them
@@ -90,7 +91,7 @@ animationTrack:Stop()
 ------------------------------------<TRANSITION: RESET HIP HEIGHT>------------------------------------
 -- i'm so done with your code
 
-wait(CONFIG.AnimationWait)
+wait(CONFIG.AnimationWait2)
 
 -- loads and plays the animation
 local Anim = Instance.new("Animation")
