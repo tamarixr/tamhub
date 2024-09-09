@@ -17,13 +17,13 @@ if effect and sound then
 
         -- Adjust CFrame to position effect at the end of the hand
         -- For R15, "RightHand" might be used; for R6, you might need to adjust it further
-        effect.CFrame = rightHand.CFrame * CFrame.new(0, -rightHand.Size.Y/2, 0) -- Adjust the offset if necessary
+        effect.CFrame = rightHand.CFrame * CFrame.new(0, -rightHand.Size.Y/3, 0) -- Adjust the offset if necessary
 
         -- Create a weld to keep the effect attached
         local weld = Instance.new("Weld")
         weld.Part0 = rightHand
         weld.Part1 = effect
-        weld.C0 = CFrame.new(0, -rightHand.Size.Y/2, 0) -- Adjust the offset if necessary
+        weld.C0 = CFrame.new(0, -rightHand.Size.Y/1.75, 0) -- Adjust the offset if necessary
         weld.Parent = rightHand
 
         -- Play the sound
