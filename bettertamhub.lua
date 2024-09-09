@@ -3,8 +3,8 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 
 local Window = Fluent:CreateWindow({
-    Title = "TamHub v.4.9.9.9.9 ",
-    SubTitle = "aaaaaaaaaaaa",
+    Title = "TamHub v.4.9.9.9.9.8 ",
+    SubTitle = "FINALLY NO STUN",
     TabWidth = 160,
     Size = UDim2.fromOffset(750, 600),
     Acrylic = true, -- The blur may be detectable, setting this to false disables blur entirely
@@ -444,6 +444,33 @@ do
                         Title = "Confirm",
                         Callback = function()
                             loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/kjmoves.lua",true))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+
+		        Tabs.Tsb:AddButton({
+        Title = "No stun",
+        Description = "Loads no stun :3",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "sdgdsggsddgssdg",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/nostun.lua",true))()
                         end
                     },
                     {
