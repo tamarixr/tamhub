@@ -2,6 +2,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/ggojoawk.lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/iidk.lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/in.lua"))()
+loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/englishhesthollow.lua")() 
 
 local player = game.Players.LocalPlayer
 
@@ -476,7 +477,6 @@ Anim:AdjustSpeed(0)
 Anim.TimePosition = startTime
  
 Anim:AdjustSpeed(0.75)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/englishhesthollow.lua",true))() 
  
     end
  
@@ -536,7 +536,7 @@ end
 
 humanoid.AnimationPlayed:Connect(onAnimationPlayed)
 
-local animationId = 18715884857
+local animationId = 11365563255
  
  
 local player = game.Players.LocalPlayer
