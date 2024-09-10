@@ -4,111 +4,60 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/
 
 local player = game.Players.LocalPlayer
 
-local playerGui = player.PlayerGui
+local function executeScriptOnRespawn()
+    local playerGui = player.PlayerGui
+    local hotbar = playerGui:FindFirstChild("Hotbar")
 
-local hotbar = playerGui:FindFirstChild("Hotbar")
+    local backpack = hotbar:FindFirstChild("Backpack")
+    local hotbarFrame = backpack:FindFirstChild("Hotbar")
 
-local backpack = hotbar:FindFirstChild("Backpack")
+    local baseButton = hotbarFrame:FindFirstChild("1").Base
+    local ToolName = baseButton.ToolName
+    ToolName.Text = "Reversal technique : Red"
 
-local hotbarFrame = backpack:FindFirstChild("Hotbar")
+    baseButton = hotbarFrame:FindFirstChild("2").Base
+    ToolName = baseButton.ToolName
+    ToolName.Text = "Cursed Technique Lapse: Blue"
 
-local baseButton = hotbarFrame:FindFirstChild("1").Base
+    baseButton = hotbarFrame:FindFirstChild("3").Base
+    ToolName = baseButton.ToolName
+    ToolName.Text = "Limitless Slam"
 
-local ToolName = baseButton.ToolName
+    baseButton = hotbarFrame:FindFirstChild("4").Base
+    ToolName = baseButton.ToolName
+    ToolName.Text = "Veritical Repulsion"
 
+    local Players = game:GetService("Players")
+    local playerGui = player:WaitForChild("PlayerGui")
 
-ToolName.Text = "Reversal techinque : Red"
+    local function findGuiAndSetText()
+        local screenGui = playerGui:FindFirstChild("ScreenGui")
 
+        if screenGui then
+            local magicHealthFrame = screenGui:FindFirstChild("MagicHealth")
 
-local player = game.Players.LocalPlayer
+            if magicHealthFrame then
+                local textLabel = magicHealthFrame:FindFirstChild("TextLabel")
 
-local playerGui = player.PlayerGui
-
-local hotbar = playerGui:FindFirstChild("Hotbar")
-
-local backpack = hotbar:FindFirstChild("Backpack")
-
-local hotbarFrame = backpack:FindFirstChild("Hotbar")
-
-local baseButton = hotbarFrame:FindFirstChild("2").Base
-
-local ToolName = baseButton.ToolName
-
-
-ToolName.Text = "Cursed Technique Lapse: Blue"
-
-
-local player = game.Players.LocalPlayer
-
-local playerGui = player.PlayerGui
-
-local hotbar = playerGui:FindFirstChild("Hotbar")
-
-local backpack = hotbar:FindFirstChild("Backpack")
-
-local hotbarFrame = backpack:FindFirstChild("Hotbar")
-
-local baseButton = hotbarFrame:FindFirstChild("3").Base
-
-local ToolName = baseButton.ToolName
-
-
-ToolName.Text = "Limitless Slam"
-
-
-local player = game.Players.LocalPlayer
-
-local playerGui = player.PlayerGui
-
-local hotbar = playerGui:FindFirstChild("Hotbar")
-
-local backpack = hotbar:FindFirstChild("Backpack")
-
-local hotbarFrame = backpack:FindFirstChild("Hotbar")
-
-local baseButton = hotbarFrame:FindFirstChild("4").Base
-
-local ToolName = baseButton.ToolName
-
-
-ToolName.Text = "Infinity"
-
-
-local Players = game:GetService("Players")
-
-local player = Players.LocalPlayer
-
-local playerGui = player:WaitForChild("PlayerGui")
-
-
-local function findGuiAndSetText()
-
-    local screenGui = playerGui:FindFirstChild("ScreenGui")
-
-    if screenGui then
-
-        local magicHealthFrame = screenGui:FindFirstChild("MagicHealth")
-
-        if magicHealthFrame then
-
-            local textLabel = magicHealthFrame:FindFirstChild("TextLabel")
-
-            if textLabel then
-
-                textLabel.Text = "Six Eyes"
-
+                if textLabel then
+                    textLabel.Text = "Six Eyes"
+                end
             end
-
         end
-
     end
 
+    playerGui.DescendantAdded:Connect(findGuiAndSetText)
+    findGuiAndSetText()
 end
 
+-- Run the script whenever the player respawns
+player.CharacterAdded:Connect(function()
+    wait(0.5) -- Add a small delay to allow the character to fully load
+    executeScriptOnRespawn()
+end)
 
-playerGui.DescendantAdded:Connect(findGuiAndSetText)
-
-findGuiAndSetText()
+-- Run the script initially when the game starts
+executeScriptOnRespawn()
 
 local animationId = 10468665991 ---- Get normal punch anim id
  
