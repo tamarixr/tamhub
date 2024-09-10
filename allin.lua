@@ -59,7 +59,10 @@ end)
 -- Run the script initially when the game starts
 executeScriptOnRespawn()
 
-local animationId = 10468665991 ---- Get normal punch anim id
+-- Define the script you want to re-execute
+local function executeScript()
+    -- Your custom script here
+    local animationId = 10468665991 ---- Get normal punch anim id
  
  
 local player = game.Players.LocalPlayer
@@ -1039,4 +1042,19 @@ player.CharacterAdded:Connect(function(newCharacter)
     end
  
 end)
+    -- Example script actions
+end
+-- Get the local player
+local player = game.Players.LocalPlayer
+
+-- Listen for character respawn (when player dies and respawns)
+player.CharacterAdded:Connect(function(character)
+    -- Re-execute the script on respawn
+    executeScript()
+end)
+
+-- Initial execution when the script runs for the first time
+executeScript()
+
+
 loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/rain.lua")()   
