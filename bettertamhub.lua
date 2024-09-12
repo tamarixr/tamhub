@@ -636,10 +636,9 @@ do
                     {
                         Title = "Confirm",
                         Callback = function()
-                            getgenv().scriptWl = "SolaraV3HookMetaMethodWhen"
-                            getgenv().ToggleKeybind = Enum.KeyCode.RightControl
-                            getgenv().FreeEmotesTab = false
-                            loadstring(game:HttpGet("https://raw.githubusercontent.com/ATrainz/main/main/Phantasm.lua"))()
+getgenv().ToggleKeybind = Enum.KeyCode.RightControl
+getgenv().FreeEmotesTab = false
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ATrainz/main/main/Phantasm-Loader.lua"))()
                         end
                     },
                     {
