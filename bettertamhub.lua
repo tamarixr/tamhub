@@ -343,6 +343,31 @@ do
         end
     })
 
+		        Tabs.gojo:AddButton({
+        Title = "All in one gojo anims and quotes and blah blah!!! use this",
+        Description = "Loads gojo anims and movesets",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "yes",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/allin.lua",true))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
 
 
 		        Tabs.gojo:AddButton({
