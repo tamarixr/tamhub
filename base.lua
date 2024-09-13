@@ -1,8 +1,3 @@
-message = "DOMAIN EXPANSION "
-game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
-wait(1.5)
-message = "INFINITE BASEPLATE"
-game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
 local teleportX = 1097
 local teleportY = 405
 local teleportZ = 23036
@@ -26,3 +21,8 @@ local character = player.Character or player.CharacterAdded:Wait()
 local rootPart = character:WaitForChild("HumanoidRootPart")
 
 rootPart.CFrame = CFrame.new(teleportX, teleportY, teleportZ)
+message = "DOMAIN EXPANSION "
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
+wait(1.5)
+message = "INFINITE BASEPLATE"
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
