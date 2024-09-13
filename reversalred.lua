@@ -1,4 +1,4 @@
-local assetId = 16783532930 -- Replace with the actual Asset ID
+local assetId = 85612504696252 -- Replace with the actual Asset ID
 local soundId = "rbxassetid://18169340129" -- Replace with the actual Sound ID
 
 local effect = game:GetObjects("rbxassetid://" .. assetId)[1]
@@ -23,7 +23,7 @@ if effect and sound then
         local weld = Instance.new("Weld")
         weld.Part0 = rightHand
         weld.Part1 = effect
-        weld.C0 = CFrame.new(0, -rightHand.Size.Y/1.75, 0) -- Adjust the offset if necessary
+        weld.C0 = CFrame.new(0, -rightHand.Size.Y/28, -0.75) -- Adjust the offset if necessary
         weld.Parent = rightHand
 
         -- Play the sound
