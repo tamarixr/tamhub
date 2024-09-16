@@ -217,7 +217,7 @@ if humanoidRootPart and humanoidRootPart:IsA("BasePart") and humanoid then
 
             wait(1.5)
 
-            local duration = 0.80
+            local duration = 1.25
             local steps = 25
             for i = 0, steps do
                 local alpha = i / steps
