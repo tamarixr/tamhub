@@ -175,7 +175,38 @@ if humanoidRootPart and humanoidRootPart:IsA("BasePart") and humanoid then
 
             -- Wait before adding flash and fourth asset
             wait(0.05)
-          
+           -- Function to make the player lay down and anchor for a specific duration
+local function makePlayerLayDown(duration)
+    -- Get the local player
+    local player = game.Players.LocalPlayer
+    if not player or not player.Character or not player.Character:FindFirstChild("HumanoidRootPart") then
+        return
+    end
+    
+    -- Access the HumanoidRootPart
+    local rootPart = player.Character:FindFirstChild("HumanoidRootPart")
+    
+    -- Store the original position and orientation
+    local originalCFrame = rootPart.CFrame
+    
+    -- Adjust the player's position to lay down
+    rootPart.CFrame = rootPart.CFrame * CFrame.new(0, -2, 0) * CFrame.Angles(math.rad(90), 0, 0)
+    
+    -- Anchor the player's HumanoidRootPart to freeze their movement
+    rootPart.Anchored = true
+    
+    -- Wait for the specified duration
+    wait(duration)
+    
+    -- Reset the player's position and orientation
+    rootPart.CFrame = originalCFrame
+    
+    -- Unanchor the HumanoidRootPart to allow movement again
+    rootPart.Anchored = false
+end
+
+-- Execute the function with a 1.5-second duration
+makePlayerLayDown(1.5)
             -- Add flash asset 5 studs above the player's head
             local flashPosition = humanoidRootPart.Position + Vector3.new(0, 15, 0)
             loadModelForClient(flashAssetId, CFrame.new(flashPosition), 6)
