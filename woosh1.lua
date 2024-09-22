@@ -1,4 +1,4 @@
-local assetId = 85612504696252 -- Replace with the actual Asset ID
+local assetId = 110284005599122 -- Replace with the actual Asset ID
 local soundId = "rbxassetid://13064223291" -- Replace with the actual Sound ID
 
 local effect = game:GetObjects("rbxassetid://" .. assetId)[1]
@@ -30,7 +30,7 @@ if effect and sound then
         sound:Play()
 
         -- Wait for 10 seconds
-        wait(0.30)
+        wait(0.25)
 
         -- Cleanup
         effect:Destroy()
