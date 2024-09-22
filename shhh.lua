@@ -172,10 +172,7 @@ if humanoidRootPart and humanoidRootPart:IsA("BasePart") and humanoid then
             part3.CFrame = CFrame.new(targetPosition) -- Position part3 where part2 was
             part3.Anchored = true -- Anchor part3 so it doesn’t fall
             sound3:Play() -- Play sound when part3 appears
-
-            -- Wait before adding flash and fourth asset
-            wait(0.05)
-           -- Function to make the player lay down and anchor for a specific duration
+            -- Function to make the player lay down and anchor for a specific duration
 local function makePlayerLayDown(duration)
     -- Get the local player
     local player = game.Players.LocalPlayer
@@ -190,7 +187,7 @@ local function makePlayerLayDown(duration)
     local originalCFrame = rootPart.CFrame
     
     -- Adjust the player's position to lay down
-    rootPart.CFrame = rootPart.CFrame * CFrame.new(0, -2, 0) * CFrame.Angles(math.rad(90), 0, 0)
+    rootPart.CFrame = rootPart.CFrame * CFrame.new(0, -2, 0) * CFrame.Angles(math.rad(-90), 0, 0)
     
     -- Anchor the player's HumanoidRootPart to freeze their movement
     rootPart.Anchored = true
@@ -206,7 +203,11 @@ local function makePlayerLayDown(duration)
 end
 
 -- Execute the function with a 1.5-second duration
-makePlayerLayDown(1.5)
+makePlayerLayDown(3)
+
+            -- Wait before adding flash and fourth asset
+            wait(0.05)
+          
             -- Add flash asset 5 studs above the player's head
             local flashPosition = humanoidRootPart.Position + Vector3.new(0, 15, 0)
             loadModelForClient(flashAssetId, CFrame.new(flashPosition), 6)
