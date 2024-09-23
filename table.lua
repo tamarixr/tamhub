@@ -125,7 +125,7 @@ if humanoidRootPart and humanoid then
             sound3:Play()
 
             -- Flash effect
-            wait(0.05)
+            wait(0.09)
             local flashPosition = humanoidRootPart.Position + Vector3.new(0, 15, 0)
             loadModelForClient(flashAssetId, CFrame.new(flashPosition), 6)
             part3:Destroy()
