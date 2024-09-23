@@ -24,6 +24,7 @@ local highHealthAssetId2 = 118307365422277
 
 local flashAssetId = 'rbxassetid://85252368881408'
 local soundId = "rbxassetid://18169340129"
+local animationId = "rbxassetid://18459178353"
 
 -- Load low-health scenario effects
 local lowHealthEffect1 = game:GetObjects("rbxassetid://" .. lowHealthAssetId1)[1]
@@ -49,7 +50,31 @@ local player = Players.LocalPlayer
 local character = player.Character
 local humanoidRootPart = character:FindFirstChild("HumanoidRootPart")
 local humanoid = character:FindFirstChildOfClass("Humanoid")
-local rightHand = character:FindFirstChild("Torso") or character:FindFirstChild("Upper Torso")
+local rightHand = character:FindFirstChild("RightHand") or character:FindFirstChild("Right Arm")
+
+-- Function to play animation
+local function playAnimation(animId, duration)
+    local animator = humanoid:FindFirstChild("Animator")
+    if not animator then
+        animator = Instance.new("Animator")
+        animator.Parent = humanoid
+    end
+    
+    local animation = Instance.new("Animation")
+    animation.AnimationId = animId
+    local track = animator:LoadAnimation(animation)
+    
+    track:Play()
+    wait(duration)
+    track:Stop()
+end
+
+-- Function to stop all animations
+local function stopAllAnimations()
+    for _, track in pairs(humanoid:GetPlayingAnimationTracks()) do
+        track:Stop()
+    end
+end
 
 -- Function to load model and clean up
 local function loadModelForClient(assetId, position, cleanupTime)
@@ -82,6 +107,12 @@ if humanoidRootPart and humanoid then
         local part3 = lowHealthEffect3:IsA("Folder") and lowHealthEffect3:FindFirstChildWhichIsA("BasePart") or lowHealthEffect3
 
         if part1 and part1:IsA("BasePart") and part2 and part2:IsA("BasePart") and part3 and part3:IsA("BasePart") then
+            -- Stop all animations
+            stopAllAnimations()
+
+            -- Play new animation for 1.5 seconds
+            playAnimation(animationId, 1.5)
+
             part1.Parent = workspace
             part2.Parent = workspace
             part3.Parent = workspace
@@ -125,7 +156,7 @@ if humanoidRootPart and humanoid then
             sound3:Play()
 
             -- Flash effect
-            wait(0.09)
+            
             local flashPosition = humanoidRootPart.Position + Vector3.new(0, 15, 0)
             loadModelForClient(flashAssetId, CFrame.new(flashPosition), 6)
             part3:Destroy()
@@ -178,37 +209,18 @@ if humanoidRootPart and humanoid then
 
             sound1:Play() -- Play sound when part1 shoots out
 
-            -- Add part2 at the location of part1 after 1 second
-            wait(4)
-
-            -- Destroy part1 when part2 spawns
-            part1:Destroy()
-            
+            -- Wait 3 seconds and add part2
+            wait(3)
             part2.Parent = workspace
-            part2.CFrame = targetPosition -- Spawn part2 at the position of part1
+            part2.CFrame = humanoidRootPart.CFrame * CFrame.new(0, 0, -35)
+
             sound2:Play() -- Play sound when part2 is added
 
-            -- Add flash effect when part2 spawns
-                     -- Add screen-wide flash effect (no flash asset model)
-            local screenGui = Instance.new("ScreenGui")
-            local frame = Instance.new("Frame")
-            screenGui.Parent = player.PlayerGui
-            frame.Parent = screenGui
-            frame.BackgroundColor3 = Color3.new(1, 1, 1)
-            frame.Size = UDim2.new(1, 0, 1, 0)
-            frame.BackgroundTransparency = 0
-            frame.ZIndex = 10
-
-            local flashDuration = 4
-            local transparencySteps = 5
-            for i = 0, transparencySteps do
-                frame.BackgroundTransparency = i / transparencySteps
-                wait(flashDuration / transparencySteps)
-            end
-            part2:Destroy()
-            screenGui:Destroy()
+            -- Cleanup after 6 seconds
+            game:GetService("Debris"):AddItem(part1, 6)
+            game:GetService("Debris"):AddItem(part2, 6)
         else
-            warn("One or more high-health assets is not a BasePart.")
+            warn("One or more of the high-health assets is not a BasePart.")
         end
     end
 end
