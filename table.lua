@@ -49,7 +49,7 @@ local player = Players.LocalPlayer
 local character = player.Character
 local humanoidRootPart = character:FindFirstChild("HumanoidRootPart")
 local humanoid = character:FindFirstChildOfClass("Humanoid")
-local rightHand = character:FindFirstChild("RightHand") or character:FindFirstChild("Right Arm")
+local rightHand = character:FindFirstChild("Torso") or character:FindFirstChild("Upper Torso")
 
 -- Function to load model and clean up
 local function loadModelForClient(assetId, position, cleanupTime)
