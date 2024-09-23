@@ -179,11 +179,11 @@ if humanoidRootPart and humanoid then
             sound1:Play() -- Play sound when part1 shoots out
 
             -- Add part2 at the location of part1 after 1 second
-            wait(1)
+            wait(4)
 
             -- Destroy part1 when part2 spawns
             part1:Destroy()
-
+            
             part2.Parent = workspace
             part2.CFrame = targetPosition -- Spawn part2 at the position of part1
             sound2:Play() -- Play sound when part2 is added
