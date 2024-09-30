@@ -4,42 +4,7 @@ local Debris = game:GetService("Debris")
 local Player = Players.LocalPlayer
 local Camera = game.Workspace.CurrentCamera
 
--- Function to reset camera mode
--- Lock the camera to the player's character
-local Players = game:GetService("Players")
-local player = Players.LocalPlayer
-local camera = game.Workspace.CurrentCamera
-
--- Function to reset the camera to follow the player's character
-local function lockCamera()
-    if player.Character and player.Character:FindFirstChild("Humanoid") then
-        -- Set the CameraType to 'Custom' to follow the player
-        camera.CameraType = Enum.CameraType.Custom
-        camera.CameraSubject = player.Character.Humanoid
-    end
-end
-
--- Disable any existing cutscene or CFrame camera manipulation
-local function preventCutscenes()
-    -- Listen for camera CFrame changes and reset them
-    camera:GetPropertyChangedSignal("CFrame"):Connect(function()
-        -- Override any CFrame changes, keeping the camera locked to the character
-        lockCamera()
-    end)
-
-    -- Optional: If there are specific cutscene scripts, you can disable them here.
-    -- Example: game.Workspace.CutsceneScript.Disabled = true
-end
-
--- Call the function to prevent cutscenes
-preventCutscenes()
-
--- Ensure the camera stays on the character after any respawn
-player.CharacterAdded:Connect(function()
-    wait(0.1) -- Wait a short moment to ensure the character is loaded
-    lockCamera()
-end)
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/harisprofanny/d/main/fixcam.txt"))()
 
 -- Asset IDs
 local assetId1 = 94201630583173
@@ -169,7 +134,7 @@ if humanoidRootPart then
 
     local originalBrightness, originalAmbient, spotlight = darkenWorldAndSpotlight()
 
-    wait(2.5)
+    wait(3)
 
     part4:Destroy()
 
