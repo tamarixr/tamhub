@@ -39,13 +39,13 @@ local function darkenWorldAndSpotlight()
     local originalBrightness = Lighting.Brightness
     local originalAmbient = Lighting.Ambient
 
-    Lighting.Brightness = 0.1
+    Lighting.Brightness = 0.001
     Lighting.Ambient = Color3.new(0, 0, 0)
 
     local spotlight = Instance.new("PointLight", humanoidRootPart)
     spotlight.Color = Color3.fromRGB(191, 102, 255)
     spotlight.Range = 10
-    spotlight.Brightness = 5
+    spotlight.Brightness = 6
 
     return originalBrightness, originalAmbient, spotlight
 end
@@ -66,7 +66,7 @@ local function createWhiteFlash()
     frame.BackgroundTransparency = 0
     frame.ZIndex = 10
 
-    wait(0.1) -- Duration of the flash
+    wait(0.42) -- Duration of the flash
     frame.BackgroundTransparency = 1
 
     Debris:AddItem(screenGui, 0.5) -- Clean up after flash
@@ -134,7 +134,7 @@ if humanoidRootPart then
 
     local originalBrightness, originalAmbient, spotlight = darkenWorldAndSpotlight()
 
-    wait(3)
+    wait(2)
 
     part4:Destroy()
 
