@@ -79,7 +79,7 @@ local function addAndDestroyPart3()
     part3.CFrame = humanoidRootPart.CFrame * CFrame.new(0, 1, -6.5)
 
     -- Destroy part3 after 0.75 seconds
-    Debris:AddItem(part3, 0.75)
+    Debris:AddItem(part3, 0.80)
 end
 
 -- Helper function to spawn and move models smoothly
@@ -134,7 +134,7 @@ if humanoidRootPart then
 
     local originalBrightness, originalAmbient, spotlight = darkenWorldAndSpotlight()
 
-    wait(2)
+    wait(1.45)
 
     part4:Destroy()
 
