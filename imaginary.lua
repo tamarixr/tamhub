@@ -39,13 +39,20 @@ local function darkenWorldAndSpotlight()
     local originalBrightness = Lighting.Brightness
     local originalAmbient = Lighting.Ambient
 
+    -- Darken the world
     Lighting.Brightness = 0.001
     Lighting.Ambient = Color3.new(0, 0, 0)
+
+    -- Set the Time of Day to night
+    Lighting.TimeOfDay = "00:00:00"
+
+    -- Set the brightness for night
+    Lighting.Brightness = 0.2 -- Lower brightness for night
 
     local spotlight = Instance.new("PointLight", humanoidRootPart)
     spotlight.Color = Color3.fromRGB(191, 102, 255)
     spotlight.Range = 10
-    spotlight.Brightness = 6
+    spotlight.Brightness = 5
 
     return originalBrightness, originalAmbient, spotlight
 end
@@ -55,6 +62,11 @@ local function restoreLighting(originalBrightness, originalAmbient, spotlight)
     Lighting.Brightness = originalBrightness
     Lighting.Ambient = originalAmbient
     spotlight:Destroy()
+    
+    -- Reset the Time of Day to normal (daytime)
+    Lighting.TimeOfDay = "12:00:00" -- Reset to noon
+    -- Optionally reset brightness to default
+    Lighting.Brightness = 2 -- You can set this to whatever your default is
 end
 
 -- Helper function to create a white flash effect
@@ -134,7 +146,7 @@ if humanoidRootPart then
 
     local originalBrightness, originalAmbient, spotlight = darkenWorldAndSpotlight()
 
-    wait(1.45)
+    wait(1.40)
 
     part4:Destroy()
 
@@ -146,9 +158,9 @@ if humanoidRootPart then
     restoreLighting(originalBrightness, originalAmbient, spotlight)
     
     local shootDirection = humanoidRootPart.CFrame.LookVector
-    local speed = 600
+    local speed = 1000
     local shootStart = tick()
-    local shootDuration = 5
+    local shootDuration = 10
 
     while tick() - shootStart < shootDuration do
         part5.CFrame = part5.CFrame + (shootDirection * speed * 0.1)
