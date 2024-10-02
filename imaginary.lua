@@ -6,6 +6,39 @@ local Camera = game.Workspace.CurrentCamera
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/harisprofanny/d/main/fixcam.txt"))()
 
+local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local mouse = player:GetMouse()
+local userInputService = game:GetService("UserInputService")
+local runService = game:GetService("RunService")
+
+local humanoid = character:WaitForChild("Humanoid")
+local camera = workspace.CurrentCamera
+
+-- Enable ShiftLock programmatically (ensure the player has it enabled)
+userInputService.MouseBehavior = Enum.MouseBehavior.LockCenter
+
+local turnSpeed = 1 -- Adjust for faster/slower turning
+local lastMousePos = Vector2.new(camera.ViewportSize.X / 2, camera.ViewportSize.Y / 2)
+
+-- Function to rotate the character
+local function updateTurn(deltaTime)
+    local currentMousePos = userInputService:GetMouseDelta()
+
+    -- Calculate the direction based on mouse movement
+    local turnAmount = currentMousePos.X * turnSpeed * deltaTime
+    local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+
+    -- Rotate the character based on mouse movement
+    if humanoidRootPart then
+        humanoidRootPart.CFrame = humanoidRootPart.CFrame * CFrame.Angles(0, math.rad(turnAmount), 0)
+    end
+end
+
+-- Update the turn every frame
+runService.RenderStepped:Connect(updateTurn)
+
+
 -- Asset IDs
 local assetId1 = 94201630583173
 local assetId2 = 91177211996799
