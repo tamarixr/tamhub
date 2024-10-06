@@ -63,7 +63,7 @@ local function createScreenRedFlash()
 
     local flashFrame = Instance.new("Frame")
     flashFrame.Size = UDim2.new(1000, 10000, 10000, 10000) -- Fill the whole screen
-    flashFrame.BackgroundColor3 = Color3.fromRGB(255, 0, 0) -- Red color
+    flashFrame.BackgroundColor3 = Color3.fromRGB(150, 0, 0) -- Red color
     flashFrame.BackgroundTransparency = 0 -- Start fully opaque
     flashFrame.Parent = screenGui
 
@@ -102,7 +102,7 @@ if effect and newEffect and sound then
         -- Wait for 0.35 seconds before playing the sound
         wait(0.35)
 
-        -- Play the sound
+        sound.Volume = 1
         sound:Play()
 
         -- Wait for 0.25 seconds
