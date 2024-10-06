@@ -106,7 +106,7 @@ if effect and newEffect and sound then
         sound:Play()
 
         -- Wait for 0.25 seconds
-        wait(0.20)
+        wait(0.10)
 
         -- Position the new asset in front of the player
         newEffect.Parent = game.Workspace
