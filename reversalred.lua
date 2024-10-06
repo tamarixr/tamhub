@@ -1,6 +1,6 @@
 local assetId = 85612504696252 -- Replace with the actual Asset ID
 local newAssetId = 116082434141240 -- New asset to appear in front of the player
-local soundId = "rbxassetid://18169340129" -- Replace with the actual Sound ID
+local soundId = "rbxassetid://1177475221" -- Replace with the actual Sound ID
 
 local effect = game:GetObjects("rbxassetid://" .. assetId)[1]
 local newEffect = game:GetObjects("rbxassetid://" .. newAssetId)[1]
@@ -41,8 +41,8 @@ if effect and newEffect and sound then
         effect:Destroy()
 
         -- Fade away the new asset over 0.5 seconds (quick fade)
-        local fadeTime = 0.5 -- Faster fade time
-        local transparencyStep = 1 / (fadeTime * 60) -- 60 frames per second
+        local fadeTime = 0.75 -- Faster fade time
+        local transparencyStep = 1 / (fadeTime * 75) -- 60 frames per second
 
         -- Iterate over the model's descendants and fade them
         for i = 1, fadeTime * 60 do
