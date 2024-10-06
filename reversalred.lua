@@ -1,6 +1,6 @@
 local assetId = 85612504696252 -- Replace with the actual Asset ID
 local newAssetId = 116082434141240 -- New asset to appear in front of the player
-local soundId = "rbxassetid://1177475221" -- Replace with the actual Sound ID
+local soundId = "rbxassetid://18169340129" -- Replace with the actual Sound ID
 
 local effect = game:GetObjects("rbxassetid://" .. assetId)[1]
 local newEffect = game:GetObjects("rbxassetid://" .. newAssetId)[1]
