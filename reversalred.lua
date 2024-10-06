@@ -1,6 +1,6 @@
 local assetId = 85612504696252 -- Replace with the actual Asset ID
 local newAssetId = 116082434141240 -- New asset to appear in front of the player
-local soundId = "rbxassetid://18169340129" -- Replace with the actual Sound ID
+local soundId = "rbxassetid://1177475221" -- Replace with the actual Sound ID
 
 local effect = game:GetObjects("rbxassetid://" .. assetId)[1]
 local newEffect = game:GetObjects("rbxassetid://" .. newAssetId)[1]
@@ -31,7 +31,7 @@ if effect and newEffect and sound then
         sound:Play()
 
         -- Wait for 0.25 seconds
-        wait(0.30)
+        wait(0.35)
 
         -- Position the new asset in front of the player
         newEffect.Parent = game.Workspace
