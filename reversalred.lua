@@ -119,7 +119,7 @@ if effect and newEffect and sound then
         effect:Destroy()
 
         -- Fade away the new asset over 0.5 seconds (quick fade)
-        local fadeTime = 0.25 -- Faster fade time
+        local fadeTime = 0.30 -- Faster fade time
         local transparencyStep = 1 / (fadeTime * 60) -- 60 frames per second
 
         -- Iterate over the model's descendants and fade them
