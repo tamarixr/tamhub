@@ -32,6 +32,46 @@ local player = Players.LocalPlayer
 local character = player and player.Character
 local humanoidRootPart = character and character:FindFirstChild("HumanoidRootPart")
 
+-- Helper function to fade out an asset's descendants
+local function fadeOutModel(model, fadeDuration)
+    local fadeTime = fadeDuration or 0.5
+    local transparencyStep = 1 / (fadeTime * 60) -- 60 frames per second
+
+    for i = 1, fadeTime * 60 do
+        for _, descendant in ipairs(model:GetDescendants()) do
+            -- Fade BaseParts
+            if descendant:IsA("BasePart") then
+                descendant.Transparency = math.clamp(descendant.Transparency + transparencyStep, 0, 1)
+            end
+
+            -- Fade ParticleEmitters
+            if descendant:IsA("ParticleEmitter") then
+                local particleTransparency = descendant.Transparency.Keypoints[1].Value
+                particleTransparency = math.clamp(particleTransparency + transparencyStep, 0, 1)
+                descendant.Transparency = NumberSequence.new(particleTransparency)
+            end
+
+            -- Fade Beams
+            if descendant:IsA("Beam") then
+                local beamTransparency = descendant.Transparency.Keypoints[1].Value
+                beamTransparency = math.clamp(beamTransparency + transparencyStep, 0, 1)
+                descendant.Transparency = NumberSequence.new(beamTransparency)
+            end
+
+            -- Fade Trails
+            if descendant:IsA("Trail") then
+                local trailTransparency = descendant.Transparency.Keypoints[1].Value
+                trailTransparency = math.clamp(trailTransparency + transparencyStep, 0, 1)
+                descendant.Transparency = NumberSequence.new(trailTransparency)
+            end
+        end
+        wait(1 / 60)
+    end
+
+    -- Clean up the model after it fades away
+    model:Destroy()
+end
+
 -- Helper function to darken world and create a spotlight effect
 local function darkenWorldAndSpotlight()
     local originalBrightness = Lighting.Brightness
@@ -60,7 +100,7 @@ local function restoreLighting(originalBrightness, originalAmbient, spotlight)
     Lighting.Brightness = originalBrightness
     Lighting.Ambient = originalAmbient
     spotlight:Destroy()
-    
+
     -- Reset the Time of Day to normal (daytime)
     Lighting.TimeOfDay = "12:00:00" -- Reset to noon
     -- Optionally reset brightness to default
@@ -76,20 +116,10 @@ local function createWhiteFlash()
     frame.BackgroundTransparency = 0
     frame.ZIndex = 10
 
-    wait(0.42) -- Duration of the flash
+    wait(0.10) -- Duration of the flash
     frame.BackgroundTransparency = 1
 
     Debris:AddItem(screenGui, 0.5) -- Clean up after flash
-end
-
--- Function to add and destroy part 3
-local function addAndDestroyPart3()
-    local part3 = effect3:Clone()
-    part3.Parent = humanoidRootPart
-    part3.CFrame = humanoidRootPart.CFrame * CFrame.new(0, 1, -6.5)
-
-    -- Destroy part3 after 0.75 seconds
-    Debris:AddItem(part3, 0.80)
 end
 
 -- Helper function to spawn and move models smoothly
@@ -102,6 +132,16 @@ local function moveAndCollideAssets(part1, part2, targetOffset1, targetOffset2, 
         wait(duration / steps)
     end
     if onComplete then onComplete() end
+end
+
+-- Function to add and fade part 3
+local function addAndFadePart3()
+    local part3 = effect3:Clone()
+    part3.Parent = humanoidRootPart
+    part3.CFrame = humanoidRootPart.CFrame * CFrame.new(0, 1, -6.5)
+
+    wait(0.8) -- Wait before fading part 3
+    fadeOutModel(part3, 0.5) -- Fade out part 3
 end
 
 -- Main logic
@@ -123,11 +163,11 @@ if humanoidRootPart then
 
     -- Start a timer to destroy part1 and part2 after 0.75 seconds
     delay(0.75, function()
-        part1:Destroy()
-        part2:Destroy()
+        part1:Destroy() -- Destroy part 1
+        part2:Destroy() -- Destroy part 2
 
         -- Add part 3 when part1 and part2 are destroyed
-        addAndDestroyPart3()
+        addAndFadePart3()
     end)
 
     -- Move and collide assets to their target positions
@@ -138,23 +178,22 @@ if humanoidRootPart then
     -- Darken world and handle lighting and spotlight effects
     local part4 = effect4:Clone()
     local hand = character:FindFirstChild("Right Arm") or character:FindFirstChild("Left Arm")
-    
+
     part4.Parent = hand
     part4.CFrame = hand.CFrame
 
     local originalBrightness, originalAmbient, spotlight = darkenWorldAndSpotlight()
 
     wait(1.40)
-
+    
     part4:Destroy()
-
     local part5 = effect5:Clone()
     part5.Parent = humanoidRootPart
     part5.CFrame = humanoidRootPart.CFrame * CFrame.new(0, 5, 0)
 
     createWhiteFlash() -- Create the flash effect
     restoreLighting(originalBrightness, originalAmbient, spotlight)
-    
+
     local shootDirection = humanoidRootPart.CFrame.LookVector
     local speed = 1000
     local shootStart = tick()
@@ -165,5 +204,5 @@ if humanoidRootPart then
         wait(0.1)
     end
 
-    part5:Destroy()
+
 end
