@@ -1,1 +1,2329 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _mVhydTJjWmGg = a; end)); return(function(r,...)local t;local d;local f;local l;local s;local u;local e=24915;local j=0;local n={};while j<996 do j=j+1;while j<0x3a1 and e%0x4b22<0x2591 do j=j+1 e=(e-789)%26278 local h=j+e if(e%0x3d9c)<0x1ece then e=(e+0x161)%0x7e36 while j<0x22e and e%0x44fe<0x227f do j=j+1 e=(e-592)%28014 local d=j+e if(e%0x4b42)>0x25a1 then e=(e*0x1f0)%0x12a4 local e=53661 if not n[e]then n[e]=0x1 u={};end elseif e%2~=0 then e=(e*0xe0)%0x8e18 local e=28378 if not n[e]then n[e]=0x1 s=tonumber;end else e=(e*0x18)%0x8b4c j=j+1 local e=90542 if not n[e]then n[e]=0x1 t=string;end end end elseif e%2~=0 then e=(e-0x1f8)%0x2777 while j<0x109 and e%0x4428<0x2214 do j=j+1 e=(e-782)%1348 local h=j+e if(e%0x1a32)>=0xd19 then e=(e-0x1fb)%0x8a8d local e=26687 if not n[e]then n[e]=0x1 end elseif e%2~=0 then e=(e-0xee)%0x57ef local e=54805 if not n[e]then n[e]=0x1 f="\4\8\116\111\110\117\109\98\101\114\79\108\65\74\90\106\113\111\0\6\115\116\114\105\110\103\4\99\104\97\114\102\120\68\100\101\119\116\70\0\6\115\116\114\105\110\103\3\115\117\98\82\115\102\75\108\102\70\119\0\6\115\116\114\105\110\103\4\98\121\116\101\108\117\102\84\111\113\115\68\0\5\116\97\98\108\101\6\99\111\110\99\97\116\65\112\103\116\98\117\95\114\0\5\116\97\98\108\101\6\105\110\115\101\114\116\73\70\81\73\109\95\111\116\5";end else e=(e+0x2b4)%0x2ac4 j=j+1 local e=53130 if not n[e]then n[e]=0x1 l=function(l)local e=0x01 local function n(j)e=e+j return l:sub(e-j,e-0x01)end while true do local j=n(0x01)if(j=="\5")then break end local e=t.byte(n(0x01))local e=n(e)if j=="\2"then e=u.OlAJZjqo(e)elseif j=="\3"then e=e~="\0"elseif j=="\6"then d[e]=function(j,e)return r(8,nil,r,e,j)end elseif j=="\4"then e=d[e]elseif j=="\0"then e=d[e][n(t.byte(n(0x01)))];end local j=n(0x08)u[j]=e end end end end end else e=(e+0x3b7)%0x36c5 j=j+1 while j<0x16d and e%0x8fc<0x47e do j=j+1 e=(e*675)%3236 local l=j+e if(e%0xbfc)>0x5fe then e=(e*0x30)%0xb705 local e=33248 if not n[e]then n[e]=0x1 d=getfenv and getfenv();end elseif e%2~=0 then e=(e-0x42)%0x2fc3 local e=64819 if not n[e]then n[e]=0x1 d=(not d)and _ENV or d;end else e=(e*0x1ba)%0x5e17 j=j+1 local e=40340 if not n[e]then n[e]=0x1 end end end end end e=(e+706)%35415 end l(f);local e={};for j=0x0,0xff do local n=u.fxDdewtF(j);e[j]=n;e[n]=j;end local function h(j)return e[j];end local o=(function(f,l)local r,n=0x01,0x10 local j={{},{},{}}local d=-0x01 local e=0x01 local t=f while true do j[0x03][u.RsfKlfFw(l,e,(function()e=r+e return e-0x01 end)())]=(function()d=d+0x01 return d end)()if d==(0x0f)then d=""n=0x000 break end end local d=#l while e<d+0x01 do j[0x02][n]=u.RsfKlfFw(l,e,(function()e=r+e return e-0x01 end)())n=n+0x01 if n%0x02==0x00 then n=0x00 u.IFQIm_ot(j[0x01],(h((((j[0x03][j[0x02][0x00]]or 0x00)*0x10)+(j[0x03][j[0x02][0x01]]or 0x00)+t)%0x100)));t=f+t;end end return u.Apgtbu_r(j[0x01])end);l(o(242,"Ebrh2OV_oI%U= .Fbh"));l(o(11,"ul?})EC/QSrUv+%{{E{_E?)Q}U?/?lL{rl{C{v%S%lvEr}r{UCS}SvQE/?l?xQCQE7)})}}QK)?}ll2v%E{?{C%UCrC}v}UrrCr(SUSDQ?ECC%}U?+l%lUv)U{?ll/8r{C{y+%/lv%U/U{r}S+SCQ+Cr/)CQ}%Er)S+?vU?Sl?lrM}SE{l+%+)+vvSr?rES?QlQS/-/U/E{r{/E}}r}%?vlSl+{{./%S+{+%vvvprrrvr<rCCUCC/)YQah)))Q}U)l}l?S+{0)%U%++?+QU{+prE)+)?rrQSQCQCCvE+}%}%?C}}l+l?UlrE+?+E{Cv/+vv{S%r)rv}r}}S)Q)/+/}CCE?)v}r?l?/l{?,%Q%Q{v+%/_Crv%UJrCrES}?SQ+/U/?EQ){)v)r)Elr{{ll%Q{v+)Q?/S++vUv?rQS{SvS+S}CSEQ}U))?+}{+?vQ?Ql{,UYE3bv/%QvEU}UCUESO/{?{?CQ////VCCES)E}{?+{+{+%Q%U{Q{/vrv?CSE+U+U)r7SrSE/r/rC%C<){EQ?blQv?USlUD?{%%v+{%ErrvvrJUlQ}SS/U/re%a/CE)%EC}{+l?/??lr4{X/+qv)%}vrv)rvU/Ql}/"));vpOfJD_cedzjaDZ=function(e)e((-673+(function()local l,n=0,1;(function(e,j,n)j(e(j,n,n)and n(e,e,e),e(j,j,e),e(e,n,j and n))end)(function(e,d,j)if l>316 then return e end l=l+1 n=(n*57)%32065 if(n%1366)<=683 then n=(n+880)%45612 return j else return d(j(e,d,d),e(e and d,d,j and d),e(d and d,e and e,e))end return e(j(e and e,j,d and j)and j(j,e,j and e),e(j,e,j),j(j and j,d,e)and d(e,e and j,d))end,function(e,j,d)if l>388 then return d end l=l+1 n=(n*383)%5839 if(n%792)>=396 then return e else return e(e(e,d,e),e(e,d,e and d)and j(j,j,e),e(j,j,d and d))end return e(j(j,e,d),j(e,e,e and j),j(d,e,e and j))end,function(e,d,j)if l>326 then return d end l=l+1 n=(n*860)%13442 if(n%1064)<=532 then n=(n*364)%5839 return j(e(e,j,e),d(e,e,j),j(d,d,e))else return d end return j end)return n;end)()))end;ZDajzdec_DJfOpv={u.YjmyLWvc,u.FrZSakQK};local e=(-1615+(function()local l,n=0,1;(function(e,n,j)e(j(e,n,j),e(e,n,j and n),j(n,j,e))end)(function(e,j,d)if l>447 then return d end l=l+1 n=(n*64)%38369 if(n%678)<339 then n=(n-487)%7139 return j(j(e,e,e)and j(e,e and d,e),j(j,j,j),d(e,j,d))else return d end return e end,function(j,d,e)if l>257 then return j end l=l+1 n=(n+488)%43007 if(n%1046)>=523 then return d(e(j and e,d,e),e(d,e,e),d(j,d,j))else return e end return j end,function(e,j,d)if l>367 then return e end l=l+1 n=(n-724)%47994 if(n%624)<=312 then return e else return d(d(j,e and j,d)and e(j,j,d),e(e,j,e),e(e,j,e)and e(j and e,j,d))end return d(e(j,e,d),e(j,e,j),j(j,j,j)and d(d,d,e and e))end)return n;end)())local fe=(getfenv)or(function()return _ENV end);local h=u.wxYSAUIf or u.tzZJgIhK;local d=2;local g=1;local f=4;local t=3;local function te(c,...)local a=o(e,"fR^/0W;-Pe*!+OjDWW*eD+WG*WRR0+*MD00;?0W;*RD/0-eeD*0DWxD/0;0+jj0/e*je/ReMeP/+eWj^^!P0-OOO^0-P++Rj*j^WP;+eOP-D+WRW-!+!Rj--;W+0M+;3!0M;eOtO;;!WNOWO+^6R/!*eRRDeW+*ED00Pe*^-*0DW0W*^D+D+*/jO/+eRj0D0-/+;OO0OP0OP^+-jR0P!OR^PP!P+/0-++OO+-OO/R*PW++Re^P+R^e;D+-Fj;W+/Be;j!0R^bW;W*+C5W0*;/O*OR4WR*0!0WP*!:-0e**DDjO0;e0jP/+Pj0!eeje09POPeD*/6P0OP^*!*/0eROW/^P+!D^/P;OR^+P0*+^O;jPD^--P+RR/;O!jRW;/PR,DWO!OVeAW;!*+pdW0*;Wj!/!PW**WDe0+W+#0W/WPDRWP*0D0/OeeD^jWW^P+jK/0P;ROe/j-/*-/Oe^!-!+//PP*OW^j-!O!60-e+PR+-R+jDW-+OU^^RR-+!P?+;h!^WO+WRP;-;+G^;U!-DDW!;0DD;R*e!00e**D0N0*WD!W^eeeWD-/+edj0/;jR0ee+j!DwP-j-/eP^j/jPP/jW^O^WP/++^A-0+;;/OeR*0D+D^^-++RRj-P;W+!.+;T!0i;e+R/We!JjR;e!+r!W+!/DeWLP/>/W;*^De0!0We+j+0=e0j;-WO-^P/e*Wj9/0PPO*-!j-/jP+OPjP-DjW/PP+OW^j-!PP/_-R+;^0-RPQR*-0+W^JRR;!!P5+;h!^;W!jR*;R+A2WHRWP*PD+WA3-;q*OR^DWWRe+Dq00e;//*ej*/neeDP00eRPOjD/0PPO+^j!e0Re0j/jPe/Oe/^/P+D^+-WO!^0ROP*+0RP;+!jW/*;O=-e+0^E^Z+RR--^!WR-RP-0ZD;^!0RWR,!^DeWe*W?-RR0eODD_00ePj*P-DO0+eWD;DPeDjW0^eRj!0^00OD/!P*j/jP-Oj-^WP/P+/RPeO-/8-WO-OP/0+O^e-!O O8;+!e^^;W-0R+;0!W+0WD!!I*;/;PDO;-*Wb/WR*jDOW;*/!80**RDjW/*P!Rje0DeTj0/PP*^-eOj-0We^Oej+POj//jPRj/^eP+P+^e-PO/+e/P-#+0RP;*YRPR-+R0;O+!%D;D+;r+R++/Ne;*+^cW;;;P+0W*!/yRW*;wD*W*;WeODP00ePj+/jO/^;W8De00*Y!^jR/*PPO+/mP^^TPPOe/WPR-OOP^0-P++Rj*eRDP^OO^0-W+/+R^*;P!+RA;^jj;D+/RD^+!DRR;P-/R/R0*DH!W*!/!P0O*jDOWW*DeODO00ePj+/jOP00eRD^0+POD/0R0P+00WP;PWOj^+P>O0^;OR/0PPOP^W^RP++PR+-6+^;h+R^R-2ORR^^0+YUO-/-0S*;R!WR^RP!PNDWW*+#RW0;W*WDO0+*TD00;D-W/*^D!jOP*e0jP/+Pj0J*qD000e!!;DDW/OD/We0O+/O-jej^-P-OejD-P+e//-e+PjW-D+/^;-R++^0--P-D^;++e O;*+0O/;*!R2+We*e?DWW!-+-WP*RzP0O*D40R/e+D!W-*^D00!eRjPA-eejR/Oe;**/+eeOeOe;jPtO0^P-*//-*O^/WP-+!ROP0+eOPPW+D^e-*-+^/;-+*RW-r+PR!R+!^9eWj!!R^We;PR6WR!RDeWj*e!00!*!DO0e*!*+0R*^j+D+*/jD0Re=D/D0eRD}DjW^*;j+P^jOjPWW*R/+^Wev++^N-0+;-e+P^/^+O^RW-;+eR0-/+W++;P+eo*R+!e+0Wj!!RW;^*+*eV-Wx*0DP0*O;;RW+DO0eWP!00W*j!Rje0;erj0/PP*RWP+juR^eej+0EPDj^OW/P-+Oq^0-;R0;-**O+-RO^^R-ePl^0-0!O^e;e+*!eRP;t!0#PW*RP;-!/(-;U*O!+We!-!P/+0O*eD00Pe+jj-!jO0+*#j*/Oe/jDjW0*P+jH/0P;/;eWj!/0P;O+^+P^j//--jO0//-P+j^0P/-R+eRP;++=R^*RRj-e+W!e^+;r!0HPW*hO;W;+JP;;*O!+We!R!PW**DHPvP*0DWW;eO*+0R*^tR0eeDD;/O0+D-0/Pej0OO/OP0OP^+-jxePNO0R0-eOj^R-!O*ROPm+++W/P;++&R0;;^0-;+RR/;-!eR*;D-gR/;;;+E/;/!;EDWW*-)O;o*ev*0OW+G?We*;jD0PeeD!jP/+ekj0/PP+j<W0+POO/OP0OP^+-jR;P!j0^O-jOW^/-WO+^W-DO^+W^j;++zR0;;D^-e+RRP;0eOR;-N!WR;Wj*Oh/Wee!8RW/!P1RW!*j*RBR0Pe+D)0^}R0+*P*P0LeWDP/OPDD0/ee*PeDR/UP0OP^*O+^eP0ORj0-DOR/0/0Oj^!-e+POP--+e^N-0+RR0RR;e!PJ+;g!^;;+W,j;OWe+DTLW0*PD*P+g-WP*+&/WDW+d5We**D+0+ee*P0DeWD;0Re!DW0-0Pj+0We^O!/00sjW/OP!j0^eP!-eO/^S-0+PR*O-^O--OW^^;e;e+*RV;0!Pc*!!Rr;A+/%D;^!/R/WP!sZ/W**D*WD!0+*vD00;#/W-0W*!j+0qe0j;*/jeWd0+j;0ee;j*0e00j#^OPPOW/%-OOP^W^WP_++^1-0+;W!+WR+-R+P^e;*;e+WRQ;0!PH*+PR-;D+0R;;R!*C-sRPW*PD+WT*^WW*;!0WO*j!y0!*-D*0jeW*P0eeRjD/O0+jRD0ejjW/000j-/*0<jP/6PWj/j0-DOW/;-ePP/N-P+eOP;DO^Re;++W^0--P;!eR/;r!0YPW*jWW+!aD0WW***eX^W8*0DP0*&;0OeOD+WR0W!;j+0me0j;*0D;0Re/j-/ee*jDDie/j;j+e/OW/ReGOR/R-eP+^RP!+e^--WO^^R-*+-+R^;;P!+RN;^DD-W+02O;j-{D-WO!*<e;/!*!+/-!/z^W!0O!>D00Pe+jjPRD*W;eOD!D+P0jW/*ePjW/*e0jW0T/RePOP^+PuO^;WO-/^P-Oj^W;POq^R-O+eG!-RO0^P-R+*R---;W+/H+;l!0v;!-re;+;+S^WW!;L*WW*P*W)-0+*iD00;ORWe*+D!FNe;D00!e/jDDPe/DW/O/We0O+/)P0O;P0j//W-OOe/^/Pjn^DP/O0+e^+-?+0RP;*R+;e+0RR^0!DRR-0-0R*-R!jR^WO!g*OnWW0*PD+0jD*W!*DDDDWW-e+DE00e;^-*/D^0!WkDP0!Pj* /We;jW/Oe-PWj-^+P O0^;OR/^PROejg-O++O+-;+O^;-8+W^;RW-^!+RX;0!;-R!*R!;O!;R-;e!^R/7R-P*PD+Wh*^W5!W)^W/*RD090*-D*URW0!iW/eeDP0?0+D//eP!j!/jPPeP//PRj;/-eRe)/RP-j^^W/O-Wj*R+-h+0R;*ODWW5*!d^0WeDD/0ReWjeR+ePje00e++E/+POjP0Q;0jW/R;_jR^eP0OD/;-eO/^R0R*-jP/+eaj^eWjj0-e+OODBP;Oe/*0qO*/*P!OOj0P+OD^^^R-j+PR+-l+^WD+W^J;O!D^0WP!e(jTO;*!0?PW+*j0/e!j!0ee!jR/j;W!eDeW+*hD00Pe*^**0pR0W*^D+^De/D;0Re+D0R+eOOjOO/+P0OP^+-jR0PRO;/PW!O!^jPPO*^!-+-RORRP;++JR^*Y^^-/+PR-;e!-R/R+!P}O;+We+^SYW0*PD*e-uOW+*W);YP*DDWW^*RD!W^W0jD0!e*D/DPejjW/P/We;O+/>P0O;PPOW/r-Oe9^!-Oj7j%-ej^j/-0-R++RP;++bR^*!^g-P+RR!;j+-!WRWW+! =0W;R/WW!;{DRI!Rx-;^*Wm-0O!)eOD*00ePj+/jO!0R*0+*0-ePj0/ee*PejP/:P0OP^*!P^OPDO//;PRO+/0-OO-^*ROPW+0RP;+!jW^!O^V;W+;RR-/!e+PWj!+ReWO;+RR;e!-R<WW!-*WR;0+*lD00;O+W/eeD=W/W0jD0!e*D/DPPOjj/OeWjDD3PWj;/I0=jR/-e^OW/--OjG//^R-j+PR+-Y+^WP+DRW;++DO?0e*!D+HO-I!02PW+*j;**OR;WW*DsRRq!/d;6+*0oeWW*e(eDR;^ePj+0Ke^00*0DP0PeD!*h/W-jA/ee-O!/!e^OPD;P/O-D/P^j^/R;^+jR/;W!jRl;>;O+0R0;P!+-^OO^+-R;RO/VPW+!.J^PjReR0*eDDWR!:DeW+!0DeWR!HDe0-*PjO0+eeDP/Oe/DP/Oe+*p/OP+j-DR/>P0OP^+P%O0^P;+MD^W*U++^t-0+;;0++^R-DPVR*-R+PRW^0+DoO-/-0RP;j!DRPWO*DR0We*+!+;-*Oa+W0;%jRW-*!Dj/-eOjD,5P*!!je;!eKj0/PP*0RPej0/De;Oe//PRe0/!P!jW/^-+P+^W-*+j^R-/OPOPP/+PRe-;-+^W^0!+R!^G+PRd;R-u{*;O!*hj;O;PDD;^*WD*DeWZ*VD00Pe*W-eOJ0jOW!e0jP/+Pj^!e-je/P-mDR/^00*OD*Wqe00Se0jP^+-eOe//PP+O^j/j+-^--e;O+lR0;P!+RR-/!PX+;5!^0W!jZ*;R!*ae;P*O!+0e*ODOWP*0*Rwj0Pe+D70^O^^eP+*P/RP^*0^-;j+;^e-!!DRR-P+-Rj0.+}R-;P!DR1;-!P+O0e-0+PR+;jl!PRO=Re-*-+^/;e+;RW;D+;+P;D!WR;;R!!RW;-;P%+;W!^D!W0;?D+W-*PD+W/*D*+WT*eD*0+e+jejW/jP+jr/0P;0/enjR^DPWPR6-^P-+OB^^O0^RP-PPRO-+O/^+^++DR*^P+^RW;W++^R-^!eR!R+!OmW-R;+=j;/!+!+;-!/Y*W-;N4/W;W+D/0e**.B0ReOD;D+eWD+/OPDD/jR/ePPO+/&P^RDPejj^O^P-+OZ^0-P++^>-0lPROP;+0RP;+!jW+!ORO0++O2j^%+*O;/%-jOO^;PW+j^O-;OWRj-O!PDeW+*wD00Pe*^P*RD!T=PPOPD+eRj+/ee0jR/+Pej0OO08P0OP^+-j/WP!O^^OP0ORj4-D+O/W-^O/Re-j+0+R^^;P!+R{;^D^Wu*-+P-R!jRC;-*D1WWD*OtjDO;D*0DP0+ej0D*!D*W/WPjO0j*PDRD+e0je/e*LjPD0P!j!0We^j+/Re^e0/eeROD/P-OOD+O//-0+PR+;jRD-WO;Re^P+eRW^0+W^W^s!-R*;R!0QO;+!D*Ov-W0*PD+0j9!;/*D%;0+*DeOD;00ePj+/jOO^TeeDRk*/eeOjT/0PPO*-Bj-^OP0j-jP;-!*j0PWO!/;-eO!^RP0-RO^RP;++CR^!!ROW*+?^W;0*PD^;;*-RR/D!/*ORMW0*PD+0jOj/WPjOW/0PPje.0P;O!2BP-O+/R-jeRF;/PP+js/^OO/0PPOO/n03jP/-P;Oej0PWO!/;-eO!^RP0P0jF;j+W^--+-+RO-/+jRR-/!eR+^WWO!O 0WP*+Dje/QR;e;0DeW**e5RSP*WD00D0W*+j+0he0j;-RD^0ReejWD0e+jR/+PejP/!e^jP^eeAOe//P;-eO*^5-0+PR**Dc^^+O-RW-0+POt;-+-Re;^+/!W;^W+!UM0W;)P;P!+s+;/-j+-R!!^DWWD;*D-0O*+D0WWe;DO0DeWD;/!e!jj0PPOj*00W^O!/!PO*/^+-Oj-^O-+ee//--O*^WPtOP^!/!*;^V-O+RRj-PP-Re;R+-R+;R+^O//e!Eg0;/!;CDRDPO_;;b*W:;0jeOD/0ePWjO0jeWjD0R*^!^00*RjRjR;DPPO+/UP^6OP+j7jPPWOjj0P-O*^W/0+D^!-*O/OP;O+jRO-W+DOx;W+;RN^#+WRO;!+07e;!;+dR;^*+!+W^!kDeW0;_D;W0eODPlWWe*O:K*eD!0RWKDP0}eWD/jR/OPPO+/vP^RDPWjP/+PWOj^!P!-eO!^?-0+PR*+W^;P(+eO0;+!DOw-!+-R!;P+/R-neWj!{g0WP**W-WW*jD+Wy*0D;!<<;WR**b0DR0PePj+0_e^0-eWDOjWWjP+jd/0P;R+e/Oe/oe/e0RWPWjP^e-+P+/dP/OD^RP^O-OP;O+jRO-W+DOS;W+;RK^G+RR--^!WR-WO+SR/QR;^*PD+Wc*^/j*WDWW0*e!,W;eeDeWleWjD0R/O*Pj0/PP+Oj-/+;DLeRj-0^PWj-^OeMe:j+P-O*^+POPP^*-RORRO-DPe+R^/;P!+R5O*^PW!+;Dj0+!!R/;e!+^;;*!Wj+W;WR!+DP0+*#D^P-O*A!*!*+0R*^DR0e*/*0/ee*j0D0eOjP0000*E/^PWeOOW^O-+O_^0-;^--WOW^RRO-W+0RP;+!jWW!ORe-^;W+!?+;F!0);e^Re;R!P60/-!-I*W;*ODD/D*WD-W+*WDDW^0W!;j+0_e0j;*0D/0^eW*B0Re-D^/We-OO0 07e+^*PRj//P/POe^DP*+O^D-WOPOP-^O^+R^W;P!+Ru;^RW;j+*RR;D-}RP;-!/w-;n*O!+W+!/d0De;q*?D00Pe*0!e+DOWRe!j+0D*RjP/DeDj0/!eejD/-PPj!/O^OP*O0^P-++jW*jWj7P-O-^*-e+-OeRe--+.R0;P!*;*+*R!;O*/ij;^+/Ve;+We!Rz>W0*P-7!RT;;0!R*Rn-0Pe+DY0^DR0je!D00W*/j+DPejjW/P0PjO0We/j+/Re/PRDW^P-+Ok^^Oc^DPR+e^W-jP0ROP0OmRW-;+DRe-/+;++-R+eR--)!WR-RP!!vjR0!-LeWj*O!eDeW**mD00Pe*0Oe+D-6S*PDPD+*/j-0*eWDw0P/WeeO+/EP0O;;+j/^ePrj/j0P;O!j%P-O+/R-jP0D^/D;OORR0;P!+_j*-^);P!eR*R+!OR/;j!RR/We!+GDRR;W*WLp0+*YD00;D00O*!jD0D*;j+je0^e(j0/PP*0-eOj+/We;PWOO^+P(O0^;j-^WP*O*+O0/-0+PR+;jiG-!++^u--O/O,-0+ORj-,+b?OR++/Te;*!W=D;e!!!+;U!es;0D*P!00j*WSP0-eeDejOWDe0jP/+Pj/+eRjR0Pe2e+//e/jO/*e0Oe/*/+O0//PW+O^eP^PP^RPPO0Re-*O/RO--+*!O;W;0!PH+WjRd-I+0R0;!P;+D^/!*DO;--^DDWW!0D+WOejpWW-eODj0/*/D;W&eWD^0+W*j/0/eW*!/0PWjD/WP0*R/!-Dj^^OPPjs//0/*j^PPW+e^;PCPD^R;e+D^0;e+*O!0R!Pz+;!!jR-^-eDXR;**OjeWR!^DeW/*W ;R;*PhW0W0Wejj+0<e0j;ePje/eejD0jR/ePPO+/rP^RmPRj;//^eP!O_^0-P+*P^+e^e-WOMRO-DO/O0;e+zRO;O+;!e^;;=!0:PW*FW;;+X4eR0*+DDR?!WpOW!!0DeW!W+D;W/***+W/*eD/WRejjWjW0RP+j_/0P;0/Pej+0mPej^^DPD-+O9^0-P++^Xe00*W+-RO*RP;++JR^+/RD;j+-++;O+/Rj;R+/R-WO+%+FWO;Pq^WD!eU;W_0O*PD00Pe+jjP/DRWe--D-0teWeRDP/PP+jU/^+-RR;P!OR0-W!;jP;D!!5OW+!hmWWPPPtPWD!9+W^W;++QR0;;D!;eORLj;e+^F+R+!eR-RP*#*O3/W0*PD++/ReW*0O!&D00Pe+jjee*+W0*;je0Wej*00We!D;/ee!jR00/R**OP^+P,O^;WOO^W-DOW^j-WO*/W/>++^--P++^/-D-+^N-e+*R+;+!e+P;D!WR;;R!!RW;-;PT+;W!^D!W00O*;D00Pe+jj*-Xz0PeeD*je0je2j0/PP*/+Pej0/R00OD/Re0e0^+PRj0^e-!js^W-P-WD/R+-I+0R;+0^/-O!jR+;e-PRj;R!OR;Wj!DR!RP!DR-;/!*IhRc*WzuW^*RD+W^*2DP0!*^jO0Pe!je0/eRjP/DPOj-/W/We*O+/?P0O;e/Oe0{/+eP/^P-jxjwP!O-^j-!+O^;-/Pe+RR!;P!+Rb;^cj;e+^ke;j+e!RaOWP*+X5W^DO;c*e&*;T!Wi;0O0e!YDr00ePj*-jje0+eRD^/OeDjWD0e*jR/000je0RPDjP^OPD-OOO^0-P++Rj!-^+-WO^OP;D+D^^-!+!R+;e;WO/s+;)!0A;*-jW0jeR+w00e*jR/OPOjO/e;MOD^OeW!)^!-OO*^WP;+e/h-DO;jW0/P+j</0P;/PPWj?^O0TO*/OP*Oj/O^W-j++^b-0/!eSj^^OP;O/+R0R;P!+R:;^^?;P!eR*;R-#7O;!;+,j;/;P7*WW*eD+X+!0A/pP*RD+0We*D!W^eWD+0RW_j!0-e!j0D0e!jW0^W/jW^O0-OW/W^ee^OG^0-P+*-*O-^j/vOOOD;O+R^C-0-+OP-!+-Rj;!!OR;;/PD+OJWe;*+5bW0*;WP!Pk+W+!/+jR-;!L^0W*D!*0-eOD+00*Wj;0OeDjW0;P!j!/jePOO/*e0*^^!P!OOD/P++O^O-WO*^WPPO;j-PI+R^R-9ORR^//+W3O;e+^O--R!PO^;0+RxR.R;W*PD+WL*^/D*WVP/R*/DjW/**DR^e*^j+0R*Pje0!/eeRj5/0PPO*;!j-/;PDPRj0^P-+Ok^^+;.0-WO^/;-0+eR!;!*0Dj;j*!^H-*;W+en+;z!0>;!jR/RP!,SR;-!x!+W/!/#-WP*0r/WD**eOD+00ePj+/j+j0jeWjeDPeRjO0/e+jR0///PWOe/-PgO0^P-*R--Oj=c+-O+*^j-RO;/RRePW+IR0;P!*W0*O=>^J*;D-/je+D/Wi;+jj/WeWjRRoPOj;0QPD!0^DeROeDt00ePj+0?e0*P!PO}jW/+P+jA/0P;^0e-O*Oe0iP,O0^P-*^eP;O/^+-OO!^0/g+;^0PR+WO0-eORRD-P!ORDGO;-!0HPW+*j0P!j)D;R!PRaDOW**0DP0+ej/O**DeW*eODjW/eWD0je/Dexj0/PP*/De^PeR-/{P0OP^*j/^*P^jW/--!+O/0-ePP/W-DOe^*^+O/R--*+W^(-P+!++;^!eNj;!+^5eRP+&cR;R*eXjWe;0D!W!*ODeW!W+DRW^e+*+W/eDDR0m*/*00R*4*ju^W;Pej;/wP0OP^*jW/!P^jR/--jOD^;PW-WOPR+-l+0R;OWR+-O+0^*;j+0R0;0+-R^;-!+,!;!We!RVqW0*PD*POD!W!*j*RJ!0Pe+Dt0^ODWW*0jO0jWQD-/Oe*je0/e*e+/-e/j^/!0xO;/0eROWOR^P-P++^s-^/W-ROO+W^*;++ER0;;RW-;+W++-^+OR-;-!e+0;+!RGjWD*e8W^DWR*ODP0+*tD^eBDR0;PDDW00*PD?jeWReqj0/PP*R!e-j;/D00Oe0/PROD^OP*Oe/^-DP+jPP!OR^+/e-R+DRP;++,R^*D^0-/+RAD^3!;R-;e!^!R?!WP*+5&W^D</ReRj.0RP^*RJe0Pe+D&0^OP0DeWj+0DW%j!0-e;jDD0e+jD/^00Oe/*PejR/!^ee;O8^0-P+*;0OtRO-jOPRe-D+OO!-!-+R0;O+!ID;D+;%+R+!eR^;j!WR0WeW0*PD+Wv*0DP0+,0/00e*+DF00ePj*-+DRWFe^D/WX0+jW0+ePOO/jPPOO/j^OP-O0^P-++j;/!;jUPeO0/)RO-!+0RP;+!j-0+!RR;P+!^N-^!OR;;/WO!Ob0WP*+Dj!+q0WR!^Q/WD;2#-W-**De0-0W*ej+0he0j;*/je00e^*B/e*Kj+/+Pej;^Oe0j//*eW-OOW^0-P++RjOW^R-DO!+W^j;++aR0;;D--/+^R!^2+RR--^!WR-RP+/le;P!B!+WR!^%RWe!/*R2R0Pe+Dn0^+DW^eejeW7eWO!0Re*j00/eDPej^/mP0OP^*+//+P0OW/;^W*+++^3-0+;;WO^^RP^+W^;-!!OR+^0+!_D-^!ORP-L+/+0W!*O_jR0**cRRa!ey!WR*0!0W-**!&0W*;XWyqe!je0eeWD-DeW*P*Ree;j;/DeOeeOe0LP7O0^P-*8jPOO;/WPPO!/R/FO-^q-R+jRW-;+WR-;W+;RD>O;;!0GPW+*j0+!WR0;S*O*eGWW?*0DP0*3;WO**!AWP*-D!0+0ReOjP/+e=j^POD^0RP!j0/RPOj*Oe/;PpO0^P-*m-P7+O^j-!+O^P-D+!+W^W;++>R0;;D^W&eejD0!-0jj0PeRD-0 ;O*OcPW0*PD+0jjI;I!0r0^D*RA0DR0OePj+0_e^^k*WD;/e*,je0/e;Pe/P/3P0OP^*O+/+e%jl/-W^e!jDP;+e///j+!^RPi+P^e;*OR^/;e+*iD;D+^R+;R!jRP^;*D8D;R--jjWW*!HOWP*R1;/j!WDj0O!p>RSDPeD+0We+jO0+eWjW0-W-je/RPOj;D!;0OO/!-DOD/;-+eRD^00!R^*P;+O^+-RO^j/W!+!^W-;!!RR^j+JROWOWO+-}0WP*+Dj!Rv&W!;0EDW0!e!0WR*e!X0We+D10e*^jDD+*0j+0ReDPODe/0PPO+^jOO/*P-j8/RPDOPj0PVO!^+PYO-//P<Oe^*-+++Re^P+WR0;D;W!+l+;k!0-+OW^ ;eWe!PC&W0*PD**;GO;2!0</W;W+DeW-WPjmjO0We0jP/+Pj0;POjO/e/WeWO+/_P0O;-/OD/RP_O0^e-+P+^PPe+*^DR+-.+0RP;++JR0;P!+RR-e!P)+;s!^0P!DKWW+!D+&/O!;L^We!^lR;p*W!00R*WDWWue+eeDr0ke0jP/*OP^!;jPOoj/0PPO+^jO+/!PjjPjPeRj/^e/Pj9^P-ePP^D-W+-^*-RO0O0;!+0RR-;!e:D-0!eR*R+!PNOWD!04+;O;PDjWR!^T;0O*^SA0O0e*/DJ00ePj*P^D-Wmeej*WR/PP+j7/0PPO+/IePRP^O*WO0^P-++j;:O!^+PoO-///IO0^O-jOg^:;O-+^0;W!*RP;W!*R0;W+ +0;P+RdjW-!Q!+;R!e?-;B*W>-DWWPe+D)00e;^0eOD!/DeDD;/+0+D//ee*D^/We;j!Oe/OP,O0^P-*^We^jR/^-ePP^e-D+PR+-R+0O0-R+wR!RR;*!P9+;y!^WO+-KW;*!n*OR;W0*PD+0jj0W!*RDPW!W+OP0O*+jj0D*+*P0R*PD0/ee*j0/ee*Pej//lP0OP^*j;/--DO!^eP+-eO/^N-0+PP^OD/;-O+O^/-+;e+0R7;0!P1**^R-R++/RP;O!**O0_W0*PD+0jJ*WR*O(/Wj*RD0_0*+D00WW0D,/OePjWDPe/jW0P0PjW0n00j0/!P-O!^OP&eu/-PRO*^/-ePP^+-WO/^P-P+WO0-++!RD;D-PRW-0-0R!;R+^kO;-+RR/;T+R+*RjWR!0DP0+*ED^P-O*g0*jDW0/*PDR0eWaDP0-e!j+0-/W*eO+/dP0O;PRje/+P!ek/*P-OW^0/0O/^W-+OoOP-^+D^;^P+/RR-;+-^R^kPW+PWO!jpPRP-j*OR+W0*PD+0jD+WW!/DW0**PDWW-WPjDWW*PD!/DeWD^/O0+j^/We!jW//PWj0/PeePRje^P-+O}^^!P^D-W++^D/CO^Re-e+W^T;O+D^/^0!eRY;O!OR;ye;0!q_0WP**/-!-#*;0*ex;;m0+*7D00Pe+Dq^0y-^+0R**jP/+ezj^-/jD/je-e+/Re!Oe/-PWj^/RP*O-j0PejR^DPP+O^DRO-W+0RP;+!j-W!ORe-n!e!P:+;E!O,PW+!E9WWj*+2}W0*;00*OA+WP*W*RDj0Pe+DJ0^DO0;*-jj0O*/DW/jeDPOj*/0PPO+^jOj/Oe/O*/ePDjR^*P!-eOW^m-0+PR**-Re-P++R;;e!DR!RR--!Pb+;z!^;R+^RRRP+/ZPWW!+!+;0*+DO%+*/%#0e*DDPDR0DePj+0de^00eWDODPeejR0^0PjW/O/RP+OP^+PwO^WDOD/^P+OR^jPP-WO1R+-=+0R;*^^e-+OcRD-^+!!eR/;U!0pPW*jP;R*Ox+;/*D**D+WC*0D+0+*8D00e*RD500ePj*e!je0eeWeRj+/PP+j5/^+000ePjPR/PWjPOW;/-+Oz^0-;^PPPO+^+P/ejj-/!O^RW-DP*R-;O++R0-W!;RO;D!WR;W!!!9j;P*Oq*;0-^D!W!*O+/W+eODO0W**DWWP*;!-WgeRDR08*Rj^_/eWOO/ee^*-/-P*OjOW//-+Ox^0-;^+P/+e^=P/OP^*-W+jR!R0;P!+Rd;+!P_+;r+;W-W+!o10W+*+4#W0!*4?W_*WDP0O*8D00P!+8P00eej+0Re0j*/+*^je/PPDjJ/-PPO+/IP0OD^+PRO0^!-+O_^0-P+O^ -0+PR+-t+;RP;++0R0;P!+RR;0!eY+;40+mPW+!iJWWP*+%2W0**D+W.*0DeW^*(D00Pe*W0**DW0j*PeWDj/+ehj0/;+//We;OD/WeQj0/RP0e0/+P0OWj0-+OW^RPgO-^//j-8+0RP;++0R0;P!+^^e/!Pl+;%!WvPW+!<R;je*+HRW0**D+WL*0DPDD* D00PejD?0WePj+OPe0jP/+eRj0/PP+j=0;PPO+/aP0D;^+PGO0^P-+Ou^0ePOG^>-0+PR+- +ORP;+OWR0;*!+R.;0!!E+e)+*aPWj!wqWWP*DH(P0+^D+W^*0DD0+*^D00P*0D<0-ePjj0Fe0jP/+*ej0/+P+jN/0P*O+;:O*OP/wPkOW^PP^Oy^;e0++^W-0+PR+-_+0^P^0+mRP;P+MRZ;e!PY+gR!0VOW+!S<0W**+/u***P RWc*WDPWR*ZD;;0e+D;00eej+0Ce0DPD0e)je/Pe2j:/*PPO+_*P0O!^+PWO0^e-+j2O+-P+j^ -++PRD-s+0e;;++mR0;*!+RR;0!P*0;8!0wPWO!:Z0WP*+:eW0*PD+WR**DP0+*ED^edDeWP*0DRjO0Pe0jP/+PjR**RD00Pe-j*0//Re=OP^+PJO^PWO0^D/P+O/^-ePP/W-DOe+WRD;++)R0;;D0;O!eRP;D!!!WR;W+!YA0W;jR;;*O!+;e!/HOr+!/meW**R+DDR0OePj+0.e^RDeRDv00PjjR/-e/Pej0/XP0OP^*!-/-P*O;^OP*Oe+O^P-0+PR+;jD!-!+j^P;O+*^0RR;!!Pp+;)!^/D!RR^W!!R{+q^W0*PD+W0*0DP0+*RDe0Pe+Dr0^D/0R*RjOje00eNj0/PP*R+e+D>09;!OO07^OP!O0^P-++jP0O!^R-PO!/GP^+O^;-/;O_^R0;P!+8j+9^k-0+0R!/;-DO/;**OR-^^*D=W;0*+gO0j!Ws-0O*jD/W/*;GX0W*^D+=*e/D/0WW!D0/WeWOO0^PODs/j0DjP^ePeOP/e-*e!^O-WOR^*/DOe^0Pi+e^R;eP*R+-e!e!Pd+;7!0RSW+!w{0;*D!28W0*PDDWX*0DPWj!+D00ee+DR00ePj+;K*jjP/Oe3jW/PPjjQ0;PeO+//P0O+^+PsO0^PP*OM^W-P+D^T-0+PR+P++0RP;++KR0;*!+R,;!!P +;p!WNPWO!=c0DV*+7QW0*eD+WB*0DP0j*iD00PeO%;00ePj+/j+!/Oejj-/OePj+/eP+e+00P+OOj+P0OO^ePPOD^!0;-eO^^k-0+PR*O0^*-W+j^PR0;P!+R);P!P)+;l+;/-W+!Ka0W**+3YW0!*POW&*WDP0O*YD00Pe+*/00ePj+0^e0je/+e1-+/PP+j)/WPPO+/#P0j*^+P2O0^Pe*Ob^0-P++^3-0+P/+-0+0RP;++NR0;+!+RA;j!P%j;I!0aPWD!N/0;z*+F^W0*eD+WW*0^PW^*bD;0P*0D90-ePj+0Pe0j!/+e^j0/PP+jT/DPPj)/FP0OP^jP r0-j-+O0^0-e++^--0+*/P-n+eRP;++XR0;P+++P;0!+i+;;!0(OW+!)*WWP!RN_W0*PDjW#O00j0+*WD00ee+De00e* P0Ve*jP/Oe j0/Pe+eP/0POO+/;P0Oj^+P_*j^P-DOQ^e-P+O^:P0PbR+-^+0R*;++/R0;P/*R(;0!P(j;,!WZPW+0Pz0WP*+(RW0*PD+W>*ODP0+*CDW0je+Dn00e;/0eOD+0PeWeRj+/PP+jL/^!j0WePj+/!Pjj-OW^D-+OE^0-;i/-WO;RD-WO=+W^R;++nR0;;D/;W+0RP;^!W=!;-WO!jy0WP*+Dje0{!WR*P!PWD*!DO0+W+DPWee*eeD00&e0jP/*+-0-e*j;/Oe*jeOO/-P0OP^+-ja+PWOR/KP-O/+O^j-0+PR+;jDe-j+WO0PR+!^W^0+!^R-^!ej-re;0!Cy0WP**/-!-J*;0*eg;;:0j*ND00PejD&00ePjO0;e0jP/+Pj0Pejje0^e+PeD^/(P0OP^*!-^eP*O/^eP0OP^W-PPP/z-P+eOP-:+eRW-0+!R-/^;0!P#+;S!P1PW+!hR;P-*+Z_W0*eD+W.*0S*OO*sDW0PejDU00ePj+D/e0jP/+e^j0/eP+j:++PPO+/?PWOP^+PkO0^+-+Oz^0-eO0^Y-0+PR**+^+P#OQD!;OOq!OR!;0!PY+WjR0;!!R8P;!+.R^WO!;8/DOe;*0DP0+ejWb!p90W0*!+;SD;/D;0We/De0!eR*j0+*RD;DDPWjP/W0Dj-^!PjOe/0P+ODjD-ee-DR0/e-Rj0ceWj0/!!Oj^/e!eO+/eP!Oj^+!;zWW+P0Oc^*-ODD^e--DeR+-W+;R+;*D+WeeeeeDR06e0jP/*j!/eeejWj9/0PPO+/PP0OP^+e^^/^P-+O_^;-P++^6P;+!R+-R+0R+;++KR0PP+*RK;W!PJO;)!WwP;j!-y0W!*+s/W0*PD+W<*jDP0O*tD-0Pe+D200*/j+04e0jP/+e^j0/PeRjt/0PPOO/>PWOP^+RPO0^P-+OR^0-P++^#P;+PR+-u+0/;;++&R0;P!+R5;0OPRR;k!0ZPW+!gl!WP*+2+W0**D+W%*0D!0+OiMR0PejDr0WePD002+0D0/+e^j00RP+jW/0PPjO/EP-OP^jPHO0^P-+OP^0-+++^p-0+*R+*pR*RP-c+9RW;P+^RV;;O0V+;W!0&eW+!>60;P;0d<WP*PtrW?*eDP0+0RD00Oe+D700e*j+-zj*jP0Re6jW/PPDju/;*0O+/;P0OP^+PBO0/P/0Ot^e-POL^s-*+PR+0*+0R!;++WR0;e!+^&R+!Pmj;L!;&PWD!L_0O;*+z6W0**D+WR*0DPj0*:D00PeODr00ePj+0ee0jP/+eRD^/PP+j=/^!O0^PeeP0WPDjejPPDjW/;-O*!+O^P-0+PR+;jD!-!+j^P;O+*^0RR;!!Ps+;<!^/D!RR^W!!R_+ARW!*PD+W5*^/i*eDWW0*!D-DR0+ePj+0ye^Rj*WDP0+e!jj0-/WeRO+/vP0O;;/OW/0PPO^^W-!O-+O^;-0+PR+;j}+-WO0^:;O;eO0R,;0!PB*!-R-;+!e9e;!;+R0;/;PDDW+*O7P0j*DDWW**o!V0;*+=/jO0Pe0jP/+PjR!e!jj/*eRjj/O/^P0OP^+P^O0^P-+OR/R-P++^X-^^D-WOPR!-P+e^0;*+!RR-;!+!e^^;,!0gPW*hP;R!D3/;/!*#mRj*!DDR!*^<^W+*DOW0j*DD*^R;ee0jP/+eKjP/PP+j{0;!-O+/rP0Oe^+P3O0/*KOO ^W-P+j^s-0+PR+^/+0RP;++^R0;e!+R?D+!Pd+;)!W=PW+!dV0W**+2 W0*eU^W?*0DP0*X0W**WDjWP0W*jj+0ae0j;-/jW0;PDjW0)e0jR/000j+/0PWe0^+PWOR/NP-O/jj^b-0+PR+-0+0RP;+O^0/;P!+RV;W!Pg+;4+;eeW+!RY0W**+v1W0*P*DW_*0DP0j*KDW0Pe+PP00ePj+0Re0jP/+egD;/PP+j2/0*;O+/gP0OP^+PBO00PePOT^0-P++^d-P+PR+PW+0R*;++3R0;!!+0xPR!Pgj; !!FPWO!./0;+*+%^W0**D+WP*0DPWD*lD-0PejDc00ePj+Wee0j+/+ecj0/*P+RqP*PPjA/:P!OP/WP?O;00-+OW^0-P++^U-0OPO0-a+PRP-^+KRe;P!+!R;0!OF+;u!0q*W+jtW*WP!R=:W!*PDDW4*;R00+*;D00ee+DJ00*P*00deejP0^e#j*/PP+!*/0P!O+/WP0Oe^+e_P+^P-jOI^e-P+D^)-00;R+-2+0R*;++RR0;PW0R ;0!PUO;Z!0EPW+!ec0WP*+zRWO*PD+Wz*^^D*Ru?W0ejDR0-*/eeF!0me0jP/*De0>e0*Z0PezOO0000OD0Reee0/D-Oj/j0PDOR^eP;++O+-/O/^;-^+e^;-W;eP;R_;0!P3*+P7O;P!++0;W!R+4;0!0.RWR!-DOm+*RC;0OW+UeW/*O*+W/*eD*0RWzj*0-ej*w0PeyjRDcepj-0^PWe0/-P^ev^!P-Ogj4-WO*^R/3OO^-PRPN^--O+jRW^0+R++;*+eRR;D+0+0;D*OKj;P;PRxWD;0w/W**D9!dP*WD;h0!RD!WWW!D*0RW9D-0OejjWD0-P+PRW;W+!RR0 +PuO;P!+j0;W!Rjv;O*OnD/Y!/N*^+*j>/^PeOg^0e-PXW0D*e+P0D*WD;/O;+D(0hPOOO/We-OO/RPWOj/RP-jR/-P^O/^+P/O/^O-P+PRD-P+PRP-0+DR-;++RR!;*+-R&;/!+Bj;H!/x+;R!^d-W-!ErWWO*0U-Wh*;D-0j*/DP0O*Wj+0DePj!0WeOj00-WW! D+W8*0D;P^.eW+!#DDW^*!eeD^0Be0jP/*OP0R*Hj+/e/WPDO+/VP0O;;0OO^ePPOD^!^WP;++^z-0+;WRO;RO^+Oe^/-O-+^/-e+*RR/D;R!+hPW+!iS^PDBD;^!+&RWj!P*WDD0+*<D00;O/0W*;jD0W*.e;jP/+epjP/PP+jk/We6O+/=P0O;;PjP/+P+!-^eP+-eOR^v-0+PR*+!Re-e+W+RRD;P!+Rk;^RP;D!W7+;D+0R;;R!*K-HRe**PD+W2*^W0!0oPWP*D+*R/;-Dj0R*!!;0/eeDP0d*Rj^0ee!jR0^P-j-/*e0Oe/;ewej^-P-OejDPP+e^e-RO;^RP0O^j/-+!ORO;++Oyj^D+R4e;W!jO/;!!DRW;0*OZjW^!.%OWR;j19WOeOe+D}00ePD00pe0jP0jODj0/PP+j//0PPO+0^eYOP^OPVO;^P-+O>00P!++^R-0+eR+-R+0^*--+2R-;P+KR2;0!PQ+-e!0teW+!/K0WP*+1%;!*PD+WS*0DP0j*9D0;/e+D400eej+0Re0jPO0ecj0/PPOjd/0PPO+/^P0OP^+PRO*^P-+O8^^O+/^-OO;/1ROP;+0RP;+!j0!!ORj;-!ORP;+!e#+R++0L+WO;+a0WO*e{PWD*!+;DP0+*TD00+e+Dk00**R!0Ke0jP/Oerj0/Pej-R/0PeO+/^P0OP^+PpP-^P-+OL^;-P+O^C-0;>R+-&+0Re;++&R0;P+jR6;0!P +-j!0?PW+!x<0WP*+^xW;*PD+WV*0DPW^*6D0;We+D^00ePj+0/e0RP0Pe8j;/PeRjb/!PPm+0PP0O*^+PPO0^!-+Oi//-P+D^I-;+PR+-U+0^!;++0R0;P!+R^;0jP;^;5!P1P;R!kS;WP*jR+W0*OD+WX*0DP0+! *+0P*uDs0WePDR0{e0Pe/+eWj0/PP+j^/0!P/^/GPeOP/RPiOO^P-jj+^0-j++^R-0+PR+PA-+RP-R+QRW;P+^Rc;0e^_+;/!0#OW+!RT0;P;0AuW;*P:LW9*-DP0+RjD00Pe+D^00eej+0l^+jP/+e2jW/PP+jx/0eRO+/BP0Oe/0PgO0^P-*)-P-O*/0-eO;/nRO--+0RP;+!j0!!ORj;-!ORP<O;;!0mPW+*j0+!WR0;l*O*eN/W4*0DP0*OPWReOD+W/eDeeD008e0jP/*+;0O*pD00/e;jDOO/PP0OP^+-jk!P!Oj^*PROj^O^RP4+PR+-o+^-W+0RD^P!O^^;e-P^W;D+e!WRRW+!&G0W;j/WW!0MPW^*WD!W-0O*jD00Pe+jj-eDj0WW07R0!*W*00!*RD^/e;-P*O+/rP0O*^+PwO0^ee^Oh^0-P+*W-+e^*-/+e^0-P+WRP^PO>RP;e-PRg;e!WR0;!!-O^gWWj*+y<W0*;;&!;2RW*!0*LD00Pe+D000ePj+W^+/jP/+e,j;/PP+j<0;ReO+/RP0Oe^+PNO0^P^DOp^0-P+j^p-W+PR+,P+0RP;++RR0;P!+RC;P!Px+;{!W,OW+!r,0W;#-WW!WbRDOW!*0DP0+ejW0*!DR0P*!hUW^eOD;0//OePj0/PP+Oj-SDn00e0!D/Re0PRRW^P-+Ov^^O0/0PPOP^D0*e/j--j+R^!/;+/Re-P+v^R;^+eR!;R+^x-;-!*R0We!;R%Rj*-2-We;D7P0e*eDRW;*R}0W^;/D+/OeOj+0OPj*D0RPejW/jW/O*^jP+je^O0*O+/e-e-P++^7-0ORR+-&+0^*P/+ R0;P!jRU;0!PRj;e!0oeW+!R10WP*+^AW+*PDOWo*WDP0D*t6;0Oe+D/00e+j+0re0jP0eeYjP/PPOj2/0PPO+/;P0Oe^+P0O0^P-+O&/0-P++^k-0+PRj-9+0*^;++iR0;e!+RR;0!P*0;_!0qPWO!1y0WP*+R^W0*PD+Wc+^DP0+*YD00Pe+D2;0*Oj+0%e0jP/+e0j0/P*;jK/;PPO+/TP-OPW+PRO0^*-+O/^0PR++Wc-!+PRj-F+WRP-/+tR0;e!+R/;0!*t+;#!0AP;-!xrPWP*+wCW;*P^+*;*0D+0+*/D00je+D^;=ePDR0AeWjP/+e.D0DUP+j0/0eBO+/WP0OP+OPBOe^P-+Oa^;-PD+-;-0+OR+-/+0R*;++^/q;P+^R1;0!PG+;S+0+9W+!Wk0;w*+<;W0*PO;W{*-DPWR*7DW0P*+*P00e*j+0We0j!/+eX;^/PP+jV/;PPOO/hP0-,^+PNO0^e-+OX^0-POW^Y-0+PRO-j+0RP;+!j0e+jRW^0ORR!-W-0R!-R+^pe/-We!/F1W0*PD*PP{R0O*+p/0D0e*/D_00ePj*--je0*e/je00/ee0jA/0PPO*e0OO/jPPOW/PPD-OOe^0-P++Rj*!RO-+OSR*;O+/RDRW-9!+Rb;0!;0/+/R;;^!eR;;WWe!0xuW0*PD*P;tO;E!0Q/W;*DeOD;00ePj+/jO+0W*0DZ/O/ee0jr/0PPO*;-j-/*e0Oe/;e{-jO?^0-PO,^_-0+PRO-W+0RP;+!j;D!ORO;e;Wl^s+;2!0p;!PRP;+!+R/^j--+!;^*W2DR**-DOW+*0LW0;*ODD0W*;j!0!ejDP/Oe*D0C^P!j!/OW/+W^OeWjP/RP-jWD/-OO0^P0/OWRO-eO^j--DO0^;--+*R-^eP*O+;-+eQO;D+0O^;0+R=R^^!+R0;0WR*+DP0+*ND^P080WP*PO/0W*PeWD//+e:j0/;j+0/Pejm0/ePj*/WPjO!O0^P-+Ok^O-P++^7P;ODR+-V+0R+;++mR0-*O/R};W!PqO;,!0 P-++! 0We*+_RW0*!D+;^*WDP0D*_D;0Pe+DB00*Wj+00e0je/+eVj0/P*/jF/WPPju/3P0OP^+e*O0^P-+Oq^0-*++^6Dj+PR+-.+WRP;O+BR0A:!+Rh;0!e:+;A!0oPWj!d.0WP*OR;W0*PD+0jO!0O*jD-0O*PD+0ee+*+W0e+jOD+e0jO/eePjD/!W;Pej^/tP0OP^*j0/*PWOj/P^0-P++^l-P+PR+-CO;0-;++kR0;*!+Ro;0+*eO;N!WyPWO!x,0WP*+!/W0*PD+W^*0De0+*VP+0Pe+D10WePj+0Ae0D*/+e1j0/P**j_/0PPO+/lP0OP0+PjO0^P-+OE^0-*++^lPW+PRj-U+0RP;D+g00PW!+R^;0+<E+;R!0/P-W!bB;WP!WArWP*PD+W0*0D!0+*^D00Pe+Dp0eePD%0he0jP/je&R0PjP+j0/0eNO+/;P0O*0PP%Oe^P-+OS^0-PO+OP-0++R+-W+0RO;++(!W;P+RR1;0!P&j;Nj0WjW+!Wt0;T*+E/W0**RPW:**DP0O*bD00P*+*P00eOj+0We0jj/+e)!j/PPDj6/ePPOO/be0e5^+P^O0^D-+O/^0-P0*^g-0+PRj-B+WRP;+WPR0;P!+RR;0!P?+;V!O&PW+!BqW;;*+>cW0*;/R!;DOQ+!e_/WOW+L/We**DRRD0Re+jP/+e4j^;DjD0^e+jR/jePPWj8^+P:O0^;!///P;O^^eP;OW+e^W-<+0RP;*D-;e+PR+;;!e#D;!;R!!KPW+!o>^ez(eWW!0 !W-WR**DP0+*4D^eIDeWP*0DRjO0Oe0jP/+Pj0eeDj;0WPjjD0Re-Oj/Oe/O*OW/g-+O_^0-;3^PeO+/s-DO^^!Re-/+YR0;P!*0-!eR*;/!eR0A*W+!ah0W**+J=W0*eR^WI*0DP0*O-0e**D/0e*0DP0WeP*PW2ePjeDPeHje/We0j!/-W^PWOj^+P O0^;j1/;PRO*/0^Z-0+PR+-0+0RP;+O^0/;P!+RB;;!Pn+;I+;eeW+!R40We*+tqW0*P*DWx*0DP0j*YDW0Pe+PP00ePj+0Re0jP/+e3jP/PP+jU/WekO+/=P0O;;PjP/+P+!-^eP+-eOR^Y-0+PR*+!Re-e+W+RW+;P!+RC;^R0-0+PRP;DP*O/^-!jER;!-;B/We!PNr;R*^YeW!*R.^0-*-D*W0eeD;W7Wjj-0-ee*D/DPejH/WeRO*/!e/j-D-PeOR^P-+jW^PPeO*^R/DORRe-W+jj/;j+Rj/;*!O}O;;!e(e;R!;vWlW;/*+QlW0*;W+!/DeWn!/>PW**WDj0!00ePj+0de+jP/+eKD;P-P+ji/0P+O+/pP0j*^OPAOW^P-jOx^0-Pj+/*-0+eR+-R+0Re;+O^/Q;P!DR ;-!Pz+;t!0R+W+!Rx0W!*+IhW0*P !Wz*0DP0+*YD;0Pe+Dj00ePj+0Re0je/+e?-+/PP+j}/WPPO+/zP0j*^+P(O0^Pe*Ok^0-P++^b-0+P/+PW+0RP;++ER0;O!+R4-*!PKj;9!0KPWD!B/0;e*+A^W0*jD+WR*0^PWO*#D;0PejDZ0!ePj+WWe0j!/+e^j0/PP+j9/;PPj5/9P0OP^jPuV0-j-+O0^0-j++^/-0+*/P-F+eRP;O+pR0;P+++P;0!+4+;0!07OW+!l*WWP!RN&W0*PDjWsO00j0+*WD00je+De00e*KP0Ke*jP/+egj0/Pe+eP/0POO+/0P0Oj^+P}*j^P-DOm^e-P+O^#P0PTR+-^+0^J;++/R0;P/*R{;0!PFj;S!W{PW+0P60WP*+rRW0*PD+WC*ODP0+*IDW0De+D(00e;^0eOje0PeDj!jW0NP+ja/0P;R/e/j;0QPWj^/+^eP0OY^0-P+*W-O-^*-;+O^*-e;O+PR0;P!+lje*^R-0+PR-;*+/!RRQWP*+t%W^ZWW0*D!P0O!^De}P!WDDWe0WeDj+0Ue0j;-/jW0;PDjW0)/WeRO+/kP0O;;/OW/0PPO^^W-!O-+O^;-0+PR+;jL+-WO0^L;O;e+*RF;0!Pw*eWR*;R-ERO;-+R+1;-!O(jWWP/*;DP0+*CDP0Pe+Dl0WO+j+0Me0j;ePDP0+e+D/bjW-*!0^PWjDD*P-OO/+P0jW^;POOD^WP;+!^!-jOPRO-*O0j^;!+!RO//++6O;O!WR*;W+PR;^-+onR;R!ERRW^-/gW0O*eF^R-eODj0O*WQK0W*YDPk*e+De/e/ee0jU/0PPO*;+j+0ces!!^Oe)-OO!^0-P++RjO0^!-R+P^!PgO^RO-;+/!ORW;0!P7+WjqDWO!O6e%0WP*+2,W+*PD+WM!;0-0+*FD00!e+D600**7P0keWjP0<eXj0/P*+D//0PeO+/RP0O*^+e^Oj^P-DOX^W-P++^B-0j^R+-R+0R!;++qR0;P!jRE;0!PG+;4!;bPW+!R30WP*+3RW0*eD+WC/+DP0+*TDW0Pe+D300e*j+0be0je0^e.j0/PP*00e*jW/jePPWjj^+PdO0^;!/^WP;+D^WP O0^R-0P0^+-0+WO0;++WRR-2+-R/^j;r!0kPW+!0g0WP*+R^P/*PD+Wt*WDP0+*#X;Oee+DR00e*j+0Ge0jPjDeQj0/PPjjB/WPPO++PP0OP^+PRO0^P-+Om/;-P++^s-0j;R+-F+0RP;++zR0PPO0Rc;0!P2+;C!W?PW+!e{0W**+%wW0*!D+P3*;DP0j*?D+0P*WDh-0*+j+0^e0j*/+eWj0/Pejjv/-PPOj/kP0OP^+POO0^+-+O5^0-*++Wn+*+P^H-_++RP;D+GR;P0!+RW;0!P1+;b!0RPR0!F4PWP!/<1We*PD+DR*0DO0+*FD00*e+^Ye*ePDR0_e+jP0^e3j;W0P+j;/0PeO+/UP0jPj0P1Oe^PP/O}^*-P++D*-0+!R+-W+0Re;+OG++;P!jR7;P!PbD;X!0P;W+!gQ0W**+aRW0*Pe0WS*0DP0O*5D00Pe+De00ePj+0Re+jP/+eIj^;DjD0^e+jR/jePPWj=^+P:O0^;!///P;O^^eP;OW+e^0-x+0RP;*D;-OO ^0-/+;RD#O;-!0#PW+*j/!*O=jW-*OpPDOWe*0DP0+ej^!eOD+W2e*jO0/eDeWjj/+eVj0/;O0/Oe+jP/W/RP!OP^+P8O^;nOe^WP0O!^-^RP^+PR+-#+^0OO^Re^POWRD-e-PRD-W+; O/!WO!+g0WP*+Dj!RQ2W!;0DeWj*W!0;R*!5WD^00ePj+00e0jP/+eR^W/PP+jl/^j000ePjP/DW**/D-PjOR/!0;O/^ePPO9/R-^Oe^!-RO^R---+*^0;e+;^_^j!-R-;e-DRPWe!eFR;;!RR0;^-/3+0O*OD+WOej!DWReeDW0j;/D!0-eejP/+W*j+0ePePej0/#P0OP^*!+/+eCjg_!-Ojc+O^!-0+PR+;j^0-!+RRP-!Oq^^;O+;R/9O;W!0vPW+*jWD*O,OWeW0*PD+W<*+DP0+*{?;e-e+D500e!j+0Le0D*0Pe1jW/PeBjG/0PPD+/jP0Oe^+PRO0^*-+j^/!-P+D^>-W+PR+-?+0Rj;++RR0;!!+RT;0!Phj;?!0rPW+!tb;WP*+RPW0*PD+WR*0De0+*zP+0Pe+D=0WePj+0ne0j*/+ekj0/e*^jz/0PPO*;-Oe/*P/Oe/0PPOW^P/Pj.^P-ePP^_-e+W^0-!+-j^RW;j!+Ri;0!;-.+;RR;*+0!Eh0WP*+H0W0*PD+;^O/DP0+*3D;0Pe+DQW;^ej+0Re0je/+e8j0/P/Dj#/0PPOj/hPWOP^+RPO0^P-+OR^0-P++^qP;+PR+-T+0/;;++2R0;P!+Ri;0OPR0;p!0#PW+!1a!WP*+RPW0**D+WZ*0D!0+Oy:q0PejDN0*ePD009+0D0/+e^j0/eP+je/0PPj-/UP-OP^jP9O0^P-+jP^0-+++^n-0+*R+*2R*RP-h+XR*;P!jRq;;O0G+;W!0 PW+!9L0;P;086WP*PBRW9*eDP0+0RD00Oe+DK00e*j+-Qj*jP0ReXj*/PeHj /;*0O+/;P0Oe^+PSO0/P/0OZ^e-POR^r-*+PR+0*+0R!;++WR0;e!+^uR+!P9j;<!-bPWD!<V0O;*+_%W0**D+WR*0DPj0*7D00PeODi00ePj+0ee0jP/+eRD^/PP+ja/^!O0^PeeP0WPDjejPPDjW/;-O*!+O;R-0+PR+;j^P-^+;R*;jO?^0-P++++;R+;EOR++eR/;O;+R/;e!*GRRn!/(*i+*jDWWrW+Dj0!ee*+0eePD*/DWIjO/j0+De0/eOe+/Re;OO/*e0e0/^eRj//P/PjY^WP#O0O+-O+e+W^R;++ZR0;;D/;W+0RP;^!Wq!;-WO!P(0WP*+DjP*RR;0!Ph-W*!/*RD*0Pe+Do0^j80e*PD00R/O*0j0/PP+OjPOjj/O00jD/0PRjPjPeNOP^e/POD/W-DOO^*-R-R++RP;++gR^eDRD-^++RR;j+P!WIDW+!NT0W;j0WO*e_PWD*!*W,/0+*oD00;DP0e!R*+0OeWD;D+eeDRj;/PP+j#/PPPO+/aPWj/^+PpO0^;O+//-eOu//PPO*^W-j+!+We^;++{R0;;RP-P++R+-/PjO-^!+^iW;D-*s-WO!+Q0;W*;{OWD*WN;0!*!DjWPeOD*W0;^j!0!eO!/00W+j//DPOjj^;We*-RjPDO;/0P!jPDR;!+D/^-OOP/.P/e/^W;O+e^^/-!ARP;e-OOj/.*-R+;j!DR^WD!RR/;P;O+j^3P;De;=!0x)0O*/8^W/*OD*00*-!-RD*WD-0+e!jODeW**+R/P+Oe/jPRO-/+PRj^D/WeeeR0P;+e^W-j-R++RP;++wR^*0^0-P+PD/;W+P!WlOW+!I:0W;8-WW!WqRD+WV*0DPW0*GD00P*j/D00ePj+0Re0jP/+*^j*/PPOj3/PPPO+/E*0jP^+PRO0^e-+O/^0P*+j^L--+PRj-E+0RP;++eR0;e!+R/;0!P_+;#+*YPW+!xU0WP*jQ,W0!PD+W,*0De0+*RD00P/0DS00ePjO0ke0jP/+e^j0/PP+jR0*PPO+/JP^uDPRj^^!PRO+/o-OO7jaPPOJ^R/w+P^R;O++^/;DP*!OR;;0!PC+WjRP;j!eR^;+WP*+mrW0*+D+W#*0c*-!*VD00PejDV00ePDjORe0je/+eRj0/PP+jCj-PPO+/<P;OP^OPpO0+9-+OY^0-e++^h-0+P^j-y+0RP;+OjR0;P!+R=;0!P#+PbOR_PW+!3q0WP!0JUW0*eD+W^*0DP0+*/D0-P!-Dc0;ePDR0veWjP;+*_j0/*P+j-/0P*O+/Q*ROP^DP}O;^P-+OC^0e^++^0-0+PR+-^+00P+^+dRP;P+RRN;O!P1j-+!0?OW+!9m0WP*+Rs2+*PxKWE*-DPWR*uD0jee+DW00ePj+0^e0RPe^e&je/PeRjX/*PPOj0+P0Oj^+PRO0^P-+jJO+-POR^i--+P^^-)+0D^;++/R0;O!+RR;0+P+0;Q!;sP;7!Bh-WP*+-jW0*PD+W^*0De0+*(P+0Pe+Do0WePj+0de0DR/+emj0/eePjK/0PPO*POO+/-0tOW/*PRe5/OP-jR+O^P-0+PR+;jD*PRO0^P--+*^/RR;+!P_+;3!^/D!DR^;+!R>j;PWW*DD+W)*0D;P0DO0e*PDD0!0WeDj+02e0j;-/jW0;PDjW0z/WeRO+/yP0O;;/OW/0PPO^^W-!O-+O^;-0+PR+;jo+-WO0^a;O;e+0Rx;0!P)*e-R-;*!;_O;*!e*O(jW0*PD+0jOeWj*W!0;R*!IW=0*!cRW^ee+-j*/+e(j0/*P+js/0PeD^/{P0OP^*!-^eP*O/^eP0OP^W-PPP/<-P+eOP-r+eRW-0+!R-/^;W!jJ+;v!09;+?R;;R!*R0,3W0*PD+W0*0DP0+!^^/0Pe+D>0;ePj+0?*;-e/+eRj0/eP+jm/0PPPD/XP0OP^jP{OW^P-+;P^0-P++^R-0+PR+-w+PRP;++,RW;O!+RF;0!;;-!WRW;RWO!PI0WP*+DjeLRx;0!0ODWR!0*R/!0Pe+D%0^D0W0*PDP0D;*!/g-ejjR0!W;j//eePjc0RP^je/!PRj^^-P-O*/0-eO;/ /j+-^--ePD^P;e+eRR-;+R^0-^P/R+WO!OE+;O*j+D;R*e6WWj-/D*WP!WDeWD*0DWW^e!D!0j;^D0WReReRjD/PP+jY/^jP/DPWO+/De0j;/RP*O-Oo^0-P++^e-0+PR+P^O!RP;++{RP;P!+R_-;O0:+;R!0)eW+!Y80-P+eXpWW*PDOW{*;DPWj!0D00!e+D/00ePj+0ye*jP0Fe&jW/PP+j4/0e4O+/RP0O+^+PsO0^PPeOl^0-P++^m-;+PR+D*+0RP;++RR0;e!+R#D+!PV+;.!WVPW+!_#0;**+g)W0*PR*Wm*0DP0+*LD00P!+D-00ePj+0Je0j+/+eID!/PPjjt/0PPOD/7!0j+^+P^O0^D-+Oe^0*POO^s-;+PRD-F+WRP;+O!R0;!!+R^;0!PL+;6!;lP;.!<.0WP*jKiP0DjD+W0*0DD0+*PD00*!PD#0eePjO05e0jP0+0Pj0/+P+j;/0POO+/n^WOP/RP#O0^P-jOMW0+j++^W-0+DR+-W+0R*PP+dR*;P!+RN;0!PR+RP!0,OW+!;90Wj*+IJ^j*PDDWx*eDP0O*LI03_e+D^00e*j+0/e0jP!*eZj0/PPjj /WPPO++PP0OP^+PRO0^P-+O4^O-P++^K-WORR+-7+0R;*/RW-0+PR^;W!!R-VO;P!0BPW+*j/*+RR0;P!-7*;/WR*jDP0+*hD^*^yRW-ejDOW/*Wjj0D/Oe*j0/PP+Ojeej^0/P*je/DeRO*/!^eP^OY^0-P+*;POR/:-++e+W^/;++6R0;;RP;eOR++;O!WR;R+!eRRdW;Y*+.qW0*;//!/N;;%*W%^W+0e*/DQ00ePj*-PDR/Oe+D//D/eeDjv/0PPO*Pej*/e07j!/9-Oj0j0P+O0^W/0+!^P-RO-^&R*;++GR0;*!+Rv;0!eR^;A!0YPW*R0;*!W,j;PWW!jD+W6*0D;P/DWW;eDDWW2*0DR00W0D+00eW*0/+eWjR03e-j/Dj/cP0OP^+P0O0^P-+j^W/-P++^h-W+PR+-<O;*e;++RR0;*!+R{;0!P!D;1!09PWj!yaWWP*+ePW0*PD+WR*0DP0+*sDP0Pe+DF0W*Kj+0(e0j;-PDP0+e++-/ee+PejR/_P0OP^*O!^ePeOWOR0;-P++^{-^^0P0OP^P-De*j//-++RR--++RR;^!OR;^*!/R/;W-!R^WW!D+!^--eR^0/!e+WR!P+eOD!00ePj+/jD00!eRjP0!*&D^/Oe;j/O+/2P0OP/0PFO0^PPjRD^0-P++^0-0+PR+P^O/RP;O+oR;;P!+R&P0+DN+;R!0oeW+!Rc0;**Ol{W-*PDDW>*0DP0+!!D00ee+D/00ePj+0M*;jP/+eEj0/PPjjg/0PjO+/5P0Oe^+PRO0^PR0OJ^0-P+O^d-0+PR+P^+0RP;++8/^;P!+RE;0!P<+;XO0^WW+!3J0WP*+4PW0*PRqWG*;DP0+*HD-0P++De00e*j+0We0j!/++mD-/PPjj9/!PPj?/IP0Dg^+P/O0^*-+O4^0-Pj;^B-P+PR+-G+;RPe+R;R0;+!+RW;0!jF+;^O{BP;R!lkWWP*+&1;0;3D+W0*0De0+*WD00P/OD30eePj+0,e;jP;+j;j0/OP+jW/0eRO+/^*pOP/^PAO0^P-+O{/0/k++^W-0+eR+-;+0RP0;+_R-;P+RRh;W!PR+RP!0m*W+!^s0W!*+(uO^*PD+W_*;DP0O*mD0jKe+D800eej+0ye0jP0Weqj0/PPOj;/0PPO+^j++/We0j%^O^eP/Ol^0-P+*WPORRO-+O/RDRe-0+ER0;P!*0-+-R*-0!eR;-zWO!!F0WP*+Dj!-V0RM!RRRC+!-m;;R!WeODP00ePj+/j+*WR*0DP0-e*D/jR/OPPO+/CP^/^eWj^/R/+O0^OP--eO-^H-0+PR*++ROPWP=^R;e+*Ou;O+W!eRD;q!0XPW*1e;*!e+I;!!7DO;0;0}+W0*W!00!*PDRW-*.eeDW0Ve0jP/*+-/eePj+/;PeOD/!/^P0OP^+P0O0^P-+OR^+-P++^r-^z0P0OP^PW/+W^PRW-/!+RE;0!;;++/7e;,+/RP;*!WojW!WWj!D+WU*0D;*P=PW+*+t/Rj;-!!W^eWDDd*e-jO0+e0DW/;eOjD/We;O!/!PjjP^OP*j0D^-!O!^O0/O+RO-O+W^*-WOP^;/-OFRR-R+5^R;^P/RWWO!eR^^-*ORW;P!-R/We!^+;WP!WDWDW0Oe+Dw00e;0-eWDW0R/+e2j0/Pe0jM/0PPjj-DP0OP^+P^O0^P-+j^/+-P+O^L-P+PR+-Xj0RD;++RR0;e!+RR;0+*^e;s!-LPWD!#u0WP*+R)W0*eD+W/*0DP0+*5VR0Pe+DH00ePjj0qe0jO/+eXj0/eP+jR/0PP-0/IP0OP^OP_O0^P-+O^^0-P++^RP*+PR+->+^0D+R^^;!+RR+-E!ORi^p+PRn;R-F{P;R*O1+;/*D+*DOW;*0DP0+ejWP*jDeW^*+ePj+0le0j+/+eZj00*!!jQ/0PPOj/oP0OP/jRRO0^e-+OR^0-P++^=^-+PR+-l+;RP;O+xR0,?!+R4;0!e9+;>!0mP;j!=M0WP*+RjW0*PD+Ws*0DP0++4T;0Pe+Dd00ePjj0ge0jO/+e^j0/PP+j//0!Pj^/?P;OP^OPYO*^P*+O!^0-*++^/-0++R+-(+!RP;D+LR;;P!+R:;0+e6+;0!0pPW+!^)0PPv^(VWP*PDOWc*!DP0j!+D00Oe+D=00ePj+WL0+jP0beXjO/PeRj6/0^eO+/WP0OP^+P^O0WPO^OZ^e-P+O^z-++PRjP++0Rj;++RR0;P!+^KR+!PRR;X!ONP;^!&60/^*+K/W0*OD+WR*0GPg0*5D;0P*RDN0-ePj+!je0jP/+e^j0/eP+j}++PPO+/yPWOP^+P<O0/R-+Og^0-eOW^J-0+PR**-Re-P++R;;e!DR!RR;!!Pi+;_!^/D!RR^W!!R=+>R;^*PD+Wl*^^O!^De_P!WDDWeWPDDWW*;jOR!/OePj0/PP+Oj;*DR00ePj-/*e/PRO*^P-+O2^^+L^ePPO0^RRO-P+0RP;+!j0!+!Rj-P!OR*-0;R!+KPW+!,a^PDBD;^*j6W;^!R*WDD0+*#D00;O00OeeDP0De!eWD^/+ebj0/;jD0^0P!500P+eP/eWRP^O0^P-+O0^0-P++^R!D+PR+-p+^-0O0^P-P+Dj*//P-Rj;R+!O;;/!eRP;x+Rq^;e!!_R;^*-S-W*!0DeW;!4!j0-*-DeCD*Pje0eeRD;0R*0D^N/e+OO/OP+jO^j0DjR^ePWOjD/-+O!^O-WOR^*-WO+^P;O+j^--R+!Rj/^+0^R;R;R!D:PW+!z?^!PtDWW*+7D;0!;URW**-*RDe0Pe+DF0^D/0R*RjOje00e?j0/PP*R+e+D70k;!OO0d^+PZO0^PP0O)^0-POj;D-0+PR+-^+0RP;+O^^e;P!ORr;-!Pv+;HO0L!W+!Rq0We*+r0W0!*R0W=*-DP0O*ND00Pe+)000eej+0/e0jP/+eIjW/PP+jc/0PPOj/SP0j;^+PZO0^e-+OR^0-P;0^F-0+PRO-(+0RP;++^R0;P!+RR;*!P%+;L!^;++^.O;;+t*OR;W0*PD+0jO!0O*jD-0O*PD+0ee+*+W0e+jOD+e0jO/eePjD/!W;PPO+/5P0O+^+P8O0/**!O<^0-P+O^{-0+P^j:R+0Re;++^R0;P!+R)R-!Pm+;3!;sPWO!JS0D%*+H_W0*eD+Wo*0DPWj*7D00Pe+,j00ePj+0Ie0jP/+!uD-/PP+jT/0PPj0/}P0O*^+P^O0^P-+O/^0*POD^=-;+P^R-1+-RPe+O+R0;*!+R;;0+Rq+;)!DxPWD!In;WP*+{&W0!WD+W0*0DP0+*^D0-PD^D:0PePDR0Le!jP/j*+j0/OP+jd/0PPO+0w/+OP/HPBOW^PPROi^0Re++^W-0+PR+-^+00P+^+URe;P+RRF;;!PBj-+!0CjW+!Rq0WP*+RYr+*PuRWN*WDPW^*&D0^^e+D/00eOj+0Re0DPD0e}j;/PebjI/-PPO+*jP0OP^+P^O0^e-+O=!+-P++^l-W+PR+-s+0^R;++mR0;e+-Rh;0!Pi*!+8O-W-&RRWe!*+5WO!W*e/OWG*0DP0*h00j*^D;0**+1qW0*P*P/O*^jeDP*WjD0e0PjD0We;OOj+PDj;jPP*OR^+/PO*^--WPP^W-0O;R!^++eR*^POWRD-e-PIO-^!eR;-H-7Ej;O!DR0R0!+nRW+!t!PWe*W*RD!0Pe+DU0^O}0eeWD00!e-eRj+/PP+jm/^!D/De^j+/RPjjPOW/+-+O>^0-;^WP;OWO+P-++RePTP&^P-M+ROa--+OR--W+^=e<e;0!7K0WP**/;!ORZ;0!/1;WD0O*;D00Pe+jjP+DWW0*zjOje0*e.j0/PP*RWe*jRDBeOj-0R0uj-/OPjOW}/^WPR++^_-0+;W/+W^0-P+^RW;!+-!jRx;0!PFj;b!0QPWO!;10WP*+Dj!PnjWe!^X+De;^* D00Pe*^-eeD*0/eeD00PeWjPDP*:jP/e0PjK/ePWj0/!P-*^O0^P-+O8^P-P++^lP;D-R+-x+0Re;++VR0-*0OR#;W!PAj;v!0sPW+;/=0WP*+A^W0*eD+WI/+DP0+*}DW0Pe+Dl00e+j+0_e0je0-e,j0/PP*03e-OO/0e-j+/jPej^^D^eP0OF^0-P+*W+O+/1P_*!ROPJ;O}}R0;P!+Gj+J^%-0+0R!/;-DO/;**OR-^^*D{W;0*+QO0j!W:-0O*jD/W/*;#50W*^D+q*e/D/0WW!D0/WeWOO0^POD_/j0DjP^ePeOP/e-*e!^O-WOR^*/DO-Re-*O/j^-0ORRRRR;e!Pz+;k!^;/!RRRWOWP*+((W0!yD+W,*07*e!*BD00PeODL00ePDj0je0je/+e0j0/PP+xz0;PPOO/oPWOP^jPdj;/*-+O/^0-!++^Y-0+P^*-z+WRP;D+LR0;P!+RR;0!PT+;:!0&*W+!Zi-WP*+cXWW*PDOWi*0eZ0+*&D00ee+D#00ePDj02e0jP/+*jj0/PP+jy/0PPO+WbP+OP^+PnO0^P-DO%^0-!++^^-0+PR+-/+00PPY+?R;;P+/RY;+!P/+-P!0:*W+!030W**+w)W+*PDDWZ*;DP0+*>D0W!e+D000ePj+0^e0RPe^e4jP/Pe/j3/WPPOj0+P0OO^+PRO0^P-+jYO+-POU^z-O+P^R-p+0!e;++WR0;P!+R^;0jP;^;h!eIP;/!#TeWP*jR+W0*jD+W>*0DP0+!p*+0P*RDQ0OePD^0Ie0+^/+e/j0/OP+jR/0ePe0/:P;OP/^PGO-^P-+0j^0-P++^^-0+eR+-GW+RP;++rRW;P!+Rc;0+R5+;6!0Ue;/!9.0WP**/-*eK*W/*eB0DeW0*LD00Pe*^-*-D*0;eOD*0e/Oe*j0/PP+Oje-j*D1WPj+/00cjRDe^eP*OY^0-P+*WWO*^R/aOO^-PRPw^--O+jRW0/;W!jw+;M!0r;*0zO;+!PrWCRW!*PD+Wh*^/L*eDWW0*!D-DR0+ePj+0Ge^RDeDD^0+eRjj0P/WeEO+/kP0O;;^je/+e>OD/^P!-eOW^Y-0+PR**-Re-P++R;;e!DR!R^;0!PI+;^!03PW+!RR*WP*+oIW^ODWR!^D!WR*+zn0O*:!mWP*HDR)IePDR/Oe+D//DW*POj;/0PPO+^jjP/jPej^/+^P-+O#^0-+++^K-0O*0!-,+0RP;j+AR0;P+j*R;0!eC+;R!0hPW+!w!-WP*+cwW;*PDOW?*0e80+*BD00ee+Dx00ePDG0ne0jP/OeWj0/PP+OjPDOO/OPePWj/^+P#O0^;O+//-eO_//PPO*^W-j+!+W^);++mR0;;DP-P++R+0-!eR+Heej!oy0WP**W+!+Rm;2!-O^R!;DX;0e!/!j0!*RdQ0P*ej*WR*/je0*PDjD0^e+jR/jeP*;^DPDjRD-e2OR/R-eOj^eP+O*j!P0+W^W-0OWR;/-+eRR;O+;O!;0!-RWWO!eR^^;!PRWWWW0*PD+W6*+DP0+*zV;e-e+DL00e*j+0#e0D*0*eSjW/PPOjm/0PPD+/;P0Oe^+PRO0^!-+j^/--P+D^G-P+PR+-N+0/0;++RR0;!!+RA;0!P_O;d!0sPW+!{?;WP*+BRW0*PD+WR*0De0+*nP+0Pe+Dd0WePj+0=e0D*/+e>j0/P**j</0PPO+/IP0OP0+PjO0^P-+O8^0-j++^GPW+PRj-w+0RP;D+p00;D!+R^;0!Oh+;0!0/P;j!B9;WP!/<,W-*PD+W+*0D!0+*^D00Pe+DzW+ePD(09e0jP/jedR0PjP+j0/0POO+/^P0O*0PP%Oe^P-OO6^0-PO+OP-0++R+-e+0RO;++L!W;P+RR&;0!PNj;wj0WjW+!W)0WO*+rRW0**RPWi**DP0+*,D00P*+*P00eOj+0ee0jj/+e9!j/PPDjp/ePPOO/ae0eb^+P^O0/B-+O/^0-P0*^H-0+PRj-a+WRP;+WPR0;P!+RR;0!PQ+;L!O6PW+!IlWWD*+7cW0*;//*WZ;0D*WaNDWWTe+D&00e;^/*/D;WXeWD^0+/ee0jT/0PPO*;;jO0Te0j//;PD-OOP^0-P++Rj*!^!-j+*^R-j+O+R^u;P!+RK;^RW;0!D+PWO+^:eRP+WSD;eWW!RD+W}*0D;P/DWW0*PD^0We!D-jO0-e0jP/+PjR+eWjR0Ye-j/OO/;P0OP^+-jR+PWj0/9-O-eO*^_-0+PR**W^*-RP8^O--OROx--+ORj;We/!;}PW+!S2;WP*+ <WW*jD+Wh*0D;!cs;WR**G0DRW*ePj+0#e^RDeRD^/!eRj+0kPOj4D%ePjU/R0 OP/R-OO+//-De*++^r-0+P^w-c+0RP-jjDR0;P!+RR;0!Pb+-^0WsPWO!zL;WP*+EFW0W!D+W4*0D*0+*RD00P/0D?00ePjO0ne0jP/+e0j0/PP+jR/DPPO+/7P^/PPDOW^+PDj0/;PRO*^-^R-++PR+-B+^W0O0^P-P*/RW-P;WDO)+;a!0?;!PRP;+!+R/^j--+!;^*W:DR**-DOW+*0rW0;*ODD0W*;j!0!ejDP/Oe*D0x^P!j!/OW/j+^OPOOW/*PWjP/;0-jm^RPROz/R-^e/^W;O+e^^/-+D^W-0+PRR-^+;XO;v-jRn;O*O*O7WW0*PD+0jDD0O*ODeD00Pe+DQ0+ePj+05*;/-/+eHj0/eP+ji/0e*jW/rPWOP/?PmO0^Pe+je^0-e++^R-0+*R+P^O/RP;D+AR-;P!+RB;0!jz+;R!0N!W+!a_0WP!2srW0*PD+Wv*;DP0+*0D00Pe+DR00eej+0.^+jP/+ewjW/PP+j_/0e*O+/hP0OP0*PFO0^P-+O?^0-Pj+/O-0+PR+-K+0RD;++T^D;P!jR6;0!PSD;wj0^/W+!^I0;%*+QeW0OP:DW:*;DP0j*oDe0Pe+{*00e!j+0^e0jP/+eEjj/Pe{jv/0PPOj/}!0^j^+P0O0/1-+O0^0-*jP^:-e+PRO-m+0RP-+-PR0;+!+R;;0!O +;EWWGP;R!nu0WP*jq3P0DjD+WW*0h,0+*RD00*!PDN0*ePj+0pe0jP0+0Pj0/OP+j;/0PjO+/JWjOP^DP%Oe^P-OO)/0/h++^^-0+!R+-/+0RPj*+3R0;P!jRN;W!P7+DP!0wPW+!Rg0WP*+8>WO*PD+W{*WMz0+*UD00;O/W/*;9=0W*^D+je0!ekj0/PP*0/e e+/OeOeP//eeOW/+P*OW/-P!-eOO^5-0+PR*+e^*-ePw^!-}!O^0^0++R0;W-0R!;R+P!R=!WP*+FhW^j.We*W40W!*-*RD*0Pe+D_0^jT0e*PD00R/Oe!j0/PP+Oje8jR0e00jW^OPje0/RPe-OOe^0-P++Rj+j/R-j+OOP-D+W^+RW-o!+R(;0!;0^+eR+-N!DR^;!We!WBvW0*PD*P-DeWP*+D;0eeDD!D^00ePj+0^e0jP/+eRj*/PP+jn/^j+0^POj;04^Oe;O0^P-++jW!+O^j--+O^P-++eR+^+O0R+;O-+R0;O!eRP;D!!O;yPW+!=X0W+*+%=W0!*^!WX*0DP0O*sD00P*jPR00eej+0^e0jP/+e6e-/PP+jJ/;PPOO/=P0-6^+PXO0^e-+O2^0-POy^2-0+PRO-!+0RP;+!j-0+!RR;P+!^,-^!OR;;/WO!WZ0WP*+Dj*DDOWO*e*W0*0+*8D00;DPWP*+D+W/;j!-V!*^jW0DW*j-/Oe+j00WP;jO/DPWj;^!P!Oj/P-OO*/00^+!^!-Oe/.O-*+!^^--O/Re-^!DD*W/e*DD^!*^R/W*!PiD;+-WjR;P!0 0W!*e6PR-*eDR0O*;!!/^*/+!0PeDDP0XeRD/o^e0DR/R/RP+OP^+PZO^;0j0/PPP!/^WPP-0+PR+-y++RP;++_^;!-!+R8;0!er+;3!0R*;O!.6WWP*j6ZW0*PR+;/*0De0+*RD00+e+b^W0ePjD0de-jP/+ekj00-P+jR/0P!O+/hP0OP/uPUO0^P-+OL^;-P++^*-0+PR+-R+0Re;++B*+;P!+R7;W!P:+;t!0R*W+!Q>0WP+*i=W0*PD+W6*0DP;+!FD00Pe+DV00e+j+0T*jjP/je)j0/PPDjy;0PDO+/^P0OO^+P-O0WP-OO?^;-P+O^ -;+PR+-!+0R!;++^R0;P!+RL-+!PRy;E!0QPWj!:/0*j*+b0W0*OD+W;*0D*;P*(De0PeOD900ePD+DPe0j+/+eej0/OP+jGOWPPjR/<P0OP^jPUG0-j-+OW^0-O++^/-0+*/P-S+*RP;++xR0;P+++P;0!O&+;e!0TjW+!nOjWP*DZkWe*PDOW:!0!C0+*^D0W4e+D/00eP;*0ye0jP/jekjW/PP+-P/0PPO+/RP0OP^+PAOO^P-+Op^W-D++^6-0+;W/+W^;;D+W^vRW-p!+RH;0!;0^+eR+-o!DR^;!We!*QAW0*PD*PWd*WR;B8OW-!R!BW-*ODj0W-/eWD4/+eJj0/;+/0/e;j^/ee;jWOe//PgO0^P-*kPPR+O^+P/+D+e/0-=+0RP;*R---++Re;e+!++-0+/+PWD!+JO;P*jUDWW!*cFRi*;C+;/0O*eD00Pe+jj-!jO0+*(j*/Oe/jDjW/jP+ju/0P;^0POj+/PPWPRO+^P-+O5^^*D^DP^O+^R-jOP+;RP;++rR;;P!+R>;WO;%+;g!0Y;!PRP;+!+R/^j--+!W0*O !0D*Du;0+;*D-0!;-O+0/-+!*^*PRjj/!P;D-jR0RPPO+/(P^/DPWjP^!PPOe/0-*O!^RP;+++PR+-N+0R+;++sR0-*j!Rv;0!P}j;1!0VP;j0R40We*+,RW0*PD+WdW-DP0+*ZD;0PeODC00/?j+0xe0je/+e7j0/PPjj,/0PPOO0;P0OP^+-jV!-OOj^--OOP^+-e++O+P0++RO^++0RO;e+PRD;!P;!eR^;=!0EPW*R0;*!WZj;PW0*PD+W}*PDP0+*32;--e+Dc00e*j+0He0D*+Oe4jW/PPOjU/0PPO+j/P0OP^+P^O0^e-+O6!+-P++^L-W+PR+-=+0^*;++2R0;PO*Ri;0!P8+;Y!0oP-+!/=0WP*+:_W0*OD+W:*jDP0j*KD00PeDD(-0!aj+0^e0DZ/+e/j0;PeWj{/;PPjW/3P*OP^+e+O0^!-+O^^0-P++^9--+P^b-X+0RP;j+600!j!+R0;0+.6+;0!0m*-P!3deWP*+s?W0*PV+<P*0D+0+*-D00Oe+D(jWePDR0)e0jP/jeTR0PjP+jW/0eFO+/RP0O*0PPYO*^P-OO8^0-PO+OP-0+OR+--+0Rj;++hjj;P!DRn;e!PJO;l+0+wW+!^o0W**+ /W0*P-*W)*0DP0j*}DW0Pe+PP00ePj+0Re0jP/+e#jO/PP+j)/WPjO+/IP0O;-0OO/+PPOWOR/x-P++^q-^^W-0+DOP;OO^Re^POWRD-e;W+zQ+;F!0=;e^Re;++ HD;^!!*e_0WJ*0DP0*O-W-**D;0O**DejO0je0jP/+PjReejjWD0*Rj!0W00j!0Re^Oey-^ePWO?^0-P+*W-+e^P-++;Re;D+!+RR+;P!+Rt;^jD;D+^R+;R!jRPmWWD*+w3W0*;/0*ODeWP*DD!DW0De+D400e;^/eWD;/DeWDqj;/PP+j6/;PPO+/yPWOj^+P)O0^;jL/;PRO*/0^RP*+PR+-G+^0D+R^^;!+RR+-H!ORL^w+PRU;R-=.P;R*Oo+;/*D+*D+WJ*0DPW9*TD00P*jRD00ePj+0Re0jP/+*^-W/PPOj&/;PPO+/vP0P!^+PKO0^*-+OR^0-P;0^J-0+PRO-z+0RP;++0R0;P!+RR;D!Pu+;S!^;P!DSWW+!DR0;;!R#*W-WR*+DP0+*sD^P0B0WP*PO/0W*PeW^O/+epj0/;jP0Pe+j+0/Wj*-D!e^OW/D0*O-^OP+O0/W-;OO^D-WO;R!-!+j^P;O+*^0/^!!R!;OP/R+WO!O%W;*!WRP;;--R7WR!RV7;R*^+/WWeODeW^;-DR0jeejO0/e+jO0!e0*j0,eOOOOO/WP0OP^+-j^D-OOO^e^0-P++^%-O+PR+-NO;^D;++)R0;e!+RA;0+*^C;(!WUP;_!>Q0WP++R0W0*eD+WR*0D*0+!^d+0PeDDw0-ePj+0Se0jO/+e0j0/eP+jI/0PPD-/ PWOP/6PhO0^P-+j*^0-P++^x-0+*R+-30jRP;++JRW;P!ORm;0WX>+;n!0KeW+!<i0WP!j{aW0*PD+;j*0DP0+*MD00Pe+R5WjePj+0(e0jP00e_j0/eP+j^/0PPO+//P0 P^DPmO;^P-OO)^e-PD+^*-0+*R+--+0R*;++kRD;P!DR);;!P8+;H!04DW+!0(0WP*+n^W0OPW^WM*PDP0O*dDP0PejT+00eOj+0Re0jP/+*le+/Pe&jB/*PPjR/rP0-e^+PWO0^P-+O^^0*P^^^Y-e+PRO-B+ORP;jO+R0;j!+RZ;0!PY+-U;+8P;R!&v*WP!^6_W0P^D+W/*0DO0+*RD0WPW0DH0;ePjD0Se-jP/+vjj0/PP+j^/0PeO+/tR+OP^+PcOW^P-+OY^0PR++^c-0+e^0-A+0RP;*D;-OO6^0-/+;RDrO;*!0%PW+*j;e!^R/W*!emD;R**l!DeW;*mD00Pe*0**eDD0;*WD!0Oe;D-jW/jP+jI/0P;^0POj+/PPWPRj-^P-+OF^^OR/^PRPP//-P+W^+^+O0R+;O-+R/-p!eRD;P;R!DtPW+!96^!0ZW;O;PbeWR!^!PWW*O*RD+0Pe+Dr0^+D0D*^D+0RejDPjW/DP+jt/0P;R0POOe/PPDO!OW/R-+Oo^0-;a/-WO0^P-^+WR!--;j+wR0;P+pRQ;0!PsO;P!02PW+*j0}+_R0;0PDsR;0WR*eDP0+* D^*/DRWReOeeD-0ve0jP/*Db0-POj00-e+jj/ee^ODOe;jPlO0^P-*^+P+ja/&P-*^j!/DO;ReP/PjR!-RO8RP-e!*^R-/!eR*WD!DR^;+!RFj;P-;DDWD!R+-;B*RKR0e*jDeW+**!!W0eWDW00*Wj;x-eejR/Oe;*!0^PWjj^OP-OeD;PPjW^W^0-P++^4-++PR+-mO;;-;++iR0;!!+R:;0+*R+;#!W_PWj!Sh0WP++R!W0*eD+WR*0De0+!^D*0PeDD10PePj+08e0je/+eRj0/!P+jt/0PPDP/EP0OP^+PiO;^P-+OD^0-P++^R-0+eR+-<W+RP;++4RW;P!+Ra;0!*q+;t!0Me;^!q#0WP**;0!*CWWj!P*W>j0+*QD00;O/0W*;jD0W*9D00Re0*00+e0jWD0P+jW/Reuj-//0jP:O0^P-+O0^0-P++/^*/+PR+-(+WRP;++g^;De!+RR;0!*:+;4!0CPGD!&y0WP*j#<WW*PD+jP*0DP0+*RD00Pe+DkW;ePj+0Ke0Q;/+ecj0/PP+jH/0*Pj!/_P0OP^+PoO+^P-+j-^0-*++^&-0+!R+*<+DRP;j+yRP;P!DRse0!jg+;^!0QDW+!^,0WP*On,W-*PDjWb*0DP0+!eD00+e+DQ00e*j+-aj*jP0UeMjP/Pe^j=/;*0O+/WP0OP^+PCO0/P/0O{^P-POW^(-e+PR+RR+0RO;++:R0;*!+02!*!PRR;4!PEP;R!}b;-0*+N;W0*eD+Wq*0bP=0*FDe0P*WDh0*ePj+R*e0j!/+eWj0/eP+DMj+PPOj/dPWOP^DP<O0*;-+OC^0-*++^R-0+P!0-A+0RP;O+yR0;P!+Re;0!P2+;R!*SPW+!Y)^*1Fe;P!0BRDOWe*0DP0+ej^!eOD+Wte*jO0/eDeWDs/+e)j0/;+/0/e;j^/ee;jWOe/jPcO0^P-*RtP-+O^0/0OW^WPP+eR+^+On^/-D+R^^--;W!D_+;K!0K;e/GW;;*DNW;tWW!dD+W5*0D;P^_eW+!HDDW^*!eeD00te0jP/*+-0-e*D0/ee;D3OO/-P0OP^+-j9+PWOR/&P-O/+O^j-0+PR+;jDe-j+WO0PR+!^W^0+!^R-^!ej-X*W+!Xw0W**+b)W0*eR^W7*0DP0*O-0e**D/0e*0DP0WeP*PWZePjeDPeXje/We0j!/-W^PWOj^+PpO0^;jg/;PRO*/0^q-0+PR+-0+0RP;+O^0/;P!+R2;;!Pn+;M+;eeW+!RV0We*+6{W0*P*DWM*0DP0j*oDW0Pe+PP00ePj+0Re0jP/+ebjP/PP+jM/WeBO+/tP0O;;PjP/+P+!-^eP+-eOR^V-0+PR*+!Re-e+W+RW-;P!+Ru;^R0-0+PRP;DP*O/^-!jYR;!-;s/We!P9p;R*^4eW!*Rs^0-*-D*W0eeD;W&Wjj-0-ee*D0PPeje/Re;jR00e^*//+-OOO^+PO+jjDPR+e^W-je/^+-D+^RW-;+WRO/^+0^R;R;R!D{PW+!&4^!PTDWW*+yD;0!;bRW**-*LD00Pe+De00ePj+W^*!jP/+e6jP/PP+j_0;eDO+/RP0O*^+PyO00PPeOd^W-P+O^l-W+P^jP^+0R!;++/R0;P!+RQ-O!PRV;M!WKPW+!zX0;R*+VRW0*+D+Wb*0DPW0*&D00Pe+DC0;ePj++*e0jP/+eRj0/eP+j5++PPO+/,PWOP^+PTO0/*-+Om^0-Pj*^i-0+PR+-s+0RPP++/R0;P!+R_;0+Ib+;u+0:PWj!s90WP*DSVP0*!D+W^*0De0+*eD0-P*!Du0;ePD/0{ePjP/+e*j0/!P+j^/0PPO+/EPWOP/yPwO0^P-jOZW0+j++^0-0+eR+-/+0R*PP+LRe;P!ORv;0!PR+RP!0>+W+!^o0WO*+T_DW*P_RW_*0DP0j*K^0eje+DW00eej+0We0j*WPesj*/PP+j>/0PPj+jPP0OO^+P^O0^j-+O1Dj-P+D^u-e+PRO-MO0O6;++^R0;j!+R/;0!PP*; !0MPWj!uiWWP*+ePW0*PD+WR*0DP0+*dDO0Pe+Di0W*Rj+0?e0j;-/jW00ePj^/WP!j-OO/jP0OP^+-j8ePjOWj0eRO!/W/0O!/RP^+eD-Re-0+kR0;P!*0-+-R*;;!OR*;eWO!-90WP*+DjP+JWWR!8=-W/0O*-D00Pe+jj-!jO0je-jO0P/Oe;j0/PP+Oj-+jW00ewOOOe/0P%O0^P-*o;POji/0P/O;^DROPO+0RP;+!jW0+!RR;P-PR/;D!jR-R+!RR^;R!eR/R0*eA*W0;03WW!!;DeW!*RY0W-0W*Kj+0Je0j;-/D/0;*ujW0^e+P*O+/BP0O*^+PKO0^ee^O ^0-P+*W-+e^*-/+e^0-P+WRP^PO?RP;e-PR=;e!WR0;!!-O^_WWj*+5sW0*;;>!;{RW*!0*SD00Pe+D000ePj+W^+/jP/+euj;/PP+jw0;ReO+/RP0Oe^+PlO0^P^DO:^0-P+j^)-W+PR+nP+0RP;++RR0;P!+R?;P!Ph+;S!WR8W+!#A0W;jP;P!+#+/-*eG+Dee^*?D00Pe*0+*+8CWa*-+^t!WDD;/e*/*j/!eRDo/PeeO*0Re/Oe/*-DOD/^P+OR^jPPe;RD-DORj-PU+R^R;e+jRe-++*O!-0!WRW;0+Wb;^-!eIRWO!;+!W-*!E-W;*DARW-!^DWW-;;DPWWeWeWD//+edj0/;j+0/Pejm0/ePj*/WPjO!OW^O-+O>^0-;^--WOW^RR+-p+0RP-W+iR0;P+j^-;0!P%+;/!0ZPW++^R^WP*OiiWP*PD+W<+0Se0+*RD00ee+DR00**,e0pe-jP/je&j0/PP+j*/0P+O+/RP0OP^+PHO!^P-OON^P-P++^k-0++R+-<+0RP;++^R0;P0;R7;0!P(O;>!W7PW+0Pr0WP*+5RW0*PD+WM!;DP0+*zD0;;e+D 00ePj+0Me0AP0;e8j0/PP+j%/PPPO+/*P0O*^+PGO0^!-+?d^*-P+j^U-*+PRj-:D0R!;++^R0-R!+RP;0!P^e;=!-4PWj!bd0WP*+RWW0*+D+Wp*0D*0+Ob0*0P*XDZ0*ePjD0we;w0/+eWj0/eP+jn/0ePe0/IPPOP^OPJOe^P-+-R^0-O++^Y-0+*R+*pR*RP-R+ER*;P+RRm;;O0Z+;;!0BPW+!oh0;P;0=TWe*PDOW=**DP0+-*D00!e+DW00eej+W&0+jP/je#j!/PPDjJ/09;O+/wP0O*^+PRO0^PR0O2^0-P+O^t-0+PR+-e+0RP;++R^<;P!+Rh;^R/;W+;R+R+!^GW;;!*}WWPWW*DD+Wi*0D;P0DO0e*PDD0!0W*Rj+0Ue0j;-/jW00ePj^/WP!j-OO/PP0OP^+-j_!P!Oj/P-OO*/0^R-*+PR+-K+^;Y+e^P-0+R!ORP;0!Pv+Wjj!;!!jT*;R!j>OGR;^*PD+W>*^^O!^DemP!WDDWeWPDDWW*;jOR!/Oe-j0/PP+Oj;!OO/jP-OO/P^OPPO0^P-++jW*jR/0PPO-^*P/-^+0RP;++0R0;P!+RR;+!Pr+;w!^00+0RP;Pe/_W;PWWj+D+Wd*0D;*PrPW+*+9/Rj;-!!W^eWDDH*e-jO0+e0DW/;eOjD/We;O!/!PjjP^OP*j0D^-!O!^O0/O+RO-O+W^*-WOP^;/-OkRR-R+C^R;^P/RWWO!eR^^-!W1j;-!+DOW^*WK;R**+Ke0e0e*-DU00ePj**sD-/Oe0D-0+ejje0^PDPejR/)P0OP^*O!^ePeOWOK^0-P++^P-0+PR+P^R/RP;++UR-;P!+R9-;+*,+;R!0Y+W+!o,0-P!^S2WW*PDOW,*WDPWj*+D00!e+D^00ePj+0X*WjP/Oe8j-/PP+ji/0PDO+/(P0OP^+P^O0^PP;O%^0-P+O^<-W+PR+}P+0RP;++RR0;P!+R>;;!Pa+;N!WRjW+!bp0W;j/WW!;DDWW!)_0WR*0!0W+*0DW50e+DW0R*aD-0/WjeRj*/PP+j1/^j+0^POj;0#^+P}O0^PPZO.^0-POj0D-0+PR+-^+0RP;+O^*W;P!ORp;W!Pi+;Z!0!!W+!):0W**+%RW0*Pe0WA*0DP0O*bD00Pe+u^00ePj+0u!^jP/+eUj0/PP+j)W0*RO+/aP0OP^+P^O0^Pe^OE^;-P++^1--+P0+P-+0R*;++WR0;D!+0x;O!PQj;#!P5PWO!XS0We*+t/W0**D+WH*0DPWe*bDP0Pe+Dg0;ePR+e;e0j+/+eWj0/jP+j^WCPPjR/lP0OP^+P{j0jr-+O0^0-!++^W-0+P!O-i+eRP;++4R;;Pj+;;;0!O_+;W!0RaW+!^^1WP!^n}WW*PD+WL!0! 0+*WD00!e+D;00eP+;0&e-jP0RewjW/Pe+eP/0P*O+/eP0O!^+PiW^^P-+OY^;-P+O^q-0;IR+-#+0Re;++bR0;P+WRE;0!PxO-^!04PW+*j00!!,RWP;PL^;1!-!P;R*j& W-eDD!0e**eeD/0ge0jP/*+P0RPOj+0/PDPej^/5P0OP^*+P/ReSO+^e^WPp++^U-0+;W/O/^;Ph+W^^-+;e+0RI;0!PM*e-R-;*!;pO;*!e*O:PW0*PD+0jO*;R!0wPW-**M/DR0!ePj+0Ee^RDeRD^/!eRj+jR0^PPO+/sP^4Oe^OejPeWOD/e/POD/WP;+OD!RO-e+0RP;+!j0!!OR+-q!*(O;/!D!;QPW+!7>;WP*+mqW0*PD+W3*0-PO/;//00e*;D500ePj**-jOWYe;D00!PDjR00/0PPO+/{PPOP^+Puj;W--+O}^0-*++^)-0O**O-y+WRP;O+XR0;P!++/;0!P4+;^!0.eW+!ze+WP*+VzWW*PD+Wp*0D*0+*hD00e*^DQ00ePj**0D*0WejDPjW0jP+jU/0P;R/PWj;^DPWjG/0PRO0j0P+O0^W/0++^W-ROQ^--/Pj+pR0;P!+R0;0!Pr+-^j/cPW+!w<WWP*+qs;;/eD+WR*0D*0+*>D00P0DDq00ePjj07eWjP/+^Pj0/PP+jR/0PPO+/#e;OP^+P{O00;-+OI^0-P++^t-0jP/W-3+0RP;++KR;;P!+^M;0!*S+;6!0Z!W+j>RjWP*j4gW-*P80W&O0D*0+*^D00+e+DR00eP900Se-jP/jeXj0/PP+jR/0P+O+/{P0O*^+!I^*^PP OJ^--POR^g-;j0R+-W+0RP;++:R0-P-0R};P!PRW;}!eXPW+WRa0WO*+.5W0**D+PID*DPWR*>D-0P*/D40;!0j+0;e0je/+eJj00P00jq/ePPjW/5P*OP^+W*O0^!-+OW^0-e++/)^++PRj-U+*RP;D+dR0j;!+RX;0!*L+;R!0)PD0!n.0WP*OLyW0*PD+We*0DP0+*RD!0Pe+D=0^Ok0eeWD00!e-eRD^/PP+ja/^!O0^PeeP0WPDjejPPDjW/;-O*!+O^P-0+PR+;jD*PRO0^P--+*^/RR;+!P(+;Y!^/D!DR^Wj!WR^;RWW!0D+WA*0D;*eDPW/W+DRW;eO*+We*/DOje0We2j0/PP*R-PejP/+P;Oe^DP!PRO+^P-+OG^^*D^DP^O+^R-jOP+WRD;++7R0;;D/;W+;sD;W+J!WLjW+!gr0W;D0WO!+{PWWW^*0DP0+*0D00Pe+DRe/ePj+0ce^00*0DP0PeD!*X/W-jj/Re!*;//PejP/2eRO^/eP!OR/^--O-^*P0+e^;P9PjR---+eOD-P!eRe;R+;RR-0+^O/;+*O1OW+!ODjRD!RDeWW*j+/W1*!D+WB*-,/W-e+jO0**0jW/*ePjW/*e0jW0NW^j00RPRPROe^P-+Ok^^O/^RPR+O+e^0-8+0RP;*D+-+Oa^i0!!O^ rO;!!0qPW+*j;0!!zRWP!!Rn;^*OX;W/0+*2D00P*WDc00ePDjW-e0jP/+e0j0/PP+D^0!PPOO/1P;OP^+PqD00W-+OR^0-e++^/-0O*RD-L+-RP;O+}R0;P!+RR;0!+{+;R!0mPW+!TR0WP*O&TWP*PD+Wk*0i;0+*rD00Pe+D^00eP-;0?e0jP/OewjW/PP+-P/0PPO+/RP0OP^+PwO;^P-+Ob^WPj++^)-0+;W/+W^;;D+W^L-0+RR0^0++R0;W-0y+;W!RR9;-!/+jdRW**PD+WG*^W+!^DOW;!Ie+Dv00ePDg0&e0jP0j!Dj0/PP+j^/0PPO+0^RWOP^OPFOW^P-+O>^0^!++^u-0+*R+-R+0RPu0+9R0;P!ORF;0!Pw+-^!0YPW+!c^^WP*+LQW0*PD+Wo+0D*0+*8D00Pe+DR00ePK-0oe;jP/+erj-/P!+jW/0P*O+/eP0O*^+!pOO^P-jO1^!-POR^}-0O!R+-/+0R*;++yR0;P+DRm;P!P)+;1!;VPP+I;}0W+*+EeW0*+D+W^+#DPWR*5D00Pe+DcW0WHj+00e0jj/+eWj0/P^Ojw/ePPO+/JP;OPW+O;O0^O-+Oe^0P7++^^e(+P^^-K+WRP;++H^0^k!+RW;0!jr+;;!0GP/;!1l-WP!RMGWW*P,+HP*0D*0+*/D00!e+Dn+^ePj+0Se;jP/Oe{j0OrP+ja/0PeO+/IP0OP/WPUO0^P-OO*^0-P++RjOR^8-!P0Re-ePaRO0-;e+0R?;0!P#*e-R-;*+0Te;;+Z*Oo-W0*PD+0jO!0O*jD-0O*PeOD-00ePj+/j++0WeRDw0-e/POjP/0PPO+^j!!/!PjO*/RPjOOOR^+-P++^p-^DjPWOP^+-!+j^-RW-;!+Rm;0!;0R+; OR++eR/;O;+R/;e!*.R^DWR*ODP0+*gD^-DDRWA*0jj0Re-D/je0^e2j0/PP*^PeRDN/+PeP;OP^+PZOP^P-+OK^WP,++^)-0+;WPOP^+-+*-Re-+;e+-Rk;0!Pt*+tR-WO!0R-;+!j6e;^*D*e0;Wc*0DP0*D+W+!M<nW--^!!)D*;jeW/Wjj!0R*1jP0eP*DR0/Pej*^DPDj^/+PROj/P0;+D^DPRe-/#-RORRe-j+e^+-*P!^0;W+WR0-W!;O-;e!R3O;;-!4e;^!jSW;/!PDe0j*+De0j*PDeW0;;DPWWeWeWjO/+eEj0/;j-/WeWjRO+/NP0OP/WP3O0^PPjj-^0-P++^^-0+PR+P^OORP;O+ZRP;P!+R7P0++F+;R!0>eW+!RQ0;*!W_(W-*PDDW_*0DP0+**D00+e+DR00ePj+0Z*WjP/OeAjP/PP+j./0*/O+/bP0OP^+P^O0^P#;Oi^0-P+O^H-W+PR+cP+0RP;++RR0;P!+RC;;!Pp+;>!WrjW+!CY0W;RM;;!RB*;0WR!*DP0+*%D^-DDRW^e!DR0+*gjO0oWIDP0.eR*{/PeROO/+e/ODD*^+PXO0^PPrOk^0-POj0D-0+PR+-R+0RP;+O^*W;P!ORC;;!P1+;E!0!!W+!a#0W**+(RW0*Pe0Wb*0DP0O*zD00Pe+d^00ePj+0N!^jP/+e8j0/PP+j W0eeO+/1P0OP^+P0O0^P-DO<^;-P++^?--+P0+-W+0R*;++eR0;D!+0d-D!PAj;a!;cPWO!KK0;-*+s/W0**D+Ww*0DPWa*{DP0Pe+D90;ePR+e;e0j+/+eej0/OP+j^WwPPjR/IP0OP^+Pkj0j&-+O0^0P_++^W-0+P!O-,+eRP;++?R;;Pj+;;;0!Ow+;e!0u!W+!^^iWP!^83WW*PD+W?!0!b0+*WD0WYe+D;00eP+;0&e-jP0RexjW/Pe+eP/0P*O+/;P0O!^+P?W^^P-+OA^;-P+O^N-0;?R+-z+0Re;++mR0;P+WRi;0!PhO;P!0IPW+*j/*+RR0;P!-h*;/WR**DP0+*GD^eVDeWP*0DRjO0Pe0jP/+PjR!e!jj0PPOj*00/RP!OP^+PaO^WDOR/^-!OR^+^RP_+PR+-q+^-W+0RD^P!O^^;e-P^W;D+e!WQDW+!%Z0W;j0WO*e}PWD*!*W7U0+*:D00;O/W/*;D^0e*;DWje0*eqj0/PP*RWe*jRDieOj-0R0_j-/OPjOWB/^WPR++^K-0+;W/+W^0-P+^RW;!+-!jRu;0!PRF;K!0,PWO!P50WP*+Dje_R,;0!0ODWR!0*R/-0Pe+Dz0^D0W0*PDP0D;*!/V-ejjR0!W;j//eePjw0RP^je/!PRj^^-P-O*/0-eO;/s/j+-^--ePD^P;e+eRR-;+R^0-^P/R+WO!O?+;O*j+D;R*e6WWj-/DjWW!PD-0e*eDOR^*05R0R0ReejP/+eYj^e/jR0RPOPej-/iP0OP^*jX/--OO0/-P+Oj^eP^+D+PR+-t+0^R;++nR0-*O/R_;0!PRz;:!0KP;j+/ 0We*+M/W0*PD+-F!eDP0O*VDW0PeOD=W;*;j+0/e0j*/+e%j0/PeRjY/PPPOO/UP0OP^+e-O0^e-+O0^0-P++^>P!+PR+-A+0RP;j+{R0D^!+R1;0!eX+;R!0,PD0!dI0WP*O<xW0*PD+W^*0DP0+*RD*0Pe+DT0^D+W^eOD;Wb/O*;j0/PP+Oj;!OO/jP-OO/PP+Oe^+/+j0^+-OP+^0-O+e^P-D+!j;RP;++gR0;+!+Rm;0+*/!;{!0%PWO!210WP!jeRW0*eD+W^*0DP0+*M*-0Pe+Dm0;ePjO03e0Pb/+e_j0/eP+jy/0PPjj/iP0OP^+ejO0^P-+O4^0-P++0J-e+PR+-u+0RP-^+mR0P^!+R^;0!P4+;/!0/P;*!8J;WP*jySW+*P^+W0*0D*0+*/D00Oe+Db0WePjD0qe;jP/+eyj0/!P+j0/0PPO+/^P05PP^P(OP^P-jOp^!-P+j/+-0+OR+-a+0RP;+OS++;P+YRE;O!PRR;}!0*eW+!WL0WP*+l^W0OPW^WL*eDP0j*_DP0Pej(+00ejj+0Re0jP/+*Ce+/PeRj=/OPPj^/3P0!^^+P/O0^O-+OR^0PPP0^5-;+PRO-E+-RP;+/jR0;P!+R^;0!eT+;%0+CPW+!?SWWP*+c9W0!RD+W7*0DeW/*{D00Pe*^P*RjO0+*/jDje0/ekj0/PP*R-Pej*//Pej0Oe/^P>O0^P-*RPPRjo^+-e-WORR+-Z+0R;*/RW-0+PR^;W!!R-2O;P!0MPW+*j/*+RR0;P!-G*;/WR!^DP0+*,D^-Ot^0eWPYW0D*e*P0D*WD;/O;!POjD/0PPO+^jOj/Oe/O*/eP^jR/-PeO//R-!Oe^7RO-P+0RP;+!j0!+!Rj-P!OR*-0;R!+cPW+!>c^PDdD;^*jXW;^!R*;DP0+*%DP0Pe+D20WO+j+0se0j;ePDP0+e+D/FjW-*!0^PWjDD*P-OO/+P0jW^;POOD^WP;+!^!-jOPRO-*O0j^;!+!RO//++zO;O!WR*;W+PR;^-+lIR;R!qRRW^-/rW0O*e>^R-!RD+WPe+DRW0eej!a*e+De/e/eeRjT/0PPO*P!Oe/ePWPRO+^P-+Ok^^!0/0PPOPy/-WOP+W^/;++=R0;;R+-/!eRo-/+PR*;W!jL!G0WP*+u,W+*PD+Wd!;0-0+*HD00+e+DI00**900ueWjP/jeNj0/P*+DO/0PeO+/RP0O!^+e^j-^P-DOZ^W-P++^I-0O-R+-R+0R!;++,R0;P!OR6;0!PJ+;c!;zPW++R80WP*+)RW0*eD+Wx/+DP0+*?DW0Pe+DQ00e*j+0Ue0jeW^e1j0/PP*R-Pej*//Pej0/PPWOPjPexOP^e/PO8^e-WO0^!--e^+WRj;++YR0;;^7-;+RR*-0;v!08PW+!0X0WP*+R^P/*PD+W:*;DP0+*A_;Oee+DR00eej+0=e0jPjDegj0/PPjjt/WPPO++PP0OP^+PRO0^P-+Oz/;-P++^a-0j;R+-y+0RP;++TR0PP+eRi;0!Pv+;S!WGPW+!^10W**+r6W0*!D+Pa!WDP0j*.D-0P*^Dq-0*Dj+0^e0Dt/+e-j0/PePja/-PPOj/EP0OP^+eQO0^+-+O6^0-*++W7+*+P^y-J+-RP-W+uR;P0!+RW;0!P7+;n!0RPR0!V8PWP!4X{We*PD+DR*0DO0+*8D00*e+^oe*ePDR0le-jP/jeuj;W0P+j;/0PeO+/1P0jPj0PMOe^PPAO{^*-P++D*-0+!R+-W+0Re;+OL++;P!jR4;e!P{D;c!0P;W+!x<0W**+bRW0*Pe0WM*0DP0O*QD00Pe+De00ePj+0Re+jP/+e:j^;jDW0Pe+j!/je-PWj!^+PTO0^;OW/;PWP+/--++e/S/tOP^c-RP_R--0!O^/;+;W+^i+; !0%;+Rw*;!!^RR;-!e7^;/WR*DDP0+*4D^*0DWWOWPDe0R*^*P0WeOeRjO/PP+jY/^!D/Regj0^jPRO-//^eP/OJ^0-P+*WPORRO-+O/RDRe-0+<R0;P!*0-+-R*-0!eR;-8WO!;50WP*+Dje+=W;0!7DODeW;*ND00Pe*0**eDD0;*WD!0Oe;D-j;/PP+jq/;PPO+/nPWjj^+PVO0^;!/^WP;+D^WPJO0^R-0P0^+-0+WO0;++WRR-#+-R/^j;R!*3PW+!y%^!+R^WO!;RuD+Wl*0DPWX*CD00P*jRD00ePj+0^e0jP/+*^-W/PPOjp/WPPO+/qP0P!^+PKO0^*-+OR^0-P;0^4-0+PRO-V+0RP;++0R0;P!+RR;e!PV+;Q!^;/!RRRWOWej*4iW0*PD**+i+;H!L)-^^;!!DW;ee3/Mje!DRWdePDe/**RD//ee*OD/De^j+/RPjjPD;-DOD/R0-jQ^RPR+e^j-eO+^*/!O0RW-W+0^W;;P-Re;R!OR;^!!!lj^;!PRWWWWW!}D+WK*0D;PPZPW+*+O-0e*+eeD-0Be0jP/*D=0-POj00-e+jj/ee^ODOP^+P5O0/>-+OH^0P*R!^T-0+P^B-2+0RP-jO+R0;e!+RR;0!Py+PJ++}PWO!bzWWP*Dlt;;!/D+W/*0D*0+*2D00P*eD{0WePjD0ve0jP/+*!j0/PP+jz/0P*O+/xeWOP^+P4OW^P-OOY^0R#++^)-0+eR+-r+0RP-j+NR0;P!+^j;0!P_+;h!0}PW+Os^RWP*+<cW0*P8^W3*0R/0+*^D00Pe+D/00+PI;0ke;jP00eTjO/P!+j*/0P*O+/-P0O!^+P9j;^P-DO9^;-P++^u-0ORR+-0+0RP;++^R0ePR^RN;P!PR0;2!P3PWj++S0WO*+BRW0*PD+;9W+DPWE*?De0P*RDK00/ej+0We0jP/+e^j0;Pj^jh/ePPj0/JP;OP^je+O0^j-+O_^0-P++/Y^++P^R-y+eRP-^+GR00^!+R/;0!Ou+;R!0RPR0!<i;WP*O_=W-*PD++j*0DP0+*^D00ee+DFO+ePj+0neWjP/+eqj00RP+j_/0PejW/SP0OP^*!-^ePPO+^;-e+D^!^R-!+PR+-T+^0D+R^^;!+RR+RR;+!Pg+;s!^/D!DR^;+!RNj;PWW!;D+W{*0D;PRU;0OW+_eW/*O*+W/*eD*0R;DeRj+/PP+jk/^!D/De^Oj/We^jROW/0-+Ow^0-;^e-PO/O+-RO;RO^+Oe^/-O;e+/RS;0!P2*ePRRWO!+R/WDWe!^EkW0*PD*eP9R;3*+DeDWWle+D700e;^^*eD+WBeDD^0!/*P+jH/0P*O+/MP0Oe/^P6O0^P-*/0P*OW^jPP-WOjR+-}+0R;*/RW-;!DRW->+0RR;0-0R+;0!W+0W+!WbR;d!-a/RjWk*0DP0+*0D00Pe+z^-/ePj+0leWjP/+eJD;+eP+jR/0P*O+/gP0OPODP}O0^P-jOr^W-P++!P-0+PR+-R+0RP;++ RP;P!+Ri;W+&q+;4!0X;ePRP;+!+j-We!+*e?-W(*0DP0*JaW-eOD0W-*+Dj0e*^jDje-+eLj0/PP*/+e+DH0Ne-!^D!0Dj;^ee/ej^!PRjA^PPe+*/RP/+e^*;D+D^^-++RRj-PP;8D;D+RO--N!RRRWe!jJe;+!*+!;0*WIWW0!WD;R-*eDR0O*;!!W^eej+0BWjDL0OPOPOjW/0PPO+^jOD^OPOOeO0^P-+O9^O-P++^KP;ODR+-G+0R*;++cR0-*O-R>;W!PRb;I!0pP-+!Wv0We*+2RW0*eD+;^!;DP0D*JD-0Pe+Ds00eej+00e0je/+ewj0/P*0jg/WPPjh/{P0OP^+PDO0^P-+Oi^0-*++^qDj+PR+-3+WRP;O+4R0(>!+RY;0!eU+;x!0(P;j!JC0WP*+RjW0*PD+Wr*0DP0++FD!0Pe+DX00ePD/04e0jO/+e^j0/PP+j//0!PDH/dP;OP/0P4OP^P*+OD^0-*++^/-0+jR+-n+-RP;D+GR;;P!+Rb;0O0u+;0!0SPW+!^q0PPU^bLWP*P?0Wi*eDP0j!+D00Oe+DR00ePj+Wm0+jP0nezjW/PeRju/0^eO+/WP0OP^+P^O0WPO^OU^e-PO0^m-;+PRjP++0Rj;++TR0;P!+^ZR+!PRR;N!WyP;^!470/^*+2/W0*OD+WR*07P)0*=D;0P*WD60-ePj+!je0jP/+e^j0/eP+j?++PPO+/sPWOP^+PIO0/R-+OM^0-eO0^(-0+PR**;^OPpO0^/-;+D!OR;;0!P_+WjD+;W+0RkWOWe!*%>W0*PD*PWv*WR;#hOW-!R!YW-*ODj0W-/eWjD/+e.j0/;+//We;OD/WeMPWOD^+PrO0^;!0^O-eOP^D-!-WORR+-x+0R;*/RW-0+PR^;W!!R-wO-0!0sPW+*j00!!.RWP;P8WWj**oRW**eLP0OW+>e0OeODP000Re+jP/+eHj^;DjD0^PjjW0^eRPWj_^+PxO0^;!///P;jU^WP^O++*R+-v+0R*;++9R0;eO^R%;0!Ph*e-ne;*!/Ae;0!PiWWP;PRpWP*e!PWE*eDWW0*!D-R^0Wejj+0Se0j;*tD;0Re*D0jY/0PPO+/0P0OP^+e^>/^P-+OB^;-P++^UP;WeR+-R+0Re;++7R0;P;DR_;0!Pnj;X!W8PW+0Ps0WP*+=RW0*PD+WB*PDP0+*XDWPOe+DY00e;0P*PD+0+*/!jq-W!D^/WeD**/-POj+/0eWO;/OPDOW/;-!O!^jPP+O^*P0e^R!-!+Oj/0O+ZR-;e*R8W^D!OR;;^!eR^;R+:(W;O!RiRW+*P+-We*Rc-W+*RE^R/*!D!WW*;j!0R/OeWj0/PP+OjPDOO/OPePWj/^+P_O0^;O+//-eOc//PPO*^W-j+!+W^&;++GR0;;DP-P++R+0-!eR+FPW+!__0;N*+TCW0!*0!WM*0DP0D*:D00P*j)000eej+0^e0jP/+!2D-/PPOjc/WPPjV/me;jO^+P/O0^e-+Or^0-POw^t-W+PRD-l+0RP;+++R0;P!+Ry;0!*L+;c+*9PW+!?gWWP*O:8W00lD+WA*0De0+*vD00P*jD?00ePj+Wje0jP/+e2j0/PP+rs/WPPO+/VP0OP/RPTO0/*-+O^^0-P++^/-0DP^;-q+;RP;j+JR-;Pj+R*;0!*(+;e!0zDW+!)r;WP*D,VW;*PD+WX*08j0+*0D00Pe+D^00+P0^0kePjP/jecj+/PPjD+/0POO+/RP0OP^+eIP+^PPZO6^*-POR^i-0;eR+-W+0RP;++^R0ePR^Ru;e!PJj;)!PvPWj++T0Wj*+)LW0*PD+;}W+DPWR*FD*0P*^Do00-^j+0/e0jO/+eRj00P00j3/;PPOO/aP-OP^+DjO0^P-+O^^0-e++^y&++PR+-_+WRP;++4R0-R!+R ;0!eR^;,!02PW*DP;R+Ka+WeWW!RD+W#*0D;P/DWW0*PD^0We!D-jO0-e0jP/+PjR+eWjR0ae-j/OO/OP0OP^+-j^jPWOj/x-eOP/e/0+DRO-j+!+W^n;++vR0;;D/-/+;^8;W+^R+ye;0!VV0WP**/;!ORN;0!/ ;WD0O*jD00Pe+jj-eDj0WW0dR0!*W*00!*RD^/e;-Pej//KP0OP^*!-^eP*O/^eP0-eO0^&-0+PR**-^--*+;RO-*+e!jRH;0!PRT;g!0 PWODh30WP*+Dj!<RM;0!0G!^;;D+/W*eOq-R^eDDWW0e+DO/j*WD-/Oejj/0/e;DF/We^j+D*P/j//W0!j0^WPW+O/^-OjY^j/DOPRe-e+P^e;*P!RO;W+RR*^D!P_+;p!0O^;0+RiRvRW+*PD+WJ*^/0!0SPWPP/DWWP0W*/j+0Ye0j;e+D//ee_D/0Pe*jW/jP!PWOO^+PgO0^;O-^WPWOR++^i-0+P^0-m+0RP-j:DR0;P!+R/;0!P6+-^+0NPWO!atPWP*+>Y-0!WD+WR*0De0+*^D0W**RD40-ePjO02e0jP/+*Oj0/eP+j//0PPO+/Se*OP^+P1O0^P-jOl^0P^++^L-0+eR+-R+0RPC0+,R0;P!ORB;0!PI+;^!0vPW+!Rw*WP*+NpW^(+;^*O{;;o0O!;D00Pe+jj-!jO0je-jO0Pe+je/+0+D0/+POe+/0POOe/PPDO!D;^P-+O.^0-+++^E-0O*0!-g+0RP;O+wR0;P+j*R;0!ea+;^!0(PW+!V!-WP*+TzW;*PDOW3*0ed0+*>D00ee+DK00ePDj0Xe0jP/+*jj0/PP+j_/0PPO+W(PDOP^+P8O0^P-DO6^0P*++^^-0+PR+-/+00PP;+HR;;P!OR};!!P/+-W!0_*W+!W 0W+*+ZV;+*PDDWG*;DP0+*#D0Wee+D000ePj+0^e0RPe^e:jP/PPOjm/OPPOj0+P0OO^+PwO0^P-+jTO+-POu^r-;+P^R-t+0!e;++WR0;P!+R^;0jP;^;T!evPWO!CG+WP*jR+W0*jD+WR*0DP0+!a*+0P*RDC0;ePD^0ue0+^/+e/j0/OP+jR/0ePe0/>P;OP/^PYO-^P-+0j^0-P++^^-0+eR+-{W+RP;++URW;P!+Rz;0+R3+;r!0=e;0!Ad0WP**/-!-S*W;*Or*We0O*eD00Pe+jj-!jO0+*ij*/Oe/jDjW/jP+j2/0P;^0POj+/PPWPRDP^P-+Ox^^*DR^We*+,W;0!-OP;(*DO0W+*WH^0ee+jj0We-jO0*-LjD0eemj*/!e0jO/*P!j//PeROPDWW;e+D)00e;^R*;jOD+*eD/0O0+D/0ee*jRpD/RP+OP^+PsO^WjjW/PP+O!^jP--WO}R+-)+0R;*/^/-;OrRW-^++!eR/;N!05PW*j-We!*k/We!0*e6/Wi*0DP0*OPWReOD+W/eDe*j+0Me0jj/+exj0/ee;jc/0PPO*PWO!0.Pej*^eeaOW^P^WP7++^w-0+;WPOP^+-+*-Re-+;eD!Rs;0!PK*!+R+-N+9R-/^-!+D;;*eR/Rj*!&R;(*P=e0*!R3/0e**jD0D*^D+0RejDP<;PDjD0RW-Dr/ReROe/jPej+/*0!j0^WPWO0/W-;e-^e-R+O^;/!O^^e-;P*R+-e!e!eRR;9!0nPW*}!We!e1W&RW**PD+Wp*^W+!^DOW;!zeOD!00ePj+/jD00!eRjP0!*XD^/Oe;j/O+/rP0OP/-P2O0^PPjRD^0-P++^;-0+PR+P^+ORP;O+XRP;P!+RuP0+Pg+;R!08eW+!^J0;*!DK8W-*PDDW}*0DP0+*;D00ee+D/00ePj+0?e-jP/+e)j0/PPjj5/0*RO+/2P0Oe^+PRO0/**!O_^0-POR^Z-0+P^jpR+0Re;++RR0;P!+R:R-!PV+;V!;mPWO!U20D&*+iJW0*eD+W<*0DP0j*)D00PeOD;00ePj+/jDP0jeeD^0+/e*^jy/0PPO*;-Oe/*P/Oe/0PPOW^P/Pju^P-ePP^.-e+W^0-!+-j^R0;P!+Rq;P!P2+;k+;/-W+!y60We*+EqW0!*POWl*WDP0j*SD00Pe+*/00ePj+0^e0je/+eL-+/PP+jo/WPPO+/BP0j*^+P:O0^Pe*Op^0-P++^8-0+P/+-++0RP;++7R0-R!+R8;e!PKj;u!0_PWD!)/0W!*+L^W0*!D+WW*0^P;/*ZD;0P*/Do0PePj+WAe0j!/+e^j0/PP+j /WPPj}/ P0OP^jPBr0-j-+O0^0-!++^R-0+*/P-M+eRP;++xR0;P+++P;0!+#+;^!0<OW+!A*WWP!R&%W0*PDjW(O00j0+*WD00!e+DP00e*%P0ye*jP/Oe9j0/Pe+eP/0POO+/^P0Oj^+PV*j^P-DO6^e-P+O^rP0PuR+-^+0Rj;++/R0;P/*R%;0!P4j;L!W8PW+0PE0WP*+)RW0*PD+Wl*ODP0+*:DWW;e+Dm00e;^R*;jOD+*eD/0O0+D/0ee*jR9D/RP+OP^+PHO^WDOD/^-jOW/^PR-W+jR+-z+0R;!0RO-++PRWRR;j!P4+;L!^;^+RR-;e!D6;;W*jHDDOWe*0DP0+ej^!eOD+Wwe*jO0/eDeWjD/+eLj0/;+0/OPejP/DP!PWOD^+PQO0^;!/^WP;+D^WP&-WO_R+-&+0R;*^^e-+O3RD-^+!!eR0;G!0gPW*j-;-!*R0We!;RgDjWk*0DP0j*?D00PeO2;00ePj+/j+!/Oejj-/OePj+/eP+e+00P+OOj+P0OO^ePPOD^!0;-eO^^S-0+PR*O0^*-W+j^PR0;P!+R9;P!PE+;T+;/-W+!2=0W**+.sW0!*POW}*WDP0O*oD00Pe+*/00ePj+0^e0je/+ed-+/PP+jE/WPPO+/cP0O+^+PQO0^eP-O&^0-P+*P5O-RO-0O-^+-j+e^^;D;e+0Rm;0!PM*e+R+-k+Vj!WO+H*O:WW0*PD+0jDD0O*ODeDWPPe+Dr00e;0P*PD+0+*/!jG-W!D^/WeD**/-POj+/0eWO;/OPDOW/;-!O!^jPP+O^*P0e^R!-!+Oj/-+!ORO;W+*RW-P+;O--z!RRR;a+R ^^/!WDOWe!^+-;/!-1/0e;*D+WeeeePj+0.e0D&/+etj00*O!jK/0PPOO/TP0OP/je;O0^e-+O/^0-P++0,-P+PRO-&+WRP;j+ ^;;!!+R/;0!+9+;_!02P-e!CqWWP*DllW0*PD+W**0DP0+*gD00*e+DwWdePj+0QeWjP/Oeaj0OoP+jI/0PeO+/=P0OP/jPKO0^P-+jj^0-P++^ -0+PR+e5+DRP;++nR0;P+^RA;0O/,+;^!0_PW+!/q0PP!DZ_W;*PDDW.*WDP-+!*D00*e+De00e+j+0xe!jP/De5j;/PP+j5/0e+O+/0P0OP^+P^O0WPO^O_^P-P+D^ -;+PRjP++0RO;++RR0;P!+^nR+!PRA;(!e.P;R!JB0De*+JWW0*PD+W^*0^P*^*JDe0PeDDd0!ePjjW+e0jj/+eVj0/PP+D_j+PPjR/QPeOP/^P3O0}^-+O/^0-O++^R-0OPO0-S+;RP-0+?R-;P!+Pj;0!Pv+;^!0.eW+!Fe+WP*+KbWW*PD+WI*0rR0+*3D00e*0Dp00ePj*-;DOWN*0D/0;eDPOjP/0PPO+^j!!/!PjjP^OP*j0OR/0-P++^a-^)P-D+WR+^+*!Dj^P+eRD-*!ORD;W+P!WtjW+!}y0W;D0WO!+oPWWWR*!DP0+*xD^-DDRW^e!DR0+0ReOjP/+esj^;DjR03e0Oj/RP-j/Oe/*PCO0^P-*bWP*ORjHPOO-/R/lO-^O-j+WD/RW;D!+R);0!;00!Ove;P!DT!8W;<*+8vW0*;//!/7;W^*e%;WW0*e+Di00e*j+0te0je0^e:j0/PP*00e*jW/jePPWjj^+P9O0^;!/^WP;+D^WPnO0^R-0P0^+-0+WO0;++WRR-y+-R/^j;K!0#PW+!0T0WP*+R^P/*PD+W?*WDP0+*C=;Oee+DR00e*j+0ze0jPjDeMj0/PPjjc/WPPO++PP0OP^+PRO0^P-+Om^P-P++^U-WO/R+-F+0R;++^/;e+6^/-P+*RW;j!!!WRVW+!)<0W;jP;P!+z+/-*e&+Dee^*CD00Pe*0+*+?rW<*-+^n!WDD;/e*/*j/!eRDi/PeeO*0Re/Oe/*-DOD/^P+OR^jPPe;RD-DORj-P<+R^R;e+jRe-++*O!-0!WRW;0+W);^-!eARWO!;+!W!*jKWW!!;DeW!!RD+WP;;DPWWeWeWjO/+eGj0/;j-/WeWjRO+/1P0OP/WP#O0^PPjj-^0-P++^R-0+PR+P^OWRP;O+6RP;P!+R%P0!Oy+;R!0_eW+!^q0;*+/uSW-*PDDW{*0DP0+!/D00+e+DR00ePj+0b!QjP/OeZjP/PP+j7/0e+O+/AP0OP^+P^O0^Pb;OE^0-P+O^d-W+PR+xP+0RP;++RR0;P!+R.-;!Ph+;(!0^;W+!rb0WP*+Z3W0+PS/WQ*0DP0+*kD+0Pe+);00e*j+0=e0j!/++uD!/PPjj&/PPPj//w!0DW^+P^O0^*-+O/^0-PjR^x--+PRj-L+0RP;++eR0;+!+Rn;0!*(+e}<*VP;N!B>PWP!WkdW;+0D+WW*0De0+*YD0WPW0D)0PePD^0?eejP/+/Rj0/OP+j%/0P*O+;mO*OP/RPYOP^PPROl^;e0++^;-0+PR+-F+0^P^0+dRe;P+^Ry;*!PN+/*!0A!W+!Wq0We*+Rrq+*PDjWZ*WDP0D*<D0+;e+D%00e*j+0Re0jPO0e3j0/PPOji/0PPO+/eP0OP^+PRj^^P-+OZ^^*O/^-ePP/W-DOeOP-DOW^;;Oe!!OR;;0!PY+WjD+;W+0RVWOWe!08 W0*PD*P-Z-W**;DOW**eeODP00ePj+/j+*WR*0DP0-e*D/jR/!PPO+/mP^mDPRj^^!PRO+OR^+-P++^o-^DD-DO^^+-R+j^PRW-W!+RL;0!;;;!OR;;P!RR7-R;+p-WW!;w/DOW-*0DP0+ej^+*WDRWs*-D/jO0ee0jP/+PjR!POj+0UP*OO//PDP;OP^+P%O;^P-+OC^WPj++^E-0+;W/+W^;;D+W^c-0+RR0^0++R0;W-0s+;W!RR<;-!/+jyRW**PD+W(*^W+!^DOW;!ye+D&00ePD?0Xe0jP0j!Dj0/PP+j^/0PPO+0^RWOP^OPBOW^P-+O%^0^!++^3-0+*R+-R+0RP%0+>R0;P!OR};0!P5+;;!0APW+!R0-WP*+ qW^Z0;0!P&PWD-*+/R-*jDRW!;;D/0e*PD%WRe^De0!eRD^/-e-j*00Pej;050jO-/-PeeD/P-eOe^RP;OR/0P^e/^+;O+OR+-O!jOD-R!eRW;jP/R;;!+^(e;!!RR0^^!0RRWRWR*eDP0+*xD^*/DRWReOeeD^0_e0jP/*D00*eWjj0P/We7O+/EP0O;;PjP/+P+!-^eP+-eO-^T-0+PR*O%^-;O+0^--++jRe-^!D!eR;;S!0aPW*:WW!+mve;**eRCWW*P*0DP0+*kDD0Pe+DEW;j-j+0Ce0jO/+eYj00*e!jh/WPPOj/uP0OP0+P!O0^e-+OR^0-+++/^PO+PRD-:+WRP;++BR0-^!+RR;0!!A+;u!0_P;W!rx0WP*+7CW;*PD+W;*0DP0+*RD00ee+I^-/ePj+0Ae-jP/+e2D;+eP+jR/0PjO+/XP0OPODPHO0^P-jOk^W-P++!P-0+PR+-R+0RP;++9^;;P!+R(;0O;4+;7!0sPW+!k}0-P!P6nW0*PD+W5*+DP0+*eD00*e+Da00e!j+-U*WjP/jetj;/PPOj?;0e+O+/^P0Oj^+P-O0^PetOh^--P+j^F-0+PR+-++0R+;++xR0;*!+0H!*!PR(;s!;rPWD!r1;-0*+>WW0*eD+W8*0vP80*8DP0P*WDV0eePj+jRe0jO/+e.j0/*P+R_P*PPjR/(P;OP/RPbO;00-+O;^0-P++^r-0OPO0-Z+eRP-W+SR*;P!+j*;0!!v+;W!0,eW++>!+WP*j7AWP*PDDWu*0-;0+*qD00*e+DR00ePP00ve0jP/OeAj0/PP+je/0PPO+/RP+OP^+PyO^WDOD/^P+OR^jPP-W+DR+-d+0R;*0RO;e+PRD;!;W!jY+;o!02;*0AO;+!P7W_RWj*PD+W<*^W^!R.-0j*OA/WWejDDjO0!e0jP/+Pj04eRDeD0eWOO/j00jR/e^Oe/O0^P-++j-OOj^O/0OD^0-ROPOPPt+PRe^P!DR+;W+!R0iO;*!0}PW+*j;e!^R/W*!e?D;R**:!DeWW*ND00Pe*^-eeDP0+e;je/De!eRj+/PP+j9/^!j0WePj+/!Pjj-O;^P-+OJ^P-P++^V-WO/R+-M+0R;++^/;e+F^/-P+*RW;j!!!WUOW+!Zu0W;v-WW!WZRDOeB*0DP0+ejWC!,30W0*!+;GD;/D*/O*-!^/DeWD0/+eOOj0We-OO/jP/j//;elOW/^P+e*^/P/OWj!P0+W^W;OO^ROP#+jOD-P!eRe;P+e6*^!!OHW;R!*+DW*!RR^WW-^_0;R*R*RD+0Pe+DX0^O0W0*PDP^/eWDPj0/PP+jh/+PPO+/Xe;^-^+P4O0^e-+OT^0P*O^^i-W+PRj-1+0RPP+O/R0;e!+RR;0!+H+-^!OoPWD!N3-WP*+dXW0+0D+WR*0D!0+*ED00P!PD100ePj+0(e;jP/+**j0/PP+jR/0PeO+/.R+OP^+PmOW^P-+OV^0-*++^ -0+e^^-J+0RP;*^0-*+WRj-P;W+j(+;p!0b;e/3W;;*DpW;:!0GRW0;0m+W0*W!00+*WDRW#*-D/dj0%e0jP/+e0j0/PP+D^;/PPO+/tPWOP^+P8j;!e-+OR^0-*++^5-0+P+D-)+0RP;j+#RW;P!+*P;0!PA+;R!0lPW+!cR;WP*+Y5W0+;D+W,*0DP0+*ZD0;P!SDv00ePj+01e;jP/+ePj0/*P+jT/0P!O+;2e^OP^jP?O-^PPdOQW0e/++^^-0+eR+--+0RP-D+xR-;P!jRG;0!Pk+-e!0=+W+!4l0W**+/1***PpoWv*-DPWR*wD;;0e+DW00ePj+0se0DPD0ebjP/Pe0jo/ePPO+ORP0OO^+PqO0^*-+Kv-*-POR^t--+P^^->+;/0;++;R0;e!+Rh;0+P+0;t!egP;0!EU*WP*+O*W0*!D+WW*0De0+!=*+0PejDJ0OePjD0%e0;;/+eSj0/*P+jR/0PP-0/oP0OP^OPTO0^P-+OJ^0-P++^Z-0+PR+-^+0RP;++H-_;P!+Rb;0!PJ+;)!0*uW+!%A0We*+A2W0*ewWW8*0DP0O*PD00Pe+jj-!D!0j*PjO0**0eRj+/PP+j>/^!j0WePj+/!Pjj-OW/!-+OS^0-;^WP;OWO+P-++RePpPc^P-k+ROm;-+06O-/!+!WRRW+!=_0W;j/WW!02PW^*WD!W-0O*;D00Pe+jjP+DWW0*kjOje0/e5j0/PP*RPeROO/+e/ODOe/WP9O0^P-*^*POO*^e/0++^W-D-R+DRP;++_R^+!RP^0+W^W^1+!R*-W+e!RQDWP*+QxW^10WW!O!PWe*RM^(P*WDOD^00ePj+0^e0jP/+eRD*/PP+jE/^!D/Re^O!/RP+jM^OPKe(/PPLORjB-PORRO-+O/RD/*;O+;R0;P!+uj+PRj;e+^R+cPW+!lA0W+*+wwW0!*^!Wx*0DP0j*HD00P*jPR00eej+0Re0jP/+eue-/PP+js/;PPOO/vP0-z^+P?O0^e-+Ob^0-PON^&-0+PRO-!+0RP;+!j-0+!RR;P+!^K-^!OR;;/WO!WJ0WP*+Dj*DDOWO*e*WaQ0+*6D00;OPWP*+D+^-eeD+je-Oeyj0/PP*/+e+Dd0te-!^D!0Dj;^ee/ej^!PRjk^PPe+*/RP/+e^*;D+D^^-++RRj-PP;1D;D+RO--v!RRRWe!jke;+!*+!;0*WnWW0!WD;R-*eDR0O*;!!0ReWD;0WeO!^00*RjRj{/0PPO+/PP0OP^+e^^/^P-+OC^W-P++^KP;+!R+-R+0R*;++BR0PP+/RB;W!P_O;m!-HP;j!Pz0W!*+90W0*PD+W>*ODP0O*ND-0Pe+Dr00e*j+0%e0jP/+e^j0/P*/j9/0PPOO/5PWOP^+RPO0^P-+OR^0-P++^1P;+PR+-i+0/;;++dR0;P!+R7;0OPR;;X!0tPW+!:E*WP*+7OW0**D+WA*0D!0+O15D0PejD70eePD/0x+0jD/+e^j0/eP+jP/0PPjR/wP-OP^jPNO0^P-+O+^0-+++^7-0+*R+*rR*RP-d+ARe;P+WR);;O0S+;W!05eW+!Lk0;P;0uuWP*PmnWN*eDP0+0RD00Oe+D#00e*j+-vj*jP0Reuje/PPDj8/;*0O+/;P0OP^+PlO0/P/0O?^e-PO7^y-*+PR+0*+0R!;++WR0;e!+^_R+!PVj;V!;7PWD!S50O;*+_xW0**D+WR*0DPj0*YD00PeOD 00ePj+0ee0jP/+eRD^/PP+j:/^!O0^PeeP0WPDjejPPDjW/;-O*!+O^e-0+PR+;jD!;O++^t;*!OR/;D;W+S1+;Q!0E;e^Re;++ixD;^!!*er0W?*0DP0*O-W-**D;0O**DejO0;e0jP/+Pj^+eWD00&POPej//QP0OP^*!P/R-OO+//-D-eD/^:-0+PR*+O^!^+O0R+;O-+RR;P+WRW;j-0R;WO!OUeRP!!R^R0!;4!^D-z+0W!*-!00+*DD*0!*/DP0O*-D^je0/eNj0/PP*R-Pej*//Pej0Oe/0PGO0^P-*_-P-O*/0-eO;/:Rj-9+0RP;j+zR0;P!O^;;0!PA+Wjj!WO!j{-WO!Pv+We*+!+;0*+DOF+*0DO0e*PDD0!;;eeD^0<e0jP/*D00*eWjj0P/0PPO+/MPPOP^+P1j;W--+O ^0-*++^C-0O**O-{+WRP;O+VR0;P!++/;0!Pu+;^!0EeW+!pe+WP*+7#WW*PD+W<*0D+0+*BD00e*0D{00ePj*-+D+W{*F+!/O*gPOj!/0PPO+^jj0/!PROP/!ecj^^OP;O/+O;O-0+PR+;j^hPNO0^0-!e;OD//+*yO--P^4D;W+0k+;O*jRW;-*OdjW/!/p;;U*WI^W+;*D/W/*W!!^;eOD0W}eWD;0Re*j-Ree;OO/^eFOO/I0D+^^ePeOW/M-OOD//WW++^e-eO^j--e+RRO-;P!H/-/+ORj;/!e!W=OW+!IE0W;z-WW!WtRD+W7*0DPW0*#D00P*j/D00ePj+0^e0jP/+*^D!/PPOj_/PPPO+/_*0j4^+PRO0^e-+OR^0P*Oe^%--+PRD-k+0RP;+OOR0;e!+R/;0!P)+;X!-wPW+!7i0WP*jMsW0*jD+WY*0De0+*RD00P/0D800ePjO0{e0jP/+*^j0/PP+jMW^PPO+/VP0OP^+PND0/W-+OZ^0-P++^;-0+P^!-n+;RP;++xR-;Pj+^0;0!*r+;W!0seW+j=ROWP*jBaWO*Pg/W6*0tW0+*/D00*e+Dv00ePU^0nePjP/+eij;/P!+/;/0P+O+/WP0O+^+P^DE^PPROI^W-P++^,P0PqR+-0+0R*;++WR0;PWORp;e!P1+;T!;JPP+x;m0WO*+AWW0!}D+W^+yDPW^*oD00Pe+DTW0W,j+0We0j*/+e;j0/P;;j%/-PPjR/_PWOP/+/PO0^*-+O/^0-!++^SD^+PR+-U+;RP;O+AR0IH!+Rn;0!eu+;6!0<P;W!UH0WP*O,PW0*PD+0jO!W!*jD*WR*jDODRW^ePj+0Xe^RO*^jeDP*WjD0e0PjD0We;OOV!^OP-O0^P-++jW!+O^j--+O^PRO-P+0RP;+!j0*OR^0-P+-R*-/;R!+gPW+!93^PDJD;^!+>RWj!P*WG00+*QD00;De0P*/*+0R*;jOD+*eD/0O/ee/jN/0PPO*;PjR^OP+j/^D^eP^Or^0-P+*;POR/=-++e+W^R;++1R0;;D/;W+0RP;^!WB!;-Wj!C:0WP!I8(W0*PDOW!*0DP0+ejW0*!DR0P*!9cW^eOD;0//OOSj0/PP+Oje{D>00e0j!J;0D*//*-Oj-D^-DOW/0-+OORjPWO-RO-j+/^/-;O.RW-^++O*;/+/RW^!+0<W;W*OR^WO+I<jRD!PDeWe*Pte0*;!DO0W*RD*6DeODR0:e!!^00*RjRjR/+PPO+/ P^R0e0jP/P;/OW/P^W-O++^v-0+;--+W^W-R;++?R0;P+0R<;0!PRj*D!0KPW+!R60WP*+R^;O*PDOWu*PDP0+*#R0;We+DR00eej+0/e0D*WRe4j-/PPjjt/0PPO+/WP0Oe^+P/O0^P-+Og//-P++^{-0+PRj-a+0^P;++%R0;e!+RR;0!P*0;U!0}PWO!Ni0WP*+L^W0*PD+WR**DP0+*(D^*+C^0O*;EKjOW;e0jP/+PjR!POjj/-POjP/+PeO+j+e0O+^O/+O0^O-eOP^D-!e;+PR+-3+0R+;++(R0-*j!Rc;0!PIO;7!0AP;j0Rx0We*+X^W0*PD+WkW-DP0+*ZD;0PeODy00/_j+0He0je/+e.j0/PejjM/0PPO+0jP0OP^+PvO0^P-+Dm/0-P++^#-0+P^/-#+0^-;++^R0;P!+R/;0jPR6;u!;sP;0! K;WPO+R;W0**D+WW*0Dj0+*?b00PeDD40;ePj+0%e0D^/+e0j0/PP+j^/0!P/^/VPPOP/0PSOW^P-jj+^0-O++^p-0+PR+Pk-+RP-U+=RO;P+RRN;0We9+;W!0rPW+!^I0PP8^lZWe*PY0W2*-DP0j!+D00je+DR00ePj+Wo0+jP0RerjO/Pe^j</0;^O+//P0OO^+PRO0/P/0O<^;-PO<^ --+PR+jj+0RP;++^R0;e!+R(D+!P7+;#!W?PW+!ca0;R*+V(W0*e)0W_*0DP0*O;WO!XH0W/*;DDjO0-e0jP/+PjR+eWjR0He-j/OO/!P0OP^+-j/-P0e,/ReRP+/-P;jR/WRO-P+0RP;+!j0!+!Rj-P!OR*-0;R!OAPW+!v#^PDaR;M!0DjWR*-u/DeW^*FD00Pe*/P*Ro>0+eeeWD!/+e%j0/;jW0;eWe+0-P+Oe0A0vjP/VPReg^-P0+O//-+-WORR+-_+0R;+;^e-;+WOc;P+RR!=O;!!0EPW+*j;9!RReR0!WDOWj;0&RWe0j*{D00P*IDs00ePjOP;e0jP/+Pj0Y*9D000e!!;DDW/j*^Oe-*^^DPWj0^+PO+j/WP-+O^j-/O/^;PT+W^^-+P*R/-/+WO!-0!WRWWO+^3O-h!j+D;P*eseWP!eD*R!*ODWWR**!D0e*WD!W0eeD*0ReRD?0WW*j+0ePePej0/nP0OP^*!+/+eXj6I!-Ojx+O^!-0+PR+;j^0-!+RRP-!O(^^;O+;R/lO;W!0JPW+*jWD*OyOWeW0*PD+WB*+DP0+*zJ;e-e+Dt00e!j+08e0D*W^eqjW/Pe:jA/0PPD+/*P0Oe^+PRO0^*-+j^/e-P+D^c-W+PR+-5+0/m;++RR0;!!+R#;0!PR/;y!0QPW+!?6;WP*+9!W0*PD+WR*0De0+*5P+0Pe+Dv0WePj+0ie0j*/+epj0/ee^jt/0PPO*e0j*/WPjjPOW/j-+Os^0-;#/-WO;RD-WOw^0-R+0O0-++0RW^0!+RW;R+zR-;/-j!,s0WP*+t0W0*PD+;^O/DP0+*<DW0Pe+D<W;^ej+0Re0j*/+e9j0/P/Djl/0PPOj/hPWOP^+RPO0^P-+OR^0-P++^vP;+PR+-n+0/;;++gR0;P!+Rz;0OPR*;o!0zPW+!q=;WP*+SjW0**D+Wi*0D!0+O}De0PejD_0*ePD00p+0iW/+e^j0/+P+j//0PPDW/hP-OP^jPQO0^P-+jW^0-+++^l-0+*R+*MR*RP-_+zR*;P+WR<;;O0L+;W!03PW+!X20;P;0MrWP*PARWE*eDP0+0RD00Oe+DQ00e*j+-qj*jP0Redj*/Pe/jA/;*0O+/;P0Oe^+P{O0/P/0O5^e-POR^a-*+PR+0*+0R!;++WR0;e!+^_R+!PMj;)!W3PWD!7v0O;*+I8W0**D+WR*0DPj0*2D00PeODh00ePj+0ee0jP/+eRj!/PP+j9/^+M/ePWj0/!P-PRO!^P-+O4^^*D^RP^+!^R-+-RO0RP;++VR^+DR0;!!+RD;-!!R!;X!0t!;!!Dl0W!WW!#D+Wz*0D;P^=eW+!vDDW^*!eeDW0Se0jP/*+-/eePj+/;PeOD/!/RP+OP^+PsO^WDOD/^-jOW/^PR-WOER+-y+0R;*/^/-;OTRW-^++!eR*;x!0tPW*jW;*!R+7;O!-RRRK!-uOWj*WO/DW0je+Da00e;/0eOD+0PeWe^j0/PP+j^/0PPO+/RP*OP^+PwO^P+j^^OP;j.+O/;-0+PR+;jD!;O+jR-;O+PR+;e!+++-0!+COR+!0YOWe!P>DW!-;*PD+W(*0D+0+*kD0W*+!DU00ePjO01e0jP0j^Rj0/eP+j^/0PPO+/</-OP^+PAO;^P-OON^0RS++^b-0+eR+-H+0RP-_+%R0;P!OW^;0!P.+WjR5-M+0R0;!P;+D^/!*DO;--^DDWW!0D+WOejUWW-eODj0/*/D;WueWD^0+W*j/0/eW*!00PWjW^Oe^OO0<PjeD/P-eOe^PPe+*j!-O+W^R-*PD^^--+D^0-e+;O*;++e9eve;R!a=0WP**W!*eHeWWWR*DDP0+*3D^*PDD0We+DDW0*;DR0*e-eRj+/PP+jz/^+000ePjPR/PWjPO0^P-+O1^O-P++^QP;ODR+-6+0R!;++_R0-*!ORH;W!P8j;2!0rP-++!l0We*+nRW0*+D+;^!FDP0D*=DW0Pe+D=00e!j+00e0je/+eEj0/P*-j /WPPjG/=P0OP^+ePO0^P-+O_^0-*++^#Dj+PR+-F+WRP;O+xR0wT!+RQ;0!e)+;.!01P;j!J80WP*+RjW0*PD+WK*0DP0++:Xe0Pe+DE00ePjO0Se0D^/+e^j0/PP+j//0!Pj^/>P;OP/WPyO+^P*+O/^0-*++^--0+!R+-Z+DRP;D+}R;;P!+R);0!DE+;0!0NPW+!^F0PPX^S9WP*PXWWz**DP0j!+D00Oe+DR00ePj+WQ0+jP0qe&je/PeRjY/0^eO+/WP0OP^+P^O0WPO^O6^e-POW^C-;+PRjP++0Rj;++bR0;P!+^:R+!PRR;=!e:P;^!F<0/^*+S/W0*OD+WR*08Pn0*5D;0P*VDm0-ePj+!je0jP/+e^j0/eP+j.++PPO+/zPWOP^+PuO0/R-+OL^0-eOW^&-0+PR**-Re-P++R;;e!DR!RR;j!P.+;:!^WO!R<WWe*ObRWW*eDODOWP*0DP0+ej^!*!DjWPeOD*W00R*^jP/+e}j^;OD^/e0PDW/DeeeP/DeWj;^OW!-OO-^0-P++Rj*!RO-j+-RO-P;O+PR0;P!+_je!R!;j!*RR;j!O!RE+WP*+_sW^Oj;W!Pw+W!*jH-DW0De+DI00e;^0eOje0PeDj!jW/jP+jn/0P;^0POj+/PPWP^O0^P-+O^^0-P++^R-*+PR+-h+^-+O^RO-;O4!O^;;0!P#+Wjj!WO!j -WO!P4+We*+!+;0*+DOZ+*0DO0e*PDD0!;;ePj+05e0j+/+euj00*!!j3/0PPOO/.P0OP/jRRO0^e-+O^^0-P++^y^-+PR+-x+;RP;O+hR0K,!+Rt;0!et+;g!0wP;>!s_0WP*OIWW0*PD+0jDD0O*ODeDWe+e+Dq00e;0P*PD+0+*/!jl-W!D^/WeD**/-POj+/0eWO;/OPDOW/;-!O!^jPP+O^*P0e^R!-!+Oj/;e+L^;-+O^RW-;!+R!;;!*iP;x+09P;-!Rk?We**4jWD*P+/WW*!D^0DeOJW0^*/je0je0!/0WPOje0^W-je/RPOj;D*e0j+/+^eP0O1^0-P+*W+O+/?PZ*!ROPL;O+!R0;P!+.j+0R!;R!PR!-d+^LO;;!/*+EHW0*P#0W3*0DPWjjDD00Pe+D000ePj+W^*^jP/OeMjW/PP+j4W0PeO+/RP0Oe^+P/O0/*P+OJ^--P+j^u-0+PR+PP+0Re;++/R0;P!+RY-R!PX+;r!0=PWj!nG0;/*+8nW0*eD+WR*0DPj0*UD00PeOD?00ePj+W^e0jP/+eBY^/PP+jn/0PPO+/X*0jO^+P7O0^P-+OP^0-Pj^^_-;+PR+-r+-RPe+O+R0;*!+Re;0!+q+e%!;hPWj!%g-WP*jSiW0!/D+W/*0D*0+* D00P*0DG0PePj+0me;jP;+j;j0/+P+je/0PjO+/^*MOP/RP,OW^P-+OY/0/x++^0-0+eR+-W+0RPiO+:Re;P!+R2;;!P/+!;!0}OW+!en0WO*+8^-<*PF^W,*0DP0+*{s0w_e+DW00eej+0;e0jPR;eoj-/PeRj(/WPPj+jPP0O*^+P-O0^!-+O8*^-P++^%-;+PRO-T+0!q;++_R0;e!+RG;0!PRW;p!0kPWO!-b0WP*+DjP!DOWj*-DOWP0O*PD00Pe+jj-*uRW0*PD-0**/eRD^/PP+j3/^!O0^PeeP0WPDjejPPDjW/;-O*!+O^--0+PR+;jD+-W+R^.--+/!OR;;0!P=+WjD+;W+0R(WOWe!0rzW0*PD*P-Q-W*!0DeW;!1eOcY00ePj+/jO00!eRjPDP--+*D0eWj!0;Pej!/Re0PRO+^P-+OU^^*D^DP^+j^WP^OR+W^R;++bR0;;D/;W+0RP;^!W&!;-Wj!ZA0WP*jiUW0*PDOW;*0DP0+ejWP*jDeW^*+ee)^0ce0jP/*+-/ee*j//ee0jP/WPPeP0mPPOejPPrOe^WP0O!^-0^-0+PR+-_+PRP;++ ^;e-!+Rt;0!eY+;A!0R*jO!p(WWP*jS?W0*PD+,/*0DP0+*^D00ee+DCO+ePj+0HeWjP/+eXj0/+P+jc/0Pej0/rP0OP^*!+/+e6j%&!-OjI+O^!-0+PR+;j^0-!+RRP-!O}^^;O+;R/qO*/!0xPW+*j;B+hR0;0!!O;RD-/X*0O!-+^0D*W:00+*OjjWW*-jO0je/D/0;*)jW0^e+**//e/jWD!e0OW/W-Oj^^OeEOjjDPP+e^e-POeR*/!+ORW-R+*OD;D+^Re;D+*SO;D-jR6;O*O*ObWW0*PD+0jDD0O*ODeD00Pe+D}0OePj+0:*;DD/+e4j0/*P+jr/0e*j0/.PWOP/XPdO0^Pe+O+^0-e++^R-0+eR+P^+!RP;D+YR-;P!+R8;0!eA+;0!0xeW+!GI0WP!W)(WW*PqlWT*0DP0+!/D00Pe+Dw00e*j+0NRjjP/+e3jW/PPOj_/0^KO+/2P0Oe^+PTO0^PPjOl^0-P++/j-0+PR+-}+0RP;+j(^;;P!+RX;0!PRb;s!0 eW+!^C0WP*+L/W0OPRRW&*;DPWR*FD-0P++DW00e*j+0;e0jD/+eSj+/PPDjo/;PPO+/uP0jW^+P0O0^P-+O^^0*P^^^c-P+P^R-E++RP;jO+R0;O!+RR;0!Ph+-b;+oP;_!_tOWP!Rm_W00eD+WW*0DP0+*^D0-PD^D=0eePDR0KeWjP/j*+j0/jP+j /0PPO+0T/+OP/RPaOO^PP^Ox^0W^++^/-0+OR+-R+0^P^0+2R;;P!jRv;-!P2+Oj!0XPW+!^C0We*+&Tj+*PD+W)*WDP0+*XD0WRe+Dg00eeD00xe0jP/*+;0O*>D00/e;jDOO00P0OP^+-j^OPjOOj0PDO0^RPPPP/ -P+eOP-DOWRD-O+*RRRR-^!P2+;u!^/O+^YeRP+W3D;e;PhD;W!;DO^!0OjRD00Pe+jj*PD^0;e*jjWM*0DP0+0+jR0;POe+0ee/jOj+e/je/*PRep//P*P+^j-WONO+-j+!Re^++eRP-*!DOn;O!j++-e+/ROR+!RR;WO!*R0R0!^RR;/!P!P;s*WlBW0W+DO0e0W*/j+07e0j;ePjeWR0+jO/We;e+/eeRPWjR^+PbO0^;!/^WP0OP^^-W+!^-RO--+0RP;+!j0++WRR-,+-R/(O;P!0_PW+*j/!!!aj;P*OY*;0WR**DP0+*sD^etDeWP*0DRjj0%e0jP0ieGj0/PPOjP/0PPO+^j+L0Ue0j0HDPRj0OR;P-P++^:-^^0P0OP^P-De*j//-+jRR-!P;R/;e+PRQ-R!^Re;!!RR^W-!-M*;0*e>;;x;jD-W-*e!DWPeeDe0R*;DRW0*^!/0+POjO/+eOOjDDeROe/WPj*//!P-Oe^P-DO!^*P/e;^PPW+W+W^/;++)R0;;R+-/!eRy-/+PR*;W!jn!AWWO*+aIW0*;W-*WCWWR0+*ND00P*0D700ePDjPDe0jP/+e/j0/PP+D^/DPPOO/SPPOP^+PJD0^D-+OR^0-e++^R-0O*/5-M+-RP;j+.R0;P!+^R;0!eH+;/!0xPW+!UR^WP*+1(W0*PDjW.*0_;0+*HD00ee+DR00ePP00(e0jP/Oeoj0/PP+j^/0PPO+/Re*OP^+P:O^WDOR/^-!OR^+P{+O^E/_OP^r-RPkRP-R!OR+-/!DO*kO;;!0CPW+*j;P!jve;^!+*PD+W}*0D+0+*}D0W*+!D{00ePjj0 e0jP0j^Rj0/eP+jR/0PPO+/g/-OP^+PEO;^P-OOd^0RA++^_-0+eR+-o+0RP-j+IR0;P!+^j;0!Pu+;w!0=PW+OHRWWP*+>iW0*Pm/Wm*0RW0+*^D00Pe+D/00+PD*0>e;jP0We,j-/P!+je/0P*O+/PP0O+^+PYj-^P-DOp^;-P++^x-0j^R+-0+0RP;++^R0ePR^Ry;P!PRW;Z!emPWj++40WO*+>JW0*PD+;(W+DPWz*}D*0P*RDA00/ej+0We0jP/+e^j0;Pj^j_/ePPjW/6P;OP^je+O0^j-+OR^0-P++/V^++P^R-x+*RP-^+iR00^!+R/;0!OU+;R!0RPR0!Tg;WP*O7aW-*PD++j*0DP0+*^D00ee+DhO+ePj+02eWjP/+e)j00RP+j3/0Pej*/{P0OP^*!W/*PRe=/OP-jRj<P-OO^j-W*/+W^;;++(R0;;RR;+!eR0;R-0RO;j-(Re;?!0mPxRWO*PD+WF*^^D*RU%W0ejDR0-*/eeD00Se0jP/*+-0-e*D0/ee;D3OO/-P0OP^+-jk!-OOj^--OOP+O^P-0+PR+;jD*PRO0^P--+*^/RR;!!PB+;y!^0b!erW;0!!s-TRW**PD+W:*^0U*eiPW0*ReODP00ePj+/j+!0!ejj*0RejjOj^/0PPO+/^P0OP^+PRj*^P-+O=^^*D^RP^+!^R-+OoRO->Pb^P-Z+ROv;P+R#O;++/7D^*WO!;t0WP*+Dj!P)jWe!^v+DP0+*rD00+e+D600**R!0Se0jP/je j0/Pej-R/0PeO+/RP0OP^+PLP-^P-+O8^;-P+O^u-0;TR+-m+0Re;++tR0;P+^RJ;0!PJO;W!0TPW+*jWD*OiOWeWW!/D+WJ*0D;*+#/0e*>9/WP**DW0je!eW^-/+eCj0/;jP0Pe+j+0/Wj*-D!e^OW/D0*O-^OP+O0/W-;OO^D-WO;R!-!+j^P;O+*^0/^!!R!;OP/R+WO!OaW;*!WRP;;--R4WR!RxS;R*^+/WWeODeW^;-7J00*/!;0P*WjWjW0{P+ja/0P;RPePj+/+;-Oe/+^eP;O?^0-P+*-W+!/,-eO*RePB+WRPRW;j!+Rn;0!;-F+;RR;*+0!&F0WP*+9!W0*PD+;^D/DP0+*AD;0Pe+DLW;!Wj+0Re0je/+ebj0WPeWjF/WPPOO/iPPOP/jePO0^!-+O/^0-P++^kPP+PRO-T+-RP;++5R0;!!+R3;0!Pl+;^!0ZP-R!ny0WP*O6YWW*P j-D*0DP0+*;D00Pe+,^OWePjO0TeejP/+eTj0j!P+ja/0P*O+/RP0OP+0P?O0^P-OOn^0-P++/^-0+PR+-Lj^RP;++bR0;P!+RAP0+j_+;n!0IPW+!-N0WP+PM,W;*PD+W_*-DP-+*DD00*e+DP00eej+-}*;jP/je8jP/PPjj</0eeO+//P0O*^+PzO0^Pe;OY^P-P++^T-;+P0++;+0R+;++PR0-R!+R^PE!PRR;5!WKPW+!gR0RH*+)0W0*!D+WW*0DPjO*>De0Pe+DQ0;ePR+e;e0jO/+ePj0/OP+j^WwPPj^/CP0OP^+PQj0jB-+OW^0-!++^;-0+PD;-Q+-RP-R+qRW;P+++P;0!*d+;;!0l!W+!sP^WP*+u1W;*PDOW1*0e:0+*mD00ee+D=00ePDW0.e0jP/OePj0/PP+Oj;!j!/jP*jR/jPOPRO+^P-+Os^^*j/WPPO+^!-jO-+W^^;++hR0;;RD-^-Pjg-0!++P;ePR!R{!WP*+L7W^ODWR!^D!WR*+*RD*0Pe+Dw0^jw0e*PD00R/Oe-j0/PP+Oj;+jW/ReTj-//^OPPO0^P-++jW!O!^jPP+O^*P0-R+ORP;++QR^eDRR-2+0bj;R!-R/%e;*!Q)0WP**/W!*BRRT!Oy-;R;GN-WO*jDW^/0;ePj+06e;jP/+e1jW0jP+jk/0P;R/PWj;^DPWj(/0PRO0j0P+O0^W/0++^W-ROn^--/Pj+RR*;P!+RF;^R+-^!OR;-?W+!Bz0WP!TU2W0*Puj-D*0DP0+*^D00Pe+G^OWePjO0:eWjP/+egj0j!P+jU/0P*O+/RP0OP+0P2O0^P-OO#^0-P++^0-0+PR+-R+DRP;++5R^+PRD;W!+RD-0+;RR;*!-!RI+WP*+doW^j0;0!P P//*W9PDW0Oe+D{00e;0-eWDW0R/OOQj0/PP+Oje_Dz00e0j!k;0D*//*-Oj-D^-DOW/0-+OORjPWO-RO-j+/^/-;OYRW-^++O*;/+/RW^!+0?W;W*OR^WO+)8jRD!PDeWe*P}e0*;!DO0W*RD*sDe-je/DeR!^00*RjRj1/0PPO+/PP0OP^+e^^/^P-+OE^W-P++^mP;O!R+-R+0R!;++<R0PP+*Rd;W!PbO;?!; P;j!e.0W!*+ 0W0*PD+Wu*ODP0O*yD-0Pe+DT00ejj+0Ie0jP/+e^j0/Pe/jy/0PPOO/EPWOP^+RPO0^P-+OR^0-P++^kP;+PR+-L+0/;;++yR0;P!+R_;0OPR/;_!0hPW+!VL*WP*+wPW0**D+W#*0D!0+Oz6-0PejD 0eePDW0N+0D^/+e^j0/DP+j//0PPD0/tP-OP^jP8O0^P-+jB^0-+++^S-0+*R+*gR*RP-3+KRe;P!OR:;;O0M+;W!09eW+!Ip0;P;049WP*PC0Wk*eDP0+0RD00Oe+Dz00e*j+-)j*jP0Re7je/Pe2jY/;*0O+/;P0OP^+PhO0/P/0O>^e-PO0^9-*+PR+0*+0R!;++WR0;e!+^JR+!PBj;?!;#PWD!?v0O;*+5VW0**D+WR*0DPj0* D00PeODu00ePj+0ee0jP/+eRjO/PP+j(/^!D/Re8j0^jPRO-//^eP*OQ^0-P+*WWO*^R/_OO^-PRPi^--O+jRW0/;W+w#+;h!0&;e/R/;;+6oW;^!+*eYeWo*0DP0*j/WP*RDjH0e!D!0j*-D-0PeWeRj+/PP+j=/^!j0WePj+/!Pjj-OW^D-+O_^0-;L/-WO;RD-WOI+WRj;++ R0;;,0;O++RP;W;R!!oPW+!{y^eG5eWW!0J!W-WR*+DP0+*lD^-DDDW^ejDWW^*Re;jP/+eAj;/PP+jy/WPjO+/sP0O;e4j;/RP*j0OR/*-P++^(-^DD-RO^R!-R++^p;O+)Og-P+JRR^(!PRRWO!+R/WD-**+YGW0*P<9Wu*0DPWj+DD00Pe+DR00ePj+W^^WjP/OeEj;/PP+j)/0/!O+/{P0O*^+PRO0^PR0O5^0-P+O^E-0+PR+-W+0RP;++RRD;P!+Rt;^DD-0!WR*-5!WR;/D+R>e_R;;*PD+WI*^/B*W3*^!*!DjW-*-DP0WP*DR0Deej;00eRPOjP/0PPO+^j+!/Re0!-/-PjOWOR^e-P++^:-^^/-RORRORe--+>R0;P!*0!!O^>W/!eR*-^!e_-WOWP*+%SW0!RD+W}*0l*-D*8D00P*QD200ePv+0/e0jP/+epj0/OP+D^0;PPOj/cPWOP^+PkO0/0-+Ok^0-*++^^-0jP^4-3+0RP;++>R-;P+jRe;0!*4+;^!0=PW+!2bjWP*DaVWW*PD+W1*0-;0+*8D00!e+DR00ePP007e0jP/OeHj0/PP+D^/0PPO+/k*^OP^+PEO0^P-+OU00Pe++^7-0+PR+-P+0RP-^+iR;;P!+R_;-!P/+;R!0x*W+!-A0W**+/,;/*PDjWV*-DPW,*4D0Wje+D/00e*j+0=e0jPWRe8jP/PP+j2/;PP&+P;P0O+^+P-O0/R-+O^0E-POR^&-W+PR+-7O0O{;++0R0;e!+RW;0!P*O;?!e_PW+!(G;WPO+W;W0*OD+W-*0Dj0+*^RZ0P*^Dt00ePj+0.*0*Y/+eWj0/eP+j;/0PP!;/JP-OP/RPwOW^PP+PP^0-*++^W-0+!R+-%0^RP;++IR;;P!OR%;0WZ(+;:!0TeW+!g20WP!WI#W0*PDOWe*0DP0+ej^!eOD+WFe*jO0/eDeWjD/+e7j0/;+0/OPejP/DP!PWj+^+PsO0^;OW/;PWP+/--++e/./1OP^ -RP#^--O+-^W-^!e!eR^;c!0IPW*DP;R+iy+WeWW!;D+W1*0D;PRy;0OW+&eW/*O*+W/*eD*0R;DeRj+/PP+jv/^!j0WePj+/!Pjj-OW/Z-+O#^0-;n/P/O;/3-WO^^+Re*O+#R0;P!*-0!jR^;;!*R+-}+0RPRP*OR^We;PRWWD!e!PWD!W6;0OW+DDW;WPD*0Re+*P0*e-jWDPeWj00;P!e+/eP*eP0WPDjejP-Oj^^eP;j&j>-jOO^DP0P0^+-R++^n^P+eRWRR;D!Pp+;y!^;0!WRORP!ehR;^;P3WWOW^*0DP0+*0D00Pe+DR0+ePj+0ge^^0*0DP0P-/jW0P/W+eO+/tP0O;PPjP/+P+j/Dj0-e!/^-WODj*--+O^+-0OWR;-O+DRW-;!!R!;j+P%O;*+0O^W!!!KO^/!+DOWO*W *WW!Pw;R-!?DRWR*TZR0^;/DW/OeeD^Z-*/jD0;e0jyDje3jO^O^OP!O0^P-++jP0O!^R-PO!/8P^+O^;-/;O+WR0;P!+3j!D<O;O!e!0HPW+!UG+WP*+=v;;D-D+Wd*0D!0+*JD0W**eD}0WePD 0Fe0jPW+*Rj0/eP+jR/0PeO+0^e!OP^DP2O;^P-+OL^0PD++^R-0+!R+-h+0RP;O+vR0;P!+RU;;!PM+;P!0&PW+!RF0We*+zij+*PD+W4*WDP0+*vD00*e+Dm00eeD^0ye0jP/*D00*eWjj0P/WejO+/ZP0O;;/OW/;-DOW/SP0OR^0/0O+^0-WP0R+-W+R^t--+/OjRp;0!P_+;0!0=PW++^//WP*+__WW*PD+W4!;Pe0+*RD00*e+D_00ePeD0de0jP/je#jW/PP+-P/0PPO+/RP0OP^+PAj;^P-+Os^0e;++^}-0+PR+-B+0/P-W+NR0;P!+Rh;;!P%+-R!0.*W+!:G0W!*+/T;+*PDjW6*PDPWR*q^00!e+D^00eDj+0Pe0jP0Pe>j-/PPjjx/0PPO+0/P0O+^+PvO0^*-+M&-*-PO{^y-P+P^W-6+;/0;++WR0;P!+Rb;0+P+0;y!P?PWO!qseWP*+*RW0*OD+W9*0D*0+Oq0*0P*RDM0PePjD0le;Y0/+e;j0/eP+jb/0ePe0/6PeOP^OPFO*^P-+**^0-!++^W-0+eR+P8-+RP;j+QR*;P!DRM;0/;A+;T!0M*W+!RG0WP00YiW0*PDOW4*0DP0+*eD00Pe+DR0+ePj+0qe^Rj*WDP0+e!jj0-/WeRO+/7P0O;;/OW/0PPO^^W-!O-+O^--0+PR+;jD!;O+jR-;O+P!OR;;0!P8+WjD+;W+0R)WOWe!*QQW0*PD*PW2*WR;o:OW-!R!qW-*ODj0W-/eWjD/+e(j0/;+0/OPejP/DP!PWOj^+PiO0^;jW^+PwO0^P^R-++PR+-8+^0D+D^^;j+W^^-R;W+Jc+;t!0A;e/R/;;+yVW;^!+**D+W8*0D*0+*6D00e*^D100ePj**0D*0WejDPjW0jP+jU/0P;R/PWj;^DPWj(/0PRO0j0P+O0^W/0++^W-RO#^--/Pj+ZR0;P!+R0;0!P7+-^j/gPW+!qHWWP*+Ku;;/eD+WR*0D*0+*qD00P0DDS00ePjj04eWjP/+^Pj0/PP+jR/0PPO+/iP*OP^+PkOW/X-+Oh^0-;oPPPO+^+W-+e^+Re-R+lR0;P!*;!!eRe;W;R!jnPW+!.%^*O}/;P!RR^WR!PDOWd0O*;D00Pe+jj*PDj0e*^D+je0-eAj0/PP*05e-OO/0e-j+/jPej^^D^e!jO7^0-P+*-+O+/JP.O-D^/!PD^;;eO/Oj;!+R^g;P+eY*-R+/.e;**D5D;^!+7RWj!P+;0D*DJRR-*PDD0We+DPWWeW!-/2P/+;L-eejR/Oe;*!Ree^j!0%PR*R//PWO+/>0;OP/W-W-0+PR+->+DRP;++)^;!-!+RI;0!Ol+;2!0R*;-!1EWWP*jUtW0*PR+WD*0De0+*RD00ee+#^WDePjD0:e*jP/+e#j00DP+jR/0P!O+/EP0OP/+P)O0^P-+OS^;-P++/^-0+PR+-R+0Re;+O^0/;P!+R4;P!PN+;<+;eeW+!RJ0W!*+23W0*P*DWi*0DP0j*KDW0Pe+PP00ePj+0Re0jP/+eSD;/PP+jp/0*;O+/CP0OP^+PyO00Pe;OK^0-P++^,-*+PR+-!+0R*;++SR0;!!+0p-W!P9j;T!PdP;R!a/0;P*+G^W0!RD+W-*0DPWj*vD-0PejDU00ePj+00e0j+/+e_j0/*P+RdP*PPjr/LPPOP/0P>O;00-+OW^0-e++^Z-0OPO0-:+PRP;j+vRe;P!+!R;0!O3+;8!0n*W+j3W*WP!R=6WP*PDDW,*;R00+*;D00Pe+D?00*P*00{eejP/jeVj*/PP+!*/0P!O+/WP0Oe^+elP+^P-jO#^W-P+D^1-00;R+-d+0R*;++RR0;PW0R&;0!P#O;L!0IPW+!eA0WP*+=RW+*PD+Wb*^^j!WrPW+*!DjW-0W*0j+0Ee0j;eejP0/0+jR0;POe+0ee/jOOe/WP2O0^P-*S--eOP^+-;+eRD-!-R++RP;++uR^eDRD-^!jRW-^+R!W6DW+!l=0W;j0WO*eEPWD*!*WDD0+*hD00;O/0W*;jD0W*{eWjj/+eZj0/;O0/Oe+jP/W/RP+OP^+P=O^WDOD/^P+OR^jPP-WO;R+-Z+0R;*R^;;O-+^e-/+O++-/+eR*;RPD!^60WP*+90W0*PD+WR*+DP0+*<D^P0%0WP*PO/0W*PeW^P/+erj0/;jP0Pe+j+0/Wj*-D!e^OW/D0*O-^OP+O0/W-;OO^D-WO;R!-!+j^P;O+*^0/^!!R!;OP/R+WO!OrW;*!WRP;;--RBWR!RbA;R*^+/WWeODeW^;-D^W^eejOs*e+De/e/eeRjY/0PPO*P!Oe/ePWPROD^P-+OU^^OP^D-W++^DP0O;^R-*+-+IR0;P!+Re;0!PU+-^+!pPW+! cPWP*+29;;!+D+WR*0D!0+* D0;P!-D}0WePjO0SeWjP0j*+j0/!P+j^/0PPO+/vP+OP/cPSOW^P-+O1^0-O++^R-0++R+-V+0RP-*+>R0;P!+Rv;;!Pv+j*!0xPW+!Rp0We*+wAj+*PD+WN*WDP0+*?D00*e+DF00eeM^0Ee0jP/*+-/ee*j//ee0jP/WPPeP0CPPOejPPCOe^WP0O!^-0^-W+jR+-N+0R;O)^;-R+*^0RC;0!Pq+;0!0CPW++^//WP*+LNW;*PD+WH!;Pe0+*RD00ee+DT00ePeD0#e0jP/je}jW/PP+-P/0PPO+/RP0OP^+PIj;^P-+O_^0e;++^%-0+PR+-m+0/P-^+VR0;P!+RI;e!Pw+-r!0m*W+!%10W!*+/oWD*PDjW,*!DPWW*p^0;ze+D^00*}j+0^e0jP0/e%j-/PPjjE/0PPO+0WP0O+^+PzO0^*-+SI-*-POn^h-!+P^q-%+;/0;++WR0;P!+RB;0+P+0;l!P.PWD!m,eWP*+*RW0*OD+Wd*0D*0+O>0*0P*RDY0!ePD^0Te;V0/+e;j0/eP+jh/0ePe0/_PeOP^DPkO*^P-+**^0-!++^W-0+eR+P5-+RP;j+7RW;P!DRH;0/;d+;o!0{*W+!RB0WP00GBW0*PDOW}*0DP0+*eD00Pe+DR0!ePj+0de^^ZeejW00e!j-jR/+PPO+/.P^9DPDj^^jPWj^/R^WP0++^q-0+;-e+P^/^++R^;;O-+^e-/+O!eRW;l!0aPW*j-We!P8+W;*eDDW!WR*+DP0+*JD^-jAWWP*+D!0j*-eWjD/+eZj0/;+//We;OD/We PWj;^+PlO0^;!R/;-OP+/eP/OOO+P/Oe^*-ReD+RR+;P!+Ry;^jD;D+^R+;R!jRPVWWj*+TEW0*;00*O7+WP*W*^D00Pe+D^00ePj+0R**jP/+eNj^;DjR0^P!jR/+eQOO/L06jP/2PReY^PPR+O^+P/+Dj*RO-;+0RP;+!j-P+jRe-^++!Pv+;l!04+W+!uy0;*O!cvW0*PDjWy*0DPWj/RD00ee+DR00ePj+010-jP/+exj;/PPOjS/0^%O+/1P0Oe^+PuO0^PP%Op^0-P+O-R-0+PR+;j^wPGO0^0-!e;OD//+*BO--P^iD;W+0F+;O*jRW;-*O6jW/!/(;;v*WG^W+;*D/W/*W!!W0eWDW/O*^jOWMej*D0PPeje/PeeO*D!POOW/RP*eD^+P-OP^+P/OD^+PWO^R!-0+;^/-*+DRW-;+RR!-W+-O;;P+WbWSW;_*+psW0*;/P!Pp+W+P-DeW+0e*-DA00ePj**mD-/Oe0D-0+ejje0^PDPejR/BP0OP^*O!^ePeOWO_^0-P++^e-0+PR+P^O!RP;++iR-;P!+Rq-;!+>+;R!0t+W+!oQ0-P!O {WW*PDOWK*;DPWj!eD00!e+DR00ePj+0>e-jP0EeljW/PP+jh/0*TO+/RP0O+^+PdO0^PP+O<^0-P++^z-;+PR+D*+0RP;++RR0;e!+R%D+!P{+;d!WnPW+!AG0;**+n,W0*PR*W?*0DP0+*dD00P!+DW00ePj+0Me0je/+e3D;/PPjjc/0PPOD/q!0j-^+P^O0/R-+O-^0*PO0^K-;+P^0-E+-RP;++/R0;!!+R^;0!P<+;2!P1P;C!I:0WP*jw7P0DjD+W0*0<R0+*^D00*!PD)0eePjO0Ce0jP0+0Pj0/+P+j0/0POO+/k^WOP/RPwO0^P-jOaW0+j++^W-0ORR+-;+0R*PP+xR*;P!+R>;0!PR+RP!0cOW+!0{0Wj*+=K^j*PDDWv*eDP0O*bK0IEe+D^00eOj+0/e0jP!*eij0/PPjjQ/WPPO++PP0OP^+PRO0^P-+Ow^O-P++^o-WO+R+-=+0R;+-^O;eOtOR^0ORRR-/-0RRR+!RRRRP!DRW;;*O*eR0W?*0DP0*D!;ReO>0%0eDzW0R*P*P0/*ejW0+0+j-0OPeDQ00ePj+0d^OP;O0^P-++j;+OW/0Pp+O+e^*-(+0RP;*DW-*+RO(-O+-^R^N+-RO;j!Wj/iW;Y*+&#W0*;/^!er+;&*Db^W!0e*/D<00ePj*-PDR/Oe+D//D/ee(jA/0PPO*PDDR/D^OPPO0^P-++jW!O!^jPP+O^*P0-R+ORP;++TR^eDRR-h+01j;R!-R/6*W+!Ym0W+*+EuW0*ed-WY*0DP0*1=W-eOD0W-*+Dj0e*^jDje-je6j0/PP*/+e+DZ0>e-!^D!0Dj;^ee/ej^!PRjz^PPe+*/RP/+e^*;D+D^^-++RRj-PP;zD;D+RO--:!RRRWe!j>e;+!*+!;0*WGWW0!WD;R-*eDR0O*;!!W/eeD;0WeDD;q;ePDW/W/We5O+/2P0O;;PjP/+P+!-^eP+-eOR^)-0+PR*+!Re-e+W+tR0;P!+RP;0!P>+-^_/FPW+!gvWWP*+3u;;*!D+WR*0D+0+*bD0;P*eDu0WePjO0Xe-jP0j**j0/!P+j^/0PPO+/Ee/OP^OP#O-^P-+OV^0e_++^1-0+PR+-^+0RP-)+4R0;P!ORY;W!Pg+DP!0BPW+!Rx0WP*+bqW;*PD+W *WDj0+*&D00;mnW;*RD*W00R**jP/+e2j^;DjR0^P!jR/+euOO/Y0njP/lPRet^PPR+O^+P/+Dj*R+-#+0RP-J+CR0;P+j/D;0!P=+;R!0{PW++^eWWP*O>EW;*PD+W&*0*!0+*nD00*e+DR00ePP00}e0jP/Oe j0/PP+D^/0PPO+/n*^OP^+PmO0^P-+OA00-D++^9-0+PR+-;+0RP-R+>R;;P!+R?;-!P/+--!07*W+!/K0W+*+/BW!*PDjW8*+DP0j*%D0WRe+D/00e*j+0Te0jPW;eSjP/PP+jF/;PPY+P;P0O+^+P/O0^e-+O^0.-POR^G-0+PR+-tO0Ou;++0R0-R!+RW;0!P*O;C!epPW+!iN;WPO+W;W0*OD+W/*0DD0+*^R&0P*^Dk0WePj+0d*0*:/+eWj00RP+j;/0PP!;/wP-OP/RPJOW^PP+PP^0-*++^W-0+!R+-)0^RP;++#R;;P!OR.;0WLw+;K!0zeW+!&g0WP!W8nW0*PDOWP*0DP0+ej^*!Rv0WP*-D*W/0R*_jP/+eLj^eWj0/D0POO0^PeeP0WPDjeOW^D-+O5^0-;8/-WO;RD-WO7+W^;;++4R0;;DR-;!O++-e+/ROR++/Re;*!RODoRW!*PD+Wc*^/,*eDWW0*!D-DR0*ePj+0}e^/FeeDP00eRPOjP/0PPO+^j!!/!PjjP^OP*j0OR^+-P++^i-^DD-DO^Rj-WO^^RRW-R!+Rt;0!;0/!WR0;P!^MWW!!-*jiVW0*P)=WH*0DP0OjOD00Pe+jj*%.:W0*0D!R;WD!/0*POD-{^PDjW00P+jO^jeWj-^OPjO///P;ju^WP^O+j*-/O/^W/!O0RW-W!O^^;OO=Rj^D+P.e;e!PReW*-!EOWW!R5*RD*ew;W/*+DOW!*0DP0e*!wh0P*/D00PeDD!6;ePDW/W/We/O+/?P0O;P+j/^ePhj//PP*OW^j-!-W+OR+-x+0R;+-RW-W+R!ORP;0!PX+WjDX-V+0R0/D!RR0tlW0*PD+We*0DP0+!^M!0Pe+DM0;ePj+0F*;,//+eRj0/!P+jk/0*PDB/zPWOP^OPvOP^PPjO!^0-!++^R-0+PR+-aO-RP-A+,RW;P!+RQ;0!*Y+;R!0S+W+!Q}0WP+RZ=W0*PD+Wp*;DP0+^*D00Pe+DR00eej+0w^+jP/+eJjW/PP+jr/0P*O+/pP0Oe0^P(O0^P-*J--eO*^/-eO0^P-W+POPPL+PRe^P+mRe;W+0R!;-P^!W{jW+!zL0W;R2;;!Rq*;0WZ*0DP0+*0D00Pe+s^-/ePj+03e;jP/+euD;+eP+jR/0PeO+/zP0OPODP>O0^P-jO>^W-P++!P-0+PR+-R+0RP;++q^;;P!+RJ;0O;6+;B!0TPW+!y)0-P+Jq)W0*PD+WY*eDP0+*+D00*e+D100e!j+-(*PjP/jeQj*/Pe3jC;0PjO+/^P0OD^+P^O0^PPROH^--P+j^Y-0+PR+P!+0R+;++&R0;*!+0x!*!PRN;k!*EP;0!3&;-0*+FWW0*PD+W)*0%Pr0*GDP0P*WDp0eePj+jRe0jO/+eYj0/*P+RNP*PPjR/<P*OP^DP9O;00-+O;^0-e++^K-0OPO0-T+eRP-W+mR*;P!+j*;0!!M+;W!0FeW++M!+WP*j:gWW*PDDW5*0-;0+*_D00*e+DR00ePP00Ie0jP/Oeyj0/PP+je/0PPO+/RP!OP^+PZO^WDOR/^-!OR^+^R-++PR+-S+^0D+D^^;j+W^^-R;W+Am+;C!0K;e^Re;++LtD;^!!*e_WW7*0DP0*O-0e*PD+0;eejD0!0Re+jP/+e4j^;DjD0^e+jR/jePPWR*^+P#O0^;Oe^PP/O-^!-*O/^O-!+jRD-PORRD;++;R-;D+0RO;*!PR;;/!e_j;0!!a!;W!3DjW**Dv0WO*jDD0D*ODj0O*^D-0-*Wj+00e!jj/DePDR/OeIOj/-eWj//PP*O!/JPWjROR/^-P++^ -^DOP^+eOPPW+D^e^P+D^W-;!Oj!kO;-!0{PW+*j/+!WsR;Q!-u/DOW;*0DP0+ej/+*Wq0WMeOe*j+0te0j*/+eFj0/e*^j_/0PPO*;-Oe/*P/Oe/0PPOW^P/Pj,^P-ePP^b-e+W^0-!+-j^RW;j!+Rt;0!;-k+;RR;*+0!nr0WP*+r0W0*PD+;^O/DP0+*UD;0Pe+DwW;^ej+0Re0je/+eLj0/P/Dj./0PPOj/yPWOP^+RPO0^P-+OR^0-P++^M-P+PR+-p+WRO;++ER0;;R-;W+WRRnO;!!0IPW+*j;0!!}RWP!!Rl;^*OV;W/0Oj/D00Pe+jj*K?EW0*0D!R;WD!/0*POD-_^PDjW00P+jO^jeWj-^OPjO///P;jp^WP^O+j*-/O/^W/!O0RW-W!O^^;OOgRj^D+Pse;e!PReW*-!rOWW!Rm*RD*!d-W;*D.PW!ej!jWc*OjOjO0Pe0jP/+Pj^>*bD000;DjR00/#P0OP^+PeO0^P-+j^/!-P++^X-;+PR+-_O;^S;++RR0;e!+Rn;0OPRj;y!W}PWO!}cPWP!jReW0*!D+W/*0DP0+*24D0P*7Dw0WePj+06e0 //+eRj0/+P+j_/0PPj-/GP0OP^+P_O;^P-+W*^0-P++^R-0+eR+-#W+RP;++#RW;P!+Ry;0+*t+;<!0gP-*!2q0WP*+) W0*PR+;^*0DP0+*5D0W)e+DG0-ePjj0Le0jP/DelR0/!P+j^/0eRO+/-P0sP/+PaO;^PPRO%^*-P++^W-0+!R+-^+0RP;++J^*;P+{Rm;0!P6j;)j0WjW+!0C0;R*+c^W0**RPWQ*eDP0O*(D00P*+*P00e+j+00e0jO/+erPW/PeRjw/0PPOj/p!0^j^+PWO0/R-+OR^0-*jP^r-*+PR+-C+0RP-+-PR0;O!+R0;0!jB+;6PjEPWD!1ieWP*OBN;0;KD+W^*0D!0+*/D00PR*DF00ePjj0geWjP/+^Pj0/PP+jR/0PPO+/zPOOP^+P{OW/&-+OL^0-;b/P/O;/T-WO^^+Re-W+(R0;P!*0-!eRP;+!;(eWD!!!RNjWP*+utW^VOW;!-DjWO!/bW0j*DeO(/00ePj+/jjO0jeO*00De0jR0P0PD6/PPeeP^DP+OW/!P0-OOP^0-P++Rj**/RP0OP^--*O/+RR!;P!+RY;^D%;e!WR0;!!-!RE*WP*+E_W^D:We!PH0WR0O**D00Pe+jjejDOW/e*De0D*Rj*0!/ee-j)/0PPO*P+OO0W0xjR^eP*e9^OPW-*++^I-0++R+-6+0Re+W+lR0;P!*;+++^8-S+-j^^!-DR;We+/+jW!!RR4WP!eD*;R!/DeW*eDDDW^*+DR0j*P!;/DeDDR2-*kjR0RPejj/ee+j*D!e0OW/WP0jW^;0-Oe^R-OO;j!-POP^+-+O/jj/-P!^w;W+!^B;W!;RR;*-j<-;-!e+D;;*eR/RD-!j^W}P/+-WDPP+RDR0DePj+0)e^0PeDjW/+eDD00;eRj*/-/RP+OP^+P4O^;0j0/PPP!/^WPP-W+OR+-s+0R;+-RW-W+R!+Rs;0!PR0;s!0YP;jDD,0WP*+Y^W0*PD+;^!*DP0O*1DP0Pe+DZ;0*Wj+0Re0je/+e/j00*eDjA/-PPOO/>P0OP^+P!O0^e-+O/^0-P++^BP;+PR+-<+0RP;j+lR0;!!+R6;0!eM+;R!0dPD0!_40WP*OnnW0*PD+W^*0DP0+*RD*0Pe+D{0^D+W^eOD;Wb/O*;j0/PP+Oj;!OO/jP-OO/PP+Oe^+/+j0^+-OP+^0-O+e^P-D+!j;RP;++LR0;+!+RV;0+*/!;8!0wPWO!rb0WP!jeRW0*eD+W^*0DP0+*k*-0Pe+D80;ePjO0we0PF/+e.j0/eP+jb/0PPjj/wP0OP^+ejO0^P-+OU^0-P++0S-D+PR+-6+0RP-^+}R0-R!+R^;0!P_+;/!0/P;j!8_;WP!/baW+*P^+W+*0D*0+*RD00!e+Dx0WePjD0Ce;jP/+e%j0WWP+j0/0PPO+/^P0.PP^PIOP^PP/O(^O-P+j/+-0+OR+-.+0RP;+O{++;P+nRv;;!PRR;r!0*eW+!W>0WP*+?^W0OPW^WF*eDPW/*vDP0Pej&+00ejj+0Re0jP/+*ae+/PeRjH/;PPj^/xP0!^^+P/O0^O-+OR^0PPP0^L-;+P^R-?+-RP;+/jR0;P!+R^;0!e7+; 0+)PW+!>iWWP*+CCW0!RD+Wt*0DeW**KD00Pe*^W**DRs2*OD-WRW1D-0OejjWR//WPjO+/uP0O;-0OO/+PPOWOR^!-P++^s-^vz-e+W^0-!+-+RR!;P!+Ri;^jD;R+^{!;R!+!RRmWP*+rpW^tWW0*D!P0O!^DeLP!WDDWe0W*Rj+0le0j;-/jW00ePj^/WP!j-OO/PP0OP^+-jo!P!Oj^*PROj^O^R-++PR+-M+^0jOW^P-++!Rj--;W+1Z+;5!0U;e/R/;;+YTW;^!+**D+W_*0D+0+*KD00eOjDk00ePj*e+D+WV*.D-R^W!*D0;PeD/DjP!jR02PPje^*eRj/^eP*+D^DP^O+^R-jOPj;;D+D^R/-eOR/-PORRj;jP/D!WD+^gO;P+9R/^/!WDOWe!^+-^O!*peW**ROOW/e+DV0WePeWD}/+e5j0/;+P0Pe+j+R-Pej+Oe/-PwO0^P-*/>P-+O^0P-O+^j-eO^RDRe-R+KR0;P!*;!!eRe;W;h!01PW+!Pm0WP*+R^*/*PD+Wq*-DP0+*V>;WOe+DR00e+j+0ce0UP0Pe#jW/PPOjm/;PPjj/jP0O!^+PRO0^P-+OJ^j-P+O^C--+PR+-E+0R!;++CR0;P!+R^;0!P^2;9!03PWO!(UWWP*+ePW0*PD+WR*0DP0+*qD;0Pe+DS0Wejj+04e0j;*VD;0Re*D0jR0*PPO+/vP^yDPRj^^!PRO+/J-OOsj#PPOL^R/g+P^R;O++^/;DP*!+RE;0!PR9;g!0tP;jODV0WP*+ZRW0*PD+;^/WDP0O*GD;0Pe+Dc000!j+0%e0j*/+eRj0/P^0jK/0PPOO/EP0OP^+e^O0^P-+O40^-P++^z-0+PR+-lj0^j;++xR0;P!+R/;0!P^W;d!;(PW+!ni-WPO+H^W0**D+W^*0De0+O)pP0PejDF0OePDR0?e0>0/+e/j0/*P+jo/0PPD//hPPOP^+P4O;^P*+^;^0-+++^^-0+DR+-^j<RP-R+9R0;P!+RH-0-E,+;0!0GjW+!W,0WP0OmxWe*PD+Wg*;DP-+D;D00Oe+D^00e+j+0^!:jP0^ezjW/PP+jY000AO+/WP0Oj^+P;O0^PW;O2^--POR^,-W+P^+^P+0R*;++PR0;!!+RAj^!PH+;C!;mPWO!3}0D_*+{XW0*eD+W,*0DPWW*QD00PeODP00ePj+/j+*WR*0DP0-e*D/jR/+PPO+/oP^YDPDj^^jPWj^/R^WP;++^U-0+;WRO;RO^+Oe^/-O-+^/-e+*RR/D;R!!pPW+!Ez^eKQeWW!0Z!W-WR*+DP0+*,D^-DDDW^*+DR0j*PeWjD/+e1j0/;+//We;OD/We6PWjR^+P_O0^;!/^WP0OP^^-W+!^-RO-;+0RP;+!jW++W^0-h!O!e^R;>!0<PW*DU;-*OQ0R0!+_DW^;0DeW**e6RyP*PDD0We+DRW^0^e0jP/+e^j0/PP+jR0*PPO+/iP^ADPRj^^!PRO+/q-OOsjLPPO=^R/1+P^R;O++^/;DP*!OR;;0!P5+WjRP;j!eR^;+WP*+zVW0*+D+W&*01*-!*qD00PejDN00ePDjORe0je/+eRj0/PP+j.j-PPO+/_P;OP^OP5O0+T-+O ^0-e++^.-0+P^/-t+0RP;O+!R0;P!+ajee^R-0+/D*;R+1R/;*+A*OY!W0*PD+0j>0W!*RDPW!!r8^0O*;D/jD0ReWjO/+e<j0/;j-/WeWjROOPeP0OP^+-j/oenj0/0P!*;jD0/O*ROP-e^RD-WO0R+-O!j^W--!ORj;/+/R;-(!WR^;+-*{/;/!W+!;/*DlR0j*eDPWR!2DD0O*0DRW0e*je0*;^!0=P;/*DRDPejc/W;+jO^j-^Oe/PP!j/^OP+O!/^POe-^e-R+O^;/!*+RW-++R^/-PP;RP-W!W!WR#W+!<U0W;jP;P!+L+/-*ev+DeW0*gD00Pe*0!eOly0-eeD;W^/+e6j0/Pe-jF/0PPjj*LP0OP^+P-O0^P-+O:/+-P++^6-W+PRj-QD0^j;++,R0;e!+R/;0+*^R;_!09PWj!1_0WP!jROW0*eD+W0*0DP0++AE^0PeOD)0WePD^0F*;DW/+e/j0/OP+jC/0PP^D/#PWOP^DPqO0^P-+9P^0-P++^l-0+*R+- 0jRP;++8RW;P!OR_;0WB8+;Q!0weW+!KE0WP!jc?W0*PD+;j*0DP0+*4D00Pe+RNW-ePj+0me0jP0begj0W/P+j^/0PPO+//P0GP/RPqO;^PP0O=^--PD+^P-0+*R+-W+0^R;++?^R;P!DRE;;!P.+;_!0R/W+!0p0WP*+w^W0OPW^Wy*PDPW0*#D;0Pej6+00eOj+0Re0jP/+*ge+/Pe)jA/!PPjR/kP0-e^+PWO0^P-+O^^0*P^^^t-e+P^0- +*RP;jO+R0;j!+Ru;0!P,+-M;+)P;R!_F!WP!^gcW0P^D+W/*0DO0+*RD0WPW0Dc0;ePjO0Ne-jP/+ojj0/PP+j^/0PeO+/&R+OP^+P#OW^P-+O3^0PR++^v-0+e/d-6+0RP;*_k--!OR0^0!eR*;e+R+P;W!0+0Wj!WajWP*O%jDOWP*0DP0+ej^!*!Dj0**RDj0O0Re!jP/+e3j^;DjR0^P!jR/+/Re^OP^+PaO^WOj^^e/PjW^DPePP^DPWO;RO0!;O+PR0;P!+Gje*^R-0+PR-;*+/!RK*WP*+#KW^D6We!Pp0WR0O*-D00Pe+jj-+DW0R*AD-0//OePj0/PP+Oj;!j!/jePOO/*e0PROO^P-+ON^^*D^RPYO0Rj-R+-^/R*;++}R0;+!+RN;0!eR0;p!0mPW*j+;++LR_/!*ORlDOWW*0DP0+ej0DeODO0e0W*/j+0oe0j;e+D//eeED/0Pe*jW/jP!PWR*^+P6O0^;OP/PP+O+//0je-j!P^+W^D/*+-RO-++0^W;;+ORD;W+;K!;!!jRPWO!*R0^^*!3!WO-/2+0O*ODWW**WaPW;;-h}0R*RDZWRe^!/0WPOje0^W-OO/jPOjW/WP0*^/0eRORO ^0-P++^P-0+PR+P^R/RP;++MR-;P!+R{-;+- +;R!0)*W+!ut0-P!RFwWW*PDOWk*WDPWj!WD00!e+D000ePj+0,*+jP/Oe4j-/PP+ji/0eDO+/wP0OP^+P^O0^Pe/OM^0-P+O^ -W+PR+NP+0RP;++RR0;P!+R<;;!Pr+;%!WRjW+!.?0W;j/WW!;DDWW!gT0WR*0!0W+*0DW40e+DW0R*_D-0/WjeRj*/PP+jB/^j+0^POj;0E^+PdO0^PPHOu^0-POj0D-0+PR+-^+0RP;+O^*W;P!ORF;W!PX+;v!0!!W+!l{0W**+=RW0*Pe0WY*0DP0O*4D00Pe+I^00ePj+05!^jP/+e(j0/PP+jcW0POO+/TP0OP^+P-O0^PeWOg^;-P++^t--+P0+P!+0R*;++;R0;+!+0p-O!P>j;(!+3PWO!hb0;e*+9/W0**D+W7*0DPWe*VDP0Pe+Di0;ePR+e;e0j+/+e;j0/*P+j^WnPPjR/cP0OP^+P.j0j,-+O0^0PR++^W-0+P!O-T+eRP;++VR;;Pj+;;;0!Og+;;!0L!W+!^^5WP!^axWW*PD+W(!0!{0+*WD0WRe+D;00eP+;0=e-jP0RewjW/Pe+eP/0P*O+/WP0O!^+PiW^^P-+O}^;-P+O^S-0;BR+-9+0Re;++xR0;P+WR(;0!PtO;P!0}PW+*j/!!!GjW*!R%jWOWR*+DP0+*AD^-jkWWP*+D!0j*-eWjD/+ehj0/;+//We;OD/We%PWj0^+PTO0^;Oe^PP/P+^RP;+OO+PeO/^ORe-^+HR0;P!*WP+R^V;+!e!WR3W+!Qm0W;j/;/!;RKWW!^6+DeWW*4D00Pe*^-eeDP0+e;je/De!eRD^/PP+jz/^!O0^PeeP0WPDjejPPDjW/;-O*!+O^--0+PR+;jD+-W+R^U--+/!jR=;0!Pbj;,!0%PWO+;n0WP*+DjP!DOWj*-DOWP*+De0+W+300+eO*+00eOje0PeDj!,;/ee^j}/0PPO*e0j*/WPjjPO0^P-+O6^P-P++^IP;D-R+-T+0R*;++xR0-*0ORJ;W!P)O;G!0uPW+;/60WP*+a^W0*eD+WC/+DP0+*4DW0Pe+D200e+j+0le0je0Rekj0/PP*/!Peje/W/RPDOP^+P=O^PPOD^W-+OD/0P;OR^*---R++RP;++%R^*0^0-P+PD/;W+P!W0!W+!8=0W;cP;P!+C+;/-j+-R!!^DWWD;*D-0O*+D0WWe;DO0DeWD;/!e!jj0PPOj*00W^O!/!PO*//+-OOO^WP*OW/PP;e-/A-ROR^&PR+^j/-W!ORe-^P-HO;0+-ae;G+/IW^;!PRWWWW0*PD+Wc*ODP0+*i6;WDe+Dt00e*j+0_e0D*W;eXjW/PPOjc/0PPD+0PP0Oe^+PRO0^!-+j^^e-P+D^i-P+PR+-p+0^-;++0R0;e!+R1;0!PRD;u!W9P;u!=o0WP*+TWW0*PD+WB*0D*0+*a-j0Pe+Dd0WePjO0Te0PH/+ewj0/eP+j8/0PPjj/1P0OP^+ejO0^P-+Od^0-P++0tP-+PR+-J+0RP-W+yR0-n!+R^;0!PN+;/!0/P;/!#2;WP!R:gW+*P^+;-*0D*0+*;D00+e+Di;RePjD0 e;jP/+e1j00+P+j0/0PPO+/^P0tPP^P<OP^PPROz^W-P+j/+-0+OR+-R+0RP;+OF++;P+3R2;!!PRR;=!0*eW+!WJ0WP*+ ^W0OPW^WA*eDPWR*LD-0Pejm+00ejj+0we0jP/+*6e+/PeRjp/!PPj^/3P0!^^+P/O0^O-+OR^0PPP0^9-;+PRj-.+-RP;+/jR0;P!+R^;0!ep+;80+5PW+!=JWWP*+8uW0!RD+W%*0DeW0*UD00Pe*^-*-D*0;eOD*0e/Oe;j0/PP+Oj-+jW00e8OOOe/0PyO0^P-*w;POj{/0P/O;^DRO--+0RP;+!j0++WRR-F+-R/pO;j!0TPW+*j/e!jLWR0+Rv!;W;0.!;R!^De^-0e*WD_00ePj*--je0Pe+j;/ePDj!jR/+PPO+/LP^qDPDj^/+PROj/P^W-D++^l-0+;W/+W^;;D+W^nRW-0!+Rs;0!;;e!PR/R+!RR;WO;+Re;/!O**D+WI*0D*0+*3D00e!^DN00ePj*--je0*e/je00ePjW/P0PDk/PPeeP/APeOW/0P!O-D^^W-j++^Z-0+;P O;^R-*O0+_R0;P!+R0;0!Pz+-^j/:PW+!}<;WP*+dz;;/eD+WR*0De0+*lD00P0DDv00ePjj0peWjP/+^Pj0/PP+jR/0PPO+/TPPOP^+PMOW^O-+Oc^0-;^--WOW^RRO-!+0RP;+!j-0+!RR;P+!^)-^!OR;;/WODe_0WP*+Dj!>Ru;0!0Z!^;;D+/W*eOI-R^eDDWW0e+DO/j*WD-/Oejj/0/e;D)/We^j+D*P/j//W0!j0^WPW+O/^-Oj6^j/DOPRe-e+P^e;*P!RO;W+RR*^D!!R-;;!Dp;-R*jcD;/!D8!WO!0+;WP!WDWDWW)e+DS00e;^P*PD+0+--je0+/PP+jU/0e3O+/5P0j*-!PEO0^P-jOY^0-POj/P-0+eR+-R+0RP;+j_^j;P!ORn;W!PRy;h+;I*W+!/A0W!*+zKW0*PDDWi*WDP0D*3D00Pe+XR00ePj+0me0j*/+egSU/PP+j3/WPPOO/TP0-?^+P9O0^e-+OU^0-POj^F-0+PR+Pj+0RP;++9R0;P!+/(-*!P>+;G!0,P;_!3g0;W*+%^W0*PD+W/*0^PW/*dD;0PejDu0eePR+0;e0j*/+e-j00RP+j<0OPPOD/NP;OP^+PSO0^!-+O0^0-P++^^-0DP-^-g+PRP;j+yRW;P!j^+;0!OL+;R!0iPW++l!+WP!)8gW**P%RWc*0ee0+*WD00Pe+D^00+P0^0%eejP/je7j+/PPjD+/0PjO+/EP0OP^+edP+^PPROH^*-PO^^3-0*^R+-/+0RO;++RR0-P-0Rl;;!P.D;.!-{PW+^jM0WP*+F^W0*eD+Wk/+DP0+*XDW0Pe+DK00*Rj+0?e0je0Wedj0/PP*R-PejP/+P;Oe^DP!PRO+^P-+Op^^*D^DP^O+^R-jOP+WRj;++bR0;;B0;O++RP;W;R+PEPW+!UJ^!/ReWW!+!OR1!ODOWD;uDO)PeODO.0*!LRW^eeeW^e/+e=j0/;DC/*Pjj^/;ePj+0Ue0e0^ePjOWj0eRO!/W/0O!/RP^+eOP-!O^O0-;!ORP^0+;R/;R-0RR;&+^2-RP!WU;R0+R(!;W;0DeWj*W}^W+W+D*We*!cBV_*PjO0Pe+*00WeRPOj-/0PPO+^j!+/WPRj5/-P/-OOP^0-P++Rj**/RP0OP^--*O/+RRP;P!+Rp;^R--e+-!WR;W+!:)0W;jR;;*O!+;e!/}OX+!/>eW**R+DD^00ePj+0^e0jP/+eRD*/PP+j_/^!D/Re^O!/RP+jZ^OPEeY/PP=ORj}-PORRO-+O/RD/*;O+;R0;P!+6j+PRj;e+^R+#PW+!lU0W+*+Q9W0!*^!WM*0DP0j*7D00P*jPR00eej+0Re0jP/+eVe-/PP+j7/;PPOO/lP0-x^+P<O0^e-+OH^0-POM^_-0+PRO!-+0RP;+!j-XOc^0-0+!j;^DP/R*WO+-O^WD!WR0W+!ODj;W!-DOWj*/G/W;!IDWW^*+!*0/*/DWZ!*0jW0WPOD^/O*AjjDDePOe/ePPje^*0!OO^WPRO*jDP-OO^+-WO;^!-R+jRO--+jOj-o+OLONO;!!09PW+*j;0!!URWP!!R>;^*O6;W/0O*WD00Pe+jjeDjO0OeeeWD}/+ezj0/;+P0Pe+j+R-Pej+OP^+PtO0/X-+O<^0P*R!^.-0+PRj-G+0RP-j+eR0;e!+R/;0!PL+Pz+*>PWO!H,WWP!Xaw;;!^D+W/*0De0+*VD00P*RDQ0WePjD0.e0jP/+*Wj0/PP+j7/0P*O+/rPDOP^+P1OW^P-OO:^0R7++^{-0+eR+-g+0RP-j+iR0;P!+^j;0!Pb+;X!0VPW+O?R/WP*+sHW0*P)^W1*0)W0+*^D00Pe+D/00+PN-06e;jP/DeVjO/P!+j+/0P*O+/^P0OO^+P1OD^P-DOA^;-P++^q-0+!R+-0+0RP;++^R0ePR^Rg;P!PdD;Q!P1PWj++J0WO*+:RW0*PD+;gW+DPW6*=DW0P*RDl00/ej+0We0jP/+e^j0;Pj^jt/ePPOD/nP+OP^je+O0^j-+OM^0-P++/5^++P^R-#+WRP-^+kR00^!+R/;0!Oh+;R!0RPR0!zV;WP!/I<W-*PD++j*0DP0+*^D00ee+D)O+ePj+0JeWjP/+eJj00RP+j1/0Pej0/9P0OP^*!-/-P*j0^eP;jX+O^e-0+PR+;jD!;O++^U;*!OR/;D;W+bF+;_!0.;e/R/;;!^me;;!W*e2*WC*0DP0*OWW**R!AWO*-FR}B*-DO0jeW+/jW0pP+j8/0P;R^eej+0HPDj^/!^eP^O_^0-P+*;POR/Y-++e+WRD;++rR0;;D0;O!eRP;D!!!W^/W+!w70W;<eWP!!</W*!-meW-*-%sW!*OD-0j*!DO0!*hDeW;e-jj00e-D*0W/WPDO+/9P0O;;/OW/;-DOW/u^;-P++^Q-P+PR+-M+W^/;++}R0;;R+-/!eR1-/+PR*;W!jQ!gWWO*+%ZW0*;W-*WiWWR0OOjD00Pe+jj*Yo W0*0D!R;WD!/0*POD-B^PDjW00P+jO^jeWj-^OPjO///P;jx^WP^O+j*-/O/^W/!O0RW-W!O^^;OOpRj^D+PAe;e!PReW*-!vOWW!RA*RD*eDOR**+Qe0e0e*0Db00ePj*-+D+Ws*:+!/O*5P+jb/0PPj0/=P0OP/j+DO0^P-+OR^0-P++/^P++PRO-3+;RP;++N/0-D!+RR;0!eH+;0!0R*-P!,)-WP*DnZW0*PD+WP*0De0+*/D00Pe+DsW*ePj+0(e0jP/jeij00!P+j#/0PeO+/RP0OP+0PNO0^P-OO}^0-P++^^-0+PR+-R+*RP;++lR^++^^;O+;^<dO-;!0<PW+*j/!*OSjW-*O1PW+*eD+<+!0D+0OW+D00OeeDP0De!!;jP/+erj0/+P+jz/0e*K!/XP0OP^OP%O0^PPj;R^0-e++^^-0+PR+-c--RP;++CR;;P!OR(;0WC_+;T!0XeW+!Qw0WP!jnJW0*PD+;j*0DP0+*uD00Pe+RCWPePj+0ce0jP0/e6j0/OP+j^/0PPO+//P0KP^OPAO;^PP^O#^P-PD+^R-0+*R+-R+0^w;++s^#;P!DRU;;!Px+;I!0R7W+!0v0WP*+s^W0OPW^W5*PDPW^*ED-0PejX+00eOj+0Ze0jP/+*re+/Pe#jr/;PPjR/mP0-e^+PWO0^P-+O^^0*P^^^N-e+P^^-=+ORP;jO+R0;j!+RR;0!PS+-,;+NP;R!ok;WP!^N)W0P^D+W/*0DO0+*RD0WPW0Dz0;ePDR09e-jP/+ojj0/PP+j^/0PeO+/pR+OP^+P>OW^P-+Oz^0PR++^Y-0+e^0-Q+0RP;*D---+*^0;e+;^baO;;!0{PW+*j0+!WR0;_*O*eg/Wk*0DP0*OPWReOD+W/eDeeD/0Ge0jP/*+-/ee*j//ee0Pej0/mP0OP^*!;/Oewj0//P;OD+O^j-0+PR+;jDe-j+WO0PR+!^W^0+!^R-^!ej-Ge;W!:Q0WP**/-*e_PW+*;De0D*!*Rv^0Pe+Dh0^OP0DeWj+D+*/jD0ReU*./+eOOjOO/PP0OP^+-js!P!Oj^*PROj^O^^-0+PR+-^+0RP;++RR*;P!+RB;^R+-^!OR;-2WO+;.0WP*+DjP!DOWj*-DOWP*+De0+W+v00+eO*+00eOje0PeDj!8;/PP+jS/0P+O+/%P0j*W!PLO0^P-OOr^0-POj!R-0+eR+-^+0RP;++:+-;P!+Rr;;!P7O;q!0*9W+!tu0We*+MKW0*PkJWn*0DP0O*!D00Pe+jj*0D!0RePD!WK*^jO0;e/POjP/0PPO+^j+30Ye0j0JDPRj0OR;^-P++^F-^^0P0OP^P-De*j//-+jRR-!P;R/;e+PRg-R!^Re;!!RR^W-!-l*;0*e5;;,;jD-W-*e!DWPeeDe0R*;DRW0*^!/0+POjO/+eOOjDDeROe/WPj*//!PDej/(PO+O+O^W-0+PR+;jRD;O+OReR0;P!+RV;+!Pg+;H+;W-W+!AT0We*+U1W0!*oDWp*WDPW5*MD00P!+DO00eej+0Re0j*/+*^j;/PPDj9/-PPO+/FP0je^+PRO0^!-+Ok^0-PO-^5-0+PR+-E+;RP;++!R0;P!+RR;0!e_+;h0+KPW+!ANWWP*+pzW0!*D+W#*0DP;**rD00Pe+D 00ePn+00e0jP/+e)j0/!P+jE/jPPOj/sP0OP^DPIT0^!-+O^^0-*++^;-0DP^--u+;RP;O+rR+;P!+^^;0!!Q+;^!0%PW+!IQ-WP!CXMW0*PDjWdO00j0+*0D00*e+De00e*2P0UeejP/OeXj0/Pe+eP/0P+O+/-P0OO^+Pn-W^PPROv^0-P+j^i*0RjR+-W+0R*;++0R0;*OPRU;*!Pq+;n!0:P;+;PY0WO*+g-W0*jD+W6-jDP0D*QDe0PeOD<W0WCj+0^e0jO/+e/j0/PE*jT/0PPOj/6PWOP^+RPO0^P-+OR^0-P++^t-!+PR+-M+WRP;++>R0;e+RRI;0!PPl+RR;-0+R!R>*WP*+m(+-R+;j!eR^WD0+*kD00Pe+D<00PP^!0ReWjP/+ecj^/PP+jG/0PPO+/}P0RP^+P#O0^P-+Ob^0jPi+^R-0+PR+-=+0RP;++iR0;P!+R;;0!PB+;H+DiPWj!ds0WP*+{KW0+/D+W/*0De0+* D00P*^D{0PePjO07e0jP/+e/j0/!P+j^/0P*O+/ eDOP^jP=O0^P-DO=^0P*++^ -0+eR+-y+0R**G+JR0;P!+^/;0!eK+;8!0:PW+!bO*WP*jU.W0*PD+Wc*0+O0+*RD00*e+D^00!j0-0oeWjP0PeujW/PPjj4/PW!O+/zP0j0^+PRO0^PPDOF^W-P+O^c-0+PR+0;+0R*;++ZR0;P!+R;pj!P7D;E!0_PWO!#_;WP*+/DW0*PD+W=*0DP0+*v^00Pe+D30;ePj+0:e0;;/+eRj0/!P+jR/0P+*D/kP0OPWjP2OW^P-+j/^0-e++^z-0+PR+-)e*RP;j+nR0;P!+R6;0POv+;R!0v*W+!^k0-jPWs=WW*P9jW_*WDP0D*%DPR!e+Du00**j+0Re0j+SDe(j0/P!jj6/WPPO+-jP0Oe^+PqO0^P-+OjP!-PO=^yP*+PRO-z+WRP-Ye/R0;P!+^;;0!en+;0P-NPW+!M/;WP*OxoW0!!D+WR*0D!0+*hD00P*!DM0;ePj+0Be0jP0j*+j0/!P+j0/0PPO+0^PPOP/wP5OP^P-+O1^0-O++^R-0++R+-^+0/jP;+wRW;PjjRT;W!PRR;J!PO!W+!K&0P**+9RW0!*POWS*WDP0O*.D00P*jPR00e*j+0;e0jP/+es/^/PPDj4/0PPO+/&e;;e^+P0O0^+-+Oq^0-+^!^o-;+P0O-X+WRP;+e;R0;j!+RR;0!PL+;l!e3P;/!?kPWP*+y?W0!#D+WP*0D+0+*UD00P!^D<0OePjD07e0jP/+*+j00^P+jX/0PPO+/VPPOP/-PtOe^P-+O9^0e/++^+-0+OR+-I+0RPP/+FRO;P+PRV;;!P4+;!!0R=W+!PA0;R*+V4;^*PlWWk*eDP0+*1D00*e+DP00*uj+0ee0oP-+e2j+/Pe0jm/!PPO+!DP0OD^+P-O0/F-+OGjR-P+O^Y-*+P^/-C+P+X;++^R0P*!+RR;0!PP^;2!WVPWj!.}0WP*+-;W0*PD+W^*0DP0+*}P+0Pe+Di0WePj+0peWDR/+e:j0/eeDjS/0PPO*Pej*/e0Qj!/9-Oj0j0P+O0^W/0+!^P-RO-^vRe-W+QR0;P!*;*+OR*;e-0)+;W!D!R&DWP*+n8W^6!WP;0cW;W;3)!W*!WueDR0DePj+0?e^00eWDODPeejR0^0PjW/O/RP+OP^+PTO^WDOD/^P+OR^jPP-W+DR+-l+0R;*0RO;e+PRD;!;W+:L+;}!05;e^Re;++dTD;^!!*etWW2*0DP0*O-0e*PD+0;eejD0!0Re*jP/+eTj^P7je0Pe0jROj/(P0OP^jPXO0^P-Oj;^0-P++Rj*!RO-j+-RO-P++Re;+-+^0;+!O++;0!O(e;P!Dr!^;We!^FcW0*PD*!0N*WW*jvPD00Pe+D%0PePj+0w*;R-/+eHj0/*P+jN/0e*;O/cPWOP^OPiO0^P-+P/^0-P++^^-0+eR+-2W+RP;++URW;P!+RU;0!+9+;A!0)e;-!&<0WP**;m!-DOW0!-G+Wj*e{^0D0ejRDX00ePj*e+D+Wz*#D-R^W!*D0;PeD/DjP!jR0dPPje^*eRj/^eP*+D^DP^O+^R-jOPj;;D+D^R/-O:RR-R!eRj;e++R*^!+0.W;W!0RWW;--ceWR*O,;R!*RMeW+*!D^W:*-jD0!;^D0WReReRj+/PP+jM/^+000ePjPR/PWjPOW^O-+Ok^0-;^--WOW^RR+-#+0RP-0+_R0;P+jWD;0!PA+;R!08PW++^%!WP*O:sWP*PD+WX+0p;0+*RD00ee+D/00**DR0we-jP/jeZj0/PP+DW/0PeO+//P0OP^+P4jP^P-+O%^0-P+j^,-0j0R+-4+0Re;++RR0;PW0Rx;0!PZO;k!0{PW++^i0WP*+ik-^*PD+W.*0DP0+*2R0W/e+D)00ePj+0;e0jPW^e7j;/PP+j(/-PPu+0PP0O*^+PeO0^*-+u_/R-P+j^A-e+PRD-o+0^j;++/R0;*!+Rl;0!PR^;p!PGPW+!a1;WPO+W;W0*+D+We*0D+0+*^RN0P*RD10WePj+0,*0*8/+e0j00<P+jW/0PP-O/APeOP^+PIO;^P*+^;^0-O++^e-0+eR+-^jVRP-^+=R0;P!+RI-0-1{+;W!0R2W+!;g0WPP;Q7W-*PURW4*WDPW+WPD00*e+D-00e!j+0SR^jP/+e(j;/PPOjF/0^kO+/VP0Oe^+PwO0^PPWOq^0-P+O^--0+PR+;jD+-W+R^Q--+/!ORP;0!PE+Wjj!;!!jY*;R!jbO%RW+*PD+WL*^^D*Dz^W+*RDjWP0We+j+0Ce0j;*eje0!/ee*jz/0PPO*;Wj*/R0<jO/-eRel/-POOj^WW/-W+DR+-<+0R;*/RW-;!DRW-9;W+Rh+;F!0v;e/dW;0!P:^WW*!L-DOWP*0DP0+ej^*!R(0WP*-D*W/0Re*jP/+egj^Pyje0Pe0jROj/QP0OP^jPtO0^P-Oj;^0-P++Rj*!RO-j+-RO-P++Re;+-+^0;+!O++;0!Owe;P!DN!^;We!^y:W0*PD*!0I*WW*jcPD00Pe+DQ0PePj+0g*;R-/+e&j0/*P+j,/0e*;O/QPWOP^OPrO0^P-+P/^0-P++^^-0+eR+-3W+RP;++hRW;P!+R5;0!+:+;A!0ye;R!Ax0WP**W!*eueWWWR*+DP0+*rD^P0v0WP*PO/0W*PeWD//+e_j0/;j+0/Pej10/ePj*/WPjO!OW;*-+Ov^0-;^PPPO+^+P/ejj-/!O^RW-DP*R-;O++R0-W!;RO;D!WR;W!!!gj;P*Oh*;0-^D!W!*O+/W+eODO0W**DWWP*;!-WreRDR0d*Rj^(/eWOO/ee^*-/DeWjl//eROjD^P0jR^R^2-0+PR+-P+0RP;+O^;/;P!+Rd;-!Pk+;4+;^^W+!Ra0We*+xrW0+PRPW:*WDP0O*ED;0P*j,e00e!j+00e0jP/+e9Dw/PPOj(/-PPO+/mP0j^^+PxO0^P-+O^^0-POP^2-0+PRO->+WRP;+WPR0;P!+RR;0!PJ+;t+;8PW+!L60-;*+::W0*PD+Ws*0RP;R*nD00Pe+D,0WePj+0!e0j*/+eqj0/!P+R60PPPOj/rPOOP/RPqE0/e-+O^^0-!++^0-0+P^0-w+-RP;j+yR0;P!+R+;0!+w+;V!01*W+j1W*WP!Fl3WO*PDjWZ*;R00+*WD00ee+D#00*P*00pePjP0/e3je/PP+PR/0POO+/pP0O*^+!<^*^PPROL^O-PO^^2-;j0R+-;+0RP;++kR0-P-0Rz;e!PR/;H!*wPW+P*V0W!*+BWW0*eD+;<W+DP0j*aD+0PeDDh00R;j+0Be0j*/+eRj0/P^0j>/0PPOO/bP0OP^+PeO0^P-+OR^!-P++^3-^DD-RO^R!-R+++R^;;P!+R{;^^0;R+0R;;g-(RP;S!R+1We!FgW;0*;X-;00O*PD00Pe+jj-*2RW0*PD-0**/eRD^/PP+j>/^!O0^PeeP0WPDjejPPDjW/;-O*!+O^P-0+PR+;jD!-!+jR*-R+jRORR;+!P.+;#!^/D!DR^;+!R6j;PWW*jD+W}*0D;e0DOW+*PDWDR0!ePj+0te^^BeejW00e!j-jR/OPPO+/.P^6DPRjT/0-jOR^-P/-*++^v-0++R+-8+0Re!0+&R0;P!*;+++^&-L+-j^^!-DR;We+/+jW!!RRdWP!eD*;R!/DeW*eDDDW^*+DR0j*P!;/DeDDRn-*EjR0RPejj/ee+j*D!e0OW/WP0jW^;0-Oe^R-OO;j!-P+O^+;j+D^+;OO0^u;W+;Rz^j+VROWOWO!Wh0WP*+Dj*DDOWO*e*WV=0+*1D00;OPWP*+D+^-eeD+je0-e?j0/PP*0He-OO/0e-j+/jPej^^D^P-+Ob^0Pv++^p-0O*;!-d+0RP-p+aR0;P+jR;;0!ep+;^!0mPW+OSR;WP*OpSWW*PDDW=!;_-0+*/D00ee+DF00ePD^0aeWjP/DeSj0/PP+DR/0PPO+/nP0O*^+P1Oe^P-+O>^W-P+O^6-0;YR+-l+0Re;++gR0;P!jRK;0!PwO;;!07PW+*j;P!jde;^!+*eR^Wg*0DP0*O-0e**D/0e*0DP0WeP*PWSePjeDPeoje/We0j!/-W^P0OP^+P5OP^P-+O5/;*-++^8-0+eR+-J+0^*DO+gRW;P!jRL;0!P)+R/!0tPW+!^w0We*+_Lj+*PD+Wa*WDP0+*>D0W*e+D600eP&*0Fe0jP/+enj0/P*+D-/0PPO+/NP0jz^+PAj!^P-jOk^0-P+D^)*0O/R+-^+0RD;++0R0eP+0R7;;!PR^;C!;7PW+!!r0W!*+7^W0*PD+WX**DPWr*wD00PejD3-0jjj+00e0jD/+eWj0/**Pj./ePPO+/(P0OP/+/PO0^+-+Oe^0-O++^vRW+P^R-t+0RP;j+J00!j!+RW;0!DM+;R!0y*-P!d%*WP*O%pW0*P=+rP*0DO0+*eD00je+DIRjePjD0weejP/OeaD0DoP+j^/0P!O+//P0OP**P_O0^P-jOU^W-P++!P-0+PR+-R+0RP;++ARO;P!+RJ;W+;<+;:!0,;eRR;WO;+Re;/!O!+;/!eo*WR-D*RR-0Pe+D:0^jb/eP-OWD+-/+W^+PE+DD0;j+!^^00+wRR;++0RR;*!-j0WD!0mD;-!^r/W+*D1^WD*0+RR+;P!+R1;^jD;D+^R+;R!jRPBWWj*+GIW0*;00*OY+WP*W*RDO0Pe+D{0^+D0R*oD0/jeRj-0//ee0j}/0PPO*;;jO0pe0j//;PD-OOP^0-P++Rj*!^!-j+*^R-j+O+RR!;P!+Rb;^jD;R+^K!;R!+!R=!WP*+2:W^j>We*Ww0W!*-*^D00Pe+D000ePj+0ROPjP/+e.j^e0D00PePjD&*W/*-/jPRj!D;P/Oe/PP_jR^^PeO!^RP^+-^--*O0Re-;O#Oj;-+-Re^D+PAe;e!RR;;R+0R^^/!+DOWO*+TO0j;DQR0e*WDjR/eDD/0DejD-/O*-jD1;ePDW/W/WPOO+/)P0O;P-OW/WPR-OO!^0-P++RjO0^!-R+P^!PnO^RO-;+/!ORP;0!P.+WjDH-s+0R0/D!RR0BrW0*PD+WP*0DP0+!^0/0Pe+Da0-ePj+0S*;p//+eRj0/*P+j=/0*PD-/nPWOP^OP>OP^PPjOO^0-!++^R-0+PR+-FOORP;O+)R-;P!+Rs;0+DI+;A!0vPW+!^w0WP!x9<W0*PDOWp*WDP0+/PD00Pe+DR00ePj+04e;jP/+eljW/jP+jI/0P;0se;jR/*e0PRj*^P-+OH^^*D^RP^+!^R-+OlRO-zPY^P-l+ROG;P+RCO;++/6D^*W+!<S0WP!LIpW0*Pij-D*0DP0+*RD00Pe+i^OWePjO0?e;jP/+e9j0j!P+jE/0P*O+/RP0OP+0PoO0^P-OOs^0-P++/^-0+PR+-:j^RP;++UR0;P!+RzP0+0 +;7!0gPW+!eS0WP!eBTW;*PD+WC*-DP-+*eD00*e+D000eej+-LeDjP/je5j-/PPjjt/0P!O+//P0O*^+P)O0^PePOM^P-P++^z-;+P0++;+0R+;++0R0;D!+R^P}!PRR;a!0tPW+!dR0R>*+_0W0*OD+WW*0DPjO*cDe0Pe+D#0;ePR+e;e0jO/+e0j008P+j^W}PPj^/#PWOP^+Pwj0j{-+OW^0-O++^;-0+PD;-r+-RP-R+qRW;P+++P;0!*K+;;!02!W+!yP^WP*+z6W;*PDOW{*0ez0+*vD00ee+D,00ePDW0,e0jP/Oeej0/PP+Oj;!OO/+e:O*^OP/ODOW/J-+Oo^0-;7^PeO+/E-DO^^!Re--+aR0;P!*;+!O^W^b+REe;*-_{O;WWe!*?gW0*PD*PW>*WR;vuOW-!R!qW-*ODj0W-/eWjD/+eQj0/;+0/OPejP/DP!PWjP^+P{O0^;OW/;PWP+/--++e/i/vOP^E-RP(RD-^;e+0Rs;0!PK*e-R-;*+0:e;;+4*O:;W0*PD+0jj+WW!0EX0O0e*!DE00ePj**/DUD+eODODPe/De/We+j*/We-j!O*^+P<O0^*-+Oi^0-eO^^a-0+PR*O0^*-W+j^PRW-j!+R.;0!;0/!WR;WD!WRy;0!Rw0R0!+(0WW;0D+WW*RFUW-*/!jDT00ePj+00e0jP/+*^R//PP+jX/WPPO+/3e;;e^+PRO0^*-+Ok^0-P-D^z-0+PRj-l+WRP;+WPR0;P!+RR;0!P8+;%!ewPW+!.nW;E*+yKW0*;0T!rDe;W*Wp;W!0e*PDX00ePj*P8D-/DeRDn^PePjR0OPOjjOOO/P0OP^+-j**!^z^*;*jD0*^**Deej*;jPe**^j<O0j*D^0^j;jj/0j^j*/eOjj;/WO*j^/^O;Oj^0R&^;^j-j^^^*-xRj^;;0R*^^;zR;RjW+R^R*;)0+;^;*!*Wj;;*+W*;^*6W;Wj*KW^W**eP+*^**D*ej*;j+e**^j0e;ejjQe^e*O+Pje;O++POjj;/WO*j^^2O;OjR+O^O*RP+jO;RP+*O^R0:0R*^^-^R;Rj;0R^R*;eAjR;;;k*R^WP00W*;^!RW;Wj*OW^W***0jW;e+0*W^*R0;0jeOPCe;ejjje^e*j#Pje;OPP*e^O0P;PjO&P^P*O?!+DOWW*0DP0+ej//*WD/0D0WeOj+04e0j;e-jW0WeRP+ju/0PPj//VP0OP/j^WO0^P-+OW^0-P++0<P-+PR+-y+0RP;O+d/0-R!+RN;0!P3+;^!0^PWO!4N0WP*+Z_WP*P%j;!*0D*0+*/D00Pe+D.W0ePj+0Ee;jP/OeVj0W^P+jy/0PeO+/rP0OP/jPLO0^P-+jj^0-P++^}-0+PR+eAjRRP;++#R0;P+RRU;0!jt+;^!0IPW+!/s0PP!jq,W;*P?0Wy*PDP-+*!D00*e+D-00*Rj+0Y*0jP/DeAj;/PP+jX/0e0O+/0P0OP^+P^O0WPO^Ox^P-PO0^y--+PRjP++0RO;++RR0;P!+^QR+!PRv;T!WtP;R!G50De*+aWW0*PD+W^*0^P*^*dDe0P*0D70*ePjjW+e0jj/+ebj0/PP+DVj+PPjR/ZPWOP/^P6O0T^-+O/^0-O++^R-0OPO0-.+;RP;j+7R-;P!+Pj;0!PI+;^!0zeW+!<e+WP*+9qWW*PD+WC*0IR0+*vD00e*WD_00ePj*--je0Pe+j;/ePDj!jR/*PPO+/yP^^_PejP/0PR-OO-^0-P++Rj*+^W-ROl^--/;O+!R0;P!+=j+oRR-e-0RWWO!j+0;R!e*O1*W0*PD+0jteWD*;vWW!*^MRW-ejeeD;02e0jP/*j*0eeDDR0-Pjj^0Re-PWj!^+PgO0^;OW/;PWP+/--++e/C/ OP^<-RP&R--0!O^/;+;W+gH+;b!0M;e^Re;++)ZD;^!!*e40WE*0DP0*O-W-**)00e*;8:jj0ke0jP0Melj0/PPOjW/0PPO+^jOD^OPOOeOW//-+O5^0-;^+P/+e^?P/OP^*-W+jR!RW-_!+R7;0!;0P+PR+;+e-de;+WejOvgW0*PD**+6+;E!_v-^^;!!DW;eeU/pje!DRWdePDe/**RD//ee*OD/De^j+/RPjjPD;-DOD/R0-jQ^RPR+e^j-eO+^*/!O0RW-W+0^W;;P-Re;R!OR;^!+/RP;-!WS/^^!0RRWRWc*0DP0+*PD00Pe+I^e/ePj+0be;jP/+e9D;/*P+jR/0PeO+/&P0DP/ePLOW^P-OOl^--POj^R-0+!R+-0+0RP;++?Rj;P!ORK;-!Py+;q!0^kW+!bN0WP*+p^W0*PR/WB*0DP0O*nDW0Pe+PP00ePj+0Re0jP/+ewj;/PP+jX/WPjO+/pP0O;enj;/RP*j0OR/*-P++^H-^DD-RO^R!-R++^X;O+UOT-P+iRR^8!PRRWO!+R/WD-**+KsW0*PgvWN*0DPWj+DD00Pe+DR00ePj+W^^WjP/Oe1j;/PP+ju/0/!O+/VP0O*^+PRO0^PR0On^0-P+O^_-0+PR+P^+0RP;++F/^;P!+RQ;0!PU+;YO0R*W+!7U0WP*+9/W0*Pk2WZ*;DP0+*MD-0P++D^00e*j+0^e0jO/++Gjj/PPjjX/OPPj^/7P0O+^+P/O0^*-+O8^0-Pj-^A-P+PR+-i+;RPe+R;R0;+!+R^;0!+u+;^O&_P;R!{S0WP*+Jm;0;VD+W0*0De0+*WD00P/ODn0eePj+0le;jP;+j;j0/OP+j^/0PDO+/^*?OP/^PvOW^P-+Ok/0/i++^W-0+eR+-;+0RP0;+2R-;P+RR&;W!PR+RP!0_*W+!P(0W!*+CrO^*PD+WN*;DP0O*sD0j5e+DL00eej+0pe0jP0WeEj0/PPOj;/0PPO+^j++/We0jK^O^eP0Oa^0-P+*W;OO/.P0O/^;-D;O+eR0;P!+Zje!uO;++h7*WO!/%D W;**+#KW0*;/+!/DeW,; }0W6eODjWPeeDD0OW0D&WRe^eRj+/PP+jZ/^!D/De^j+/RPjjPOW/;-+Op^0-;aRP;+OO+PeO/^O^+O/^e-*+RjDRR;+!P_+;M!^/D!DR^Wj!WR^;RWW*DD+Wm*0D;P0DO0e*PDD0!0WeDj+0Ne0j;-/jW0;PDjW0&/;PPO+/(P;OP^+PkOW/j-+Ob^0-;E/-WO;RD-WOE^0-R+0O0-++0RW^0!+RW;R+_R-;/-j!RN*WP*+dSW^w+;^*O2;;70+*_D00P*?D500ePDj;De0jP/+e^j0/PP+D^+WPPOO/EPWOP^+PdO0O!-+OT^0-*++^R-0+P!0-i+0RP;O+8R0;P!+R!;0!Pp+;R!D{PW+!(&^!P7DWW*+<D;0!;XRW**-*RDe0Pe+D&0^OR0j*eDWje0Reuj0/PP*/!Peje/W/RP+OP^+PcO^;-OW/OW!O!^0-e-WOWR+-N+0R;!^RO;D+0^00-+-R*-0+;R-;PWO!P80WP*+DjeFRw;0!0ODWR!0*R)^0Pe+D>0^O^W^eejO^ReOD/0+eRD/^PPeOjOO/jP0OP^+-jR+P!O-^!P0OR}!-ejRRj-eO^R+R!;++RW+;P!+RG;^R0-0+PRP;DP*O/^-!jgR;!-;q/We!Ptp;R*^seW!*R)^0-*-D*W0eeD;W_Wjj-0-ee*DRW-+jj/RPOj;0;0DjR^ePWOjD/PW+O^eP^e-:+-P+W^;P4+R^--WPeD+-/!eR};W+;O;;P+WyW_W;I*+piW0*;W-*eF+W/*WL^Wj0Pe+D>00*ej+0me0D*0PeGj0/Pe-jc/0PPO+0;P0OP^+PRO0^*-+j^^+-P+O^L-;+PR+-tj0^W;++RR0;e!+R0;0OPR/;>!W9PWO!pbeWP!+R#W0*PD+WP*0De0+!^QP0Pe+DF0DePj+0<e0P*/+eqj0/eP+j^/0!P/^/GP0OP//PBOO^PPjRD^0-P++^R-0+PR+P^OORP;O+tR-;P!+R7P0O^<+;R!0 eW+!;K0;**O:.W-*P8;W{*0DP0+*PD00ee+D/00ePj+0&*DjP/+eFj0/PPjja/0e^O+/_P0Oe^+PRO0^PR0OE^0-P+O^}-0+PR+P^+0RP;++ /^;P!+RH;0!P>+;QO0R0W+!li0WP*+_PW0*PRWW.*;DP0+*pD-0P++De00e*j+0Re0jj/++qj*/PPjj7/ePPjb/.P0O!^+P/O0^*-+OU^0-PjR^n-P+PR+-.+;RPe+R;R0;+!+RR;0!D5+;^Ol(P;R!5qWWP*+CK;0;aD+W0*0D!0+*WD00P/ODE0eePj+0Ze;jP;+j;j0/OP+jR/0eRO+/^*kOP/^PAO0^P-+Ox/0/g++^W-0+!R+-;+0RP0;+?R-;P+RRx;W!PR+RP!0<*W+!^20W!*+E2O^*PD+W2*;DP0O*ZD0jse+DT00eej+0be0jP0Weqj0/PPOjP/0PPO+^j!*0Re0jP/-P*j/OR^!-P++^X-^_E-e+W^0-!+-+R^^;P!+RK;^jO-^!e+P-W!DReRP!DRW;;*OO!DOWP*0DP0+ej^!*!Dj0**RDj0O0RePjP/+e j^*WjW0-/WeHO+/QP0O;;/j//;e=OW/^P+-eO/^K-0+PR**-Re-*+/Re-0;e+^R6;0!P3**PRR-b!+NegW;R*+3KW0*;//*W 0WP*^DW0!*-ejDG00ePjj0<e0jP/O*;j0/PP+Oj;!OO/jP-OO/PP+Oe^+/+j0^+-OP+^0-O+e^P-D+!j;Re-^+8R0;P!*-0+*RW;j+P!0JPW+!.aPWP*+VT;;O-D+W>*0D*0+*3D0W*^ODv0WePjO0<e0jP/+0/j0/PP+j^/0PeO+/cR+OP^+P>OW^P-+Od^0-+++^S-0+eWO-1+0RP;*R+-+O1^C--e^O!^D+;}e-/-j#!;R+XCP;e**RR;/*ey*0D*DU^W+*RDjWP;;jD0D*R!-WMeRDR/eejje0+e**!00PWjW/0eWO;D-PeOR^OP;e!^RPCO0^W-je^^0PR+R+RRD;P!+Ra;^RP;D!WU+;D+0R;;R!*k-tRWe*PD+W *^W/*RmR0O0e*0DZ00ePj*-+D+WN*L+!/O*dP+jK/0PPjW/NP0OP/je-O0^P-+O^^0-P++/^Pe+PRO-Y+-RP;++?/0-^!+RR;0!e5+;0!0R*;*!5L-WP*O4>W0*PD+;-*0D+0+*RD00Pe+Dr0*ePjO0rePjP/+eVj0/eP+j?/0PPO+/^P0OP!;PNO0^P-OOh^W-P++!P-0+PR+-R+0RP;++s^;;P!+RC;0O;6+;>!0pPW+!#40-P!*uZW0*PD+Wa*;DP0+*WD00*e+D:00e!j+-SeWjP/je_j+/PPDjv;0PeO+/^P0Oj^+PWO0^PP-OE^--P+j^B-0+PR+-!+0R+;++yR0;*!+0?!*!PRd;n!+kP;t!7=;-0*+GWW0*eD+Wq*0qPH0*JDP0P*WDI0eePj+jRe0jO/+eSj0/*P+RMP*PPjR/IP+OP//P}O;00-+O;^0-P++^A-0OPO0-_+eRP-W+JR*;P!+j*;0!!&+;W!0heW++v!+WP*jYUWW*PDDW=*0-;0+*bD00*e+DR00ePP007e0jP/Oebj0/PP+je/0PPO+/RP*OP^+PXO^-AOe/PP0OR+O^j-0+PR+;jDe-j+WO0PR+!^W^0+!^R-^!ej-me;0!m:0WP**/-!-<*;0*em;;g0O*-D00Pe+jj-+DW0R*1D-0//OePj0/PP+Oj;*DR00ePj-/*e/PRO+^P-+Or^^*D^DP^+j^WP^OR+WRD;++HR0;;D/;W+;oD;W+g!WR0W+!8?0W;QeWP!/!+WR!;DOS+!eq/WO0e*WDB00ePj*--je0Pe+j;/ePDj!j^/0PPO+/0P0OP^+PRO+^P-+Oo^^!0/0PPOP7/-WOP+WRO;++:R0;;R-;W+WRR_O;!!0VPW+*j;0!!qRWP!!Rx;^*OE;W/0Oj/D00Pe+jj*#<MW0*0D!R;WD!/0*POD-s^PDjW00P+jO^jeWj-^OPjO///P;jX^WP^O+j*-/O/^W/!O0RW-W!O^^;OO_Rj^D+Pye;e!PReW*-!QOWW!RT*RD!-w/WW*09LW-*P!jWC*OjOj+0he0jP00eoj0/Pej^D/0PPO+//P0OP^+e^jO^P-OO}^;-P++^Te0+*R+-R+0Re;++RR0-*+WRt;-!PRa;T!0yPW++;S0We*+4/W0*PD+W{+VDP0+*CD00PejD_00*!j+0de0je/+eRj0/P^0jC/0PPOO/}P0OP^+P^O0^P-+OR^*-P++^N-^^+P^+O^;Pd;OO;R0;P!+Hje!QO;j!-LO;P!+zeW+;+R0W+*O!+W0*ODeWP*DD!R;0Pe+Dp00e+j+0(e0D*;!e>j0/PPOjE/0PPjj+RP0Oe^+P^O0^P-+O9O--P++^A-;+PRO-k+0!d;++YR0;e!+RJ;0!PRj;3!0<PW++j_0WP*+8kW0*PD+-I*eDP0+*%D00P*}Dh00!0j+0^e0jP/+e/j0;P*-jl/;PPOO/{P;OPW+e-O0^*-+O/^0P_++^S-!+PRD-:+;RP;++#R0-^!+R0;0!P_+;^!0/P!^!_FPWP*Ov&W**PDj;+*0DO0+*,D00Pe+iMD+ePD}0SeOjP0ReZj0OeP+jW/0PPO+/^P0pPP^P_Oe^P-OOx^!-P+j/+-0+jR+-R+0RP;+OI++;P+RRz;O!PR^;B!0j^W+!/x0WO*+9RW0!P!0WZ*;DPWR*>D-0Pe+;j00ePj+0^e0je/+eQ-+/PP+jH/WPPO+/GP0jR^+PuO0^eP0OU^0-P+*W;OO/BP0O/^;-D;O+-R0;P!+tje+RW;R+kR-;/WO!;E0WP*+Dje+cW;0!yDODeW0*.D00Pe*^-*-D*W0eeD;WJ/OePj0/PP+Oj;!j!/jP*jR/jPOPRjp^P-+O}^^OW^0-DPPROP^+eOPPW+D^eRW;D!+RZ;0!;0/!WR;WD!WR#VW;R*+F&W0*;//*Wy0WP*^DW0!*-eODj00ePj+/j+e0jeW*0WRe!DWD0e!DR0^Pe!-O*^+P O0^*-+OE^0-eO^^F-0+PR*O0^*-W+j^PRW-j!+Rk;0!;0/!WR;WD!WR>;0!RY0R0!+M0WW;0D+WW*R#rW-*/!jDE00ePj+00e0jP/+*^R//PP+jY/WPPO+/ge;;e^+PRO0^*-+O:^0-P-D^v-0+PRj-t+WRP;+WPR0;P!+RR;0!P1+;u!PkPW+!p4W;Q*+cpW0*;/P!PQ+W+P-DeW+0ejgDh00ePj*e+D+W9*AD-R^W!*D0;PeD/DjP!jR0CPPje^*eRj/^eP*+D^DP^O+^R-jOPj;;D+D^R/-O&RR-R!eRj;e++R*^!+0XW;W!0RWW;--YeWR*O_;R!*eB^Wj*WE/W9*-DP:j*>DO/O/Oe!j0/PP+Oje0j!/RPPj!0Ge^OO/;P/-OOW^0-P++Rj+DRO-O+e+0RP;++uR+;P!+Rb-;x-g+;#!0C!W+!SH0;*+R)VWW*PAVWb*0DP;+*OD00ee+DR00eej+W^ePjP/Dexj;/PP+jM/0*NO+/RP0O!^+PHO0^PeROi^0-P++^w-;+PR+-0+0RP;++RR0;e!+R:D+!PF+;x!W7PW+!ua0;**+&1W0*PR*Wm*0DP0+*lD00P!+D+00ePj+0<e0j*/+e5jW/PPjj2/0PPOD/k!0OD^+P^O0^!-+Oe^0*PjZ^3-;+P^S-7+*RP;++;R0;!!+R^;0!P7+;s+^?P;Z!Ck0WP*j.4P0DjD+W0*0D!0+*WD00*!PD80eePjO0pe0jP0+0Pj0/+P+jP/0POO+/9^WOP/RP8O0^P-jO W0+j++^W-0+!R+--+0R*PP+}R*;P!+R{;0!PR+RP!0(OW+!P.0Wj*+:)^j*PDDWd*eDP0O*r,08Xe+D^00eej+0/e0jP!*eyj0/PPjjs/WPPO++PP0OP^+PRO0^P-+O#^O-P++^S-WORR+-F+0R;*/RW-0+PR^;W!!R-nO;-!0MPW+*j/+!WsR;9!-S/DOWP*0DP0+ej^*!RY0WP*-D*W/0RejjP/+e{j^e^DR0-PjjO0/eWOj/D^OP;O0^P-++j;+OW/0Px+O+e^D-g+0RP;*Re-*+eO<-!+7qO-0-0R+;0!W+0W!!PrR;-!p*eL-W}*0DP0*D+0O!W!sWReeD*l4eODWje00erj0/PP*R-e-j*00Pej;0y^OP*O0^P-++jPeO^//-*Oe^DPR+*^!R*;++sR0;*!+RX;0!eR^;y!0gPW*R0;*!W>j;PWW!jD+W9*0D;P/DWW;eDDWWo*0DR00W0D+00eW*0/+eWjR07e-j/Dj/EP0OP^+P0O0^P-+j^W/-P++^z-W+PR+-xO;*e;++RR0;*!+Rd;0!P!D;b!0ZPWj!T%WWP*+ePW0*PD+WR*0DP0+* DP0Pe+Da0WOPj+0xe0j;ePDP0+e+D/1jW-*!0^PWjDD*P-OO/+P0jW^;POOD^WP;+!^!-jOPRO-*O0j^;!+!RO//++mO;O!WR*;W+PR;^-+S4R;R!MRRW^-/yW0O*e1^R-*DD+0W*P!*0+*ejeje00eVj0/PP*R+e+DK0%;!OO0=^OP!O0^P-++jP0O!^R-PO!/5P^+O^;-/;O+WR0;P!+=j!DQO;O!e!0bPW+!75+WP*+w&;;D-D+WV*0D!0+*xD0W*eDDA0WePDk0)e0jPW+*!j0/eP+jR/0P*O+0^P*OP^DPKOW^P-+OV^0P^++^R-0+!R+-(+0RP-0+NR0;P!+RJ;;!P4+-e!07PW+!Ra0We*+>Xj+*PD+Wr*WDP0+*MD0W*e+DV00ePS*0me0jP/+e9j0/P*+D!/0PPO+/>P0O*^+PbjD^P-jOZ^0-P+D^g*0+!R+-^+0RO;++0R0eP+RRF;;!PR0;h!OIPW++-=0W!*+ ^W0*PD+WJ!ODPWn*AD00PejDt-0jjj+00e0jO/+e-j0/**PjS/ePPOO/ P0OP/+/PO0^+-+OR^0-O++^aRW+P^R-r+0RP;j+&00!j!+RW;0!OE+;;!03*-P!zl*WP*+9UW0*PV+YP*0DO0+*RD00je+DwRjePjD0reejP/OegD0DXP+j^/0P!O+//P0OP**PcO0^P-jOn^W-P++!P-0+PR+-R+0RP;++CRO;P!+RC;W+%.+;:!0:;e/R/;;+ukW;^!+*et0W:*0DP0*O-W-**D;0O**DejO0-e0jP/+PjR!POjj/-POjPOOWRP0OP^+-j/-P*O+/O/PO^^DP;PP^D-DOMRe-j+RO0;e+*R0^0+D1O-;!e+P;W!0FDRPP;+mR+WW!rD+Wk*0D;P^XeW+!(DDW^*!eeD*0Je0jP/*+W0*eR*{0Oe-DRDwe-jO/jPW!/OW^j-+Ob^0-;R0-OO+^P-W-R+!RP;++MR^*ARe;W+0R!;-;R!OgPW+!wG^PD8R;q!0DjWR*-z/D*0+*ID00*e+Dd00eeD^0te0jP/*D00*eWjj0P/WejO+/ P0O;;/OW/;-DOW/.P0OR^0/0O+^0-WP0R+-W+R^T--+/OjR=;0!P3+;0!0zPW++^//WP*+yGWW*PD+Wu!;Pe0+*RD00*e+D=00ePeD0xe0jP/jeUjW/PP+-P/0PPO+/RP0OP^+P8OP^P-+O{^W+e++^p-0+;-POP^+-+O/jj/-P!^^;W+DO*;-!OR+;0+Wa;;O!D}W;;*!E!Wj!PDOW*!0+^0!*!DOR/-jO^^*;W!-^jeDj;00e!DPER;OD007eYj-/We0j-D-PeOR^OP;e!//--O*^WPhOP^!/!!0k-0*!R^0;O+0RD^j+<ROWOWO!Pw0WP*+DjeAR);0!0ODWR!0*RDe0Pe+Dx0^D/0R*RjOje0-e7j0/PP*0we-OO/0e-j+/jPej^^D^P-+O(^0Pn++^b-0O*;!-)+0RP-F+TR0;P+jRR;0!eX+;/!0bPW+OAQ-WP*OchWW*PDjW.!;D!0+*/D00ee+DK00ePx^09eWjP/Deyj0/PP+j;/0PPO+/pP0O*^+PajD^P-+O_^W-P+O^p-0;}R+-5+0Re;++iR0;P+jRX;0!PC+-j!0XPW+!LV0WP*+^x;^*PD+WI*0DPW0*&D00+e+D^00ePj+0/e0RP0OeYj;/Pe/j5/*PP3+/;P0O*^+PRO0^+-+O.//-P+D^7-;+PR+-k+0R*;++0R0;P!+R^;0jP;^;l!PMP;/!Xm;WP*jR+W0*OD+WR*0DP0+!)*+0P*2DC0OePDR0ue0Pe/+eWj0/PP+j^/0!P/^/aPeOP//PBO-^P-jj+^0-j++^K-0+PR+P2-+RP-R+QRO;P+^RJ;0e^2+;/!0dOW+!R{0;P;0.xW;*PuRWr*-DP0+RjD00Pe+D^00eej+0<^+jP/+e(jW/PP+j9/0eRO+/BP0Oe/*PlO0^P-*>WP*ORjJPOO-/R/?O-^O-j+WD/RW;D!+R};0!;0/!WR;WD!WRInW;R*+2>W0*;//*W:0WP*^DW0!*-eODP00ePj+/j+!0!ejj*0RejjOjR/+PPO+/HP^7DPDj^/+PROj/P^WP%++^3-0+;W^Oe^+P3+D^^-!;e+WRI;0!PQ**aR-WO!0+0/OeDD, RW!*PD+WC*^/>*eDWW0*!D-DR0*ePj+0,e^/%eeDP00eRPjjt/0PPOj/tP0OP^OP;O0^P-++jPPOj^eP^O++e/^-7+0RP;*D-;e+*R/;e+0RP;W!P+P-K!P{eRP!8seWW!0>!W--^*0DP0+*LDP0Pe+DNW;+-j+0Je0je/+e7j00*ROj8/WPPOj/bP0OP^+//O0^P-+O^^0-e++^Qt++PR+-q+WRP;++ R0;+!+RL;0!e0O;H!0bPW*o+;++7R#;-P^+!RD!;De;/;jD!WR!aDPWee*XRW/eeD*/DeDD^0+eRjj0PW;OD/DeR*-RPeWO-^ePDO;^OP;e+DV00e-HDP_+WR!-R*P^e;*P!RO;W+RR*^D*ejO0D*q!R3eWP*+s,W^%/WR!RDODeW-*GD00Pe*WV*-jO00*-D+0jeeD^/D/ee0jm/0PPO*;+j+0_eq!!^Oe&-+OA^0-PO0^X-0+P^j!D+0RP;++/R0;P!+^^-+!PLO;5!;QPW+!<^0;j*+bRW0*eD+W0*03*;e*}D-0PeOD?00ePj+W+e0je/+e/j0/PP+j=0DPPO+/CP0OP^jPxO0/R-+Ox^0-e++^R-0+P!0-z+0RP;O+.R0;P!+^^;0!P6+;tO^iPW+!iv0WP*+M5-0*OD+Wv*0DP0+*PD00P*0DV0;ePj+0oe-jP;+e0j0/*P+je/0PeO+;qeROP^jPgOe^PP/O(^0PR++^/-0+*R+-M+0RP;O+NRP;P!+Rl;;!P/+!;!0_+W+!eN0W+*+<^-M*PXRW2*WDP0+*mv0pZe+D000e!j+0We0jPOOeVje/PP+j7/;PPk+P;P0OO^+PeO0^*-+O^0s-PO^^,-0+PR+-HO0On;++WR0;!!+R;;0!Pj;;A!-SP;R!lAWWP!+!PW0**D+W;*0D!0+*#-^0Pe+Dv0;ePjO0{e0PF/+eqj0/eP+ja/0PPjW/iP0OP^OPjO0^P-++j-eO0^R-++eO+PWO;OPPR+PR+-&;e+^R8;0!Pu**PRR-9!+3eJW;)*+AnW0*;/^!eG+;l*D4^W!0e*/DN00ePj*--je0*e/je00/ee0j(/0PPO*;-j-/*P;OO/*Pe-OOe^0-P++Rj*!RO-+O,R*;O+/RDRW-N!+R3;0!;0/+/R;-,!WR^;+We!*9zW0*PD*PWk*WR;I}OW-!R!tW-*ODj0W-/eWjD/+e9j0/;+0/OPejP/DP!P;OP^+PEO;^P-+OF^W-j++^.-0+;PdO;^R-*O0+R^*;P!+R3;^jD;R+^q!;R!+RLWO!X+o;P!HqRRm*PHR0O*+5/0D;*e+DC00ePDY0ge0jP0j!Dj0/PP+jR/0PPO+0^RWOP^OPrO;^P-+O)^0^!++^x-0+*R+-R+0RPJ0+IR0;P!OR(;0!P<+;;!0ZPW+!R_jWP*+A1W^DOW/!P R;^*R<P0O*keO/R00ePj+/jDoW3*0D00!;;*D /e*OO0-W^OD/We0O+/O-jjW/--OOj^/P/O;/L-WO^^+/*+/^/-WP!^0;W+W,O-^!O^};j-DRPWe!edP;e**+!WO*WcRW*;DQ^W;*!D/0P;;DPWWeWeWD//+eBj0/;j+0/Pejx0/ePj*/WPjO!OW^j-+OY^0-;/iP;OR^*P0-R++RP;++(R^*0^0-P+PD/;W+P!WhOW+!m#0W;n-WW!W_RD+W:*0DPW-*xD00P*j/D00ePj+0/e0jP/+*^DD/PPOj3/*PPO+/%*0DW^+PRO0^e-+OW^0P*je^L--+PRj-.+0RP;+O/R0;e!+R/;0!P%+;2+jZPW+!tT0WP*jICW0!RD+Wh*0De0+*RD0W*+!Dd00ePD#0ve0jP0j^Rj0/eP+jR/0PPO+/H/-OP^+PYO;^P-OON^0RS++^ -0+eR+-_+0RP-j+zR0;P!+^j;0!PZ+;y!02PW+OGR!WP*+8xW0*PbWWM*0JO0+*^D00Pe+D/00+P9W0,e;jP/je{j+/P!+j-/0P*O+/-P0Oe^+PyjO^P-DOp^;-P++^m-0+!R+-0+0RP;++^R0ePR^RG;P!Prj;_!eZPWj++i0WO*+:RW0*PD+;tW+DPWC*uD*0P*RD{00/ej+0We0jP/+e^j0;Pj^j>/ePPOj/}PPOP^je+O0^j-+O_^0-P++/c^++P^R-C+*RP-^+oR00^!+R/;0!O +;R!0RPR0!GX;WP*D9zW-*PD++j*0DP0+*^D00ee+D>O+ePj+0yeWjP/+e#j00RP+jh/0Pej0/_P0OP^*!;/OeNj0//P;OD+O;^-0+PR+;j^R-.+!RD-/+^R!-W+/R;;-+KRe;-!0sjWD!-b+;W!^VrWj*!qRW;*+{/W/*ODP0;*^D-0+*WD;0-e-DW0;eWj*/DPDjO/0P+j//;P-jJ/ePWOP^;-DOO^!P_O^^/-P+O^eRe-/+dR0;P!*0-!eR*;/!eR0Le;0!xE0WP**/-!-T*W;*O(*We0O*-D00Pe+jj-+DW0R*VD-0//Oejj0/PP+Oj;ejj/W00DR/!eWe0/!eRj^^eW--eOW^y-0+PR**-Re-P++R;;e!DR!RR;*!PT+;L!^Wa!eRP;0!R*O{PW0*PD+0jO!W!*j{P0O**:0D^00ePj+Wke0jP/+eRje/PP+jU/^++/+PWDROe/;P9O0^P-*6-PC+O/^-W+!/,-WO;+WR+;++,R0;;Rj;e+D!eRP;x!0QPW*jW;;!WoOWW!+iWWD!^jRWq0O*jD00Pe+jj**jjWPeWD!0DeWDP0Re}!*Q/W-Pej*/iP0OP^*+B/--OO0BWP;OW^O-WO+^W-DO^+W^0;++YR0;;DR;P+^^R-/+PD!;+!W8eW+We!WQZW0*PD*P+5OWe*Rh^W-*WD0DR0eePj+0Se^0/eRDR/O/eeWj}/0PPO*;Oj;/De0OW/;-DOWOR^!-P++^8-^E+-++W/R-RO^+RRj;P!+RB;^jO;j!ORWWO+0%O;-!**+ucW0*PD+W5*0jPP!*RZa0Pe+Dw0^OP0De-je0PPtD3/e*WjW0;/We5O+/uP0O;-Fj&^eeWOW/;P!-eOP^.-0+PR*eWjj0/eRjO/PeRj//*eRj07+;w!0pP--!a<0WP!j;/W0*PD+Wj*0DP0+!^pj0Pe+D,0DePj+0?*;De/+e)j00PP+j=/0e*j+/%P0OP/nPgO0^PPjO^^0-P++^*-0+PR+eiODRP;++iR0;P!DRE-;+-u+;R!0R0W+!HT0WP!0oHW0*PDjWp*;DPWj!*D00ee+DW00ePj+W^e;jP/je=jP/PP+jr/00WO+/RP0Oe^+P^O0/PP*OE^0-POU^d-W+P^jPP+0Re;++eR0;P!+/3;;!PXO;Z!WgP;!!TR;;/*+A^W0!/D+WB*0DP;W*:DW0PeODw0;ePc+-We0je/+eRj0/*P+Ur0;PPOO/oPWOP/0PMD00R-+OR^0-e++^;-0+P^;-1+-RP;++zR0;P!+^-;0!eL+;/!0k*W+Oi4*WP*j>.WW*PDOWL*0De0+*^D00*e+DR00!Pe=0Ge;jP/Oe9j!/Pej-R/0P+O+/OP0OP^+PKW^^P-jOz^P-P+O^)-0;gR+-7+0Re;++}R0;P!jRb;0!P>O-;!0<PW+*j/!*O8jW-*OtPW+*eD+I+!0D+0OW+D00OeeDP0De!!;je0^ehj0/PP*00e*jW/jePP0OP^+P?OP^P-+OH/;*-++^p-0+*R+-6+0^*DO+7RW;P!ORX;0!Pn+R/!0pPW+!^T0We*+J{j+*PD+Wh*WDP0+*{D0W*e+Dp00ePE*0ve0jP/+e6j0/P*+j-/0PPO+/qP0OO^+P&j0^P-jOC^0-P+D^z*0+*R+-^+0^7;++;R0ePO-Ra;;!PRW;q!;=PW+!Wg0W!*+A^W0*PD+WN*!DPWd*&D00PejD#-0jjj+00e0Dy/+e0j0/**Pj1/ePPO+/:P0OP/+/PO0^+-+O-^0-O++^mRW+P^R-m+0RP;j+X00!j!+RW;0+}m+;/!0t*-P!t}*WP*O6?W0*P.+1P*0DO0+*-D00je+DyRjePjD0FeejP/Oe<D0DUP+j^/0PeO+//P0OP**P_O0^P-jO:^W-P++!P-0+PR+-R+0RP;++xRO;P!+R=;W!j<+;C!0o;*08O;+!PoW%RW+*PD+W3*^^j!WCPW+*!DjW-0W*;j+0<e0j;-RD;/O0+De0/eOe+0/eej*/RWDPRO!^P-+OX^^*D^RP^+!^R-+-ROXRP;++CR^+WR0;D-PhO-^!e+P-W!DRe#W;%*+3BW0*;//!/u;W^*eX;WW0e*/DS00ePj*-PDR/Oe+D//D/eeWjU/0PPO*;-Oe/PP+O;^e-DO!OR^+-P++^T-^DD-DO^^+-R+j^PR;;P!+R2;P!PJ+;y!WR)W+!830W;jP;P!+%+/-*e%+DeWR*.D00Pe*0!eeDe0W0ReDjP/+e<j^ePjD/WP+jD00e;jR/*P-PRR*^P-+O(^^O0/0PPOP^D0*e/j--j+R^!/;+/Re-P+r^R;^+eR!;R+^4-;-!*R0We!;R_Rj*-u-We;DKP0e*eDRW;*RS0W^;/D+/OeOj+0OPj*D0RPejW/jW/j*/RP0j!/ZPROj/0P;jRjjPqOOROR+-T+0RP-W+<R0;P+j^-;0!Pc+;/!07PW++^pjWP*OBhW;*PD+W(+0R#0+*RD00ee+DR00**%P0Ze-jP0heNj0/PP+D//0P+O+/RP0OP^+Psjj^P-OOm^P-P++^X-0++R+-Z+0RP;++^R0;P0;R>;0!PvO;X!W PW+0P{0WP*+qRW0*PD+WN*;DP0+*MDW0je+D}00e;W9*;DR0**0eRD*/PP+j_/^!D/Re^O!/RP+j3^OP(ew/PPKORj1-PORRO-+O/RD/*;++TR0;P+3RL;0!PRjPD!0FPW+!RE0WP*+R^jW*PDOW<*;DP0+*9D0D!e+D(00e*j+0Re0jPO0euj0/PPOj{/0PPO+0^P0OP^+P D^^P-+Oh^0-P++^Se0j^R+-6+0RP;++-R0;P+PR);;!PG+;7!-IPP+!0A0W**+oRW0*!D+P:!^DP0j*wDO0P*RDH00**j+0/e0j*/+e&j0/Pe+jZ/PPPO+/aP;OPW+O;O0^+-+OR^0-j++^^ez+P^R-H+0RP;++b^0^%!+R0;0+7S+;W!07PDO!kpeWP*+g{W;*P^+*;*0DO0+*RD00+e+D^;4ePD^0yeWjP/+e D0DkP+jW/0e_O+/;P0OP%;P1O-^PPROq^W-PO+OP-0+*R+-^+0R!;++ne^;P!+R9;;!P&O;h!0*pW+!.k0We*+YsW0*P3WWa*0DP0O*+D00Pe+jj*RDn0!W0je0jeW*0WRe!DWjR/OPPO+/MP^.DPRj9/0-jOR^-P/-eO/^K-0+PR**-Re-*+/Re-0;e+*RU;0!Pc*eWR*;R-bRO;-+R+%;-!OzjWWP/*Wya0+*(D00;O^We*+IV0D*^D!je0/e3j0/PP*RPeROO/+e/ODOe/^PaO0^P-*RPPRjZ^+-e-WO.R+-9+0R;*/^/-;+^Re-;+W!eR0;a!0HPW*j-;-!*R0We!;RZDjWi*0DPWo*KD00PeODW00ePj+/jjD/OeOjejW0gP+jr/0P;RPePj+/+;-Oe/+^e!+O)^0-P+*-+O+/&PqO-D^/!PD^;;eO/Oj;!+R^_;P+ep*-R+/#e;**D_D;^!+wRWj!P+;0D*D7RR-!5DRWReeDj0e*+D*b!*0jW0We0DW/;W-je/RPOj;D!e^OW^D-Oej/_PO+O+O^!-0+PR+;j^0-!+RRP-!OQ^^;O+;R/z+;u!0?P;0!p_0WP!j0DW0*PD+W0*0DP0+!^D;0PeOD 0WePj+0_!0D!/+eRj0/eP+j^/0e*Oj/LP-OP^DP#O0^P-+jR^0-e++^/-0+PR+->ORRP;++=R0;P!jRx;0O/#+; !0=eW+!R60WP00N{W0*PDOW1*0DP0+*^D00Pe+DR0*ePj+0ie^0+*^jO0;*iPOD;/0PPO+^j!!^OPjO-^OPPO+^e-+P+/0-++OO+-0+ORe-P+DR!/;;P!+RJ;0!+ +;i!0R*P!!n70WP*O>ZW0*PKjjR*0De0+*^D00Pe+D.D-ePj+0he;jP/Oeoj0OyP+jA/0PeO+/:P0OP/jPxO0^P-+jj^0-P++^}-0+PR+e:++RP;++QR0;P+^RJ;0O0I+;^!0FPW+!/<0PP!e}kW;*Px/Wa*PDP-+**D00*e+De00eej+0#**jP/De2j;/PP+j5/0ePO+/0P0OP^+P^O0WPO^Oz^P-PO/^r-++PRjP++0RO;++vR0;P!+^IR+!PRo;%!;iP;R!L(0De*+XWW0*PD+W^*0^P*^*5De0P*/D80-ePjjW+e0jj/+eRj0/PP+D j+PPjR/,P;OP/^PFO0F^-+O/^0-O++^R-0OPO0-y+;RP-R+pR-;P!+Pj;0!P1+;^!0QeW+!ue+WP*+_bWW*PD+Wn*0j*0D*CD0W*^*DH00eP-R0Ae0jP0^e*j0/PP+j0/0PeO+/RP0O+DDP8O0^PP.O4^W-POMD/-0+PR+*1+0Re;++S!W;P!+RT;0!PJ+;q!0*jW+!R(0WP*+AbW0*PReWy*0DP0+*rDW0P!+!-00ePj+0se00-/+*^-W/PPOjrRDPPO+/%e;Y-^+P^O0*O-+On^0-j-;^S--+P0/-:+WRP;O+pR0*-!+RZ;0!et+;7!0{P;j!L_;WP*jGNWW*P:jW-*0D*0+P-D00Pe+=^0eePjD0S0;jP/+eq80W0P+j//0P!O+OWP0j*/GP_OP^P>!O4^0-Pj+/!-0++R+-0+0QD;+O^^T;P+RRxR;!PT+;%O0L*W+!W)0WO*+R^W0!*W/W(**DPDj*gD00P!+_R00ejj+0;e00W/+eHjP/Pe/jS/0PPO+/<e;DR^+PPO0R/-+Op^0P*OR^,-O+PR!-X+0RP-j+/R0-^!+;D;0!P=+;0!ehP;0!}^WWP*OA8W0-jD+W+*0DO0+*7D00P-^DFWRePD-0:e0jP/+;Wj000P+j^/0P*O+/cRDOP//P)OD^PPPO%^0R/++^--0O0R+-!+0R+R0+?R+;PO-R4;W!P4+R*!0RBW+!Pv0WP*+_;Dj*Pm0W:j-DP0O*wD*0Pe+^D00ePj+0^e0jP/+eH^//PP+j_/PPPO+/_P0R-^+PFO0/p-+O6^0-Pp!^ -0+PRD-1+0RP;+DDR0;P!+R-;0!P8+;4D/HPW+!XQWWP*+pgW0^*D+We*0}k0+*<D00P!;Dx0jePj+0}e0jP/+*!j00RP+j^/0P*O+/ce*OP^+P7OO^P-+O.^0P-++^_-0+*R+-5+0RP;O+_R0;P!+Rp;0!PRq-^!0yPW+*R_-We*+R^P/*PD+WEW+DP0+*kR0e^e+D(00ePj+eDe0D*06e7j0/P+;jb/0PPjj0^P0OP^+/PO0^P-+Dp//-P++^v-0+PP--3O;/);++FR0jP!+R:;0!P^0;h!0%PWO!y70WP!jHPW0*PD+W**0DP0+!^%*0Pe+Db!eePj+0U!*jj/+eHj0-0P+jR/0jPO+/0W-OP^+PYRG^P-OOl^P0!++^y-0ZWR+-R+0RP#0+_R0;P!ORt;0!PRjPD!0dPW+P010WP*+R^eP*PDOW=^!DP0+*(R0;We+DR00eej+^^e0D*W/esj-/P-Jjd/0PPO+/^P0Oe^+P/O0^P-+O_/W-P++^x-0+PRj-r+0/{;++SR0;e!+R^;0OPR0;_!W#PW+!I+WWP*+*RW0**D+Wp*0D*0+Ob+R0PejD&WWeP0P0r+0D*/+e^j0^RP+*j/0PPDW/KPWOP^jP:OW^PPjj-^0-e++D0-0+PR+P^ORRP;j+re!;P!+RmP0+WB+;^!0X*W+e^t0;*!P,XWP*PROWL*0DP0+D/D00*e+D000ePj+0}0ejP/Oenj0/PPjjY/0e;O+/RP0Oe^+P^O0/*-jOx^;-P*i^V-0+P^jP0+0R!;+0-R0;P!+/);-!P_D;r!-,P/j!iR;;}*+iWW00^D+Wu*0DPW/*SD-0P*RDI00ePj+DWe0j*/+e}j0/*P+jB/ePPOj/GPWOP^jP5j;/;-+O/^00+++^2-0O*^P-?+PRPD/+_R0;PO+Rj;0!+M+;0!0j*W++^gWWP!^uw+D*PD+WL*09/0+*0D00je+Dq00eP^00we-jP/+eGj;/PP+P^/0P!O+/RP0O*^+*SR^^PPdOT^W-P*W^B-0OWR+-;+0RP;++-R0eP++Rx;*!Pje;p^SuPP++!V0Wj*+R/W0RjD+PE!^DPW^*l!D0P;OD)W;*0j+0-e0W!/+e<j0WPe^jC/!PPj//MR^OP/jRRO0/.-+-(^0-P++/^0^+P^W-yP^RP;++%R0-O!+R-;0+Rm+;^!0RP;+!zF*WPR;U8W!*P^+;;*0Dj0+!!D0J/e+^_WDePD^06*jjPOPe2D;0PP+j-/0!^O+/LP0DP/+PkO!^PP/OS+;-Pj+O+-0+DR+--+0;P;+O2RW;P+^R&;-!PR/;G!0o+W+!0#0Wj*+B^W0*P>eWw*eDP0+*F6^0P!+D+00ejj+00e0^0/+evje/Pe0ja/0PPOj/L!0j^^+PPO0YW-+e^^0*P;D^2-++Pj/-&-FRP;++*R0;j!+RP;0!*m+-uON<P;R!aP+WP!^Vp-0+^D+W;*0D+0+O+D00PeDD20+ePj+0&e;jP;+*Rj00xP+!O/0;PO+;we*OP/0PGe!^P-^Ot^0eR++^;-0OFR+-^+0^PeA+bRe;P/!R);*!P^+;/!0pjW+!030e0*+smW**P=0Wo*0DP0j*{^00!e+DP00-Wj+^Oe0RPWWe3j+/PW/jr*;PPO+0!P0Oj^+PPO0^*-+jz/j-POR^.//+P^^-lj0!+;++;R0;+!+0+;0!P*O;:!+GPW+!K.;WPO+W;W0!QD+^O*0-!0+OKe-0P*0DaL!eP;O0Ve0D^/+e;j00ZP+j^/0ePD7/aPeOP;ePuO*^Pe+O/^0-j++^0-070R+-sO+RP-0+?R0;P!jRLe0O/m+;P!0jWW+P+Q0PP+M>VW+*P+/Wlj*DP0+!eD00je+DP00e*j+W:!PjP0ReER-/Pe^jrW0eRO+/;P0O+^+!+O0^PeWOH^+-P++^,-;+P0+PO+0^);+eOR0W^!+0{;;!PR0;t-!aP/!!h_0Wj*+(;W0!?D+W^*0JPWD*ADe0PO/DB0*eP4+j0e0jj/+e0j0-0P+jhOWPPj0/}P0OP^jP9J0-j-+OP^0WW++D*-0DP!D-<++RP//+:pP;P!+RD;0!jM+;P!0#*W++9RDWP!RTBD+*P#^Wy+0DO0+*;D00+e+^+00ePsR0le+jP/+esj;/P!+D0/0eJO+EOP0PD^+!hj*^PP0O:j!-P-e^c-0jRR+-;+0^V;++^R0-Pj(RT;e!P^+;M!*5P-++mk0Wj*+L0W0j0D+Wy!/DPW0*{D00PejDB-0*/j+0Pe0+W/++Dj0;Pe*jv/+PP*//QP!OP^+e^O0^j-+OP^0-*++/4-e+P^R-JW*RP-^+C/04+!+R;;0!+T+e+!0#PDO!)5+WP*+VcW;*P^+*;*0Qn0+-OD0O+e+^7j-ePD00bW!jP*0eLj00/P+j;/0enO+/^P0jP00P1Oe^P!ROt^*-Pj+//-0+jR+-0+0W0;++b^^;P+0R6;0!P#j;rj0R^W+!Pg0/W*+70W0OPt;W>*+DPR/*%R^0Pe+Ee00ejj+0Pe0j*/+*a<P/PeRjGD-PPj^/ *0DR^+P;O0^+-+T+^0-POD^N-++PR+-h+;RPe++0R0-X!+jO;0;/A+eI+;:P;0!c+!WP0-qdW0+RD+W;*01b0+*^D0WP*DD20eeP0j0ge*jPW+/0j0/jP+j0/0+0O+/,^WOP/0P3O0^P-jOBW0+j++^P-0*WR+;^+00P8D+tR+;PP/RV;W!eh+;/!0sjW+!PL0W**+R{;D*PkRWG/eDPW^*_R00*e+D;00e+j+-+e0jP0-eJj+/PP+j9/;PPz+/0P0jV^+WOO0*W-+?%^D-PO0^Q/!+P!!-.+0P+;++;R0-a!+R^;0+P^-;q!e}POe!%E*WP++R/W0*jD+WR*00+0++yRR0P*/D30WePO!0<e0D-/+eej0/PP+j0/0!PjR/JPOOPreP}5/^P*+j-^0PR++Rj-0j-R+*_.-RP-W+_^R;P^_Roe0+_{+;e!0j!W+*Cr0WP+-yvW!*PvWW4*WDP;+*0D00De+DW00^Zj+;ve!jP0/elj!/P!Pj?/0P+O+/eP0OP^+P^O0WPeeOF^O-P*e^o/;+P0++R+0^R;+!jR00/!+RS;j!PR/;L!OzPWO!G^0-W*+#-W0*OD++D*0RPWO*=D!0P*/Dd-VePj+W/e0DR/+eUj0/*P+Rl--PPjW/c;ROP,+PBc0^j-+Oe^0-;++e--0+P/^-I+!RP-W+ RW;PO+R!;0!DF+;W!0eaW+OHQjWP!/2#W!*P^RW_*0%P0+*eD00Pe+D/00+PrW0BeOjPReeQ0e/P!+/;/0eRO+P-P0+0^+P;-j^PP;ON00-P+O^&-W+PR+*D+0RP;++0R0;P!+^?^;!PRW;_O+rP;;!,>0W**+p-W0!RD+WR*0RPW-*YD!0P*RDY-eePa+WRe0jD/+e-j0WOP+j_0jPPjW/#P0OP^DP#40/R-+Oe^0WW++**-0DP^--z+ORP+/+nj!;P+^!*;0+^_+;-!0oeW+!RX0WPj!1YW0*PZ?W>*0DPW+;^D0WRe+RP00*^j+0te+jP0/ewjO/PPOjiW0P*O+/-P0OO^+NPO00PP?OK^!-PO/^mee+PR+PP+0^R;++tR0;!!+0x;-!PRW;HeR{P*P!N/0-T*+oeW0DDD+e^*0DjD;* Dj0P!0D%0WePjO0we0^-/+e3j0/+P+jT/0ePej/kPOOPW0PTOj^P-+j^^0-D++^e-0+eR+eX+ORP-/+KRe;P00R,P0!!I+;-!0sDW+OW30WP!!<4WO*PD+Wm*-DP-+!-D0WRe++O00;*j+-i*!jP0Weq/!/PPRj1/*/^O+/*P0Rj^+PRO0^e-+O=;/-P++^:-P+PR+-(O0O*;++eR0eV!+R*;0!P^-;U!!BP;W!<#WWP++RXW0*DD+WW*0PI0++dD!0P*/Dr0!ePRR0Se0jj/+eej0/PP+j//0!Pj-/.POOPIePoj!^P*+j^^0PR++---0W0R+-;;jRP-;+}We;P!OR_;W!PE+eD!0tPW+!0Y0WP*+RbR;*PTWWH++DPW;*pD0;/e+D-00*Rj+0Re0yPW/emj!/PeRjI!+PPD+/eP0OD^+P-O00O-+OY^j-POW^q-0+PRD->D0^D;++eR00W!+!D;0jPzj;M!ONP!/!SjeWP!^**W0!^D+P^*0De0+*RD00PO!Dp00ePDr07e0jP0+W^j00RP+FP/0e^O+/geWOP//PLOO^P-OOx00P-++^--0+OR+DP+0/P-!+&R!;P+/RwPe!Po+-P!0RRW+!%#0W!*+/xWW*PTWWCPRDPW!*r^0;/e+De00jDj+e*e0jjj;eHjj/PO+jN/WPPOO/,P0R-^+PTO0^+-+Ob^0PPPj^T-O+P00-o+jRP;+OeR0;D!+Re;0!em+PdORlP;/!vceWP/0LG-0!WD+W-*0DD0++WD00PejD.0OePj+0be-jP;+eWj00RP+!O/0D-O+;{PDOP/WPd^!^PO;Ok^*^^++^*-0jRR+-R+0Re;++5W/;P!+R%;P!Pp+;r+0+*W+!eS0Pq*+F*W0*Ps*Wa*!DPWW*QDW0P!+DP00eDj+0We0-h/+!6D+/Pe/j4/!PP(R/,P0jD^+PeO0^P-+O/^0*P+D^s-O+PDe-S;RRPe+O*R0-R!+;-;0!W%+;;WjoP;;!u^OWP*O_<WW*PD+PD*0DP0+*0D00Pe+Sh4;ePDW0w!+jP0;e:j0WpP+j-/0eRO+/RP0DP/;PLO!^PPROk*+-Pj+/0-0+DR+--+0/O;++x/1;P+WR5;0!PuD;Fj0RDW+!ex0/W*+;jW0OPReWa*ODP*/*KDe0P*^e*00*^j+;Oe0je/+eRj0/P+!jd/0PPjz/&P0OP/+0^O0/R-+DP^0P^++^w-O+P^/-}+ORP;O+ /0P2!+R-;0!Oy+RD!0^P;!!zJ!WP!/Hl-e*PD+W**0dR0+*SD00!e+^AW!ePDW08-RjP0^eUR000P+je/0ODO+!^P0OjO;PqOj^Pe^Or^W-P+O^.-09-R+-T+0R+;++wR0-P-jRz;O!P/0;?!j5PW++-60WD*+heW0*eD+-1!WDPW/*)De0PW!Dy;0*Oj+0-e0jD/+!Wj0/P*/jJ/OPPO+/ P-OPW+eeO0/R-+*O^0ej++W5--+P^W-QR!RPW*+}R*R^!+R*;0!jv+;R!0FeW+!40/WP*+SlWP*PD+W=!0!*0+*eD0-?e+D*00ePD+0ve!jP0WeZjW/P*+DP/0PDO+/WP0DP^+*hOe^PP/O,^!-PDR^M-0+jR+-e+0RP;++/R0eP+/Ra;O!Pje;,/CTPP+!/i0;R*+W-W0cRD+W;0jDPW;*n/D0PeOD)0WePj+-De0jP/+e0j0/PP+DiD;PPjW/m*+OP/;PzO0/--+O-^0PR++^R-0jP^!-(+!RP-R+>/0;PO+^R;0!DN+;-!0^OW+!tReWP!WUcW0*PDDW2O0Dj0+*eD0^We++P00+Pl-0peOjPe/er/O/Pe^P*/0e^O+0-P0Oe^+PRO0^P!!O?^0-POV^#-0+P^+/^+0^R;+jPR0-^!+R6;e!PR/;I!OXPWO!k^0-V*+N-W0*OD+-V*0RP;W*TD!0P*/D8;eePj+0Pe0DR/+esj0/!P+R<W4PPjW/w;ROP-/PCz0/!-+Oe^0+D++jD-0+j+;-H+jRP*W+FRW;P!ORF;0D-A+;,!0p+W+!oB0;P;jIXWO*P^0Wp*jDP0+*;D00De+De00eej+;2*DjP0/eAje/P/0j2W0ejO+/-P0OD^+*WO0^PPPOV^O-P++^J--+P0+PO+0^R;+eOR0jK!+0l-0!PRW;?b!CPOO!Br*9^*+T*W0D*D+WR*0De0+*N//0Pe+D_0PePj+0V*0**/+eej0;HP+j*/0PPD&/qP!OP/WPxOW^Pe+O0^0-D++^W-0P-R+eCjRRP-/+AR!;PjRRX;0!DF+;e!0LPW+!/q0PP+/NAWO*POeW)^PDP-+*/D0WRe+0-00&+j+0;/jjP0;ewR^/PPOjH/WPPO+;DP0OP^+P0O0^P-+jmj;-POW^Ve++P^;-5+0^P;++-R0-R!+RR;0OPR+;E!!cP;R!M+/WP++R-W0*DD+W-*0RO0+*z%00P*WDz00ePjD0k+0X^/+eej0RWP+OP/0!PD-/_POOPP/PQ;-^PP^-*^0P^++0+-0+eR+-R+0RP*!+TR0;P+rRi;0!PR+^^!0RRW+OPc0;^*+UqWj*PB/WI*ODP0O*}R0;0e+D-00eOj+DDe0sP0De j!/Pe/jaWePPO+0RP0jR^+P7O0^!-+3n/^-POW^UWR+P/R-qD0^R;++eR0!D!+P0;0!j!;;J!j}PPJ!KXWWP*O?XW0j-D+Wc*0D+0+*dD0WPWjD)0OePR00mejjP/+*-j0/DP+je/0PeO+WaejOP//P2Oe^P/!Ob00PP++^--0+DR+eW+0RPP-+:RO;P!+R&;-!P/+;j!0RRW+POr0*4*+/:;/*PUWWlD!DP^R*dD*D^e+D*00OWj+0Re0je/+eX^//PP+jb/PPPO+/5e0e*^+PeO0WJ-+O*^0-Pj;^x-!+P^W-5+WRPP++OR0;D!+RW;0jD9+Pg+!BP;/!>l!WPORoVW0*DD+We*0DP0+*/D0-P*+D&0OeP+e0hD-jP;+*-j00RP+/-/0ORO+/;^jOP/;P{R;^P-OO(^W-P++WD-0+PR+-0+0RP;+OxO;;P+WRIP+!PR;; !0R0W+!-u0;R*+hRW0+PkOWy*!DPWR*=^!0P!+Dj00eDj+0-e0#O/+e2DR/PeWjI/0PPOD/>!0D:^+PeO0QW-+D/^0*POe^ -O+P-/-_PeRP-^;*R0-^!+R^;0!ep+;R!0yPe!!wY0WP!7vFW0*Pk+R^*02R0++PD0W^e+D90OePD/0UeOjP/Oe6%0/*P+j-/0POO+jDP0DP0RPBO!^PP/Or0e-P++^^-0ORR+-U+0R!;+Dk^e;P+WRo0R!P0+;Hj0RjW+!e:0*D*+O;W0*j*;Wk*jDP;-*8DW0PeODc00O-j+0we0j+/+e_j00P0jjN/OPPQ0/4PjOP^+eOO0^D-+Oe^0-e++0J-P+P^/-x+eRP^!+N/0PQ!+R-;0!Dl+PW!0zP;!!mFOWP*+qxW-*P^+W-*0BR0+-OD0;We+^,0;ePDW0>j!jP+eeBj*j^P+j*/0O^O+/RP0Oe^+PtR/^P-+Ot^P-P++^_P0P*R+-e+008;++*R0;P+/R4;!!PRW;y!W=P-+!j20WD*+SWW0;-D+-M*jDPW/*_D!0P+RD200*Rj+0ee0jP/+e/j0;PejjH/OPP!e/q+jOPW+e+O0/R-+^-^0e+++^;Rj+P^;-%j-RP;O+1RW;P!+0D;0!PS+;0!0zPW++<+;WP!WKC-+*PS;Wc*0D!0+*-D0WRe+DR00!P4e0&e!jP0Ren*//P*+je/0PDO+/-P0DO^+PkOj^PPWOL^0-P+D^x*0+OR+-e+0DW;+DeR0eP!OR{;O!P;/;YR^FP;^W*40;^*+/+W0*eD+WR*0DPP!*KD00P*<Di00ePD+c^e0DR/+!Pj00^P+j_/DPPj//XPOOP^OPkD0^O-+O-^0-O++OD-0jP^R-y+!RP-/+K/e;P!+^0;0+RN+;:!0G!W+jpRjWP!W?g/R*P-WW(O0De0+*eD0eDe+e000eje;09ejjP00eMjW/PPOjz/0+-O+/3P0O+^+PaO0/P/jO3^O-PD0^L-j+PR+PP+0RD;++eR0;e!+/%-+!PR/;V!egPF0!>^0-R*+g-W0*DD+-W*0DP;^*SDO0Pe+DM0-ePR+W;e0DR/+;Oj0j^P+Rp0^PPjW/oO!OPDWP,O*O^-+O*^0-e++^R-0+eR+-3u/RP;++JRP;P!+RF-0-*}+;e!0/XW+!*Z0WP!;xqW!*P{WWv*WDP;+!OD00De+DW00W-j+;m**jP0/eLj!/P!RjA/0e^O+/eP0OP^+P/O0WPe^O:^O-P*e^NPl+P0+P*+0^R;+R-R0P*!+R;wj!PR;;qHVUPWO!xnWWP*+/DW0*PD+W0*0DP0+!X!;0P*WDQ;+ePD;04e0j!/+e-j00RP+jR/0*Pjz/{P!OP/RP>e/^Pe+O0^0-D++^--0jOR+- +*RP-W+NR0;P!DRze0+;h+;e!0jWW+D/N0PP+P7pWO*PW/WY+;DPW^0*D0W^e+De00eej+0Re0jP-!e}j0/PeXjx/0PPj+D^P0jR^+*PO0/^-+O:^--PO/^#-O+PRO-Aj0^0;++-R0;O!++D;0OP^R;x!!pP;/!M^eWP*+RRW0!RD+W,*0D!0+O.K*0P*WDx^ReP--0G+080/+eej0PDP+*0/0PjP;/SPjOP-ePpOW^P-OOY^0!-++^)-0++R+-q+0^P^j+<RO;Pj0Rb;j!PS+-+!0hDW+!eT0We*+^u;P*P#/WZ*eDP7!*lR0;Re+D-00eDj+;We0jP0-e>jO/PP+j}/-PPT+/RP0jR^+WOO0Pe-+_l/^-POW^Q+!+P;--i+*+^;++*R0!+!+RR;0!eB+;FD/NPW+!4nPWP*+V6;0;*D+We*0^b0+**D00P*DDd0!ePDW0IeWjPW+eDj0/DP+jW/00-O+Wce0OP//PSO!^P*ROB^0e^++^e-0+PR+-/+00P-!+3RO;PeeRoD;!P/+-;!0RRW+l-80P/*+K;Dj*PQ;W4D/DP0O*6DW0Pe+^D00ePj+00e0jP/+*Te+/PeWjCW+PPj;/MP0W;^+P-O0/R-+OR^0P*R!^B-!+PDr-T+0RP-j+RR0-4!+e-;0!P5+P6+WFP;0!sS+WPPjbI;;*eD+W**0*O0+*}D00P*eD80+ePD;07e0jP/+e0j0/DP+jY/0P*O+/Ve!OP//PLOW^P-OO}00eO++^--0+OR+^D+0/P;j+rR!;P+/RZPe!PY+-!!0RRW+!2z0W!*+/iWe*PXWWFPRDP+**x^0;Re+De00jDj+e/e0jjj;eyjj/P!Rj&/WPPOO/vP0R-^+PwO0^+-+Oo^0PPPj^<-O+P00-:+jRP;++RR0;D!+Re;0!ed+Pl!WiP;/!3aeWP;!o>-0!;D+W-*0DD0++WD00P*PD50OePj+01e-jP;+e^j00RP+!O/0;;O+;hP!OP/WPY^!^P+ROz^*^^++^*-0j*R+-R+0Re;++rW/;P!+R1;P!P4+;M+0+*W+!eY0Py*+d*W0*P2eWo*!DPWW*VDW0P!+D000eDj+0We0*-/+!%j*/Pe/jk/!PPxR/nP0DW^+PeO0^P-+O/^0*PO+^C-O+PDe-b!DRPe++eR0-R!+;-;0j*U+;;WjiP;;!k/PWP*Oh<WW*PD+PD*0DP0+*0D00Pe+9_o;ePDW0E!+jP0;eYj00RP+j-/0eRO+/RP0DP0;PUO!^PPRO<j/-Pj+/+-0+DR+--+0/O;++M^e;P+WRm;0!P2D;5j0R0W+!eV0/W*+!eW0OPRRWd*ODP*/*QRO0P*^e*00*^j+eRe0je/+eRj0/P+!jx/0PPjq/5P0OP/+0^O0/R-+DP^0P^++^#P-+P^/-.+ORP;O+>/0-e!+R-;0!O>+RD!0^P;;!NF!WP!/Q.-e*PD+;O*0ZR0+*>D00!e+^I0*ePDW0T-RjPPIe?R00;P+je/0ODO+WeP0OjO;P2Oj^P*+Oi^W-P+O^b-03-R+-o+0R+;++&R0-P-jRl;O!P/0; !jZPW++ex0WD*+keW0*eD+-%!eDPW/*CDe0P!+DN;0e+j+0-e0jD/+!Wj0/PeDjK/OPPO+/5P-OPW+PWO0/R-+*O^0jP++W:-j+P^W-dR!RP/;+kR*R^!+R*;0DeQ+;R!0deW+!d0/WP*+z2WP*PD+Wc!0!*0+*eD0-we+D*00ePDD0?e!jP0WeIjW/P*+j!/0PDO+/WP0=O^+*GDc^PP/Op^!-PDR^>-0j0R+-e+0RP;++/R0eP+/Rp;O!Pje;4W^TPP++W{0;R*+W-W0D!D+W;0jDPW;*nRW0PeODq0WePj+-De0jP/+e0j0/PP+DdD;PPjW/%*+OP/;P#O0//-+O-^0PR++^R-0jP^--k+!RP-R+IO/;PO+^*;0!DS+;-!0^OW+!.^>WP!WNcW0*PDDWHO0.;0+*eD0^We+^R00+PDP0ueOjPe/euPO/Pe^P*/0e^O+0OP0Oe^+PRO0^P!!O6^0-POm^C-0+P^+/^+0^R;+jPR0-^!+R=-P!PR/;c!OAPWO!7^0W**+3-W0*OD+DP*0RP;R*ND!0P*/Dq;eePj+WWe0DR/+e5j0/!P+R /-PPjW/2;ROPO+P}m00C-+Oe^0+D++OO-0+j+;-6+jRP*R+rRW;P!ORI;0D-y+;,!0Z+W+!v40;P;j)xWO*P^0Wn*jDP0+*jD00De+De00eej+;oePjP0/e3je/P/0jwW0eWO+/-P0OD^+*WO0^PeWOp^O-P++^A--+P0+P-+0^R;+eOR0W!!+0y-P!PRW;3)!%P+W!aS*Y^*+?*W0j/D+WR*0De0+*3//0Pe+Dh0PePj+05*0**/+eej0;?P+j*/0PPje/iP!OP/WPLOW^Pe+O^^0-D++^W-0-FR+e6+DRP-/+ER!;PjRR4;0+0g+;e!0nPW+!/v0PP+P1pWO*POeWb0-DP-+*jD0WRe+0-00Djj+0;/jjP0;e4^^/PPOjA/WPPO+;DP0OP^+P0O0^P-+j2j;-POW^1e++P^;-u+0^P;++-R0-R!+RR;0OP_O;1!!HP;R!}^0WP++R-W0*DD+W-*0RO0+*vD*0P*WD&00ePjD0:+0je/+eej0RWP+R0/0!Pj//3POOPP/PAOO^PP^-*^0P^++W;-0+eR+-R+0RP*!+sR0;P+nRZ;0!PR+^^!0RRW+OPM0;^*+wXW!*PG/WS*ODP0O*(R0W;e+D-00eOj+;ke0_P/Oezj!/Pe/jMWePPO+0;P0jR^+P:O0^!-+)(^--POW^pWR+P!0-tD0^^;++eR0!D!+%+;0!j!;;b!jMP-P!CFWWP*OTJW0j-D+Wt*0D+0+*kD0WPWjDQ0OePR00{ejjP/+*/j0/DP+je/0PeO+W&eROP//PMOe^Pe+OA00e/++^--0+DR+eW+0RP;j+3RO;P!+R(;-!P/+;D!0RRW+POV00e*+/};/*P?WWAD!DPWW*_D*D^e+D*00!^j+0Re0je/+eJ^//PP+j&/PPPO+/ve0e*^+PeO0W(-+O*^0-PO/^N-!+P^W-p+WRPP+O)R0;D!+RW;0OP8+P2!-MP;/!5r!WPORSyW0!WD+We*0DP0+*/D0-PeODF0OeP+e0#/!jP;+*/j00RP+/-/0eRO+/;^jOP/;PA(+^P-OOr^W-P++WD-0+PR+-0+0RP;+OtO;;P+WR:P+!PR;;c!0RRW+!-q0;R*+MRW0+P2!WI*!DPWR*9R00P!+dR00eDj+0-e0<O/+ekD//PeWj,/0PPOD/3!0D/^+PeO0HW-+!;^0*P+D^d-O+P-/-u+ORP-^;*R0-^!+^0;0!eG+;R!0sPe!!_}0WP!oN6W0*Pl+R^*0BR0++PD0W^e+D(0;ePD/0AeOjP/Oe8m0W0P+j-/0POO+WbP0DP/+P>O!^PP/O50e-P++^/-0ORR+-4+0R!;+DG^;;P+WRE0R!P!*;}j0y+W+!eX0*D*+ZRW0*j*;W&*jDPeD*yDW0PeODq00O-j+0Ye0j+/+etj00P0jjM/OPP%0/2PjOP^+e0O0^D-+Oe^0-e++0KPd+P^/-:+eRPP++1/0;+!+R-;0!DK+PW!0?P-R!<<OWP*+n{W-*P^+W!*0qR0+-OD0*be+^>WRePDW0zj!jP;eebj*j^P+j*/0e/O+/RP0Oe^+PZR/^P-+O#^P-P++^2P0P*R+-e+00u;++*R0;P+DR#;!!PRW;n!W9P-+!jn0WD*+2WW0+PD+-<*jDPW/*XD!0P+RD400*Wj+0ee0jP/+e/j0;P*PjX/OPP!e/800OPW+POO0/R-+^-^0*W++^;Rj+P^;-i+eRP;O+{RW;P!+0D;0!PY+;0!0>PW++%+;WP!W7%-+*PQ;Wb*0a;0+*-D0WRe+DR00!Ph90Xe!jP0Re3 0/P*+D;/0PDO+/-P0DO^+P4DR^PPWOp^0-P+D^N*0O*R+-e+0DW;+WmR0eP+;R?;O!P;/;Q!WGP;^W*r0;^*+RDW0*eD+WR*0DPP!*ID00P*{DH00ePD+n^e0DR/+!Pj00^P+j}WRPPj//,POOP^OP5D0/;-+O-^0-O++0{-0jP^/-B+!RP-/+l/e;P!+RW;0+R(+;u!0 !W+jFT!WP!W9k/R*P+PWFO0De0+*eD0eDe+^j00eje;0yejjPP/eEjW/PPOjZ/0+-O+/>P0O+^+P%O0/P/jO_^O-PD0^7-j+PR+-j+0RD;++eR0;e!+/m;D!PR/;,!eXP-+!<^0-W*+G-W0*DD+-W*0DP;-*#DO0Pe+DA0-ePR+0+e0DR/+;Oj0/PPORFWRPPjW/NO!OP;*P,O*O^-+O*^0*^++^R-0+eR+-3u/RP;++ARP;P!+R>-0-*Y+;e!0/zW+!*Q0WP!K=_W!*P)WW *WDP;+!OD00De+DW00!Pj+;n**jP0/e_j!/P!RjF/0e+O+/eP0OP^+P/O0WPP^Or^O-P*e^wel+P0+-W+0^R;+R-R0Re!+R;9j!PR;;TD/FPWO!8)WWP*+/DW0*PD+W0*0DP0+!a!;0P*WDn;+ePD;01e0je/+e-j00RP+jR/0*Pj0/xP!OP/RP.D0^Pe+O^^0-D++^--0jOR+-9jaRP-W+rR0;P!DRHe0+!l+;e!0jWW+eRA0PP+;m>WO*PW/WSD^DPW^0*D0W^e+^R00eej+0Re0jP-!eVj0/PeCj9/0PPj+D^P0jR^+*PO0/^-+Ou^+-PO/^z-O+PRO-<j0/{;++-R0;O!+/l;0OPmD;U!!>P;/!d^eWP*+ROW0!RD+Wm*0D!0+O_x!0P*WDT^RePPW0o+0DR/+eej0PDP+**/0PjP;/aPjOP/+P<OW^P-OOx^0!-++^h-0++R+-E+0^P^j+YRO;Pj0R:;j!PY+-+!0mDW+!eY0We*+^C;D*Po/WB*eDP;+*?R0WPe+D-00eDj+;We0jP0geCjO/PP+jI/-PPn+/OP0jR^+WOO0!e-+J1^!-POW^h+!+P;*-l+*+^;++*R0-;!+RR;0!et+;<D/7PW+!:EPWP*+QS;0;*D+We*0^Z0+**D00PeDDH0!ePDW0%eWjPW+e*j0/DP+jW/0RjO+W7e0OP//P2O!^P*ROg^0Pe++^e-0+PR+-/+00P-*+URO;PeeRL!;!P/+-;!0RRW+s-o0;R*+y;Dj*Pw;WC!WDP0O*#DW0Pe+^D00ePj+00e0jP/+*b*;/PeWjuW+PPj;/2P0jO^+P-O0/R-+OR^0ePje^B-!+P^R-MW*RPP++*R0;D!+R-;0OOG+;F+R>P;W!d%0WP*DT.P0*OD+We*0OW0+;PD0-P*WD60OeP0/0_0-jP0^/*j00^P+j0/0PeO+/RP0OP;!PnO0^PPuOT^0-PO+j^-0ORR+eP+0^^;++2R!;P+/RU;O!P_O;?O0#OW+!-#0WO*+e;W0+Pw/WV*!DPW/*QRe0Pe+%R00*Rj+0we0j!/++yje/PeWjuRRPPD^/c!0DW^+PeO0-D-+_j^0-j-;^H-j+PW+-a+WRP;O+MR0*-!+RN;0!+6+;p!0RPRj!B=OWPO02MWj*PD+;R*0DD0+*eD00ee+RkWDePD/0 eejPO^eG60W/P+j-/0PDO+WWP0OP/jPiOO^P-+O_^--PD+/W-0ORR+0O+0-D;+D8^O;P+WR9!!!P0*;N!*!^W+!*r0PD*+FRW0*eD+W)j/DP0+*qDP0Pe+DUW0W*j+0ee0Rh/+e*j0/PPjj}/!PPjW/2PWOP0+P;O0^D-+OW^0*O++0kPW+P^/-(+!RPeR+QR0-D!+Re;0!PB+;/!0/P-P!8vOWPPeSa;0*P^+Wj*0NR0+D-D0WRe+D;jjePD;01+-jP/OeVjW/PP+RD/0PPO+/0P0OP^+eqe;^PPWOo0+-PO;^h-0j/R+--+0^R;++RR0PP++RX;!!PRR;=je2P-+!!S0WD*+>-W0+OD+WI**DPWW*SD00PeDDo-0e+j+0ee0+W/+jWj0;Pe/j3/OPP///4POOP/^^*O0/^-+OD^0-e++^R-0+PW!-5+0RP-Q+iR0;P++O^;0+Ro+PP!0R^W+!_R+WP!/ioWO*PDOWn+0yD0+*-D00Oe+^W00!PDO0oe!jP0/en3e/PP+D//0eRO+/LP0O!^+!3DR^PPWOrJR-P-^^:*0ODR+-e+0;D;++eR0;j;;RB;j!PR;;T!WMPWO!c 0e-*+T_W0*+D+W.*0 P8j*}DO0P+0Dx0jePj+W;e0jD/+eej0/eP+sc/jPPj//3PeOP0+P?D0/P-+O-^0-D++0W-0+P^0-b+ORP;++AR-;Pj+R-;0+RA+/O!0*eW+jt^cWP!WHU*!*P?WWk***^0+**D0--e+DR00eej+0<O/jP/+e1jP/PP+j=000*O+/eP0Sh^+P*O0^PPeO ^!-POW^E-W+P/+P^+0RD;++WR0eO!+/sPK!PR/;#!!MPPR!hA0;D*+6eW0*PD+W/*0^P;;*,DO0P-eDz+*ePR+0We0DR/+j-j0hjP+j;OjPPj;/?++OP^OP8OW^P-+aD^0-P++^0-0+PR+P5P;RP-W+=/+;P+;R=;0Ocp+;-!0RRW+!Rq0-P+^xUW!*PvRWJq;DP;+!/D00De+D-00!Oj+0:e!jP0We,j0/PPDj9;0*4O+/eP0!W^+!PO0WP-OOT^O-P^/^1^P+P^^R*+0^^;+O^R0;e!+RR;0!P0!;g!0VP;8!v30WP!++^W0!RD+-P*0?^0+*Eh;0P*/DT0OePjO0_!0JR/+e-j0/OP+RO/0*PjP/XP!OP//P(De^P-+OR^0PR++^8-0+!R+*(O!RP-W+vDR;POnRue0+!6+;e!0WDW+O-r0WjW;QcWj*PweWF*WDP0O*,D0P-e+D<00e+j+0 e0DPDje?jO/P!0j?/jPPO+/WP0OD^+PeO0^e-+Dd^D-PO/^U-e+PWe-2j0/W;++-R0;D!+/W;0!P^R;E!OaPW+!:6-WPO+1/W0!RD+^O*0;W0+O<2^0P*WD6e!ePO00ze*e^/+e*j0;8P+jR/0PeO+/M+/OP^+PzOP^P-+O&/0/*++^e-0D)R+-*+0RPPW+JR!;P+WRQ;W!P^+;R!0dDW+!WK0R!*+^I;/*P#/W,*!DP-R*sD0Wje+De00ePj+0/e0RP0+eLjO/P;ej#LRPPT+/OP0jR^+O-O0Wj-+O;+j-PO;^m!O+PRO-8+WRP;+DDR0;P!+R0;0!P?+-V-;YP;W!t^+WP!;pLW0+/D+W-*0uR0+*RD0;P*PDE0!ePDR09W-jPW+eOj0/DP+j-/0*OO+/MP+OP/WPcO0^P-DOTW0-*++^e-0*WR+-^+00PPP+yRO;PR/R e*!PR^%*!0R^W+O;a0We*+SRW0*P/!W?*0DPW&*9D00P*+!^00*Rj+;Pe0D^/+ezjW/Pe/jU/OPPOO/m*0D/^+P-O0^O-+e/^0ePOP^u-!+P^/-?jeRP;++WR0-R!+RG;0!!4+ew+!%P;W!5jRWP^;UUP0!WD+We*00D0+O;D00j0;DT0jeP/*0>eWjP/Oehj0--P+jZ/0P+O+/GP0jPjjPJOO^P*0O9^j-P++^j-0+DR+-e+0Re;+jlRe;P+/RS;e!P+D;8O0RsW+!-J0WD*+^WW0*PteW4*ODP0+*BD-0P++D*00*Rj+ROe0,R/++ID*/PeWjuP!PPR^/kP*P^^+P*O00;-+OR^0-e++^?!/+PR+-X+PRP;++d^0^*!+Re;0jNl+;*!0pP;0!hc!WP!WSTWW*PR+;O*0DD0+*WD05!e+RC0;ePD/05e!jP;Reij0W}P+je/0PPO+//P0 P0RPlOO^PWeOV-D-PD+^*-0ORR++-+00j;++;!j;P+;R9-e!PMO;5!WAPW+jDL0WP*+E0W0*PD+;l;;DPWW*yR+0P*;D}00*jj+0-e0DR/+eRj0WPeRj3/!PPjR/N0-OP0+PjO0^D-+O-^0eO++^{-O+P^W-6+0RP;D+G00-e!+Re;0eWJ+!R!0/P-0!%NOWP=/rtP**P3^D**0b^0+O*D00ee+DR00eP^!0ge0jP0yeTj0/Pe+*^/0eRO+WPP0j^^+P_jR^PP/OJ^O-P+O^ve0j0R+--+0RO;+P/R0PPO/Rk;!!PR/;aOehPW++W40;R*+mlW0*!D+Pb!eDPWW*QOR0P;DDi-0*Dj+0ee0/D/++;j0/j/;j9/jPPO+/9PWOP^OP)O0;--+OE^0-+++^5-0OPOj-x+ORPe0+pRj;P!+RO;0!DA+;e!0NeW+OvRWWP!/m8We*P!DWl+0Ee0+*-D00De+RW00ePD;03eOjP/+e(j-/P!+jR/0eRO+7OP0O^^+!ZO*^PPWOV-!-Pn^^_-*-^R+-*+0^0;++RR0;e!+Rw*/!P%+;#!P=PW+!#R0R**+UeW0OMD+W**0DP;;*XD!0P*WDn0WeP(+0-e0jD/+eWj0;!P+t9/OPPj//JP!OPWRPFO0^j-+Oe^0-P++^/-0DP/B-d+ORP0e+CRD;Pj+R;;0+R,+!-!0^DW+!;*jWP!;35eP*PDOWI*WDP0+ODD00Pe+D000ePj+WMW;jP0Wea9+/Pe;jg/0eWO+/-P0jR^+PRO00PP-O1^!-POR^_!R+P/+-O+0RD;++-R0PO!+Rl;D!PRW;i!0zPWD!G/0;!*+VeW0PWD+3**0^P0O*aDO0PD/D:s*ePD^j*e0D^/+!!j0/eP+jR/0PPR!/<P0OP/SPrO0^PP+e^^0PR++0P-0O^R+-=O!RP-/+YRO;P!OR,P0O0g+;-!0HOW+0Wl0-P+W CW!*P_/Wg+eDP0+*;D0WRe+DY00e!j+-c*;jP0WeC+R/PW+jZ;0eWO+/eP0^D^+/RO0^j^;Ox^j-P+D^s-W+PRO-c+0W-;++nR0;+!+R?;0+P+j;I!O{PP0!AEjWP*+m;W0*DD+We*0De0++6u/0P*/DE0eePPR07!0Dj/+e-j0/DP+oW/0PPjD/SPOOP^+PcO-^P*+jO^0PR++DO-0jcR+*5+eRP-W+&;!;P;ORy;*;^L+;*!0R!W+!RK0We*+m_e/*PD+W=*PDP0+*dd0-/e+De00+1j+0*e0jP0De.j!/PeWjB/WPPD+/;P0OD^+P^O0j0-+O:^!-POW^#-W+PR+-3+0/A;++-R0-R!+RR;0OPR1;J!!#PWD!w+7WP*+leW0!RD+WR*0DP0+*y2/0P*/DU0OePjO0o!0-W/+e-j0/*P+^R/0PPjP/xP!OP^jP%OW^Pe+OD^0-D++^^-0-jR+-{O/RP-W+mR0;P!+Ri;0++>+;-!0RRW+!R90-P!d{EW!*PDDW(D*DPWj!RD0WRe+/D00ePj+0_^ejP0/e.jO/PPOjZW0*WO+/-P0O*^+O;O0/*e;O<^O-PO0^i-0+PR+-0+0RD;++eR0;e!+/J-!!PR/;A!-IPP+!N^0-0*+7eW0*OD++O*0DP;g*mD!0P*WDn0WePi+0We0jD/+e^j0+RP+5T0WPPjW/oPeOP*eP,O0^j-+O-^0PR++^R-0jP+L- +!RP-I+4;R;P+j00;0+Ri+!D!0xPW+!5ROWP!/b_WO*PDOW?+0De0+*-D00ee+OD00ePD20GeOjP/+eAj-/P!+jP/0eRO+2OP00e^+!LOD^PPWO)^^-Pp-^F*0j0R+-e+0D!;+jjR0;P+RRo;!!PRW;i!W}P-++eC0WD*+L^W0!;D+WE*+DPW/*?D;0PeODqW;+-j+0-e0-D/+e6j00*ROjs/+PPOW/QP0OP^+//O0^D-+O^^0-e++^oDr+PR+-n+0RP;++{R0aa!+RT;0!eh+;V!0NP");local j=0;u.CmflPhww(function()u.eaMXKcXX()j=j+1 end)local function e(e,n)if n then return j end;j=e+j;end local n,j,o=r(0,r,e,a,u.lufToqsD);local function l()local n,j=u.lufToqsD(a,e(1,3),e(5,6)+2);e(2);return(j*256)+n;end;local b=true;local b=0 local function k()local d=j();local e=j();local l=1;local d=(n(e,1,20)*(2^32))+d;local j=n(e,21,31);local e=((-1)^n(e,32));if(j==0)then if(d==b)then return e*0;else j=1;l=0;end;elseif(j==2047)then return(d==0)and(e*(1/0))or(e*(0/0));end;return u.TbZTgYot(e,j-1023)*(l+(d/(2^52)));end;local p=j;local function _(j)local n;if(not j)then j=p();if(j==0)then return'';end;end;n=u.RsfKlfFw(a,e(1,3),e(5,6)+j-1);e(j)local e=""for j=(1+b),#n do e=e..u.RsfKlfFw(n,j,j)end return e;end;local b=#u.YjmyLWvc(s('\49.\48'))~=1 local e=j;local function de(...)return{...},u.DqPlIjWa('#',...)end local function ne()local e={};local r={};local a={};local s={a,r,nil,e};local e=j()local h={}for d=1,e do local n=o();local j;if(n==3)then j=(o()~=#{});elseif(n==0)then local e=k();if b and u.lnVkjKrl(u.YjmyLWvc(e),'.(\48+)$')then e=u.FEoafYoD(e);end j=e;elseif(n==1)then j=_();end;h[d]=j;end;for e=1,j()do r[e-(#{1})]=ne();end;for s=1,j()do local e=o();if(n(e,1,1)==0)then local r=n(e,2,3);local o=n(e,4,6);local e={l(),l(),nil,nil};if(r==0)then e[t]=l();e[f]=l();elseif(r==#{1})then e[t]=j();elseif(r==c[2])then e[t]=j()-(2^16)elseif(r==c[3])then e[t]=j()-(2^16)e[f]=l();end;if(n(o,1,1)==1)then e[d]=h[e[d]]end if(n(o,2,2)==1)then e[t]=h[e[t]]end if(n(o,3,3)==1)then e[f]=h[e[f]]end a[s]=e;end end;s[3]=o();return s;end;local function le(n,j,e)local d=j;local d=e;return s(u.lnVkjKrl(u.lnVkjKrl(({u.CmflPhww(n)})[2],j),e))end local function k(y,s,a)local function ne(...)local l,_,p,je,c,j,o,m,ee,z,b,n;local e=0;while-1<e do if e>2 then if e<=4 then if 0<e then for j=11,74 do if e>3 then z=u.DqPlIjWa('#',...)-1;b={};break;end;m={};ee={...};break;end;else z=u.DqPlIjWa('#',...)-1;b={};end else if 6~=e then n=r(7);else e=-2;end end else if e<1 then l=r(6,31,1,34,y);_=r(6,1,2,37,y);else if e>=-2 then repeat if e>1 then j=-41;o=-1;break;end;p=r(6,40,3,35,y);c=de je=0;until true;else p=r(6,40,3,35,y);c=de je=0;end end end e=e+1;end;for e=0,z do if(e>=p)then m[e-p]=ee[e+1];else n[e]=ee[e+1];end;end;local z=z-p+1 local e;local r;local function p(...)while true do end end while true do if j<-40 then j=j+42 end e=l[j];r=e[g];if 108>=r then if r<54 then if r<=26 then if r<13 then if 5>=r then if 2>=r then if 1<=r then if-2~=r then for o=34,64 do if 1~=r then local o=_[e[t]];local h;local r={};h=u.dYfevFLe({},{__index=function(j,e)local e=r[e];return e[1][e[2]];end,__newindex=function(n,e,j)local e=r[e]e[1][e[2]]=j;end;});for d=1,e[f]do j=j+1;local e=l[j];if e[g]==63 then r[d-1]={n,e[t]};else r[d-1]={s,e[t]};end;b[#b+1]=r;end;n[e[d]]=k(o,h,a);break;end;local r,a;for o=0,6 do if 3<=o then if 5<=o then if 4~=o then for r=24,65 do if o~=5 then n[e[d]][e[t]]=e[f];break;end;n[e[d]][e[t]]=e[f];j=j+1;e=l[j];break;end;else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end else if 4>o then r=e[d];a=n[e[t]];n[r+1]=a;n[r]=a[e[f]];j=j+1;e=l[j];else n[e[d]]={};j=j+1;e=l[j];end end else if 1>o then n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];else if 0~=o then repeat if 2~=o then r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];break;end;n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];until true;else r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];end end end end break;end;else local o=_[e[t]];local h;local r={};h=u.dYfevFLe({},{__index=function(j,e)local e=r[e];return e[1][e[2]];end,__newindex=function(n,e,j)local e=r[e]e[1][e[2]]=j;end;});for d=1,e[f]do j=j+1;local e=l[j];if e[g]==63 then r[d-1]={n,e[t]};else r[d-1]={s,e[t]};end;b[#b+1]=r;end;n[e[d]]=k(o,h,a);end else local r,b,_,k,u;for s=0,6 do if 2>=s then if s<1 then n[e[d]]=a[e[t]];j=j+1;e=l[j];else if s>1 then r=e[d];b=n[e[t]];n[r+1]=b;n[r]=b[e[f]];j=j+1;e=l[j];else n[e[d]]=a[e[t]];j=j+1;e=l[j];end end else if 4>=s then if 1<s then for f=26,80 do if s>3 then n[e[d]]=(e[t]~=0);j=j+1;e=l[j];break;end;n(e[d],e[t]);j=j+1;e=l[j];break;end;else n(e[d],e[t]);j=j+1;e=l[j];end else if 6~=s then r=e[d]_,k=c(n[r](h(n,r+1,e[t])))o=k+r-1 u=0;for e=r,o do u=u+1;n[e]=_[u];end;j=j+1;e=l[j];else r=e[d]n[r]=n[r](h(n,r+1,o))end end end end end else if 4>r then n[e[d]]={};else if r>4 then local o;for r=0,9 do if 4>=r then if r>=2 then if r>2 then if r>=1 then repeat if 3<r then n[e[d]]=n[e[t]];j=j+1;e=l[j];break;end;n[e[d]]=n[e[t]];j=j+1;e=l[j];until true;else n[e[d]]=n[e[t]];j=j+1;e=l[j];end else n[e[d]]=s[e[t]];j=j+1;e=l[j];end else if-2~=r then for f=30,70 do if r~=1 then n[e[d]]=s[e[t]];j=j+1;e=l[j];break;end;n[e[d]]=s[e[t]];j=j+1;e=l[j];break;end;else n[e[d]]=s[e[t]];j=j+1;e=l[j];end end else if 7>r then if 6~=r then n[e[d]]=n[e[t]];j=j+1;e=l[j];else o=e[d]n[o]=n[o](h(n,o+1,e[t]))j=j+1;e=l[j];end else if r>=8 then if 7~=r then repeat if 8<r then n[e[d]]=n[e[t]]+n[e[f]];break;end;n[e[d]]=s[e[t]];j=j+1;e=l[j];until true;else n[e[d]]=s[e[t]];j=j+1;e=l[j];end else n[e[d]]=n[e[t]][n[e[f]]];j=j+1;e=l[j];end end end end else local s,z,k,b,y,g,m,r,_,p,u;for r=0,6 do if r<3 then if 0>=r then n[e[d]]=a[e[t]];j=j+1;e=l[j];else if r~=-3 then for h=42,61 do if 2>r then n[e[d]]=a[e[t]];j=j+1;e=l[j];break;end;s=e[d];z=n[e[t]];n[s+1]=z;n[s]=z[e[f]];j=j+1;e=l[j];break;end;else n[e[d]]=a[e[t]];j=j+1;e=l[j];end end else if 5<=r then if r~=3 then repeat if 5~=r then n[e[d]]();break;end;s=e[d]n[s]=n[s](h(n,s+1,o))j=j+1;e=l[j];until true;else s=e[d]n[s]=n[s](h(n,s+1,o))j=j+1;e=l[j];end else if r>=1 then for f=32,86 do if 3~=r then s=e[d]_,p=c(n[s](h(n,s+1,e[t])))o=p+s-1 u=0;for e=s,o do u=u+1;n[e]=_[u];end;j=j+1;e=l[j];break;end;r=0;while r>-1 do if r>=3 then if 4>=r then if 1<=r then repeat if r~=4 then g=k[y];break;end;m=k[b];until true;else m=k[b];end else if 5==r then n(m,g);else r=-2;end end else if 0>=r then k=e;else if r~=-1 then repeat if r>1 then y=t;break;end;b=d;until true;else b=d;end end end r=r+1 end j=j+1;e=l[j];break;end;else s=e[d]_,p=c(n[s](h(n,s+1,e[t])))o=p+s-1 u=0;for e=s,o do u=u+1;n[e]=_[u];end;j=j+1;e=l[j];end end end end end end end else if 8>=r then if 6>=r then local e=e[d]n[e](n[e+1])else if r~=5 then repeat if r<8 then local o,a;for r=0,6 do if 2>=r then if r>0 then if r>=-1 then repeat if 1~=r then n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];break;end;o=e[d]n[o](h(n,o+1,e[t]))j=j+1;e=l[j];until true;else n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];end else n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];end else if r>=5 then if 4<=r then for h=15,90 do if r<6 then n[e[d]][e[t]]=e[f];j=j+1;e=l[j];break;end;n[e[d]][e[t]]=e[f];break;end;else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end else if 2~=r then repeat if r<4 then o=e[d];a=n[e[t]];n[o+1]=a;n[o]=a[e[f]];j=j+1;e=l[j];break;end;n[e[d]]={};j=j+1;e=l[j];until true;else o=e[d];a=n[e[t]];n[o+1]=a;n[o]=a[e[f]];j=j+1;e=l[j];end end end end break;end;local o,a;for r=0,6 do if r<=2 then if 0>=r then n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];else if-3~=r then for a=13,53 do if 2>r then o=e[d]n[o](h(n,o+1,e[t]))j=j+1;e=l[j];break;end;n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];break;end;else o=e[d]n[o](h(n,o+1,e[t]))j=j+1;e=l[j];end end else if r<=4 then if r>=-1 then repeat if r~=3 then n[e[d]]={};j=j+1;e=l[j];break;end;o=e[d];a=n[e[t]];n[o+1]=a;n[o]=a[e[f]];j=j+1;e=l[j];until true;else n[e[d]]={};j=j+1;e=l[j];end else if 2~=r then repeat if r~=6 then n[e[d]][e[t]]=e[f];j=j+1;e=l[j];break;end;n[e[d]][e[t]]=e[f];until true;else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end end end end until true;else local o,a;for r=0,6 do if r<=2 then if 0>=r then n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];else if-3~=r then for a=13,53 do if 2>r then o=e[d]n[o](h(n,o+1,e[t]))j=j+1;e=l[j];break;end;n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];break;end;else o=e[d]n[o](h(n,o+1,e[t]))j=j+1;e=l[j];end end else if r<=4 then if r>=-1 then repeat if r~=3 then n[e[d]]={};j=j+1;e=l[j];break;end;o=e[d];a=n[e[t]];n[o+1]=a;n[o]=a[e[f]];j=j+1;e=l[j];until true;else n[e[d]]={};j=j+1;e=l[j];end else if 2~=r then repeat if r~=6 then n[e[d]][e[t]]=e[f];j=j+1;e=l[j];break;end;n[e[d]][e[t]]=e[f];until true;else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end end end end end end else if r>10 then if 10~=r then for h=28,52 do if r<12 then do return end;break;end;local h;for r=0,6 do if r<3 then if r>0 then if r>=-1 then repeat if r<2 then h=e[d]n[h]=n[h]()j=j+1;e=l[j];break;end;n[e[d]]=a[e[t]];j=j+1;e=l[j];until true;else n[e[d]]=a[e[t]];j=j+1;e=l[j];end else n[e[d]]=a[e[t]];j=j+1;e=l[j];end else if r>=5 then if r>1 then for h=27,88 do if 6~=r then n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];break;end;n[e[d]]=a[e[t]];break;end;else n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];end else if r>0 then repeat if 4>r then n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];break;end;n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];until true;else n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];end end end end break;end;else do return end;end else if r>=5 then for h=14,95 do if r>9 then local h,o;for r=0,6 do if 2>=r then if 1>r then n[e[d]]=s[e[t]];j=j+1;e=l[j];else if-3<=r then for a=15,58 do if 2~=r then h=e[d];o=n[e[t]];n[h+1]=o;n[h]=o[e[f]];j=j+1;e=l[j];break;end;n[e[d]]={};j=j+1;e=l[j];break;end;else n[e[d]]={};j=j+1;e=l[j];end end else if r<5 then if 3<r then n[e[d]][e[t]]=e[f];j=j+1;e=l[j];else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end else if 1~=r then for t=15,82 do if r<6 then n[e[d]]={};j=j+1;e=l[j];break;end;n[e[d]]={};break;end;else n[e[d]]={};j=j+1;e=l[j];end end end end break;end;local r,h;n[e[d]]=s[e[t]];j=j+1;e=l[j];r=e[d];h=n[e[t]];n[r+1]=h;n[r]=h[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]]={};break;end;else local r,h;n[e[d]]=s[e[t]];j=j+1;e=l[j];r=e[d];h=n[e[t]];n[r+1]=h;n[r]=h[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]]={};end end end end else if 19>=r then if 16>r then if 14>r then local h,r;n[e[d]]=s[e[t]];j=j+1;e=l[j];h=e[d];r=n[e[t]];n[h+1]=r;n[h]=r[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]]={};else if r>14 then local o;for r=0,4 do if r<2 then if r~=-4 then for f=21,59 do if r>0 then n(e[d],e[t]);j=j+1;e=l[j];break;end;n[e[d]]=n[e[t]];j=j+1;e=l[j];break;end;else n[e[d]]=n[e[t]];j=j+1;e=l[j];end else if r>2 then if r~=-1 then repeat if 4~=r then o=e[d]n[o]=n[o](h(n,o+1,e[t]))j=j+1;e=l[j];break;end;if(n[e[d]]==e[f])then j=j+1;else j=e[t];end;until true;else if(n[e[d]]==e[f])then j=j+1;else j=e[t];end;end else n(e[d],e[t]);j=j+1;e=l[j];end end end else for r=0,4 do if 1>=r then if-4~=r then for h=36,53 do if 1~=r then n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];break;end;n[e[d]]=a[e[t]];j=j+1;e=l[j];break;end;else n[e[d]]=a[e[t]];j=j+1;e=l[j];end else if 2<r then if 4>r then n[e[d]]=a[e[t]];j=j+1;e=l[j];else n[e[d]]=n[e[t]][n[e[f]]];end else n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];end end end end end else if r<=17 then if r~=12 then repeat if 16<r then local h,r;n[e[d]]=s[e[t]];j=j+1;e=l[j];h=e[d];r=n[e[t]];n[h+1]=r;n[h]=r[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]]={};break;end;local r,u,k,b,s;n[e[d]]=a[e[t]];j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];r=e[d];u=n[e[t]];n[r+1]=u;n[r]=u[e[f]];j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];r=e[d]k,b=c(n[r](h(n,r+1,e[t])))o=b+r-1 s=0;for e=r,o do s=s+1;n[e]=k[s];end;j=j+1;e=l[j];r=e[d]n[r]=n[r](h(n,r+1,o))j=j+1;e=l[j];n[e[d]]();until true;else local r,u,k,b,s;n[e[d]]=a[e[t]];j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];r=e[d];u=n[e[t]];n[r+1]=u;n[r]=u[e[f]];j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];r=e[d]k,b=c(n[r](h(n,r+1,e[t])))o=b+r-1 s=0;for e=r,o do s=s+1;n[e]=k[s];end;j=j+1;e=l[j];r=e[d]n[r]=n[r](h(n,r+1,o))j=j+1;e=l[j];n[e[d]]();end else if r~=19 then local h;for r=0,7 do if 4>r then if 1<r then if 2==r then n[e[d]]=a[e[t]];j=j+1;e=l[j];else n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];end else if-2<r then repeat if r~=0 then n[e[d]]=a[e[t]];j=j+1;e=l[j];break;end;h=e[d]n[h](n[h+1])j=j+1;e=l[j];until true;else n[e[d]]=a[e[t]];j=j+1;e=l[j];end end else if 5<r then if r>5 then for h=31,74 do if r~=6 then n[e[d]]=n[e[t]][e[f]];break;end;n[e[d]]=a[e[t]];j=j+1;e=l[j];break;end;else n[e[d]]=a[e[t]];j=j+1;e=l[j];end else if 2~=r then for h=14,95 do if 4<r then n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];break;end;n[e[d]]=a[e[t]];j=j+1;e=l[j];break;end;else n[e[d]]=a[e[t]];j=j+1;e=l[j];end end end end else n[e[d]]=s[e[t]];end end end else if r>22 then if 25>r then if r<24 then local r,u,_,k,b;for s=0,6 do if 2>=s then if s<=0 then n[e[d]]=a[e[t]];j=j+1;e=l[j];else if s>-1 then for h=14,91 do if s~=2 then n[e[d]]=a[e[t]];j=j+1;e=l[j];break;end;r=e[d];u=n[e[t]];n[r+1]=u;n[r]=u[e[f]];j=j+1;e=l[j];break;end;else r=e[d];u=n[e[t]];n[r+1]=u;n[r]=u[e[f]];j=j+1;e=l[j];end end else if 4>=s then if s~=1 then repeat if s~=3 then n[e[d]]=(e[t]~=0);j=j+1;e=l[j];break;end;n(e[d],e[t]);j=j+1;e=l[j];until true;else n[e[d]]=(e[t]~=0);j=j+1;e=l[j];end else if 2~=s then for f=44,92 do if s~=6 then r=e[d]_,k=c(n[r](h(n,r+1,e[t])))o=k+r-1 b=0;for e=r,o do b=b+1;n[e]=_[b];end;j=j+1;e=l[j];break;end;r=e[d]n[r]=n[r](h(n,r+1,o))break;end;else r=e[d]n[r]=n[r](h(n,r+1,o))end end end end else local r,a;for o=0,6 do if 3>o then if 0>=o then n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];else if o>=0 then repeat if o>1 then n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];break;end;r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];until true;else r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];end end else if o>=5 then if o~=5 then n[e[d]][e[t]]=e[f];else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end else if o<4 then r=e[d];a=n[e[t]];n[r+1]=a;n[r]=a[e[f]];j=j+1;e=l[j];else n[e[d]]={};j=j+1;e=l[j];end end end end end else if 25==r then local j=e[d]n[j]=n[j](h(n,j+1,e[t]))else local h,o;for r=0,6 do if 3<=r then if 4<r then if 6~=r then n[e[d]]={};j=j+1;e=l[j];else n[e[d]]={};end else if r>=-1 then repeat if 4~=r then n[e[d]][e[t]]=e[f];j=j+1;e=l[j];break;end;n[e[d]][e[t]]=e[f];j=j+1;e=l[j];until true;else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end end else if r>0 then if-3<r then for a=24,76 do if r>1 then n[e[d]]={};j=j+1;e=l[j];break;end;h=e[d];o=n[e[t]];n[h+1]=o;n[h]=o[e[f]];j=j+1;e=l[j];break;end;else h=e[d];o=n[e[t]];n[h+1]=o;n[h]=o[e[f]];j=j+1;e=l[j];end else n[e[d]]=s[e[t]];j=j+1;e=l[j];end end end end end else if 21<=r then if 18<r then for s=48,87 do if r~=22 then local r,o;n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];break;end;local r,u,b,k,s;n[e[d]]=a[e[t]];j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];r=e[d];u=n[e[t]];n[r+1]=u;n[r]=u[e[f]];j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];r=e[d]b,k=c(n[r](h(n,r+1,e[t])))o=k+r-1 s=0;for e=r,o do s=s+1;n[e]=b[s];end;j=j+1;e=l[j];r=e[d]n[r]=n[r](h(n,r+1,o))j=j+1;e=l[j];n[e[d]]();break;end;else local r,u,b,k,s;n[e[d]]=a[e[t]];j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];r=e[d];u=n[e[t]];n[r+1]=u;n[r]=u[e[f]];j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];r=e[d]b,k=c(n[r](h(n,r+1,e[t])))o=k+r-1 s=0;for e=r,o do s=s+1;n[e]=b[s];end;j=j+1;e=l[j];r=e[d]n[r]=n[r](h(n,r+1,o))j=j+1;e=l[j];n[e[d]]();end else local h,r;n[e[d]]=s[e[t]];j=j+1;e=l[j];h=e[d];r=n[e[t]];n[h+1]=r;n[h]=r[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]]={};end end end end else if r<40 then if r>32 then if 35>=r then if 33<r then if r>33 then for h=23,85 do if r~=35 then local h,r;n[e[d]]=s[e[t]];j=j+1;e=l[j];h=e[d];r=n[e[t]];n[h+1]=r;n[h]=r[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]]={};break;end;local e=e[d]n[e]=n[e]()break;end;else local r,h;n[e[d]]=s[e[t]];j=j+1;e=l[j];r=e[d];h=n[e[t]];n[r+1]=h;n[r]=h[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]]={};end else local r,o;n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];end else if r<=37 then if 37==r then local h,o;for r=0,4 do if r>=2 then if 2>=r then n[e[d]]={};j=j+1;e=l[j];else if 0<=r then for h=32,59 do if r~=3 then n[e[d]][e[t]]=e[f];break;end;n[e[d]][e[t]]=e[f];j=j+1;e=l[j];break;end;else n[e[d]][e[t]]=e[f];end end else if r==0 then n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];else h=e[d];o=n[e[t]];n[h+1]=o;n[h]=o[e[f]];j=j+1;e=l[j];end end end else local r,o;n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];r=e[d]n[r]=n[r](h(n,r+1,e[t]))j=j+1;e=l[j];n[e[d]][e[t]]=n[e[f]];end else if 35~=r then for o=33,68 do if r>38 then local o,a;for r=0,6 do if r>=3 then if r>4 then if 1<r then for h=37,94 do if 5<r then n[e[d]][e[t]]=e[f];break;end;n[e[d]][e[t]]=e[f];j=j+1;e=l[j];break;end;else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end else if r==4 then n[e[d]]={};j=j+1;e=l[j];else o=e[d];a=n[e[t]];n[o+1]=a;n[o]=a[e[f]];j=j+1;e=l[j];end end else if r>0 then if-1~=r then for a=20,70 do if 2~=r then o=e[d]n[o](h(n,o+1,e[t]))j=j+1;e=l[j];break;end;n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];break;end;else n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];end else n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];end end end break;end;local r,o;n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];break;end;else local r,o;n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];end end end else if 29>=r then if 27<r then if r~=25 then repeat if r>28 then local r,_,k,b,u;for s=0,6 do if 2<s then if 4>=s then if s>1 then for f=20,72 do if 4>s then n(e[d],e[t]);j=j+1;e=l[j];break;end;r=e[d]k,b=c(n[r](h(n,r+1,e[t])))o=b+r-1 u=0;for e=r,o do u=u+1;n[e]=k[u];end;j=j+1;e=l[j];break;end;else r=e[d]k,b=c(n[r](h(n,r+1,e[t])))o=b+r-1 u=0;for e=r,o do u=u+1;n[e]=k[u];end;j=j+1;e=l[j];end else if s>=2 then repeat if s>5 then n[e[d]]();break;end;r=e[d]n[r]=n[r](h(n,r+1,o))j=j+1;e=l[j];until true;else r=e[d]n[r]=n[r](h(n,r+1,o))j=j+1;e=l[j];end end else if 1>s then n[e[d]]=a[e[t]];j=j+1;e=l[j];else if s>-1 then repeat if 2>s then n[e[d]]=a[e[t]];j=j+1;e=l[j];break;end;r=e[d];_=n[e[t]];n[r+1]=_;n[r]=_[e[f]];j=j+1;e=l[j];until true;else n[e[d]]=a[e[t]];j=j+1;e=l[j];end end end end break;end;n[e[d]]=k(_[e[t]],nil,a);until true;else local r,_,b,k,u;for s=0,6 do if 2<s then if 4>=s then if s>1 then for f=20,72 do if 4>s then n(e[d],e[t]);j=j+1;e=l[j];break;end;r=e[d]b,k=c(n[r](h(n,r+1,e[t])))o=k+r-1 u=0;for e=r,o do u=u+1;n[e]=b[u];end;j=j+1;e=l[j];break;end;else r=e[d]b,k=c(n[r](h(n,r+1,e[t])))o=k+r-1 u=0;for e=r,o do u=u+1;n[e]=b[u];end;j=j+1;e=l[j];end else if s>=2 then repeat if s>5 then n[e[d]]();break;end;r=e[d]n[r]=n[r](h(n,r+1,o))j=j+1;e=l[j];until true;else r=e[d]n[r]=n[r](h(n,r+1,o))j=j+1;e=l[j];end end else if 1>s then n[e[d]]=a[e[t]];j=j+1;e=l[j];else if s>-1 then repeat if 2>s then n[e[d]]=a[e[t]];j=j+1;e=l[j];break;end;r=e[d];_=n[e[t]];n[r+1]=_;n[r]=_[e[f]];j=j+1;e=l[j];until true;else n[e[d]]=a[e[t]];j=j+1;e=l[j];end end end end end else local r;n[e[d]]=s[e[t]];j=j+1;e=l[j];n[e[d]]=s[e[t]];j=j+1;e=l[j];n[e[d]]=n[e[t]];j=j+1;e=l[j];r=e[d]n[r]=n[r](n[r+1])j=j+1;e=l[j];n[e[d]][n[e[t]]]=n[e[f]];j=j+1;e=l[j];do return end;end else if r<31 then local h,o;for r=0,6 do if 2<r then if r<=4 then if r>=2 then repeat if r~=4 then n[e[d]][e[t]]=e[f];j=j+1;e=l[j];break;end;n[e[d]][e[t]]=e[f];j=j+1;e=l[j];until true;else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end else if r>=1 then for t=20,70 do if r~=6 then n[e[d]]={};j=j+1;e=l[j];break;end;n[e[d]]={};break;end;else n[e[d]]={};j=j+1;e=l[j];end end else if r>0 then if r~=2 then h=e[d];o=n[e[t]];n[h+1]=o;n[h]=o[e[f]];j=j+1;e=l[j];else n[e[d]]={};j=j+1;e=l[j];end else n[e[d]]=s[e[t]];j=j+1;e=l[j];end end end else if r>31 then local h,r;n[e[d]]=s[e[t]];j=j+1;e=l[j];h=e[d];r=n[e[t]];n[h+1]=r;n[h]=r[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]]={};else local r,a;for o=0,6 do if 2<o then if 5>o then if-1<=o then repeat if 4~=o then r=e[d];a=n[e[t]];n[r+1]=a;n[r]=a[e[f]];j=j+1;e=l[j];break;end;n[e[d]]={};j=j+1;e=l[j];until true;else r=e[d];a=n[e[t]];n[r+1]=a;n[r]=a[e[f]];j=j+1;e=l[j];end else if 3<o then repeat if 5~=o then n[e[d]][e[t]]=e[f];break;end;n[e[d]][e[t]]=e[f];j=j+1;e=l[j];until true;else n[e[d]][e[t]]=e[f];end end else if 1>o then n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];else if-1~=o then repeat if 2>o then r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];break;end;n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];until true;else r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];end end end end end end end end else if 47>r then if r>42 then if 44>=r then if r~=39 then for o=10,74 do if r<44 then local o,a,s,c,b,k,_,u,r;for r=0,7 do if r>3 then if 6<=r then if r==7 then o=e[d]n[o](h(n,o+1,e[t]))else r=0;while r>-1 do if r<4 then if r<=1 then if-4<=r then repeat if 0<r then c=d;break;end;s=e;until true;else c=d;end else if-2<=r then repeat if r~=2 then k=n;break;end;b=t;until true;else b=t;end end else if 5>=r then if 1~=r then for e=29,54 do if r~=4 then u=s[c];break;end;_=k[s[b]];break;end;else u=s[c];end else if 3<=r then for e=22,80 do if r~=7 then n[u]=_;break;end;r=-2;break;end;else r=-2;end end end r=r+1 end j=j+1;e=l[j];end else if r~=1 then repeat if 4~=r then o=e[d];a=n[e[t]];n[o+1]=a;n[o]=a[e[f]];j=j+1;e=l[j];break;end;o=e[d]n[o](h(n,o+1,e[t]))j=j+1;e=l[j];until true;else o=e[d];a=n[e[t]];n[o+1]=a;n[o]=a[e[f]];j=j+1;e=l[j];end end else if 1<r then if r<3 then o=e[d];a=n[e[t]];n[o+1]=a;n[o]=a[e[f]];j=j+1;e=l[j];else n[e[d]]=n[e[t]];j=j+1;e=l[j];end else if-2<=r then for a=15,60 do if 0<r then o=e[d]n[o](h(n,o+1,e[t]))j=j+1;e=l[j];break;end;n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];break;end;else n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];end end end end break;end;local r,h;n[e[d]]=s[e[t]];j=j+1;e=l[j];r=e[d];h=n[e[t]];n[r+1]=h;n[r]=h[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]]={};break;end;else local h,r;n[e[d]]=s[e[t]];j=j+1;e=l[j];h=e[d];r=n[e[t]];n[h+1]=r;n[h]=r[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]]={};end else if r~=46 then local h,r;n[e[d]]=s[e[t]];j=j+1;e=l[j];h=e[d];r=n[e[t]];n[h+1]=r;n[h]=r[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]]={};else n[e[d]][n[e[t]]]=n[e[f]];end end else if r<41 then local h,o;for r=0,6 do if 2>=r then if 0<r then if r>=-2 then for a=37,90 do if 2~=r then h=e[d];o=n[e[t]];n[h+1]=o;n[h]=o[e[f]];j=j+1;e=l[j];break;end;n[e[d]]={};j=j+1;e=l[j];break;end;else n[e[d]]={};j=j+1;e=l[j];end else n[e[d]]=s[e[t]];j=j+1;e=l[j];end else if r<=4 then if r~=-1 then for h=13,76 do if 4>r then n[e[d]][e[t]]=e[f];j=j+1;e=l[j];break;end;n[e[d]][e[t]]=e[f];j=j+1;e=l[j];break;end;else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end else if 5~=r then n[e[d]]={};else n[e[d]]={};j=j+1;e=l[j];end end end end else if 38~=r then repeat if 42~=r then local j=e[d]n[j]=n[j](h(n,j+1,e[t]))break;end;local h,o;for r=0,6 do if 2<r then if 5>r then if 1~=r then repeat if 4>r then n[e[d]][e[t]]=e[f];j=j+1;e=l[j];break;end;n[e[d]][e[t]]=e[f];j=j+1;e=l[j];until true;else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end else if r<6 then n[e[d]]={};j=j+1;e=l[j];else n[e[d]]={};end end else if 1>r then n[e[d]]=s[e[t]];j=j+1;e=l[j];else if-2~=r then for a=40,59 do if 1~=r then n[e[d]]={};j=j+1;e=l[j];break;end;h=e[d];o=n[e[t]];n[h+1]=o;n[h]=o[e[f]];j=j+1;e=l[j];break;end;else n[e[d]]={};j=j+1;e=l[j];end end end end until true;else local j=e[d]n[j]=n[j](h(n,j+1,e[t]))end end end else if r>=50 then if 52>r then if 50<r then local o,s,c,k,b,u,_,r;n[e[d]]=a[e[t]];j=j+1;e=l[j];o=e[d];s=n[e[t]];n[o+1]=s;n[o]=s[e[f]];j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];o=e[d]n[o]=n[o](h(n,o+1,e[t]))j=j+1;e=l[j];o=e[d];s=n[e[t]];n[o+1]=s;n[o]=s[e[f]];j=j+1;e=l[j];r=0;while r>-1 do if r>=3 then if 5>r then if r~=-1 then for e=43,77 do if 3~=r then _=c[k];break;end;u=c[b];break;end;else u=c[b];end else if 6~=r then n(_,u);else r=-2;end end else if r>0 then if r==1 then k=d;else b=t;end else c=e;end end r=r+1 end j=j+1;e=l[j];n[e[d]]=(e[t]~=0);else local j=e[d]n[j](h(n,j+1,e[t]))end else if 52~=r then local r,a;for o=0,6 do if o<=2 then if o<1 then n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];else if o>=0 then for h=29,53 do if o~=2 then n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];break;end;r=e[d];a=n[e[t]];n[r+1]=a;n[r]=a[e[f]];j=j+1;e=l[j];break;end;else n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];end end else if 4<o then if 3~=o then for h=10,95 do if 5~=o then r=e[d]n[r](n[r+1])break;end;r=e[d];a=n[e[t]];n[r+1]=a;n[r]=a[e[f]];j=j+1;e=l[j];break;end;else r=e[d];a=n[e[t]];n[r+1]=a;n[r]=a[e[f]];j=j+1;e=l[j];end else if o>=0 then for f=11,95 do if o~=3 then r=e[d]n[r]=n[r](h(n,r+1,e[t]))j=j+1;e=l[j];break;end;n[e[d]]=n[e[t]];j=j+1;e=l[j];break;end;else n[e[d]]=n[e[t]];j=j+1;e=l[j];end end end end else local r,o;n(e[d],e[t]);j=j+1;e=l[j];r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];r=e[d]n[r](n[r+1])end end else if r>47 then if 44<r then repeat if r~=49 then n[e[d]]=s[e[t]];break;end;local e=e[d]n[e]=n[e](h(n,e+1,o))until true;else local e=e[d]n[e]=n[e](h(n,e+1,o))end else n[e[d]]=a[e[t]];end end end end end else if 81<=r then if 94<r then if r<102 then if 98<=r then if 99>=r then if 94<=r then repeat if r~=98 then local r;n(e[d],e[t]);j=j+1;e=l[j];a[e[t]]=n[e[d]];j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];a[e[t]]=n[e[d]];j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];r=e[d]n[r]=n[r](n[r+1])j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];n[e[d]]=a[e[t]];break;end;local e=e[d];o=e+z-1;for j=e,o do local e=m[j-e];n[j]=e;end;until true;else local r;n(e[d],e[t]);j=j+1;e=l[j];a[e[t]]=n[e[d]];j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];a[e[t]]=n[e[d]];j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];r=e[d]n[r]=n[r](n[r+1])j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];n[e[d]]=a[e[t]];end else if r==100 then a[e[t]]=n[e[d]];else local r,b,k,_,u;for s=0,6 do if 2<s then if s>4 then if s~=1 then repeat if 6>s then r=e[d]n[r]=n[r](h(n,r+1,o))j=j+1;e=l[j];break;end;n[e[d]]();until true;else r=e[d]n[r]=n[r](h(n,r+1,o))j=j+1;e=l[j];end else if 3~=s then r=e[d]k,_=c(n[r](h(n,r+1,e[t])))o=_+r-1 u=0;for e=r,o do u=u+1;n[e]=k[u];end;j=j+1;e=l[j];else n(e[d],e[t]);j=j+1;e=l[j];end end else if s>0 then if s>-3 then for h=18,64 do if 1~=s then r=e[d];b=n[e[t]];n[r+1]=b;n[r]=b[e[f]];j=j+1;e=l[j];break;end;n[e[d]]=a[e[t]];j=j+1;e=l[j];break;end;else n[e[d]]=a[e[t]];j=j+1;e=l[j];end else n[e[d]]=a[e[t]];j=j+1;e=l[j];end end end end end else if 96<=r then if 92<=r then for o=43,81 do if r~=96 then n[e[d]]=n[e[t]][n[e[f]]];break;end;local r,o;n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];break;end;else n[e[d]]=n[e[t]][n[e[f]]];end else local d=e[d];local l=n[d]local f=n[d+2];if(f>0)then if(l>n[d+1])then j=e[t];else n[d+3]=l;end elseif(l<n[d+1])then j=e[t];else n[d+3]=l;end end end else if 104<r then if 107<=r then if r~=106 then for s=31,64 do if r~=107 then local r,k,b,p,_,m,z,s,y,g,u;n[e[d]]=a[e[t]];j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];r=e[d];k=n[e[t]];n[r+1]=k;n[r]=k[e[f]];j=j+1;e=l[j];s=0;while s>-1 do if 2<s then if 4<s then if s==6 then s=-2;else n(z,m);end else if 4==s then z=b[p];else m=b[_];end end else if s<=0 then b=e;else if s~=2 then p=d;else _=t;end end end s=s+1 end j=j+1;e=l[j];r=e[d]y,g=c(n[r](h(n,r+1,e[t])))o=g+r-1 u=0;for e=r,o do u=u+1;n[e]=y[u];end;j=j+1;e=l[j];r=e[d]n[r]=n[r](h(n,r+1,o))j=j+1;e=l[j];n[e[d]]();break;end;local r,u,k,b,s;n[e[d]]=a[e[t]];j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];r=e[d];u=n[e[t]];n[r+1]=u;n[r]=u[e[f]];j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];r=e[d]k,b=c(n[r](h(n,r+1,e[t])))o=b+r-1 s=0;for e=r,o do s=s+1;n[e]=k[s];end;j=j+1;e=l[j];r=e[d]n[r]=n[r](h(n,r+1,o))j=j+1;e=l[j];n[e[d]]();break;end;else local r,u,k,b,s;n[e[d]]=a[e[t]];j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];r=e[d];u=n[e[t]];n[r+1]=u;n[r]=u[e[f]];j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];r=e[d]k,b=c(n[r](h(n,r+1,e[t])))o=b+r-1 s=0;for e=r,o do s=s+1;n[e]=k[s];end;j=j+1;e=l[j];r=e[d]n[r]=n[r](h(n,r+1,o))j=j+1;e=l[j];n[e[d]]();end else if 104<=r then for s=10,54 do if 105~=r then local o,a;for r=0,6 do if 2<r then if r>=5 then if r~=3 then for h=12,63 do if 5<r then n[e[d]][e[t]]=e[f];break;end;n[e[d]][e[t]]=e[f];j=j+1;e=l[j];break;end;else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end else if r~=0 then repeat if 3<r then n[e[d]]={};j=j+1;e=l[j];break;end;o=e[d];a=n[e[t]];n[o+1]=a;n[o]=a[e[f]];j=j+1;e=l[j];until true;else n[e[d]]={};j=j+1;e=l[j];end end else if r>=1 then if 2==r then n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];else o=e[d]n[o](h(n,o+1,e[t]))j=j+1;e=l[j];end else n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];end end end break;end;local r,u,k,b,s;n[e[d]]=a[e[t]];j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];r=e[d];u=n[e[t]];n[r+1]=u;n[r]=u[e[f]];j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];r=e[d]k,b=c(n[r](h(n,r+1,e[t])))o=b+r-1 s=0;for e=r,o do s=s+1;n[e]=k[s];end;j=j+1;e=l[j];r=e[d]n[r]=n[r](h(n,r+1,o))j=j+1;e=l[j];n[e[d]]();break;end;else local o,a;for r=0,6 do if 2<r then if r>=5 then if r~=3 then for h=12,63 do if 5<r then n[e[d]][e[t]]=e[f];break;end;n[e[d]][e[t]]=e[f];j=j+1;e=l[j];break;end;else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end else if r~=0 then repeat if 3<r then n[e[d]]={};j=j+1;e=l[j];break;end;o=e[d];a=n[e[t]];n[o+1]=a;n[o]=a[e[f]];j=j+1;e=l[j];until true;else n[e[d]]={};j=j+1;e=l[j];end end else if r>=1 then if 2==r then n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];else o=e[d]n[o](h(n,o+1,e[t]))j=j+1;e=l[j];end else n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];end end end end end else if r<=102 then n[e[d]]=#n[e[t]];else if 102<=r then for h=29,55 do if r~=103 then local h,r;n[e[d]]=s[e[t]];j=j+1;e=l[j];h=e[d];r=n[e[t]];n[h+1]=r;n[h]=r[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]]={};break;end;if(e[d]<n[e[f]])then j=e[t];else j=j+1;end;break;end;else local r,h;n[e[d]]=s[e[t]];j=j+1;e=l[j];r=e[d];h=n[e[t]];n[r+1]=h;n[r]=h[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]]={};end end end end else if r<88 then if 83>=r then if 82>r then local r,a;for o=0,4 do if 1>=o then if o>-2 then for a=16,77 do if o<1 then n[e[d]][e[t]]=e[f];j=j+1;e=l[j];break;end;r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];break;end;else r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];end else if 2<o then if o>3 then n[e[d]]={};else r=e[d];a=n[e[t]];n[r+1]=a;n[r]=a[e[f]];j=j+1;e=l[j];end else n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];end end end else if 80~=r then repeat if 82~=r then local j=e[d]local d,e=c(n[j](h(n,j+1,e[t])))o=e+j-1 local e=0;for j=j,o do e=e+1;n[j]=d[e];end;break;end;local r,b,_,k,u;for s=0,6 do if 3>s then if 0<s then if 1~=s then r=e[d];b=n[e[t]];n[r+1]=b;n[r]=b[e[f]];j=j+1;e=l[j];else n[e[d]]=a[e[t]];j=j+1;e=l[j];end else n[e[d]]=a[e[t]];j=j+1;e=l[j];end else if s>4 then if s>4 then for t=41,52 do if s~=5 then n[e[d]]();break;end;r=e[d]n[r]=n[r](h(n,r+1,o))j=j+1;e=l[j];break;end;else r=e[d]n[r]=n[r](h(n,r+1,o))j=j+1;e=l[j];end else if s~=2 then repeat if 4~=s then n(e[d],e[t]);j=j+1;e=l[j];break;end;r=e[d]_,k=c(n[r](h(n,r+1,e[t])))o=k+r-1 u=0;for e=r,o do u=u+1;n[e]=_[u];end;j=j+1;e=l[j];until true;else n(e[d],e[t]);j=j+1;e=l[j];end end end end until true;else local j=e[d]local d,e=c(n[j](h(n,j+1,e[t])))o=e+j-1 local e=0;for j=j,o do e=e+1;n[j]=d[e];end;end end else if 85<r then if r==87 then local r,h,s;for o=0,6 do if 2<o then if o>4 then if o>1 then repeat if o~=5 then r=e[d];h=n[r]s=n[r+2];if(s>0)then if(h>n[r+1])then j=e[t];else n[r+3]=h;end elseif(h<n[r+1])then j=e[t];else n[r+3]=h;end break;end;n(e[d],e[t]);j=j+1;e=l[j];until true;else r=e[d];h=n[r]s=n[r+2];if(s>0)then if(h>n[r+1])then j=e[t];else n[r+3]=h;end elseif(h<n[r+1])then j=e[t];else n[r+3]=h;end end else if 1~=o then repeat if o~=3 then n(e[d],e[t]);j=j+1;e=l[j];break;end;n(e[d],e[t]);j=j+1;e=l[j];until true;else n(e[d],e[t]);j=j+1;e=l[j];end end else if o<=0 then n[e[d]]=a[e[t]];j=j+1;e=l[j];else if o>=-1 then repeat if o>1 then n[e[d]]={};j=j+1;e=l[j];break;end;n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];until true;else n[e[d]]={};j=j+1;e=l[j];end end end end else n[e[d]][e[t]]=e[f];end else if 82<r then for o=32,54 do if 84<r then local h,r;n[e[d]]=s[e[t]];j=j+1;e=l[j];h=e[d];r=n[e[t]];n[h+1]=r;n[h]=r[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]]={};break;end;local o,a;for r=0,6 do if 3>r then if 1>r then n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];else if r>1 then n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];else o=e[d]n[o](h(n,o+1,e[t]))j=j+1;e=l[j];end end else if 5>r then if r>=0 then for h=28,77 do if r~=3 then n[e[d]]={};j=j+1;e=l[j];break;end;o=e[d];a=n[e[t]];n[o+1]=a;n[o]=a[e[f]];j=j+1;e=l[j];break;end;else n[e[d]]={};j=j+1;e=l[j];end else if r>=4 then repeat if 5~=r then n[e[d]][e[t]]=e[f];break;end;n[e[d]][e[t]]=e[f];j=j+1;e=l[j];until true;else n[e[d]][e[t]]=e[f];end end end end break;end;else local o,a;for r=0,6 do if 3>r then if 1>r then n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];else if r>1 then n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];else o=e[d]n[o](h(n,o+1,e[t]))j=j+1;e=l[j];end end else if 5>r then if r>=0 then for h=28,77 do if r~=3 then n[e[d]]={};j=j+1;e=l[j];break;end;o=e[d];a=n[e[t]];n[o+1]=a;n[o]=a[e[f]];j=j+1;e=l[j];break;end;else n[e[d]]={};j=j+1;e=l[j];end else if r>=4 then repeat if 5~=r then n[e[d]][e[t]]=e[f];break;end;n[e[d]][e[t]]=e[f];j=j+1;e=l[j];until true;else n[e[d]][e[t]]=e[f];end end end end end end end else if 91>r then if r>=89 then if r>=85 then repeat if r~=90 then for e=e[d],e[t]do n[e]=nil;end;break;end;if(n[e[d]]~=e[f])then j=j+1;else j=e[t];end;until true;else for e=e[d],e[t]do n[e]=nil;end;end else local o,a;for r=0,6 do if r>=3 then if 5<=r then if 4~=r then repeat if 5<r then n[e[d]][e[t]]=e[f];break;end;n[e[d]][e[t]]=e[f];j=j+1;e=l[j];until true;else n[e[d]][e[t]]=e[f];end else if r>3 then n[e[d]]={};j=j+1;e=l[j];else o=e[d];a=n[e[t]];n[o+1]=a;n[o]=a[e[f]];j=j+1;e=l[j];end end else if 0<r then if r~=1 then n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];else o=e[d]n[o](h(n,o+1,e[t]))j=j+1;e=l[j];end else n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];end end end end else if 93<=r then if r~=94 then local h,o;for r=0,6 do if r>2 then if r<=4 then if r~=2 then repeat if r<4 then n[e[d]][e[t]]=e[f];j=j+1;e=l[j];break;end;n[e[d]][e[t]]=e[f];j=j+1;e=l[j];until true;else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end else if 3~=r then repeat if 5<r then n[e[d]]={};break;end;n[e[d]]={};j=j+1;e=l[j];until true;else n[e[d]]={};j=j+1;e=l[j];end end else if r<=0 then n[e[d]]=s[e[t]];j=j+1;e=l[j];else if-2<r then for a=21,85 do if r~=1 then n[e[d]]={};j=j+1;e=l[j];break;end;h=e[d];o=n[e[t]];n[h+1]=o;n[h]=o[e[f]];j=j+1;e=l[j];break;end;else h=e[d];o=n[e[t]];n[h+1]=o;n[h]=o[e[f]];j=j+1;e=l[j];end end end end else if(e[d]<n[e[f]])then j=e[t];else j=j+1;end;end else if r>=90 then for l=32,68 do if r>91 then s[e[t]]=n[e[d]];break;end;if(n[e[d]]==e[f])then j=j+1;else j=e[t];end;break;end;else if(n[e[d]]==e[f])then j=j+1;else j=e[t];end;end end end end end else if r<=66 then if 60>r then if r>56 then if 58>r then local r,h;n[e[d]]=s[e[t]];j=j+1;e=l[j];r=e[d];h=n[e[t]];n[r+1]=h;n[r]=h[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]]={};else if 59>r then local r,u,k,b,s;n[e[d]]=a[e[t]];j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];r=e[d];u=n[e[t]];n[r+1]=u;n[r]=u[e[f]];j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];r=e[d]k,b=c(n[r](h(n,r+1,e[t])))o=b+r-1 s=0;for e=r,o do s=s+1;n[e]=k[s];end;j=j+1;e=l[j];r=e[d]n[r]=n[r](h(n,r+1,o))j=j+1;e=l[j];n[e[d]]();else local r,o;n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];end end else if 54>=r then local r,h;n[e[d]]=s[e[t]];j=j+1;e=l[j];r=e[d];h=n[e[t]];n[r+1]=h;n[r]=h[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]]={};else if 54<r then for j=39,83 do if r>55 then local e=e[d]n[e]=n[e](h(n,e+1,o))break;end;n(e[d],e[t]);break;end;else n(e[d],e[t]);end end end else if r>=63 then if 64<r then if 64~=r then for o=40,86 do if 65~=r then local r,a;for o=0,6 do if o<3 then if o<1 then n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];else if 0<=o then for a=40,60 do if 2>o then r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];break;end;n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];break;end;else r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];end end else if o<=4 then if 3~=o then n[e[d]]={};j=j+1;e=l[j];else r=e[d];a=n[e[t]];n[r+1]=a;n[r]=a[e[f]];j=j+1;e=l[j];end else if o~=6 then n[e[d]][e[t]]=e[f];j=j+1;e=l[j];else n[e[d]][e[t]]=e[f];end end end end break;end;local r,h;n[e[d]]=s[e[t]];j=j+1;e=l[j];r=e[d];h=n[e[t]];n[r+1]=h;n[r]=h[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]]={};break;end;else local r,a;for o=0,6 do if o<3 then if o<1 then n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];else if 0<=o then for a=40,60 do if 2>o then r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];break;end;n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];break;end;else r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];end end else if o<=4 then if 3~=o then n[e[d]]={};j=j+1;e=l[j];else r=e[d];a=n[e[t]];n[r+1]=a;n[r]=a[e[f]];j=j+1;e=l[j];end else if o~=6 then n[e[d]][e[t]]=e[f];j=j+1;e=l[j];else n[e[d]][e[t]]=e[f];end end end end end else if r>=59 then repeat if 64~=r then n[e[d]]=n[e[t]];break;end;n[e[d]]=n[e[t]]%e[f];until true;else n[e[d]]=n[e[t]]%e[f];end end else if 60>=r then local h,o;for r=0,6 do if r>=3 then if r<5 then if 1~=r then repeat if r~=4 then n[e[d]][e[t]]=e[f];j=j+1;e=l[j];break;end;n[e[d]][e[t]]=e[f];j=j+1;e=l[j];until true;else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end else if r>=3 then repeat if 6~=r then n[e[d]]={};j=j+1;e=l[j];break;end;n[e[d]]={};until true;else n[e[d]]={};end end else if r>0 then if r~=2 then h=e[d];o=n[e[t]];n[h+1]=o;n[h]=o[e[f]];j=j+1;e=l[j];else n[e[d]]={};j=j+1;e=l[j];end else n[e[d]]=s[e[t]];j=j+1;e=l[j];end end end else if 61<r then local o,h;for r=0,6 do if r<3 then if 0<r then if r>=-2 then repeat if r<2 then n[e[d]]={};j=j+1;e=l[j];break;end;n[e[d]][e[t]]=e[f];j=j+1;e=l[j];until true;else n[e[d]]={};j=j+1;e=l[j];end else o=e[d];h=n[e[t]];n[o+1]=h;n[o]=h[e[f]];j=j+1;e=l[j];end else if 5<=r then if 4<r then repeat if 5<r then n[e[d]]=n[e[t]][e[f]];break;end;n[e[d]]=a[e[t]];j=j+1;e=l[j];until true;else n[e[d]]=a[e[t]];j=j+1;e=l[j];end else if 2~=r then repeat if 3~=r then n[e[d]][e[t]]=e[f];j=j+1;e=l[j];break;end;n[e[d]][e[t]]=e[f];j=j+1;e=l[j];until true;else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end end end end else local o,h;for r=0,6 do if 3>r then if 1>r then n[e[d]]=s[e[t]];j=j+1;e=l[j];else if 0<=r then repeat if 1<r then n[e[d]]={};j=j+1;e=l[j];break;end;o=e[d];h=n[e[t]];n[o+1]=h;n[o]=h[e[f]];j=j+1;e=l[j];until true;else n[e[d]]={};j=j+1;e=l[j];end end else if r<5 then if 4~=r then n[e[d]][e[t]]=e[f];j=j+1;e=l[j];else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end else if 1<r then repeat if r>5 then n[e[d]]={};break;end;n[e[d]]={};j=j+1;e=l[j];until true;else n[e[d]]={};end end end end end end end end else if r<74 then if r>=70 then if 72>r then if 68<r then for o=41,96 do if r~=70 then local o,h;for r=0,6 do if 2>=r then if 0<r then if r>=-1 then for a=47,95 do if 1<r then n[e[d]]={};j=j+1;e=l[j];break;end;o=e[d];h=n[e[t]];n[o+1]=h;n[o]=h[e[f]];j=j+1;e=l[j];break;end;else o=e[d];h=n[e[t]];n[o+1]=h;n[o]=h[e[f]];j=j+1;e=l[j];end else n[e[d]]=s[e[t]];j=j+1;e=l[j];end else if r<5 then if r~=4 then n[e[d]][e[t]]=e[f];j=j+1;e=l[j];else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end else if 5==r then n[e[d]]={};j=j+1;e=l[j];else n[e[d]]={};end end end end break;end;local r,o;n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];break;end;else local o,h;for r=0,6 do if 2>=r then if 0<r then if r>=-1 then for a=47,95 do if 1<r then n[e[d]]={};j=j+1;e=l[j];break;end;o=e[d];h=n[e[t]];n[o+1]=h;n[o]=h[e[f]];j=j+1;e=l[j];break;end;else o=e[d];h=n[e[t]];n[o+1]=h;n[o]=h[e[f]];j=j+1;e=l[j];end else n[e[d]]=s[e[t]];j=j+1;e=l[j];end else if r<5 then if r~=4 then n[e[d]][e[t]]=e[f];j=j+1;e=l[j];else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end else if 5==r then n[e[d]]={};j=j+1;e=l[j];else n[e[d]]={};end end end end end else if 70<=r then for h=32,60 do if r~=72 then n[e[d]]=(e[t]~=0);break;end;local h,o;for r=0,6 do if 2<r then if r<=4 then if 2~=r then for h=30,79 do if 3<r then n[e[d]][e[t]]=e[f];j=j+1;e=l[j];break;end;n[e[d]][e[t]]=e[f];j=j+1;e=l[j];break;end;else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end else if 4<r then for t=38,81 do if 6~=r then n[e[d]]={};j=j+1;e=l[j];break;end;n[e[d]]={};break;end;else n[e[d]]={};end end else if r<1 then n[e[d]]=s[e[t]];j=j+1;e=l[j];else if 2~=r then h=e[d];o=n[e[t]];n[h+1]=o;n[h]=o[e[f]];j=j+1;e=l[j];else n[e[d]]={};j=j+1;e=l[j];end end end end break;end;else n[e[d]]=(e[t]~=0);end end else if r<=67 then local o,a;for r=0,6 do if r<3 then if 1<=r then if r>-2 then repeat if 1~=r then o=e[d]n[o](h(n,o+1,e[t]))j=j+1;e=l[j];break;end;n[e[d]][e[t]]=e[f];j=j+1;e=l[j];until true;else o=e[d]n[o](h(n,o+1,e[t]))j=j+1;e=l[j];end else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end else if r<5 then if 2<=r then repeat if 3<r then o=e[d];a=n[e[t]];n[o+1]=a;n[o]=a[e[f]];j=j+1;e=l[j];break;end;n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];until true;else n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];end else if 1~=r then for h=27,71 do if r~=5 then n[e[d]][e[t]]=e[f];break;end;n[e[d]]={};j=j+1;e=l[j];break;end;else n[e[d]][e[t]]=e[f];end end end end else if 65<r then for u=10,67 do if 69>r then local r,u,k,b,s;n[e[d]]=a[e[t]];j=j+1;e=l[j];r=e[d];u=n[e[t]];n[r+1]=u;n[r]=u[e[f]];j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];r=e[d]k,b=c(n[r](h(n,r+1,e[t])))o=b+r-1 s=0;for e=r,o do s=s+1;n[e]=k[s];end;j=j+1;e=l[j];r=e[d]n[r]=n[r](h(n,r+1,o))j=j+1;e=l[j];r=e[d]n[r]=n[r]()j=j+1;e=l[j];n[e[d]]=n[e[t]][e[f]];break;end;local o,h;for r=0,6 do if 3<=r then if 4>=r then if r==3 then n[e[d]][e[t]]=e[f];j=j+1;e=l[j];else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end else if 1~=r then for t=41,84 do if r>5 then n[e[d]]={};break;end;n[e[d]]={};j=j+1;e=l[j];break;end;else n[e[d]]={};j=j+1;e=l[j];end end else if r>0 then if r>1 then n[e[d]]={};j=j+1;e=l[j];else o=e[d];h=n[e[t]];n[o+1]=h;n[o]=h[e[f]];j=j+1;e=l[j];end else n[e[d]]=s[e[t]];j=j+1;e=l[j];end end end break;end;else local r,u,b,k,s;n[e[d]]=a[e[t]];j=j+1;e=l[j];r=e[d];u=n[e[t]];n[r+1]=u;n[r]=u[e[f]];j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];r=e[d]b,k=c(n[r](h(n,r+1,e[t])))o=k+r-1 s=0;for e=r,o do s=s+1;n[e]=b[s];end;j=j+1;e=l[j];r=e[d]n[r]=n[r](h(n,r+1,o))j=j+1;e=l[j];r=e[d]n[r]=n[r]()j=j+1;e=l[j];n[e[d]]=n[e[t]][e[f]];end end end else if 76>=r then if r<75 then for r=0,8 do if r>=4 then if r>5 then if 7<=r then if r>=3 then for h=11,64 do if r~=7 then if(n[e[d]]==e[f])then j=j+1;else j=e[t];end;break;end;n[e[d]]=a[e[t]];j=j+1;e=l[j];break;end;else n[e[d]]=a[e[t]];j=j+1;e=l[j];end else a[e[t]]=n[e[d]];j=j+1;e=l[j];end else if r>4 then n[e[d]]=(e[t]~=0);j=j+1;e=l[j];else a[e[t]]=n[e[d]];j=j+1;e=l[j];end end else if r<=1 then if-1<r then repeat if r<1 then n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];break;end;a[e[t]]=n[e[d]];j=j+1;e=l[j];until true;else a[e[t]]=n[e[d]];j=j+1;e=l[j];end else if-1<=r then repeat if r>2 then n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];break;end;n[e[d]]=a[e[t]];j=j+1;e=l[j];until true;else n[e[d]]=a[e[t]];j=j+1;e=l[j];end end end end else if 74<=r then repeat if r~=75 then local h,o;for r=0,6 do if 2<r then if 5<=r then if 3<r then for t=21,57 do if r<6 then n[e[d]]={};j=j+1;e=l[j];break;end;n[e[d]]={};break;end;else n[e[d]]={};end else if 3~=r then n[e[d]][e[t]]=e[f];j=j+1;e=l[j];else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end end else if r>0 then if r==2 then n[e[d]]={};j=j+1;e=l[j];else h=e[d];o=n[e[t]];n[h+1]=o;n[h]=o[e[f]];j=j+1;e=l[j];end else n[e[d]]=s[e[t]];j=j+1;e=l[j];end end end break;end;local r,_,b,k,s;for u=0,6 do if u>2 then if u<=4 then if 3~=u then n[e[d]]=(e[t]~=0);j=j+1;e=l[j];else n(e[d],e[t]);j=j+1;e=l[j];end else if 4<=u then repeat if 5~=u then r=e[d]n[r]=n[r](h(n,r+1,o))break;end;r=e[d]b,k=c(n[r](h(n,r+1,e[t])))o=k+r-1 s=0;for e=r,o do s=s+1;n[e]=b[s];end;j=j+1;e=l[j];until true;else r=e[d]b,k=c(n[r](h(n,r+1,e[t])))o=k+r-1 s=0;for e=r,o do s=s+1;n[e]=b[s];end;j=j+1;e=l[j];end end else if u<1 then n[e[d]]=a[e[t]];j=j+1;e=l[j];else if 2==u then r=e[d];_=n[e[t]];n[r+1]=_;n[r]=_[e[f]];j=j+1;e=l[j];else n[e[d]]=a[e[t]];j=j+1;e=l[j];end end end end until true;else local r,_,k,b,s;for u=0,6 do if u>2 then if u<=4 then if 3~=u then n[e[d]]=(e[t]~=0);j=j+1;e=l[j];else n(e[d],e[t]);j=j+1;e=l[j];end else if 4<=u then repeat if 5~=u then r=e[d]n[r]=n[r](h(n,r+1,o))break;end;r=e[d]k,b=c(n[r](h(n,r+1,e[t])))o=b+r-1 s=0;for e=r,o do s=s+1;n[e]=k[s];end;j=j+1;e=l[j];until true;else r=e[d]k,b=c(n[r](h(n,r+1,e[t])))o=b+r-1 s=0;for e=r,o do s=s+1;n[e]=k[s];end;j=j+1;e=l[j];end end else if u<1 then n[e[d]]=a[e[t]];j=j+1;e=l[j];else if 2==u then r=e[d];_=n[e[t]];n[r+1]=_;n[r]=_[e[f]];j=j+1;e=l[j];else n[e[d]]=a[e[t]];j=j+1;e=l[j];end end end end end end else if r>=79 then if r<80 then local r,u,b,k,s;n[e[d]]=a[e[t]];j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];r=e[d];u=n[e[t]];n[r+1]=u;n[r]=u[e[f]];j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];r=e[d]b,k=c(n[r](h(n,r+1,e[t])))o=k+r-1 s=0;for e=r,o do s=s+1;n[e]=b[s];end;j=j+1;e=l[j];r=e[d]n[r]=n[r](h(n,r+1,o))j=j+1;e=l[j];n[e[d]]();else local r,b,_,k,u;for s=0,6 do if s<=2 then if s>0 then if 0<=s then repeat if s<2 then n[e[d]]=a[e[t]];j=j+1;e=l[j];break;end;r=e[d];b=n[e[t]];n[r+1]=b;n[r]=b[e[f]];j=j+1;e=l[j];until true;else n[e[d]]=a[e[t]];j=j+1;e=l[j];end else n[e[d]]=a[e[t]];j=j+1;e=l[j];end else if 4<s then if s>=2 then for t=29,75 do if 6~=s then r=e[d]n[r]=n[r](h(n,r+1,o))j=j+1;e=l[j];break;end;n[e[d]]();break;end;else n[e[d]]();end else if s>1 then repeat if s>3 then r=e[d]_,k=c(n[r](h(n,r+1,e[t])))o=k+r-1 u=0;for e=r,o do u=u+1;n[e]=_[u];end;j=j+1;e=l[j];break;end;n(e[d],e[t]);j=j+1;e=l[j];until true;else n(e[d],e[t]);j=j+1;e=l[j];end end end end end else if 75<r then for j=37,66 do if r<78 then local j=e[d]local d,e=c(n[j](h(n,j+1,e[t])))o=e+j-1 local e=0;for j=j,o do e=e+1;n[j]=d[e];end;break;end;n[e[d]]=#n[e[t]];break;end;else local j=e[d]local d,e=c(n[j](h(n,j+1,e[t])))o=e+j-1 local e=0;for j=j,o do e=e+1;n[j]=d[e];end;end end end end end end end else if 164>r then if 135<r then if 150<=r then if r>=157 then if 159>=r then if r<158 then local h,o;for r=0,5 do if r<3 then if 1>r then n[e[d]]();j=j+1;e=l[j];else if r~=2 then n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];else h=e[d];o=n[e[t]];n[h+1]=o;n[h]=o[e[f]];j=j+1;e=l[j];end end else if 4>r then n[e[d]]={};j=j+1;e=l[j];else if 0~=r then repeat if r<5 then n[e[d]][e[t]]=e[f];j=j+1;e=l[j];break;end;n[e[d]][e[t]]=e[f];until true;else n[e[d]][e[t]]=e[f];end end end end else if 156<=r then for o=31,82 do if 158<r then local o,a;for r=0,6 do if r<3 then if r<=0 then n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];else if 1~=r then n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];else o=e[d]n[o](h(n,o+1,e[t]))j=j+1;e=l[j];end end else if r<=4 then if r>1 then repeat if r>3 then n[e[d]]={};j=j+1;e=l[j];break;end;o=e[d];a=n[e[t]];n[o+1]=a;n[o]=a[e[f]];j=j+1;e=l[j];until true;else n[e[d]]={};j=j+1;e=l[j];end else if 6~=r then n[e[d]][e[t]]=e[f];j=j+1;e=l[j];else n[e[d]][e[t]]=e[f];end end end end break;end;local r,o;n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];break;end;else local o,a;for r=0,6 do if r<3 then if r<=0 then n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];else if 1~=r then n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];else o=e[d]n[o](h(n,o+1,e[t]))j=j+1;e=l[j];end end else if r<=4 then if r>1 then repeat if r>3 then n[e[d]]={};j=j+1;e=l[j];break;end;o=e[d];a=n[e[t]];n[o+1]=a;n[o]=a[e[f]];j=j+1;e=l[j];until true;else n[e[d]]={};j=j+1;e=l[j];end else if 6~=r then n[e[d]][e[t]]=e[f];j=j+1;e=l[j];else n[e[d]][e[t]]=e[f];end end end end end end else if r>=162 then if 159<r then repeat if 163~=r then local e=e[d]n[e]=n[e]()break;end;local r,o;n[e[d]][e[t]]=e[f];j=j+1;e=l[j];r=e[d]n[r]=n[r](h(n,r+1,e[t]))j=j+1;e=l[j];n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];until true;else local e=e[d]n[e]=n[e]()end else if 157<=r then for o=20,65 do if r~=161 then local r,a;for o=0,6 do if o<3 then if 1<=o then if 1~=o then n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];else r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];end else n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];end else if o<5 then if 2<o then repeat if o<4 then r=e[d];a=n[e[t]];n[r+1]=a;n[r]=a[e[f]];j=j+1;e=l[j];break;end;n[e[d]]={};j=j+1;e=l[j];until true;else r=e[d];a=n[e[t]];n[r+1]=a;n[r]=a[e[f]];j=j+1;e=l[j];end else if o>2 then repeat if 5~=o then n[e[d]][e[t]]=e[f];break;end;n[e[d]][e[t]]=e[f];j=j+1;e=l[j];until true;else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end end end end break;end;n[e[d]]={};break;end;else local r,a;for o=0,6 do if o<3 then if 1<=o then if 1~=o then n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];else r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];end else n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];end else if o<5 then if 2<o then repeat if o<4 then r=e[d];a=n[e[t]];n[r+1]=a;n[r]=a[e[f]];j=j+1;e=l[j];break;end;n[e[d]]={};j=j+1;e=l[j];until true;else r=e[d];a=n[e[t]];n[r+1]=a;n[r]=a[e[f]];j=j+1;e=l[j];end else if o>2 then repeat if 5~=o then n[e[d]][e[t]]=e[f];break;end;n[e[d]][e[t]]=e[f];j=j+1;e=l[j];until true;else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end end end end end end end else if r<153 then if 150<r then if r>=148 then repeat if 151~=r then do return end;break;end;local o,h;for r=0,6 do if 2>=r then if 1>r then n[e[d]]=s[e[t]];j=j+1;e=l[j];else if r~=-3 then for a=12,66 do if 2~=r then o=e[d];h=n[e[t]];n[o+1]=h;n[o]=h[e[f]];j=j+1;e=l[j];break;end;n[e[d]]={};j=j+1;e=l[j];break;end;else o=e[d];h=n[e[t]];n[o+1]=h;n[o]=h[e[f]];j=j+1;e=l[j];end end else if r<=4 then if r~=0 then for h=29,85 do if r~=4 then n[e[d]][e[t]]=e[f];j=j+1;e=l[j];break;end;n[e[d]][e[t]]=e[f];j=j+1;e=l[j];break;end;else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end else if r~=4 then repeat if r~=5 then n[e[d]]={};break;end;n[e[d]]={};j=j+1;e=l[j];until true;else n[e[d]]={};j=j+1;e=l[j];end end end end until true;else local h,o;for r=0,6 do if 2>=r then if 1>r then n[e[d]]=s[e[t]];j=j+1;e=l[j];else if r~=-3 then for a=12,66 do if 2~=r then h=e[d];o=n[e[t]];n[h+1]=o;n[h]=o[e[f]];j=j+1;e=l[j];break;end;n[e[d]]={};j=j+1;e=l[j];break;end;else h=e[d];o=n[e[t]];n[h+1]=o;n[h]=o[e[f]];j=j+1;e=l[j];end end else if r<=4 then if r~=0 then for h=29,85 do if r~=4 then n[e[d]][e[t]]=e[f];j=j+1;e=l[j];break;end;n[e[d]][e[t]]=e[f];j=j+1;e=l[j];break;end;else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end else if r~=4 then repeat if r~=5 then n[e[d]]={};break;end;n[e[d]]={};j=j+1;e=l[j];until true;else n[e[d]]={};j=j+1;e=l[j];end end end end end else local r,u,k,_,b;for s=0,6 do if 2<s then if 4<s then if 1<=s then for t=13,83 do if s~=5 then n[e[d]]();break;end;r=e[d]n[r]=n[r](h(n,r+1,o))j=j+1;e=l[j];break;end;else n[e[d]]();end else if 4>s then n(e[d],e[t]);j=j+1;e=l[j];else r=e[d]k,_=c(n[r](h(n,r+1,e[t])))o=_+r-1 b=0;for e=r,o do b=b+1;n[e]=k[b];end;j=j+1;e=l[j];end end else if 0<s then if-3<s then for h=40,77 do if 1~=s then r=e[d];u=n[e[t]];n[r+1]=u;n[r]=u[e[f]];j=j+1;e=l[j];break;end;n[e[d]]=a[e[t]];j=j+1;e=l[j];break;end;else r=e[d];u=n[e[t]];n[r+1]=u;n[r]=u[e[f]];j=j+1;e=l[j];end else n[e[d]]=a[e[t]];j=j+1;e=l[j];end end end end else if r<155 then if 152<r then for s=31,97 do if 153<r then if not n[e[d]]then j=j+1;else j=e[t];end;break;end;local r,u,k,b,s;n[e[d]]=a[e[t]];j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];r=e[d];u=n[e[t]];n[r+1]=u;n[r]=u[e[f]];j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];r=e[d]k,b=c(n[r](h(n,r+1,e[t])))o=b+r-1 s=0;for e=r,o do s=s+1;n[e]=k[s];end;j=j+1;e=l[j];r=e[d]n[r]=n[r](h(n,r+1,o))j=j+1;e=l[j];n[e[d]]();break;end;else local r,u,k,b,s;n[e[d]]=a[e[t]];j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];r=e[d];u=n[e[t]];n[r+1]=u;n[r]=u[e[f]];j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];r=e[d]k,b=c(n[r](h(n,r+1,e[t])))o=b+r-1 s=0;for e=r,o do s=s+1;n[e]=k[s];end;j=j+1;e=l[j];r=e[d]n[r]=n[r](h(n,r+1,o))j=j+1;e=l[j];n[e[d]]();end else if 156==r then local r,b,_,k,u;for s=0,6 do if s>2 then if s>4 then if 3<=s then for t=36,76 do if 6>s then r=e[d]n[r]=n[r](h(n,r+1,o))j=j+1;e=l[j];break;end;n[e[d]]();break;end;else r=e[d]n[r]=n[r](h(n,r+1,o))j=j+1;e=l[j];end else if 4~=s then n(e[d],e[t]);j=j+1;e=l[j];else r=e[d]_,k=c(n[r](h(n,r+1,e[t])))o=k+r-1 u=0;for e=r,o do u=u+1;n[e]=_[u];end;j=j+1;e=l[j];end end else if s>=1 then if-3~=s then repeat if s>1 then r=e[d];b=n[e[t]];n[r+1]=b;n[r]=b[e[f]];j=j+1;e=l[j];break;end;n[e[d]]=a[e[t]];j=j+1;e=l[j];until true;else n[e[d]]=a[e[t]];j=j+1;e=l[j];end else n[e[d]]=a[e[t]];j=j+1;e=l[j];end end end else n[e[d]][n[e[t]]]=n[e[f]];end end end end else if r<143 then if 139<=r then if 141<=r then if r>139 then for o=49,56 do if 142>r then local r,o;for a=0,6 do if a<3 then if a>=1 then if 1==a then r=e[d]n[r](n[r+1])j=j+1;e=l[j];else r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];end else r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];end else if a>4 then if 5~=a then n(e[d],e[t]);else r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];end else if 4==a then r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];else n[e[d]]={};j=j+1;e=l[j];end end end end break;end;for f=0,1 do if f>=-1 then repeat if 0<f then if not n[e[d]]then j=j+1;else j=e[t];end;break;end;n[e[d]]=a[e[t]];j=j+1;e=l[j];until true;else if not n[e[d]]then j=j+1;else j=e[t];end;end end break;end;else for f=0,1 do if f>=-1 then repeat if 0<f then if not n[e[d]]then j=j+1;else j=e[t];end;break;end;n[e[d]]=a[e[t]];j=j+1;e=l[j];until true;else if not n[e[d]]then j=j+1;else j=e[t];end;end end end else if r<140 then local r,o;n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];else s[e[t]]=n[e[d]];end end else if 137>r then local r,u,b,k,s;n[e[d]]=a[e[t]];j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];r=e[d];u=n[e[t]];n[r+1]=u;n[r]=u[e[f]];j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];n[e[d]]=(e[t]~=0);j=j+1;e=l[j];r=e[d]b,k=c(n[r](h(n,r+1,e[t])))o=k+r-1 s=0;for e=r,o do s=s+1;n[e]=b[s];end;j=j+1;e=l[j];r=e[d]n[r]=n[r](h(n,r+1,o))else if r>133 then repeat if r<138 then local o,a;for r=0,6 do if r<=2 then if 0<r then if r<2 then o=e[d]n[o](h(n,o+1,e[t]))j=j+1;e=l[j];else n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];end else n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];end else if 4>=r then if r<4 then o=e[d];a=n[e[t]];n[o+1]=a;n[o]=a[e[f]];j=j+1;e=l[j];else n[e[d]]={};j=j+1;e=l[j];end else if 3~=r then repeat if 5~=r then n[e[d]][e[t]]=e[f];break;end;n[e[d]][e[t]]=e[f];j=j+1;e=l[j];until true;else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end end end end break;end;n[e[d]]();until true;else n[e[d]]();end end end else if r>=146 then if r<=147 then if 143<=r then for o=47,66 do if r>146 then n[e[d]]=n[e[t]]+n[e[f]];break;end;local r,o;n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];break;end;else local r,o;n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];end else if r>145 then repeat if 148<r then local r,o;r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];r=e[d]n[r](h(n,r+1,e[t]))break;end;local r,u,b,k,s;n[e[d]]=a[e[t]];j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];r=e[d];u=n[e[t]];n[r+1]=u;n[r]=u[e[f]];j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];r=e[d]b,k=c(n[r](h(n,r+1,e[t])))o=k+r-1 s=0;for e=r,o do s=s+1;n[e]=b[s];end;j=j+1;e=l[j];r=e[d]n[r]=n[r](h(n,r+1,o))j=j+1;e=l[j];n[e[d]]();until true;else local r,o;r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];r=e[d]n[r](h(n,r+1,e[t]))end end else if 144<=r then if r>=143 then repeat if r>144 then local l,h,o,r,f;local j=0;while j>-1 do if 2<j then if 4<j then if j==6 then j=-2;else n(f,r);end else if 3~=j then f=l[h];else r=l[o];end end else if j<1 then l=e;else if j==1 then h=d;else o=t;end end end j=j+1 end break;end;n[e[d]][e[t]]=n[e[f]];until true;else local l,f,o,h,r;local j=0;while j>-1 do if 2<j then if 4<j then if j==6 then j=-2;else n(r,h);end else if 3~=j then r=l[f];else h=l[o];end end else if j<1 then l=e;else if j==1 then f=d;else o=t;end end end j=j+1 end end else n[e[d]]=n[e[t]][n[e[f]]];end end end end else if 122<=r then if 129<=r then if r<=131 then if 129<r then if r==131 then local s,_,p,g,y,m,z,r,k,b,u;for r=0,6 do if 2>=r then if r<1 then n[e[d]]=a[e[t]];j=j+1;e=l[j];else if r>-3 then repeat if r<2 then n[e[d]]=a[e[t]];j=j+1;e=l[j];break;end;s=e[d];_=n[e[t]];n[s+1]=_;n[s]=_[e[f]];j=j+1;e=l[j];until true;else n[e[d]]=a[e[t]];j=j+1;e=l[j];end end else if r<5 then if r~=4 then r=0;while r>-1 do if r>=3 then if 4<r then if 4<r then repeat if 6>r then n(z,m);break;end;r=-2;until true;else r=-2;end else if r==3 then m=p[y];else z=p[g];end end else if 0<r then if 1<r then y=t;else g=d;end else p=e;end end r=r+1 end j=j+1;e=l[j];else n[e[d]]=(e[t]~=0);j=j+1;e=l[j];end else if r~=1 then for f=19,73 do if 5~=r then s=e[d]n[s]=n[s](h(n,s+1,o))break;end;s=e[d]k,b=c(n[s](h(n,s+1,e[t])))o=b+s-1 u=0;for e=s,o do u=u+1;n[e]=k[u];end;j=j+1;e=l[j];break;end;else s=e[d]k,b=c(n[s](h(n,s+1,e[t])))o=b+s-1 u=0;for e=s,o do u=u+1;n[e]=k[u];end;j=j+1;e=l[j];end end end end else local f,o,s,h,a,r;n[e[d]]=n[e[t]];j=j+1;e=l[j];n[e[d]]=n[e[t]];j=j+1;e=l[j];f=e[d]n[f]=n[f](n[f+1])j=j+1;e=l[j];n[e[d]]=n[e[t]];j=j+1;e=l[j];do return n[e[d]]end j=j+1;e=l[j];f=e[d];o={};for e=1,#b do s=b[e];for e=0,#s do h=s[e];a=h[1];r=h[2];if a==n and r>=f then o[r]=a[r];h[1]=o;end;end;end;j=j+1;e=l[j];j=e[t];end else local d=e[d];local f=n[d+2];local l=n[d]+f;n[d]=l;if(f>0)then if(l<=n[d+1])then j=e[t];n[d+3]=l;end elseif(l>=n[d+1])then j=e[t];n[d+3]=l;end end else if r>133 then if r>130 then for l=14,79 do if 135~=r then n[e[d]]=(e[t]~=0);break;end;if not n[e[d]]then j=j+1;else j=e[t];end;break;end;else if not n[e[d]]then j=j+1;else j=e[t];end;end else if 129~=r then repeat if 133~=r then local e=e[d];local j=n[e];for e=e+1,o do u.IFQIm_ot(j,n[e])end;break;end;a[e[t]]=n[e[d]];until true;else a[e[t]]=n[e[d]];end end end else if 124<r then if 127<=r then if 127~=r then local h,r;n[e[d]]=s[e[t]];j=j+1;e=l[j];h=e[d];r=n[e[t]];n[h+1]=r;n[h]=r[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]]={};else local r,u,b,k,s;n[e[d]]=a[e[t]];j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];r=e[d];u=n[e[t]];n[r+1]=u;n[r]=u[e[f]];j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];r=e[d]b,k=c(n[r](h(n,r+1,e[t])))o=k+r-1 s=0;for e=r,o do s=s+1;n[e]=b[s];end;j=j+1;e=l[j];r=e[d]n[r]=n[r](h(n,r+1,o))j=j+1;e=l[j];n[e[d]]();end else if 122~=r then repeat if r<126 then n[e[d]]=n[e[t]]%e[f];break;end;local j=e[d]n[j](h(n,j+1,e[t]))until true;else n[e[d]]=n[e[t]]%e[f];end end else if 123>r then local h,o;for r=0,6 do if r>2 then if r<5 then if 0<r then for h=16,92 do if r<4 then n[e[d]][e[t]]=e[f];j=j+1;e=l[j];break;end;n[e[d]][e[t]]=e[f];j=j+1;e=l[j];break;end;else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end else if r~=1 then for t=49,84 do if 6~=r then n[e[d]]={};j=j+1;e=l[j];break;end;n[e[d]]={};break;end;else n[e[d]]={};j=j+1;e=l[j];end end else if 0<r then if r==2 then n[e[d]]={};j=j+1;e=l[j];else h=e[d];o=n[e[t]];n[h+1]=o;n[h]=o[e[f]];j=j+1;e=l[j];end else n[e[d]]=s[e[t]];j=j+1;e=l[j];end end end else if 121<=r then for o=30,59 do if 123~=r then local t=e[d];local d={};for e=1,#b do local e=b[e];for j=0,#e do local e=e[j];local l=e[1];local j=e[2];if l==n and j>=t then d[j]=l[j];e[1]=d;end;end;end;break;end;local o,a;for r=0,6 do if r<3 then if r>0 then if-1~=r then for a=17,76 do if 1<r then n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];break;end;o=e[d]n[o](h(n,o+1,e[t]))j=j+1;e=l[j];break;end;else n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];end else n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];end else if r<=4 then if 4~=r then o=e[d];a=n[e[t]];n[o+1]=a;n[o]=a[e[f]];j=j+1;e=l[j];else n[e[d]]={};j=j+1;e=l[j];end else if 2~=r then repeat if r>5 then n[e[d]][e[t]]=e[f];break;end;n[e[d]][e[t]]=e[f];j=j+1;e=l[j];until true;else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end end end end break;end;else local t=e[d];local d={};for e=1,#b do local e=b[e];for j=0,#e do local e=e[j];local l=e[1];local j=e[2];if l==n and j>=t then d[j]=l[j];e[1]=d;end;end;end;end end end end else if r<=114 then if r>=112 then if 113>r then local r,h;n[e[d]]=a[e[t]];j=j+1;e=l[j];r=e[d]n[r]=n[r]()j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];r=e[d];h=n[e[t]];n[r+1]=h;n[r]=h[e[f]];j=j+1;e=l[j];n(e[d],e[t]);else if 110<=r then for s=27,55 do if 113<r then local r,o;n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];break;end;local s,k,b,y,g,z,m,r,p,_,u;n[e[d]]=a[e[t]];j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];s=e[d];k=n[e[t]];n[s+1]=k;n[s]=k[e[f]];j=j+1;e=l[j];r=0;while r>-1 do if 2>=r then if r<=0 then b=e;else if 2==r then g=t;else y=d;end end else if 4>=r then if r==3 then z=b[g];else m=b[y];end else if r>=3 then for e=20,87 do if 5<r then r=-2;break;end;n(m,z);break;end;else r=-2;end end end r=r+1 end j=j+1;e=l[j];n[e[d]]=(e[t]~=0);j=j+1;e=l[j];s=e[d]p,_=c(n[s](h(n,s+1,e[t])))o=_+s-1 u=0;for e=s,o do u=u+1;n[e]=p[u];end;j=j+1;e=l[j];s=e[d]n[s]=n[s](h(n,s+1,o))break;end;else local s,b,k,y,g,_,z,r,m,p,u;n[e[d]]=a[e[t]];j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];s=e[d];b=n[e[t]];n[s+1]=b;n[s]=b[e[f]];j=j+1;e=l[j];r=0;while r>-1 do if 2>=r then if r<=0 then k=e;else if 2==r then g=t;else y=d;end end else if 4>=r then if r==3 then _=k[g];else z=k[y];end else if r>=3 then for e=20,87 do if 5<r then r=-2;break;end;n(z,_);break;end;else r=-2;end end end r=r+1 end j=j+1;e=l[j];n[e[d]]=(e[t]~=0);j=j+1;e=l[j];s=e[d]m,p=c(n[s](h(n,s+1,e[t])))o=p+s-1 u=0;for e=s,o do u=u+1;n[e]=m[u];end;j=j+1;e=l[j];s=e[d]n[s]=n[s](h(n,s+1,o))end end else if r>=110 then if r>=106 then repeat if 111>r then n[e[d]]();break;end;j=e[t];until true;else j=e[t];end else local t=e[d];local d={};for e=1,#b do local e=b[e];for j=0,#e do local e=e[j];local l=e[1];local j=e[2];if l==n and j>=t then d[j]=l[j];e[1]=d;end;end;end;end end else if r>=118 then if r>119 then if r~=120 then local o,a;for r=0,6 do if 3<=r then if 5>r then if r>=0 then for h=18,74 do if 3~=r then n[e[d]]={};j=j+1;e=l[j];break;end;o=e[d];a=n[e[t]];n[o+1]=a;n[o]=a[e[f]];j=j+1;e=l[j];break;end;else n[e[d]]={};j=j+1;e=l[j];end else if 5==r then n[e[d]][e[t]]=e[f];j=j+1;e=l[j];else n[e[d]][e[t]]=e[f];end end else if r<1 then n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];else if 1<r then n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];else o=e[d]n[o](h(n,o+1,e[t]))j=j+1;e=l[j];end end end end else local h,o;for r=0,6 do if 3>r then if 0<r then if r==2 then n[e[d]]={};j=j+1;e=l[j];else h=e[d];o=n[e[t]];n[h+1]=o;n[h]=o[e[f]];j=j+1;e=l[j];end else n[e[d]]=s[e[t]];j=j+1;e=l[j];end else if r<5 then if 0<=r then repeat if r>3 then n[e[d]][e[t]]=e[f];j=j+1;e=l[j];break;end;n[e[d]][e[t]]=e[f];j=j+1;e=l[j];until true;else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end else if 4~=r then repeat if 6>r then n[e[d]]={};j=j+1;e=l[j];break;end;n[e[d]]={};until true;else n[e[d]]={};end end end end end else if r>118 then local r,u,_,k,b;for s=0,6 do if 3>s then if 1>s then n[e[d]]=a[e[t]];j=j+1;e=l[j];else if-1<=s then repeat if 2>s then n[e[d]]=a[e[t]];j=j+1;e=l[j];break;end;r=e[d];u=n[e[t]];n[r+1]=u;n[r]=u[e[f]];j=j+1;e=l[j];until true;else r=e[d];u=n[e[t]];n[r+1]=u;n[r]=u[e[f]];j=j+1;e=l[j];end end else if s>=5 then if 4<=s then for f=13,78 do if 5~=s then r=e[d]n[r]=n[r](h(n,r+1,o))break;end;r=e[d]_,k=c(n[r](h(n,r+1,e[t])))o=k+r-1 b=0;for e=r,o do b=b+1;n[e]=_[b];end;j=j+1;e=l[j];break;end;else r=e[d]n[r]=n[r](h(n,r+1,o))end else if s~=3 then n[e[d]]=(e[t]~=0);j=j+1;e=l[j];else n(e[d],e[t]);j=j+1;e=l[j];end end end end else do return n[e[d]]end end end else if 115<r then if r>=112 then for o=27,90 do if r<117 then local r,o;r=e[d]n[r]=n[r](h(n,r+1,e[t]))j=j+1;e=l[j];n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];break;end;local r,o;n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];break;end;else local r,o;r=e[d]n[r]=n[r](h(n,r+1,e[t]))j=j+1;e=l[j];n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];end else local o,a;for r=0,6 do if r<3 then if r>=1 then if r~=-1 then repeat if r~=2 then o=e[d]n[o](h(n,o+1,e[t]))j=j+1;e=l[j];break;end;n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];until true;else n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];end else n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];end else if r>=5 then if 4~=r then repeat if 5~=r then n[e[d]][e[t]]=e[f];break;end;n[e[d]][e[t]]=e[f];j=j+1;e=l[j];until true;else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end else if r>=-1 then for h=44,75 do if 4>r then o=e[d];a=n[e[t]];n[o+1]=a;n[o]=a[e[f]];j=j+1;e=l[j];break;end;n[e[d]]={};j=j+1;e=l[j];break;end;else n[e[d]]={};j=j+1;e=l[j];end end end end end end end end end else if r<191 then if r>176 then if r>183 then if r>=187 then if 188>=r then if r~=185 then for s=17,81 do if r>187 then local r,o;n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];r=e[d]n[r]=n[r](h(n,r+1,e[t]))j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];break;end;local r,u,k,b,s;n[e[d]]=a[e[t]];j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];r=e[d];u=n[e[t]];n[r+1]=u;n[r]=u[e[f]];j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];r=e[d]k,b=c(n[r](h(n,r+1,e[t])))o=b+r-1 s=0;for e=r,o do s=s+1;n[e]=k[s];end;j=j+1;e=l[j];r=e[d]n[r]=n[r](h(n,r+1,o))j=j+1;e=l[j];n[e[d]]();break;end;else local r,u,b,k,s;n[e[d]]=a[e[t]];j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];r=e[d];u=n[e[t]];n[r+1]=u;n[r]=u[e[f]];j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];r=e[d]b,k=c(n[r](h(n,r+1,e[t])))o=k+r-1 s=0;for e=r,o do s=s+1;n[e]=b[s];end;j=j+1;e=l[j];r=e[d]n[r]=n[r](h(n,r+1,o))j=j+1;e=l[j];n[e[d]]();end else if r>185 then for s=15,93 do if 189~=r then local r,u,b,k,s;n[e[d]]=a[e[t]];j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];r=e[d];u=n[e[t]];n[r+1]=u;n[r]=u[e[f]];j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];r=e[d]b,k=c(n[r](h(n,r+1,e[t])))o=k+r-1 s=0;for e=r,o do s=s+1;n[e]=b[s];end;j=j+1;e=l[j];r=e[d]n[r]=n[r](h(n,r+1,o))j=j+1;e=l[j];n[e[d]]();break;end;local l=e[t];local j=n[l]for e=l+1,e[f]do j=j..n[e];end;n[e[d]]=j;break;end;else local r,u,k,b,s;n[e[d]]=a[e[t]];j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];r=e[d];u=n[e[t]];n[r+1]=u;n[r]=u[e[f]];j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];r=e[d]k,b=c(n[r](h(n,r+1,e[t])))o=b+r-1 s=0;for e=r,o do s=s+1;n[e]=k[s];end;j=j+1;e=l[j];r=e[d]n[r]=n[r](h(n,r+1,o))j=j+1;e=l[j];n[e[d]]();end end else if r>=185 then if r==185 then local r,o;n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];else for e=e[d],e[t]do n[e]=nil;end;end else n[e[d]][e[t]]=n[e[f]];end end else if 179>=r then if r>=178 then if 174<=r then repeat if 178~=r then local e=e[d]n[e](n[e+1])break;end;local r,u,b,k,s;n[e[d]]=a[e[t]];j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];r=e[d];u=n[e[t]];n[r+1]=u;n[r]=u[e[f]];j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];r=e[d]b,k=c(n[r](h(n,r+1,e[t])))o=k+r-1 s=0;for e=r,o do s=s+1;n[e]=b[s];end;j=j+1;e=l[j];r=e[d]n[r]=n[r](h(n,r+1,o))j=j+1;e=l[j];n[e[d]]();until true;else local e=e[d]n[e](n[e+1])end else local r,u,k,b,s;n[e[d]]=a[e[t]];j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];r=e[d];u=n[e[t]];n[r+1]=u;n[r]=u[e[f]];j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];n[e[d]]=(e[t]~=0);j=j+1;e=l[j];r=e[d]k,b=c(n[r](h(n,r+1,e[t])))o=b+r-1 s=0;for e=r,o do s=s+1;n[e]=k[s];end;j=j+1;e=l[j];r=e[d]n[r]=n[r](h(n,r+1,o))end else if r<=181 then if 177~=r then for s=31,90 do if 181>r then local o,a;for r=0,6 do if 2<r then if r>=5 then if 4<=r then repeat if r~=6 then n[e[d]][e[t]]=e[f];j=j+1;e=l[j];break;end;n[e[d]][e[t]]=e[f];until true;else n[e[d]][e[t]]=e[f];end else if 4>r then o=e[d];a=n[e[t]];n[o+1]=a;n[o]=a[e[f]];j=j+1;e=l[j];else n[e[d]]={};j=j+1;e=l[j];end end else if 1<=r then if 1==r then o=e[d]n[o](h(n,o+1,e[t]))j=j+1;e=l[j];else n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];end else n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];end end end break;end;local r,u,b,k,s;r=e[d]n[r]=n[r](h(n,r+1,o))j=j+1;e=l[j];r=e[d]n[r]=n[r]()j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];r=e[d];u=n[e[t]];n[r+1]=u;n[r]=u[e[f]];j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];r=e[d]b,k=c(n[r](h(n,r+1,e[t])))o=k+r-1 s=0;for e=r,o do s=s+1;n[e]=b[s];end;break;end;else local r,u,b,k,s;r=e[d]n[r]=n[r](h(n,r+1,o))j=j+1;e=l[j];r=e[d]n[r]=n[r]()j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];r=e[d];u=n[e[t]];n[r+1]=u;n[r]=u[e[f]];j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];r=e[d]b,k=c(n[r](h(n,r+1,e[t])))o=k+r-1 s=0;for e=r,o do s=s+1;n[e]=b[s];end;end else if 179~=r then for o=19,98 do if 183~=r then local r,o;n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];break;end;if(n[e[d]]==e[f])then j=j+1;else j=e[t];end;break;end;else if(n[e[d]]==e[f])then j=j+1;else j=e[t];end;end end end end else if 170<=r then if r<173 then if r>170 then if 168<=r then repeat if r>171 then local d=e[d];local l=n[d]local f=n[d+2];if(f>0)then if(l>n[d+1])then j=e[t];else n[d+3]=l;end elseif(l<n[d+1])then j=e[t];else n[d+3]=l;end break;end;local r,h;n[e[d]]=s[e[t]];j=j+1;e=l[j];r=e[d];h=n[e[t]];n[r+1]=h;n[r]=h[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]]={};until true;else local d=e[d];local l=n[d]local f=n[d+2];if(f>0)then if(l>n[d+1])then j=e[t];else n[d+3]=l;end elseif(l<n[d+1])then j=e[t];else n[d+3]=l;end end else local o=_[e[t]];local h;local r={};h=u.dYfevFLe({},{__index=function(j,e)local e=r[e];return e[1][e[2]];end,__newindex=function(n,e,j)local e=r[e]e[1][e[2]]=j;end;});for d=1,e[f]do j=j+1;local e=l[j];if e[g]==63 then r[d-1]={n,e[t]};else r[d-1]={s,e[t]};end;b[#b+1]=r;end;n[e[d]]=k(o,h,a);end else if r<=174 then if 169<=r then for j=29,55 do if 173~=r then n[e[d]]=n[e[t]]+n[e[f]];break;end;n[e[d]]=k(_[e[t]],nil,a);break;end;else n[e[d]]=n[e[t]]+n[e[f]];end else if 173~=r then repeat if r~=176 then local r,u,b,k,s;r=e[d]n[r]=n[r]()j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];r=e[d];u=n[e[t]];n[r+1]=u;n[r]=u[e[f]];j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];r=e[d]b,k=c(n[r](h(n,r+1,e[t])))o=k+r-1 s=0;for e=r,o do s=s+1;n[e]=b[s];end;j=j+1;e=l[j];r=e[d]n[r]=n[r](h(n,r+1,o))break;end;local e=e[d];o=e+z-1;for j=e,o do local e=m[j-e];n[j]=e;end;until true;else local r,u,k,b,s;r=e[d]n[r]=n[r]()j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];r=e[d];u=n[e[t]];n[r+1]=u;n[r]=u[e[f]];j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];r=e[d]k,b=c(n[r](h(n,r+1,e[t])))o=b+r-1 s=0;for e=r,o do s=s+1;n[e]=k[s];end;j=j+1;e=l[j];r=e[d]n[r]=n[r](h(n,r+1,o))end end end else if r<167 then if r<=164 then local j=e[d];local d=n[e[t]];n[j+1]=d;n[j]=d[e[f]];else if 166==r then local t,r,f;for h=0,1 do if-2~=h then for a=13,69 do if h>0 then t=e[d];f=n[t];for e=t+1,o do u.IFQIm_ot(f,n[e])end;break;end;t=e[d];o=t+z-1;for e=t,o do r=m[e-t];n[e]=r;end;j=j+1;e=l[j];break;end;else t=e[d];f=n[t];for e=t+1,o do u.IFQIm_ot(f,n[e])end;end end else local o,u,s,b,k,_,c,r;n[e[d]]=a[e[t]];j=j+1;e=l[j];n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];o=e[d];u=n[e[t]];n[o+1]=u;n[o]=u[e[f]];j=j+1;e=l[j];r=0;while r>-1 do if r>=3 then if 4>=r then if 1~=r then for e=17,79 do if 3<r then c=s[b];break;end;_=s[k];break;end;else c=s[b];end else if 2<r then for e=16,56 do if 6>r then n(c,_);break;end;r=-2;break;end;else r=-2;end end else if 1<=r then if r~=2 then b=d;else k=t;end else s=e;end end r=r+1 end j=j+1;e=l[j];o=e[d]n[o](h(n,o+1,e[t]))j=j+1;e=l[j];do return end;end end else if 167<r then if r~=168 then local h,o;for r=0,6 do if r<3 then if r<=0 then n[e[d]]=s[e[t]];j=j+1;e=l[j];else if r>-1 then for a=19,64 do if 1~=r then n[e[d]]={};j=j+1;e=l[j];break;end;h=e[d];o=n[e[t]];n[h+1]=o;n[h]=o[e[f]];j=j+1;e=l[j];break;end;else h=e[d];o=n[e[t]];n[h+1]=o;n[h]=o[e[f]];j=j+1;e=l[j];end end else if 4>=r then if r~=3 then n[e[d]][e[t]]=e[f];j=j+1;e=l[j];else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end else if 6>r then n[e[d]]={};j=j+1;e=l[j];else n[e[d]]={};end end end end else local d=e[d];local f=n[d+2];local l=n[d]+f;n[d]=l;if(f>0)then if(l<=n[d+1])then j=e[t];n[d+3]=l;end elseif(l>=n[d+1])then j=e[t];n[d+3]=l;end end else local r,o;n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];end end end end else if 205<=r then if r>=212 then if r>=215 then if r<=216 then if 213<=r then for h=18,86 do if r>215 then local e=e[d];local j=n[e];for e=e+1,o do u.IFQIm_ot(j,n[e])end;break;end;local h,r;n[e[d]]=s[e[t]];j=j+1;e=l[j];h=e[d];r=n[e[t]];n[h+1]=r;n[h]=r[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]]={};break;end;else local h,r;n[e[d]]=s[e[t]];j=j+1;e=l[j];h=e[d];r=n[e[t]];n[h+1]=r;n[h]=r[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]]={};end else if 213<=r then for l=28,70 do if 218~=r then if(n[e[d]]~=e[f])then j=j+1;else j=e[t];end;break;end;local j=e[d];local d=n[j];for e=j+1,e[t]do u.IFQIm_ot(d,n[e])end;break;end;else if(n[e[d]]~=e[f])then j=j+1;else j=e[t];end;end end else if r<=212 then local j=e[d];local d=n[j];for e=j+1,e[t]do u.IFQIm_ot(d,n[e])end;else if 212<r then for j=26,58 do if r~=213 then local r,f,l,a,o,h;local j=0;while j>-1 do if 3<j then if j>5 then if 4~=j then for e=47,62 do if 7~=j then n[h]=o;break;end;j=-2;break;end;else j=-2;end else if 4<j then h=r[f];else o=a[r[l]];end end else if 1<j then if j~=-2 then repeat if 2~=j then a=n;break;end;l=t;until true;else l=t;end else if-4<j then for n=36,88 do if j~=1 then r=e;break;end;f=d;break;end;else f=d;end end end j=j+1 end break;end;local e=e[d]n[e]=n[e](n[e+1])break;end;else local e=e[d]n[e]=n[e](n[e+1])end end end else if r>207 then if r<210 then if 206~=r then for s=45,59 do if 208~=r then local r,u,b,k,s;n[e[d]]=a[e[t]];j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];r=e[d];u=n[e[t]];n[r+1]=u;n[r]=u[e[f]];j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];n[e[d]]=(e[t]~=0);j=j+1;e=l[j];r=e[d]b,k=c(n[r](h(n,r+1,e[t])))o=k+r-1 s=0;for e=r,o do s=s+1;n[e]=b[s];end;j=j+1;e=l[j];r=e[d]n[r]=n[r](h(n,r+1,o))break;end;n[e[d]]=a[e[t]];break;end;else n[e[d]]=a[e[t]];end else if r>209 then repeat if 211~=r then local r,h;n[e[d]]=s[e[t]];j=j+1;e=l[j];r=e[d];h=n[e[t]];n[r+1]=h;n[r]=h[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]]={};break;end;j=e[t];until true;else local r,h;n[e[d]]=s[e[t]];j=j+1;e=l[j];r=e[d];h=n[e[t]];n[r+1]=h;n[r]=h[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]]={};end end else if r<206 then local r,h;n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];r=e[d]n[r](n[r+1])j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];r=e[d];h=n[e[t]];n[r+1]=h;n[r]=h[e[f]];j=j+1;e=l[j];n(e[d],e[t]);else if 203~=r then repeat if 207~=r then local r;n(e[d],e[t]);j=j+1;e=l[j];r=e[d]n[r]=n[r](h(n,r+1,e[t]))j=j+1;e=l[j];n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];n[e[d]]=n[e[t]][e[f]];break;end;local r,o;n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];until true;else local r,o;n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];end end end end else if r>197 then if 201>r then if r>198 then if r>=196 then for h=40,64 do if 200>r then n[e[d]]=n[e[t]][e[f]];break;end;local h,o;for r=0,6 do if 2>=r then if r<=0 then n[e[d]]=s[e[t]];j=j+1;e=l[j];else if r~=-2 then for a=46,79 do if r>1 then n[e[d]]={};j=j+1;e=l[j];break;end;h=e[d];o=n[e[t]];n[h+1]=o;n[h]=o[e[f]];j=j+1;e=l[j];break;end;else n[e[d]]={};j=j+1;e=l[j];end end else if 5<=r then if r>3 then repeat if r~=6 then n[e[d]]={};j=j+1;e=l[j];break;end;n[e[d]]={};until true;else n[e[d]]={};end else if 3<r then n[e[d]][e[t]]=e[f];j=j+1;e=l[j];else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end end end end break;end;else local h,o;for r=0,6 do if 2>=r then if r<=0 then n[e[d]]=s[e[t]];j=j+1;e=l[j];else if r~=-2 then for a=46,79 do if r>1 then n[e[d]]={};j=j+1;e=l[j];break;end;h=e[d];o=n[e[t]];n[h+1]=o;n[h]=o[e[f]];j=j+1;e=l[j];break;end;else n[e[d]]={};j=j+1;e=l[j];end end else if 5<=r then if r>3 then repeat if r~=6 then n[e[d]]={};j=j+1;e=l[j];break;end;n[e[d]]={};until true;else n[e[d]]={};end else if 3<r then n[e[d]][e[t]]=e[f];j=j+1;e=l[j];else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end end end end end else local h,r;n[e[d]]=s[e[t]];j=j+1;e=l[j];h=e[d];r=n[e[t]];n[h+1]=r;n[h]=r[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]]={};end else if r<=202 then if 197<r then for s=20,67 do if r~=202 then local r,u,k,b,s;n[e[d]]=a[e[t]];j=j+1;e=l[j];n[e[d]]=a[e[t]];j=j+1;e=l[j];r=e[d];u=n[e[t]];n[r+1]=u;n[r]=u[e[f]];j=j+1;e=l[j];n(e[d],e[t]);j=j+1;e=l[j];n[e[d]]=(e[t]~=0);j=j+1;e=l[j];r=e[d]k,b=c(n[r](h(n,r+1,e[t])))o=b+r-1 s=0;for e=r,o do s=s+1;n[e]=k[s];end;j=j+1;e=l[j];r=e[d]n[r]=n[r](h(n,r+1,o))break;end;local o,a;for r=0,6 do if r<=2 then if r<1 then n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];else if r~=-2 then for a=30,93 do if 1<r then n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];break;end;o=e[d]n[o](h(n,o+1,e[t]))j=j+1;e=l[j];break;end;else n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];end end else if 5>r then if 3<r then n[e[d]]={};j=j+1;e=l[j];else o=e[d];a=n[e[t]];n[o+1]=a;n[o]=a[e[f]];j=j+1;e=l[j];end else if 5==r then n[e[d]][e[t]]=e[f];j=j+1;e=l[j];else n[e[d]][e[t]]=e[f];end end end end break;end;else local o,a;for r=0,6 do if r<=2 then if r<1 then n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];else if r~=-2 then for a=30,93 do if 1<r then n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];break;end;o=e[d]n[o](h(n,o+1,e[t]))j=j+1;e=l[j];break;end;else n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];end end else if 5>r then if 3<r then n[e[d]]={};j=j+1;e=l[j];else o=e[d];a=n[e[t]];n[o+1]=a;n[o]=a[e[f]];j=j+1;e=l[j];end else if 5==r then n[e[d]][e[t]]=e[f];j=j+1;e=l[j];else n[e[d]][e[t]]=e[f];end end end end end else if r>201 then repeat if r<204 then n[e[d]][e[t]]=e[f];break;end;local h,o;for r=0,6 do if 3>r then if r<1 then n[e[d]]=s[e[t]];j=j+1;e=l[j];else if r==1 then h=e[d];o=n[e[t]];n[h+1]=o;n[h]=o[e[f]];j=j+1;e=l[j];else n[e[d]]={};j=j+1;e=l[j];end end else if 5>r then if 3==r then n[e[d]][e[t]]=e[f];j=j+1;e=l[j];else n[e[d]][e[t]]=e[f];j=j+1;e=l[j];end else if 2<=r then for t=36,56 do if r~=5 then n[e[d]]={};break;end;n[e[d]]={};j=j+1;e=l[j];break;end;else n[e[d]]={};j=j+1;e=l[j];end end end end until true;else n[e[d]][e[t]]=e[f];end end end else if r>=194 then if 195>=r then if r>=192 then repeat if 194<r then local r,o;n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];break;end;local r,o;n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];until true;else local r,o;n[e[d]][e[t]]=n[e[f]];j=j+1;e=l[j];r=e[d]n[r](h(n,r+1,e[t]))j=j+1;e=l[j];n[e[d]]=n[e[t]][e[f]];j=j+1;e=l[j];r=e[d];o=n[e[t]];n[r+1]=o;n[r]=o[e[f]];j=j+1;e=l[j];n[e[d]]={};j=j+1;e=l[j];n[e[d]][e[t]]=e[f];j=j+1;e=l[j];n[e[d]][e[t]]=e[f];end else if r>192 then for j=19,74 do if 196~=r then do return n[e[d]]end break;end;local e=e[d]n[e]=n[e](n[e+1])break;end;else do return n[e[d]]end end end else if 192<=r then if r==192 then local d=e[d];local j=n[e[t]];n[d+1]=j;n[d]=j[e[f]];else n[e[d]]=n[e[t]][e[f]];end else local c,a,o,r,h,s,l;local j=0;while j>-1 do if j>2 then if 5<=j then if 6>j then n[s]=l;else j=-2;end else if j>0 then for e=39,61 do if 3<j then l=n[h];for e=1+h,r[o]do l=l..n[e];end;break;end;s=r[c];break;end;else l=n[h];for e=1+h,r[o]do l=l..n[e];end;end end else if j>=1 then if j~=-1 then repeat if 1~=j then h=r[a];break;end;r=e;until true;else h=r[a];end else c=d;a=t;o=f;end end j=j+1 end end end end end end end end j=1+j;end;end;return ne end;local d=0xff;local t={};local f=(1);local l='';(function(j)local n=j local r=0x00 local e=0x00 n={(function(o)if r>0x30 then return o end r=r+1 e=(e+0x784-o)%0x39 return(e%0x03==0x1 and(function(n)if not j[n]then e=e+0x01 j[n]=(0xc8);end return true end)'iOZ_b'and n[0x2](0x34a+o))or(e%0x03==0x0 and(function(n)if not j[n]then e=e+0x01 j[n]=(0xa7);end return true end)'PJjEP'and n[0x1](o+0xe7))or(e%0x03==0x2 and(function(n)if not j[n]then e=e+0x01 j[n]=(0x3d);d[2]=(d[2]*(le(function()t()end,h(l))-le(d[1],h(l))))+1;t[f]={};d=d[2];f=f+d;end return true end)'KYGHU'and n[0x3](o+0x2e8))or o end),(function(d)if r>0x30 then return d end r=r+1 e=(e+0x863-d)%0x3e return(e%0x03==0x1 and(function(n)if not j[n]then e=e+0x01 j[n]=(0x48);end return true end)'XIXFH'and n[0x1](0x114+d))or(e%0x03==0x2 and(function(n)if not j[n]then e=e+0x01 j[n]=(0x23);end return true end)'YmZIf'and n[0x3](d+0x81))or(e%0x03==0x0 and(function(n)if not j[n]then e=e+0x01 j[n]=(0xb6);end return true end)'OvcEr'and n[0x2](d+0x1de))or d end),(function(h)if r>0x22 then return h end r=r+1 e=(e+0x680-h)%0x38 return(e%0x03==0x2 and(function(n)if not j[n]then e=e+0x01 j[n]=(0xca);l={l..'\58 a',l};t[f]=ne();f=f+((not u._H_qYmaY)and 1 or 0);l[1]='\58'..l[1];d[2]=0xff;end return true end)'PEate'and n[0x1](0x2de+h))or(e%0x03==0x0 and(function(n)if not j[n]then e=e+0x01 j[n]=(0xc);l='\37';d={function()d()end};l=l..'\100\43';end return true end)'rOKPS'and n[0x3](h+0x10e))or(e%0x03==0x1 and(function(n)if not j[n]then e=e+0x01 j[n]=(0xf9);t[f]=fe();f=f+d;end return true end)'AzRUZ'and n[0x2](h+0x1a8))or h end)}n[0x3](0x984)end){};local e=k(h(t));t[2]={};t[1]=e(t[1])vpOfJD_cedzjaDZ=nil;e=k(h(t))return e(...);end return te((function()local j={}local e=0x01;local n;if u._H_qYmaY then n=u._H_qYmaY(te)else n=''end if u.lnVkjKrl(n,u.tqPsKHDL)then e=e+0;else e=e+1;end j[e]=0x02;j[j[e]+0x01]=0x03;return j;end)(),...)end)((function(n,e,j,d,l,t)local t;if n>3 then if n>=6 then if 7<=n then if n>=6 then repeat if n~=8 then do return setmetatable({},{['__\99\97\108\108']=function(e,n,l,d,j)if j then return e[j]elseif d then return e else e[n]=l end end})end break;end;do return j(n,nil,j);end until true;else do return j(n,nil,j);end end else do return l[j]end;end else if 5>n then local n=d;local f,d,l=l(2);do return function()local j,e,r,t=e(j,n(n,n),n(n,n)+3);n(4);return(t*f)+(r*d)+(e*l)+j;end;end;else local n=d;do return function()local e=e(j,n(n,n),n(n,n));n(1);return e;end;end;end end else if 2<=n then if-1~=n then repeat if 2~=n then do return e(1),e(4,l,d,j,e),e(5,l,d,j)end;break;end;do return 16777216,65536,256 end;until true;else do return e(1),e(4,l,d,j,e),e(5,l,d,j)end;end else if n==0 then do return e(1),e(4,l,d,j,e),e(5,l,d,j)end;else do return function(n,e,j)if j then local e=(n/2^(e-1))%2^((j-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(n%(e+e)>=e)and 1 or 0;end;end;end;end end end end),...)
+local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
+local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/SaveManager.lua"))()
+local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
+
+local Window = Fluent:CreateWindow({
+    Title = "TamHub v.4.9.9.9.9.8 ",
+    SubTitle = "FINALLY NO STUN",
+    TabWidth = 160,
+    Size = UDim2.fromOffset(580, 460),
+    Acrylic = true, -- The blur may be detectable, setting this to false disables blur entirely
+    Theme = "Dark",
+    MinimizeKey = Enum.KeyCode.LeftControl -- Used when theres no MinimizeKeybind
+})
+
+--Fluent provides Lucide Icons https://lucide.dev/icons/ for the tabs, icons are optional
+local Tabs = {
+    Main = Window:AddTab({ Title = "Universal", Icon = "binary" }),
+    c = Window:AddTab({ Title = "Changelog", Icon = "rocket" }),
+    Tsb = Window:AddTab({Title = "TSB", Icon = "swords" }),
+    realm = Window:AddTab({Title = "Realm rampage", Icon = "key" }),
+    juju = Window:AddTab({Title = "Jujutsu shenanigans", Icon = "book" }),
+    ss = Window:AddTab({Title = "Skidded hubs", Icon = "armchair" }),
+    other = Window:AddTab({Title = "Other", Icon = "award" }),
+    gojo = Window:AddTab({Title = "Gojo", Icon = "aperture" }),
+    super = Window:AddTab({Title = "Super Senior Gojo", Icon = "smile" }),
+    sukuna = Window:AddTab({Title = "Other movesets!!", Icon = "slice" }),
+    kj = Window:AddTab({Title = "Client sided KJ", Icon = "apple" }),
+    sex = Window:AddTab({Title = "sex (not working)", Icon = "heart" }),
+    discord = Window:AddTab({Title = "Discord servers", Icon = "mail" }),
+    Settings = Window:AddTab({ Title = "Settings", Icon = "settings" }),
+}
+
+local Options = Fluent.Options
+
+do
+    Fluent:Notify({
+        Title = "Notification",
+        Content = "Tamhub has been loaded!",
+        SubContent = "", -- Optional
+        Duration = 5 -- Set to nil to make the notification not disappear
+    })
+
+
+
+    Tabs.Main:AddParagraph({
+        Title = "Universal",
+        Content = "Universal scripts can be used on any games!.\nEnjoy!"
+    })
+
+    Tabs.c:AddParagraph({
+        Title = "Changelog",
+        Content = "added toji moveset (best moveset)"
+    })
+
+
+    Tabs.Main:AddButton({
+        Title = "Infinite Yield",
+        Description = "Loads Infinite Yield",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "Load infinite yield",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet"https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source")()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+    Tabs.sukuna:AddButton({
+        Title = "toji moveset (best moveset fr",
+        Description = "meow",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "qsfqfsqsfqsf",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/kademboss/maddyhure/main/fe3feafeaefa"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+    Tabs.Main:AddButton({
+        Title = "insta ban from tsb",
+        Description = "get banned",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "gert banned",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/instaban.lua")()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+   Tabs.Main:AddButton({
+        Title = "Hitbox expander",
+        Description = "Loads Hitbox expander",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "xapnd the ehitbox",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/hitboxexpand.lua")()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+        Tabs.Main:AddButton({
+        Title = "Open console",
+        Description = "idk why im adding this",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "Open console",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            game:GetService("StarterGui"):SetCore("DevConsoleVisible",true)
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+	        Tabs.Main:AddButton({
+        Title = "ESP",
+        Description = "Loads ESP",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "Load ESP",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet"https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/UESP")()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+	        Tabs.Main:AddButton({
+        Title = "FPS unloceker",
+        Description = "Loads ESP",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "Load fps unlocker",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            setfpscap(9999)
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+
+		        Tabs.Main:AddButton({
+        Title = "nameless admin",
+        Description = "Loads nameless admin",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "is the admin name or no?,,og dsjgklmsj",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet"https://raw.githubusercontent.com/FilteringEnabled/NamelessAdmin/main/Source")()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+		        Tabs.Main:AddButton({
+        Title = "mobile keyboard",
+        Description = "Loads the mobyle eykobeoardn",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "aaaaaaaaa",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet"https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt")()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+  	        Tabs.Tsb:AddButton({
+        Title = "Mixed powers",
+        Description = "Loads Mixed powers anims and movesets",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "Load mixed powers",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/tsbanim.lua",true))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+
+  	        Tabs.Tsb:AddButton({
+        Title = "TSB anim player",
+        Description = "dont use the secret character highly bannable",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "perhaps",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/Mautiku/ehh/main/strong%20guest.lua.txt",true))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+		        Tabs.gojo:AddButton({
+        Title = "All in one gojo anims and quotes and blah blah!!! use this",
+        Description = "Loads gojo anims and movesets",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "yes",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/allin.lua",true))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+ 
+
+
+		        Tabs.gojo:AddButton({
+        Title = "Gojo moves with anims",
+        Description = "Loads gojo anims and movesets",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "Load gojo anims and movesets",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/ggojomoves.lua",true))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+		        Tabs.gojo:AddButton({
+        Title = "Gojo tsb anims",
+        Description = "Loads gojo tsb anims",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idkkkfkqkjglqkdjgklqjdngijlokqhbjklqnkgqnijkgqdhkjglqihbgqkljghiq",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/gojotsb.lua",true))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+		        Tabs.other:AddButton({
+        Title = "Key anim idk",
+        Description = "key",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idkkkfkqkjglqkdjgklqjdngijlokqhbjklqnkgqnijkgqdhkjglqihbgqkljghiq",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                Player = "LocalPlayer"
+                AnimationId = "16719053698"
+                local Anim = Instance.new("Animation")
+                Anim.AnimationId = "rbxassetid://"..AnimationId
+                local k = game.Players[Player].Character.Humanoid:LoadAnimation(Anim)
+                k:Play() --Play the animation
+                k:AdjustSpeed(1) --Set '1' to any value you want to adjust the animation speed.
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+
+		        Tabs.Tsb:AddButton({
+        Title = "KJ moveset (only names)",
+        Description = "Loads KJ moveset",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "Load KJ moveset",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/kjmoves.lua",true))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+		        Tabs.Tsb:AddButton({
+        Title = "No stun",
+        Description = "Loads no stun :3",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "sdgdsggsddgssdg",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/nostun.lua",true))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+
+		        Tabs.Tsb:AddButton({
+        Title = "KJ ult moves (only names)",
+        Description = "Loads KJ moveset",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "Load KJ moveset",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/kjmovesult.lua",true))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+
+		        Tabs.Tsb:AddButton({
+        Title = "anim id finder",
+        Description = "thanks sonic",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "Load anim id finder",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                           loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/animid.lua")()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+  		        Tabs.ss:AddButton({
+        Title = "SkidHub 5.0 xxxhamster.com",
+        Description = "qfsqfsqfs",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "Load skid hub",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                           loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/ss.lua")()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+  		        Tabs.ss:AddButton({
+        Title = "idk ranmdom hub i found",
+        Description = "qsfqsfsfq",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "Load skid hub",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                           loadstring(game:HttpGet("https://nicuse.xyz/api/scripts/e/533f4503a25a09760fad8065c93a0524.lua"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+
+	        Tabs.Tsb:AddButton({
+        Title = "Invis Tableflip",
+        Description = "self explenatory",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idk am i?",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/invistableflip.lua",true))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+
+		        Tabs.Tsb:AddButton({
+        Title = "Phantasm Hub",
+        Description = "By sonic!",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "Load phantasm hub",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+getgenv().ToggleKeybind = Enum.KeyCode.RightControl
+getgenv().FreeEmotesTab = false
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ATrainz/main/main/Phantasm-Loader.lua"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+		        Tabs.Tsb:AddButton({
+        Title = "dunked on! (with second garou move)",
+        Description = "By me (ez)",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "fqsqsfqfs",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/wwoa.lua"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+
+		        Tabs.Tsb:AddButton({
+        Title = "Kadehub",
+        Description = "By acalapteiticpalepactep idk!",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "Load tsb anim loader",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            getgenv().AutoReport = true
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/skibiditoiletfan2007/KadeHubRepository/main/Latest.lua"))() 
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+
+		        Tabs.Tsb:AddButton({
+        Title = "Anime teleportation",
+        Description = "Keybind is T",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idk are you",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/animtelp.lua"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+		        Tabs.other:AddButton({
+        Title = "double rainbow sword ahfahjdhgjahgagadgaga",
+        Description = "yay",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idk are you",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/ultima.lua"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+		        Tabs.Tsb:AddButton({
+        Title = "auto combo gui",
+        Description = "obfuscate your scripts before tamari comes and skids it... by 91x",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idk are you",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/skidlol.lua"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+		        Tabs.Tsb:AddButton({
+        Title = "Auto block gui",
+        Description = "obfuscate your scripts before tamari comes and skids it... by 91x",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idk are you",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/skidd.lua"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+		        Tabs.Tsb:AddButton({
+        Title = "invis toggle lol",
+        Description = "obfuscate your scripts before tamari comes and skids it...",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idk are you",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/invislol.lua"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+		        Tabs.Tsb:AddButton({
+        Title = "mahoraga sound effect when u do the funny crab",
+        Description = "MAHORAGGAAA HELP HELP ME MAHORAGA",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idk are you",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/raga.lua"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+		        Tabs.Tsb:AddButton({
+        Title = "idk tp script",
+        Description = "im hre im not here anymore woah",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "only for solara and wave idk : (",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/main/scripts/TSBUtils.lua"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/uh.lua")()
+
+
+		        Tabs.Tsb:AddButton({
+        Title = "anti dc woohoo",
+        Description = "haha get ez'd",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "finlaly gang",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/noreset.lua")()
+			    print("activated")						
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+		        Tabs.Tsb:AddButton({
+        Title = "run tool",
+        Description = "haha get runned",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "CREDITS TO TIREDBECEN KQDJGLQJGKLQD",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/run.lua")()
+			    print("activated")						
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+		        Tabs.Tsb:AddButton({
+        Title = "auto void kill for garou 1 and 2",
+        Description = "haha get void killed",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "uhhhh",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet"https://raw.githubusercontent.com/loadlua/TSB/main/Insta-kill.lua")()
+			    print("activated")						
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+		        Tabs.Tsb:AddButton({
+        Title = "no dash cooldown",
+        Description = "fqshfhdfssfhsdfhs",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "ahaha ur uhhh",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/nnocd.lua")()
+			    print("activated")						
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+		        Tabs.Tsb:AddButton({
+        Title = "domain tool",
+        Description = "fqshfhdfssfhsdfhs",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "ahaha ur uhhh",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/tdo.lua")()
+			    print("activated")						
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+		        Tabs.gojo:AddButton({
+        Title = "gojo anti death counter quotes",
+        Description = "erm ryoki tenkai?",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idsgjsqkglsqgjsqklqzgjlkzq",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/ee.lua"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+			 Tabs.sukuna:AddButton({
+        Title = "anti dc quotes for sukuna",
+        Description = "haha get ez'd",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "finlaly gang",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/dddd.lua")()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+			 Tabs.Tsb:AddButton({
+        Title = "ult detecter",
+        Description = "haha get detected",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "fqsfqfqsqgqgqd",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/ultdetec.lua")()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+
+		        Tabs.other:AddButton({
+        Title = "WAVE PREMIUM KEY GENERATOR",
+        Description = "PUT ROBLOX NAME INTO GUI",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idk are you",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/free.lua",true))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+		        Tabs.other:AddButton({
+        Title = "azure modded idk",
+        Description = "has alot of features may not work on certain execs",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idk are you",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/Actyrn/Scripts/main/AzureModded"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+
+		        Tabs.other:AddButton({
+        Title = "KADEHUB SKIDDED LOL",
+        Description = "FIX UR OBFUSCATOR LOLOLOL",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idk are you",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/adsadsa.lua",true))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+
+		        Tabs.gojo:AddButton({
+        Title = "Hollow purple serious punch quotes",
+        Description = "no need to explain",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idk are you",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/hollowpunchforserious.lua",true))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+		        Tabs.gojo:AddButton({
+        Title = "Hollow purple serious punch fixcam",
+        Description = "disables cutscene basically",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idk are you",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/fixcamm.lua",true))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+
+		        Tabs.gojo:AddButton({
+        Title = "Hollow purple tableflip punch quotes",
+        Description = "no need to explain",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idk are you",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/hollowwhentableflip.lua",true))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+		        Tabs.gojo:AddButton({
+        Title = "Imaginary hollow purple serious punch",
+        Description = "no need to explain",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idk are you",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/englishhesthollow.lua",true))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+		        Tabs.gojo:AddButton({
+        Title = "english hollowpurple idk",
+        Description = "no need to explain",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idk are you",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/eneeglish.lua",true))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+
+		        Tabs.gojo:AddButton({
+        Title = "Japanese red quotes",
+        Description = "triggers on normal punch",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idk are you",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/redwhenpnu.lua",true))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+
+		        Tabs.gojo:AddButton({
+        Title = "Japanese blue quotes",
+        Description = "triggers on consecutive punches",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idk are you",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/bluewhencon.lua",true))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+
+		        Tabs.gojo:AddButton({
+        Title = "english blue quotes",
+        Description = "triggers on consecutive punches",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idk are you",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/bblue.lua",true))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+
+		        Tabs.gojo:AddButton({
+        Title = "english red quotes",
+        Description = "triggers on normal punch",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idk are you",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/redd.lua",true))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+
+		        Tabs.gojo:AddButton({
+        Title = "Gojo awakening (wip)",
+        Description = "triggers on saitama awakening",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "TYSM CATTO FOR HELPING GHOSJGLKJSD",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/ggojoawk.lua"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+		        Tabs.gojo:AddButton({
+        Title = "Gojo awakening quotes",
+        Description = "triggers on saitama awakening",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idk are you",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/iidk.lua"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+
+		        Tabs.gojo:AddButton({
+        Title = "Boow0omp's gojo anims",
+        Description = "haha funny",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idk are you",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/gojobyboowomp.lua"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+		        Tabs.gojo:AddButton({
+        Title = "BLACK FLASH!",
+        Description = "KOKUSEN!!",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "on 4th m1",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/caca.lua"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+		        Tabs.gojo:AddButton({
+        Title = "death counter domain expansion",
+        Description = "erm ryoki tenkai?",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "on 4th m1",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/dcmain.lua"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+		        Tabs.gojo:AddButton({
+        Title = "domain expansion quotes on omni!",
+        Description = "KOKUSEN!!",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "on 4th m1",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/domainexpansion.lua"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+
+		        Tabs.super:AddButton({
+        Title = "Super senior gojo red",
+        Description = "no need to explain",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "idk are you",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/supperred.lua"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+		        Tabs.super:AddButton({
+        Title = "Super senior gojo blue",
+        Description = "there is no need to elaborate good sir/ma'am",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "tell me please are you sure for the love of god are you sure i juist want to know if you're sure PLEASE TELL ME YES OR NO ARE YOU SURE PLEAESEEEJIKQSJGLOKQHDGLHDLSGHIOJSHGLJHGLMJKGLMQDSHJGJKLMQDSHGMQDS",
+                Buttons = {
+                    {
+                        Title = "uhh that guy was weird confirm",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/ssuperblue.lua"))()
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+
+		        Tabs.super:AddButton({
+        Title = "Super senior gojo awak quotes (must have the gojo awakening first)",
+        Description = "triggers on saitama awakening",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "pfffftttt are you sure or nah nga idrc if you arent just tell me",
+                Buttons = {
+                    {
+                        Title = "gyat! yes i am sure",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/supersenior.lua"))()
+                        end
+                    },
+                    {
+                        Title = "kys",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+		        Tabs.super:AddButton({
+        Title = "Super senior serious punch hollow purple",
+        Description = "triggers on saitama awakening",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "gyat gyat gyat gyattttt",
+                Buttons = {
+                    {
+                        Title = "gyat! yes i am sure",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/senior.lua"))()
+                        end
+                    },
+                    {
+                        Title = "kys",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+
+		        Tabs.sukuna:AddButton({
+        Title = "World cutting table flip",
+        Description = "no need to explain",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "pfffftttt are you sure or nah nga idrc if you arent just tell me",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/world.lua"))()
+                        end
+                    },
+                    {
+                        Title = "erm what the sukuna",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+
+	        Tabs.sukuna:AddButton({
+        Title = "sans moveset",
+        Description = "no need to explain",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "pfffftttt are you sure or nah nga idrc if you arent just tell me",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/sans.lua"))()
+                        end
+                    },
+                    {
+                        Title = "erm what the sukuna",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+
+
+	        Tabs.sukuna:AddButton({
+        Title = "a train moveset",
+        Description = "no need to explain",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "pfffftttt are you sure or nah nga idrc if you arent just tell me",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/l0ckerV5/Roblox-Scripts/main/The%20Strongest%20Battlegrounds/Custom%20Character/A-Train"))()
+                        end
+                    },
+                    {
+                        Title = "erm what the sukuna",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+
+
+	        Tabs.gojo:AddButton({
+        Title = "gojo movesset i found",
+        Description = "no need to explain",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "pfffftttt are you sure or nah nga idrc if you arent just tell me",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/skidgojo.lua"))()
+                        end
+                    },
+                    {
+                        Title = "erm what the sukuna",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+
+
+
+		        Tabs.sukuna:AddButton({
+        Title = "KJ's anims and ult (fe)",
+        Description = "self explenatory",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "oh my gyatness",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            game.Players.LocalPlayer:Kick("▒█░▄▀ ▒█░░▒█ ▒█▀▀▀█ ▒█▀▄░ ▒█▄▄▄█ ░▀▀▀▄▄ ▒█░▒█ ░░▒█░░ ▒█▄▄▄█ ")
+                        end
+                    },
+                    {
+                        Title = "erm what the kj",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+
+
+
+
+
+
+		        Tabs.sex:AddButton({
+        Title = "sex funny hahahaha",
+        Description = "for y'aall (working?)",
+        Callback = function()
+            Window:Dialog({
+                Title = "funi sex",
+                Content = "oh my gyatness",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            loadstring(game:HttpGet('https://raw.githubusercontent.com/UnknowingNSFW/Roblox-Exploit/main/RoClothes.lua'))()
+                        end
+                    },
+                    {
+                        Title = "erm what the sex",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+
+		        Tabs.realm:AddButton({
+        Title = "Auto win clash",
+        Description = "toggle is P",
+        Callback = function()
+            Window:Dialog({
+                Title = "funi dio",
+                Content = "oh my wryy",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            loadstring(game:HttpGet'https://raw.githubusercontent.com/tamarixr/tamhub/main/autowin.lua')()
+                        end
+                    },
+                    {
+                        Title = "erm what the clash",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+		        Tabs.realm:AddButton({
+        Title = "Dio TP ahahahah",
+        Description = "button is T",
+        Callback = function()
+            Window:Dialog({
+                Title = "funi dio",
+                Content = "oh my wryy",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            loadstring(game:HttpGet'https://raw.githubusercontent.com/tamarixr/tamhub/main/aanim.lua')()
+                        end
+                    },
+                    {
+                        Title = "erm what the clash",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+		        Tabs.kj:AddButton({
+        Title = "Stoic bomb",
+        Description = "ghdskjgsdhgjk",
+        Callback = function()
+            Window:Dialog({
+                Title = "qsfqsfqsf",
+                Content = "fqsqsffqs",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            loadstring(game:HttpGet'https://raw.githubusercontent.com/tamarixr/tamhub/main/stoic.lua')()
+                        end
+                    },
+                    {
+                        Title = "erm what the clash",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+		        Tabs.kj:AddButton({
+        Title = "Five seasons",
+        Description = "ghdskjgsdhgjk",
+        Callback = function()
+            Window:Dialog({
+                Title = "fqsfqsqfs",
+                Content = "qfsfqsqfs",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            loadstring(game:HttpGet'https://raw.githubusercontent.com/tamarixr/tamhub/main/five.lua')()
+                        end
+                    },
+                    {
+                        Title = "erm what the clash",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+		        Tabs.kj:AddButton({
+        Title = "KJ wall combo",
+        Description = "ghdskjgsdhgjk",
+        Callback = function()
+            Window:Dialog({
+                Title = "fqsfqsqfs",
+                Content = "qfsfqsqfs",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            loadstring(game:HttpGet'https://raw.githubusercontent.com/tamarixr/tamhub/main/slap.lua')()
+                        end
+                    },
+                    {
+                        Title = "erm what the clash",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+		        Tabs.kj:AddButton({
+        Title = "KJ ult2",
+        Description = "ghdskjgsdhgjk",
+        Callback = function()
+            Window:Dialog({
+                Title = "fqsfqsqfs",
+                Content = "qfsfqsqfs",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            loadstring(game:HttpGet'https://raw.githubusercontent.com/tamarixr/tamhub/main/kj.lua')()
+                        end
+                    },
+                    {
+                        Title = "erm what the clash",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+		        Tabs.kj:AddButton({
+        Title = "ravage on dummy",
+        Description = "ghdskjgsdhgjk",
+        Callback = function()
+            Window:Dialog({
+                Title = "fqsfqsqfs",
+                Content = "qfsfqsqfs",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            loadstring(game:HttpGet'https://raw.githubusercontent.com/tamarixr/tamhub/main/ravage.lua')()
+                        end
+                    },
+                    {
+                        Title = "erm what the clash",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+		        Tabs.kj:AddButton({
+        Title = "Dropkick hit",
+        Description = "ghdskjgsdhgjk",
+        Callback = function()
+            Window:Dialog({
+                Title = "fqsfqsqfs",
+                Content = "qfsfqsqfs",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            loadstring(game:HttpGet'https://raw.githubusercontent.com/tamarixr/tamhub/main/https://pastebin.com/raw/7JdC3wL1')()
+                        end
+                    },
+                    {
+                        Title = "erm what the clash",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+		        Tabs.kj:AddButton({
+        Title = "KJ ult",
+        Description = "ghdskjgsdhgjk",
+        Callback = function()
+            Window:Dialog({
+                Title = "fqsfqsqfs",
+                Content = "qfsfqsqfs",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            loadstring(game:HttpGet'https://raw.githubusercontent.com/tamarixr/tamhub/main/kjj')()
+                        end
+                    },
+                    {
+                        Title = "erm what the clash",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+		        Tabs.kj:AddButton({
+        Title = "KJ victim tools",
+        Description = "ghdskjgsdhgjk",
+        Callback = function()
+            Window:Dialog({
+                Title = "fqsfqsqfs",
+                Content = "qfsfqsqfs",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            loadstring(game:HttpGet'https://pastebin.com/raw/75zWy13P')()
+                        end
+                    },
+                    {
+                        Title = "erm what the clash",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+
+
+			        Tabs.juju:AddButton({
+        Title = "auto block gui and more",
+        Description = "toggle is P",
+        Callback = function()
+            Window:Dialog({
+                Title = "funi dio",
+                Content = "oh my wryy",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            loadstring(game:HttpGet'https://raw.githubusercontent.com/tamarixr/tamhub/main/autoblock.lua')()
+                        end
+                    },
+                    {
+                        Title = "erm what the clash",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+
+		        Tabs.realm:AddButton({
+        Title = "Free emotes",
+        Description = "uhuhzjlhdsjklgs",
+        Callback = function()
+            Window:Dialog({
+                Title = "funi dio",
+                Content = "oh my wryy",
+                Buttons = {
+                    {
+                        Title = "hey man im",
+                        Callback = function()
+                            loadstring(game:HttpGet'https://raw.githubusercontent.com/tamarixr/tamhub/main/emoterealm.lua')()
+                        end
+                    },
+                    {
+                        Title = "erm what the clash",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+
+
+		        Tabs.discord:AddButton({
+        Title = "Phantasm's discord invite",
+        Description = "haha funny",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "copies to clipboard btw",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            setclipboard("discord.gg/bntsEjwnA5")
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+
+		        Tabs.discord:AddButton({
+        Title = "My discord server (join fr)",
+        Description = "haha funny",
+        Callback = function()
+            Window:Dialog({
+                Title = "Are you sure?",
+                Content = "copies to clipboard btw",
+                Buttons = {
+                    {
+                        Title = "Confirm",
+                        Callback = function()
+                            setclipboard("https://discord.gg/4cg29EP3Kg")
+                        end
+                    },
+                    {
+                        Title = "Cancel",
+                        Callback = function()
+                            print("Cancelled the dialog.")
+                        end
+                    }
+                }
+            })
+        end
+    })
+
+
+
+
+
+-- Addons:
+-- SaveManager (Allows you to have a configuration system)
+-- InterfaceManager (Allows you to have a interface managment system)
+
+-- Hand the library over to our managers
+SaveManager:SetLibrary(Fluent)
+InterfaceManager:SetLibrary(Fluent)
+
+-- Ignore keys that are used by ThemeManager.
+-- (we dont want configs to save themes, do we?)
+SaveManager:IgnoreThemeSettings()
+
+-- You can add indexes of elements the save manager should ignore
+SaveManager:SetIgnoreIndexes({})
+
+-- use case for doing it this way:
+-- a script hub could have themes in a global folder
+-- and game configs in a separate folder per game
+InterfaceManager:SetFolder("FluentScriptHub")
+SaveManager:SetFolder("FluentScriptHub/specific-game")
+
+InterfaceManager:BuildInterfaceSection(Tabs.Settings)
+SaveManager:BuildConfigSection(Tabs.Settings)
+
+
+Window:SelectTab(1)
+
+Fluent:Notify({
+    Title = "give me my credits",
+    Content = "if ur gonna make a vid on this give the credits.",
+    Duration = 8
+})
+
+-- You can use the SaveManager:LoadAutoloadConfig() to load a config
+-- which has been marked to be one that auto loads!
+SaveManager:LoadAutoloadConfig()
+end
