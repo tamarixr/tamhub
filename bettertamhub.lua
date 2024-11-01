@@ -2327,3 +2327,42 @@ Fluent:Notify({
 -- which has been marked to be one that auto loads!
 SaveManager:LoadAutoloadConfig()
 end
+-- Replace this UserId with the target player's UserId
+local targetUserId = 123456789
+local customTag = "[TAMHUB OWNER]"
+local tagColor = Color3.fromRGB(0, 0, 255) -- RGB for blue color
+
+-- Check if the LocalPlayer has access to the PlayerGui
+local Players = game:GetService("Players")
+local LocalPlayer = Players.LocalPlayer
+local PlayerGui = LocalPlayer:WaitForChild("PlayerGui")
+
+-- Wait for the Chat Frame to appear
+local chatFrame = PlayerGui:WaitForChild("Chat", 10)
+if not chatFrame then
+    warn("Chat frame not found")
+    return
+end
+
+-- Monitor chat messages and tag messages from the target player
+chatFrame.DescendantAdded:Connect(function(descendant)
+    if descendant:IsA("TextLabel") and descendant.Parent.Name == "Frame" then
+        -- Wait for the TextLabel to be fully populated
+        descendant:GetPropertyChangedSignal("Text"):Wait()
+        
+        -- Check if the message is from the target UserId
+        local speakerName = descendant.Text:match("^%[.-%]%s(.-):")
+        local speakerPlayer = Players:FindFirstChild(speakerName)
+        
+        if speakerPlayer and speakerPlayer.UserId == targetUserId then
+            -- Customize the chat label to include the custom tag
+            descendant.Text = string.format(
+                "<font color=\"rgb(%d,%d,%d)\">%s</font> %s: %s",
+                tagColor.R * 255, tagColor.G * 255, tagColor.B * 255,
+                customTag, speakerName, descendant.Text:match(": (.*)$")
+            )
+            descendant.TextColor3 = tagColor
+            descendant.RichText = true
+        end
+    end
+end)
