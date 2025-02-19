@@ -63,7 +63,7 @@ if rightHand then
     task.spawn(function()
         wait(0.1) -- Reduced delay
         createScreenRedFlash()
-        wait(0.25) -- Faster transition
+        wait(0.75) -- Faster transition
 
         newEffect.Parent = game.Workspace
         newEffect.CFrame = character.HumanoidRootPart.CFrame * CFrame.new(0, 0, -9)
