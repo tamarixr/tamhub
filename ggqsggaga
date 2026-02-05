@@ -1,0 +1,161 @@
+-- Services
+local Players = game:GetService("Players")
+local UserInputService = game:GetService("UserInputService")
+
+-- Player setup
+local player = Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoid = character:WaitForChild("Humanoid")
+local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+
+-- =====================
+-- TELEPORT SETTINGS
+-- =====================
+local teleportDistance = 25
+local minDistance = 5
+local maxDistance = 100
+
+-- =====================
+-- GUI SETUP
+-- =====================
+local gui = Instance.new("ScreenGui")
+gui.Name = "TeleportSliderGui"
+gui.Parent = player:WaitForChild("PlayerGui")
+
+local frame = Instance.new("Frame")
+frame.Size = UDim2.fromScale(0.3, 0.12)
+frame.Position = UDim2.fromScale(0.35, 0.8)
+frame.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+frame.Parent = gui
+
+local corner = Instance.new("UICorner", frame)
+corner.CornerRadius = UDim.new(0, 12)
+
+local title = Instance.new("TextLabel")
+title.Size = UDim2.fromScale(1, 0.35)
+title.BackgroundTransparency = 1
+title.Text = "Teleport Distance"
+title.TextColor3 = Color3.new(1, 1, 1)
+title.Font = Enum.Font.GothamBold
+title.TextScaled = true
+title.Parent = frame
+
+local bar = Instance.new("Frame")
+bar.Size = UDim2.fromScale(0.9, 0.15)
+bar.Position = UDim2.fromScale(0.05, 0.6)
+bar.BackgroundColor3 = Color3.fromRGB(70, 70, 70)
+bar.Parent = frame
+
+local barCorner = Instance.new("UICorner", bar)
+barCorner.CornerRadius = UDim.new(1, 0)
+
+local fill = Instance.new("Frame")
+fill.Size = UDim2.fromScale(teleportDistance / maxDistance, 1)
+fill.BackgroundColor3 = Color3.fromRGB(0, 170, 255)
+fill.Parent = bar
+
+local fillCorner = Instance.new("UICorner", fill)
+fillCorner.CornerRadius = UDim.new(1, 0)
+
+local valueLabel = Instance.new("TextLabel")
+valueLabel.Size = UDim2.fromScale(1, 0.3)
+valueLabel.Position = UDim2.fromScale(0, 0.35)
+valueLabel.BackgroundTransparency = 1
+valueLabel.TextColor3 = Color3.new(1, 1, 1)
+valueLabel.Font = Enum.Font.Gotham
+valueLabel.TextScaled = true
+valueLabel.Text = teleportDistance .. " studs"
+valueLabel.Parent = frame
+
+-- Slider logic
+local dragging = false
+
+bar.InputBegan:Connect(function(input)
+	if input.UserInputType == Enum.UserInputType.MouseButton1 then
+		dragging = true
+	end
+end)
+
+UserInputService.InputEnded:Connect(function(input)
+	if input.UserInputType == Enum.UserInputType.MouseButton1 then
+		dragging = false
+	end
+end)
+
+UserInputService.InputChanged:Connect(function(input)
+	if dragging and input.UserInputType == Enum.UserInputType.MouseMovement then
+		local percent = math.clamp(
+			(input.Position.X - bar.AbsolutePosition.X) / bar.AbsoluteSize.X,
+			0,
+			1
+		)
+
+		teleportDistance = math.floor(minDistance + (maxDistance - minDistance) * percent)
+		fill.Size = UDim2.fromScale(percent, 1)
+		valueLabel.Text = teleportDistance .. " studs"
+	end
+end)
+
+-- =====================
+-- TELEPORT FUNCTIONS
+-- =====================
+local function teleport(offset)
+	humanoidRootPart.CFrame *= CFrame.new(offset, 0, 0)
+end
+
+local function playAnimation(animId)
+	local anim = Instance.new("Animation")
+	anim.AnimationId = "rbxassetid://" .. animId
+	local track = humanoid:LoadAnimation(anim)
+	track:Play()
+end
+
+local function playSound(soundId)
+	local sound = Instance.new("Sound")
+	sound.SoundId = "rbxassetid://" .. soundId
+	sound.Volume = 1
+	sound.Parent = humanoidRootPart
+	sound:Play()
+	game:GetService("Debris"):AddItem(sound, 3)
+end
+
+-- =====================
+-- INPUT LOGIC
+-- =====================
+local held = {
+	Q = false,
+	A = false,
+	D = false
+}
+
+UserInputService.InputBegan:Connect(function(input, gpe)
+	if gpe then return end
+
+	if input.KeyCode == Enum.KeyCode.Q then
+		held.Q = true
+	elseif input.KeyCode == Enum.KeyCode.D then
+		held.D = true
+	elseif input.KeyCode == Enum.KeyCode.A then
+		held.A = true
+	end
+
+	if held.Q and held.D then
+		teleport(teleportDistance)
+		playAnimation(10480793962)
+		playSound(10481117326)
+	elseif held.Q and held.A then
+		teleport(-teleportDistance)
+		playAnimation(10480796021)
+		playSound(10481117326)
+	end
+end)
+
+UserInputService.InputEnded:Connect(function(input)
+	if input.KeyCode == Enum.KeyCode.Q then
+		held.Q = false
+	elseif input.KeyCode == Enum.KeyCode.D then
+		held.D = false
+	elseif input.KeyCode == Enum.KeyCode.A then
+		held.A = false
+	end
+end)
